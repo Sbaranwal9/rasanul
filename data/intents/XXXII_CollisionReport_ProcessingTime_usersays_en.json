@@ -1,0 +1,617 @@
+[
+  {
+    "id": "f4c8373a-1752-41c4-9ac2-2a7f07278add",
+    "data": [
+      {
+        "text": "Is the report completed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6400e7c-4401-46b2-8f38-9e2da511f8ab",
+    "data": [
+      {
+        "text": "Has the report been completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3257e971-875d-4749-a82d-6259b680e4e8",
+    "data": [
+      {
+        "text": "i orders a police report when will i get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91eb33d9-e85e-4807-9bbd-74e82cb52667",
+    "data": [
+      {
+        "text": "i did apply about ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " for police report and i still didnt get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "625fc7e6-5d7e-4081-8249-b6c77871353e",
+    "data": [
+      {
+        "text": "how long to get my police report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c8981d2-a2da-4690-8b33-ddd29171b9e9",
+    "data": [
+      {
+        "text": "We paid $9 for a copy of the police report.  When will it be available for us?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c98c5b3-cb87-4bd5-b0b5-b49b179684d6",
+    "data": [
+      {
+        "text": "When will this report be available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17154eac-e2aa-4429-975b-fad8e031a0fa",
+    "data": [
+      {
+        "text": "How much longer till my report is ready",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48e4c8c1-0a98-4517-8248-d01bb1efe3e2",
+    "data": [
+      {
+        "text": "I paid invoice. How long until the report is received.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0196b409-e7ee-4982-91f9-4933a2fb5657",
+    "data": [
+      {
+        "text": "I have requested a copy of a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": " and have not received my invoice.  Request still says pending.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e7ec895-98ff-48bf-83a2-bbbbfc6a9c8d",
+    "data": [
+      {
+        "text": "It\u0027s been ",
+        "userDefined": false
+      },
+      {
+        "text": "27 days",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " since accident.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "133b6ee6-0a4f-4f70-b7f3-b4d33035c892",
+    "data": [
+      {
+        "text": "I sent a letter requesting a copy and I didn\u0027t know how long it would take to receive the report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b54ce288-4d2f-4ecf-bdd3-98643176c56a",
+    "data": [
+      {
+        "text": "is there any way I can expedite getting an accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7b229a1-d027-4a01-9818-6f78ab73fdf4",
+    "data": [
+      {
+        "text": "I paid invoice.  How long until the report is received.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e529cb5-62e0-40f0-b3bb-16ada0250c7a",
+    "data": [
+      {
+        "text": "I paid for my report. Where can I find it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc193f52-cf85-41ab-8af5-b54b20956b17",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does a crash report take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3f7e558-b929-42d5-bdad-6e75f01a54ab",
+    "data": [
+      {
+        "text": "When do I get the report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "276b7b1c-e22a-4c7b-b158-859a3f2659fb",
+    "data": [
+      {
+        "text": "status of ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "nd paid for accident report needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4a0c162-eaa3-4083-8435-8425ae50a56e",
+    "data": [
+      {
+        "text": "It has been over ",
+        "userDefined": false
+      },
+      {
+        "text": "5 months",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " since the incident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e66e63a-f063-4ba3-80df-d362213160f7",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to receive an accident report after a request is made?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2914c817-149b-4af2-9c81-1df08bc5f725",
+    "data": [
+      {
+        "text": "I requested and paid for a report but I have not received it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32539c2-fc8d-4ca1-b417-387a8c1700a9",
+    "data": [
+      {
+        "text": "I place an order for ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": " I paid it ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take before I receive it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffc9c60c-504c-4f6d-8513-a7c8afdea8bd",
+    "data": [
+      {
+        "text": "why it is taking long time to process ",
+        "userDefined": false
+      },
+      {
+        "text": "incident report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bcfa7f8-50a7-46c0-8ce6-13dfbfb5458a",
+    "data": [
+      {
+        "text": "processing time",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " to get ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb27ee3d-5b2d-40e7-bae0-f07d75ae69ac",
+    "data": [
+      {
+        "text": "When I will get my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9d6acf1-6399-4ee9-95f6-1ae700e3e50a",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " do I have to wait for my report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f40413f8-b376-4121-bc9f-73f29cc63b99",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " should I wait to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b056243-8ff2-439a-8f00-5546804d2998",
+    "data": [
+      {
+        "text": "What is the wait time for ",
+        "userDefined": false
+      },
+      {
+        "text": "incident report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c70cd9f-12b6-47f8-a45a-792349e2d8db",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " I have to wait for my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0e37093-35cd-4811-b7f5-de0a753fe100",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": " process time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d32089d1-c09f-4893-a5e6-54deb0b21348",
+    "data": [
+      {
+        "text": "Time for a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6f1e3e-9e10-4a91-8819-1b9e917dc728",
+    "data": [
+      {
+        "text": "When will my collision (accident, crash) report be completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "916d88c1-6b16-4940-a19f-a0ac1b630245",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take for a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@CollisionReport",
+        "alias": "collisionreport",
+        "userDefined": false
+      },
+      {
+        "text": " to be completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

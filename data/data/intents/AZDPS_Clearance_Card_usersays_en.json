@@ -1,0 +1,49 @@
+[
+  {
+    "id": "7c145a14-effc-4ad9-bda7-b381c088f939",
+    "data": [
+      {
+        "text": "Clearance Card button_text",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91678b8d-5c05-49f8-a543-f6f98e25bb07",
+    "data": [
+      {
+        "text": "Fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Licensing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc41952e-7a95-42ad-9589-4b1b24e60530",
+    "data": [
+      {
+        "text": "Clearance Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

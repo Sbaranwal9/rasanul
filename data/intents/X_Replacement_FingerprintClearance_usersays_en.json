@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e99e1382-7a3c-4f5c-8a7c-a22374eb88b1",
+    "data": [
+      {
+        "text": "_Replacement_FingerprintClearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ce5b235-ce0c-4114-aa56-b18e2eea1bff",
+    "data": [
+      {
+        "text": "X_Replacement_FingerprintClearance.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea8ef884-404e-442c-9bac-89f9d579be7a",
+    "data": [
+      {
+        "text": "X_Replacement_FingerprintClearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9aa282f-4190-4802-a946-642213e868d0",
+    "data": [
+      {
+        "text": "Replacement_FingerprintClearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "40e33092-ea7c-42d3-816c-d9ede59940a0",
+  "name": "Application",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

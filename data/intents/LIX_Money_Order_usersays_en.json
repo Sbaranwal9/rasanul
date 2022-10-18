@@ -1,0 +1,452 @@
+[
+  {
+    "id": "aeb355a9-2c72-4936-8e34-510e5aaa67e2",
+    "data": [
+      {
+        "text": "I keep trying to finish my application but it tells me it\u0027s locked. This has been going on for days.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2c08b58-b5a0-48c8-a751-6c2efeb1bd4f",
+    "data": [
+      {
+        "text": "loging locked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e06e9ef-dcff-437f-9cfa-8f4e9451d3d3",
+    "data": [
+      {
+        "text": "I am trying to renew my fingerprint card, and the system does not recognize my email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25741c92-9b67-4b19-9648-010af84d2771",
+    "data": [
+      {
+        "text": "I wish to send my ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f661c30-199d-459d-ae27-7dc18dc39c89",
+    "data": [
+      {
+        "text": "Where are ",
+        "userDefined": false
+      },
+      {
+        "text": "money orders",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      },
+      {
+        "text": " sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "988b7098-d34f-4100-af76-9cde7971dd92",
+    "data": [
+      {
+        "text": "where am i suppose to send ",
+        "userDefined": false
+      },
+      {
+        "text": "money orders",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39446738-59ea-45ed-b5ec-a0a91ddaac7c",
+    "data": [
+      {
+        "text": "I want the location for ",
+        "userDefined": false
+      },
+      {
+        "text": "money orders",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfbe3aa9-3e99-4515-b86b-138d53f76c30",
+    "data": [
+      {
+        "text": "whats the address for ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a23a7a6-6451-41c0-b223-2f2b179e5be6",
+    "data": [
+      {
+        "text": "Send a ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff970254-f4ba-4c76-915e-c60237359b7b",
+    "data": [
+      {
+        "text": "Where do I send ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4357cd84-ccfb-49dc-8e9c-6576f4057c84",
+    "data": [
+      {
+        "text": "Money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      },
+      {
+        "text": " sending address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e19c312-3fec-4d3b-b8a9-8a09fcdff03a",
+    "data": [
+      {
+        "text": "Pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef3d5e6-c3ba-41b5-b721-49c9ce5cf63d",
+    "data": [
+      {
+        "text": "is it possible to pay in ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "152065d0-1c03-49dc-9a90-091e4aeb630e",
+    "data": [
+      {
+        "text": "Procedure for ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae7d1ad-4a8b-4940-8ac6-259581266d18",
+    "data": [
+      {
+        "text": "how to pay i ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "694f231f-fbd6-49e9-be62-51947ed57c18",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ed76d62-6eb6-4cf6-b0e1-fdade9a8bfe0",
+    "data": [
+      {
+        "text": "Which address I can use to pay ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3caaa49-5042-4819-8d93-e575647d4ce2",
+    "data": [
+      {
+        "text": "What is the address to pay ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3eb5ca8-b67d-4c30-bde9-3ac5be7c7df1",
+    "data": [
+      {
+        "text": "I would like to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35d4ccd4-0f07-40ed-bb9f-15c639bff8c5",
+    "data": [
+      {
+        "text": "Please guide me to fill out ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "045407a8-b802-43b8-a9fc-ea399fba7cc5",
+    "data": [
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad712032-2685-4670-ada5-65032e634aa8",
+    "data": [
+      {
+        "text": "How to pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18988ae4-8d25-4b67-a885-85e20a96d65a",
+    "data": [
+      {
+        "text": "Whom to write to for ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8772b04-fc17-4ebc-9e8b-894fe04eae64",
+    "data": [
+      {
+        "text": "Who do I write my ",
+        "userDefined": false
+      },
+      {
+        "text": "money order",
+        "meta": "@money_order",
+        "alias": "money_order",
+        "userDefined": true
+      },
+      {
+        "text": " out to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

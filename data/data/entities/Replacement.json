@@ -1,0 +1,9 @@
+{
+  "id": "5ecc3357-73b6-4c8f-be0e-81c107ef7f9c",
+  "name": "Replacement",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

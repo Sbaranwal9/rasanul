@@ -1,0 +1,117 @@
+{
+  "id": "1fc6adfe-509c-4065-a02b-e0099bc3191f",
+  "name": "LXIX_Unemployed_Fcc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3a467bc-67a5-4573-b16c-bf0d24e512a9",
+          "name": "receive",
+          "required": false,
+          "dataType": "@Receive",
+          "value": "$receive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "84a4a411-12ff-4b38-b758-2ca2d8b2a258",
+          "name": "fingerprint_clearance_card",
+          "required": false,
+          "dataType": "@Fingerprint_Clearance_card",
+          "value": "$fingerprint_clearance_card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce6b71a6-8a68-4c4c-b674-71487bcb0992",
+          "name": "apply",
+          "required": false,
+          "dataType": "@Apply",
+          "value": "$apply",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "804a9eb2-a169-4b77-859f-59d63942f3fd",
+          "name": "fingerprinted",
+          "required": false,
+          "dataType": "@Fingerprinted",
+          "value": "$fingerprinted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "36592242-324f-42de-b6c7-850d491545a1",
+          "name": "card",
+          "required": false,
+          "dataType": "@Card",
+          "value": "$card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "298fc9af-de07-4fe5-8937-433971b2181e",
+          "name": "application",
+          "required": false,
+          "dataType": "@Application",
+          "value": "$application",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

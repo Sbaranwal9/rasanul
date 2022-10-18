@@ -1,0 +1,9 @@
+{
+  "id": "b56b9e93-b71a-41b8-9389-9d03b437a123",
+  "name": "Private_Investigator",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

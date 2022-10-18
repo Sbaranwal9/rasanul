@@ -1,0 +1,898 @@
+[
+  {
+    "id": "8f7dc2fa-9a25-4607-a805-3178d95a55f5",
+    "data": [
+      {
+        "text": "Where can I send fingerprint cards to? I have already submitted payment and Fingerprint Clearance Card Application Number P296930615?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72abb41f-c9d3-495f-bd25-63b8c3582f4c",
+    "data": [
+      {
+        "text": "What address should I send records request to? It is not going through electronically",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef23fdf5-f47d-484b-a19e-f3109d2c8182",
+    "data": [
+      {
+        "text": "do I just mail my finger prints back to YOU GUYS ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7b9490e-79fa-4900-8d9e-d1de82c73813",
+    "data": [
+      {
+        "text": "I applied for a fingerprint clearance card and I got fingerprinted. Who do I send the fingerprint card to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27fec324-ddb8-479a-a991-2292dc5e1654",
+    "data": [
+      {
+        "text": "do I need to mail the paper with all my fingerprints on it to the DPS address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c06c0df4-e31a-4f6f-820b-c2c87de467a7",
+    "data": [
+      {
+        "text": "in the message with further instructions it said I can send the paper fingerprints back to the DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1da3bddf-2c95-43bf-9d42-76880a775086",
+    "data": [
+      {
+        "text": "where do I send my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "458a07b6-fa45-4c9c-9d37-60b0801d8bba",
+    "data": [
+      {
+        "text": "Can I ask for an email add to send my concern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0195b0aa-3328-4cb5-933e-36a9c245d507",
+    "data": [
+      {
+        "text": "do  I have to mail my application and finger prints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af8ac10e-73ea-4a9b-af89-0e4725e3d237",
+    "data": [
+      {
+        "text": "So I was fingerprinted, where do I send to get the fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95825bc5-9c48-48b6-a373-30295a58002e",
+    "data": [
+      {
+        "text": "where do I send my finger prints when I have them done.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a26521d6-8b90-4905-8511-cb1f456577a3",
+    "data": [
+      {
+        "text": "I NEED TO MAIL MY FINGER PRINTS WHAT DO I HAVE TO DO?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e9cf2ad-a533-4eaa-8c38-6bb6783cac2b",
+    "data": [
+      {
+        "text": "Where do we send our fingerprints for the guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "957e847b-0b70-4fbf-8a42-c4281530f730",
+    "data": [
+      {
+        "text": "mailing instructions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85622788-d39b-460b-a178-38495afde1e5",
+    "data": [
+      {
+        "text": "mailing in fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e6dc70e-5163-45d2-80a5-05620bf0217b",
+    "data": [
+      {
+        "text": "I already have fingerprints taken down. can I send them in to get my clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c372a3-2204-4510-8314-de6024f402c5",
+    "data": [
+      {
+        "text": "Where do I send my fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "718c9530-b247-471b-9d39-e34a6e117ae3",
+    "data": [
+      {
+        "text": "what is the address to send in my completed fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eddbd3f0-d477-4f2b-bae3-5d17d518f5f2",
+    "data": [
+      {
+        "text": "Where to send completed applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da45d925-e79c-42b6-bd6e-e4325e8cf50f",
+    "data": [
+      {
+        "text": "Finger prints mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b953c5-0a72-4d3b-bd86-22a0f34a4728",
+    "data": [
+      {
+        "text": "Where should I send my fingerprints into?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8212021c-328d-4055-b1e2-f9b015c1978e",
+    "data": [
+      {
+        "text": "once i ger fingerprinted. how do i get that copy to you for the card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "908c953e-c696-4747-9f20-5901953fc337",
+    "data": [
+      {
+        "text": "where can I mail my paymnet for records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a7e29e2-fdeb-4e00-a7df-db48c82e4cb4",
+    "data": [
+      {
+        "text": "What is the address for applicant clearance card team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df5b9104-b1ac-42d1-a597-4093673acc19",
+    "data": [
+      {
+        "text": "Mailing address please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14e11d4d-f92a-43e5-833e-c099016c256a",
+    "data": [
+      {
+        "text": "Where do I send my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deab3e8e-1b96-49f3-bbba-85058c805e7c",
+    "data": [
+      {
+        "text": "Where do I mailing my stuff too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3368de6-f1db-43dc-a916-58235b5d143a",
+    "data": [
+      {
+        "text": "i have a card already where do i send it to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c7ada6-6b99-46f8-8119-739ac0501adb",
+    "data": [
+      {
+        "text": "there was no mailing addressed entered, only a billing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cc30389-2e26-4b81-acfa-72330001058d",
+    "data": [
+      {
+        "text": "How do I mail my fingerprints to get a fingerprint online card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41928d9c-d2dd-4d97-b351-f45b96f4bc86",
+    "data": [
+      {
+        "text": "What is the postal address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cf5fa42-dfb3-4e93-8ca0-38a087497255",
+    "data": [
+      {
+        "text": "Finger print shipping address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e0b69df-ed9d-4622-9cba-c8387dad922e",
+    "data": [
+      {
+        "text": "Mailing address not available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3f60732-d374-42d8-9487-9cd01bc2b395",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "mail",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "online",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d1b8286-28bb-4371-8296-0ecead94a137",
+    "data": [
+      {
+        "text": "I have a fingerprint applicant card. How do I send it to DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12140bda-5f3c-40cd-b3a7-3bbafdd1224e",
+    "data": [
+      {
+        "text": "Where do I mail my paper copy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af790376-9359-44c8-8e3c-79e47750ba36",
+    "data": [
+      {
+        "text": "Where do I mail my finger print",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fc91641-2acc-4ff9-a898-87ea259a1050",
+    "data": [
+      {
+        "text": "what is your email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a55fcb42-b2f6-4d48-9888-8e0478463ce2",
+    "data": [
+      {
+        "text": "Where to mail finger print clearance card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab833a5e-4a15-4ba3-84cd-c029196e4376",
+    "data": [
+      {
+        "text": "Is there another way to upload my documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8150485e-3ff2-4b71-8841-498a0ef03da2",
+    "data": [
+      {
+        "text": "where to send my fingerprint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03033924-59ba-41be-8343-b4d4a2c9e721",
+    "data": [
+      {
+        "text": "Where do I mail the actual card to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5538638-f310-4b74-bead-f7d9bcfa87d2",
+    "data": [
+      {
+        "text": "Where can I mail application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6f6bbc7-9626-4186-92a1-0a999d005a52",
+    "data": [
+      {
+        "text": "What address do I send my fingerprint clearance card to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be522bc0-aeb9-44e7-8f48-12b28f0207ff",
+    "data": [
+      {
+        "text": "Working email for fingerprint card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ae15aa0-c754-4182-9584-89271e78287b",
+    "data": [
+      {
+        "text": "Email contact for fingerprint card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3772fa91-e29b-4e9c-b33e-d0fb1b3a7d73",
+    "data": [
+      {
+        "text": "Fingerprint clearance card department please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d20d3811-9643-48fe-9703-26ccf3ec0718",
+    "data": [
+      {
+        "text": "Where to contact for Department for Fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "141f60ea-537e-42fa-bf41-fe9eab3c1049",
+    "data": [
+      {
+        "text": "Contact details for Fingerprint clearance card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "967391bc-962a-4175-938d-37f023813547",
+    "data": [
+      {
+        "text": "PO",
+        "userDefined": false
+      },
+      {
+        "text": " box to send mail to Fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b385bfd7-0fb1-4f78-8277-60b3bf1c2e04",
+    "data": [
+      {
+        "text": "Where to send mail for Fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc3330c3-3105-4c3d-a0b6-8234fa9a8523",
+    "data": [
+      {
+        "text": "need to send mail for fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "648c5439-7b34-4fcf-ab1f-8cad4636f0a8",
+    "data": [
+      {
+        "text": "can i get the mail id  for Fingerprint Clearance Card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5d7f915-f517-4c64-ad5b-526b1377c39e",
+    "data": [
+      {
+        "text": "please give me the mail id for Fingerprint Clearance Card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0997e6be-7731-4572-9e7f-771f9925a1ba",
+    "data": [
+      {
+        "text": "what is the procedure for Fingerprint Clearance Card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14f2b8c3-9bf5-4bea-b466-69cf5a54399f",
+    "data": [
+      {
+        "text": "Please help me with mail id for Fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b3d9ed0-3adc-4e9a-9911-97849008b207",
+    "data": [
+      {
+        "text": "can you please give me the mail id for Fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88e03bb2-170a-49a8-9bdf-8fd1d46dfbb4",
+    "data": [
+      {
+        "text": "email id for Fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b052870-8479-4da3-b829-6fd3bfe772eb",
+    "data": [
+      {
+        "text": "Which mail ID I can use for Fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f7a1873-f3e6-4158-99a2-c0cbda926e49",
+    "data": [
+      {
+        "text": "is there any mail id for fingerprint department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50acc274-6236-4097-9725-1e926f2e981b",
+    "data": [
+      {
+        "text": "what is the mail id for fingerprint clearance department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "183f35f0-fc28-49c0-b9e0-437668ef8ef7",
+    "data": [
+      {
+        "text": "Mail id for fingerprint clearance card department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc5f2d4b-a3db-49a5-8d14-ef2183438e1e",
+    "data": [
+      {
+        "text": "Fingerprint clearance card department Mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea67043-f3d8-47a7-9fdd-c72823711036",
+    "data": [
+      {
+        "text": "Where do I send ",
+        "userDefined": false
+      },
+      {
+        "text": "mail",
+        "userDefined": false
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Fingerprint Clearance Card",
+        "userDefined": false
+      },
+      {
+        "text": " department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

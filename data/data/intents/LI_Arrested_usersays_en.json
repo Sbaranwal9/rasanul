@@ -1,0 +1,744 @@
+[
+  {
+    "id": "d6ed6148-bc7c-4749-a219-f53d77f9ae8e",
+    "data": [
+      {
+        "text": "What can I do if i got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e8fc23d-faef-4a87-9179-0f58b5a908f4",
+    "data": [
+      {
+        "text": "What will happen if my son got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310a676f-33ba-4e5c-b658-7bf4012d928f",
+    "data": [
+      {
+        "text": "How to request ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report if I got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe6cd9d-d5c0-4490-a764-499d5f5be9c7",
+    "data": [
+      {
+        "text": "Help me in getting ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report if anyone got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c8dc663-8bde-4bfd-b6b0-c004ad4c31f4",
+    "data": [
+      {
+        "text": "Please send the notification of DPS of an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91d84b8e-4ab1-4f4e-8e9a-887ab4346bd4",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9146b6e0-1ba4-4a3e-9c97-afefebb1871a",
+    "data": [
+      {
+        "text": "How do I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bcf06d1-1f03-4b2e-a362-1ed6200c0fa9",
+    "data": [
+      {
+        "text": "I got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57598c60-555e-48e0-a5c8-4d06dd927065",
+    "data": [
+      {
+        "text": "request an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c2adba6-03de-44d3-af08-b6937cf77c8c",
+    "data": [
+      {
+        "text": "Where can i request the ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec576dca-540d-43b2-a9f5-dd45e53cf26f",
+    "data": [
+      {
+        "text": "Is it possible to get the ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f3e8311-1a0d-40d4-ad49-39d792454493",
+    "data": [
+      {
+        "text": "need my ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "175da14f-90a2-49c3-bc99-3507ded517d1",
+    "data": [
+      {
+        "text": "how to request my ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " reporthow will get my ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92a4a2e2-36fe-4a27-ae74-986eaa96e69b",
+    "data": [
+      {
+        "text": "how to request my ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afaf99d0-e12b-4f58-b966-e0f94ae81a23",
+    "data": [
+      {
+        "text": "how to request my son\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcd23a0b-6fe8-4cc9-bb10-2575c98e45df",
+    "data": [
+      {
+        "text": "My son got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4215842a-6b4d-4cfb-9b53-8eb17e3c975b",
+    "data": [
+      {
+        "text": "Need to get ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54513dc4-f9df-4bc6-abf2-430d6bf06a26",
+    "data": [
+      {
+        "text": "How to get ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee14a54-6371-4552-bcea-ed6a8b25a931",
+    "data": [
+      {
+        "text": "Where to get ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86ad0363-4a9b-4674-9543-83efda164479",
+    "data": [
+      {
+        "text": "I got in lockup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e40ce0da-c90a-4dfd-84a6-5524e0023053",
+    "data": [
+      {
+        "text": "where can i find my lockup report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00f9de99-f3e8-4ece-9c23-3f92b9fb66cb",
+    "data": [
+      {
+        "text": "My son got locked up and i want report of it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1689a91e-c4c6-410a-9ce7-6b08c2cd2839",
+    "data": [
+      {
+        "text": "Me and my son got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb824de7-0a82-4c60-a606-967a31db110d",
+    "data": [
+      {
+        "text": "Both I and my son got arrested, where I can get a report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f7980a-743b-4528-9bbc-20abf4d64813",
+    "data": [
+      {
+        "text": "Need an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report of me and my son",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2598496-abb1-4028-b058-2034e8065d87",
+    "data": [
+      {
+        "text": "Requesting an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report of me and my son",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb253e2e-9a26-49e4-a939-296fafd070b3",
+    "data": [
+      {
+        "text": "Request ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92f79a81-a4db-40c6-b5bd-9622681b0517",
+    "data": [
+      {
+        "text": "How to request ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76526c4b-a08e-49b0-ab53-e71883d5091a",
+    "data": [
+      {
+        "text": "Get an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " reported",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "757e6d93-5952-4588-aee0-d0245502a013",
+    "data": [
+      {
+        "text": "Notify DPS of an ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3907179c-2113-470f-86dc-50dbe1e0dcfd",
+    "data": [
+      {
+        "text": "Hey where to to get ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " reports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac39b336-aeaf-475e-ad09-d7f5ed3d1193",
+    "data": [
+      {
+        "text": "Need to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebdbc984-5a6f-4a0a-8bb1-ae57f11d4e26",
+    "data": [
+      {
+        "text": "Need to find my son ",
+        "userDefined": false
+      },
+      {
+        "text": "arrest",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d466ada-0a54-450a-9aa9-c5a70bac572e",
+    "data": [
+      {
+        "text": "I got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": ".My son got ",
+        "userDefined": false
+      },
+      {
+        "text": "arrested",
+        "meta": "@Offenses",
+        "alias": "offenses1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

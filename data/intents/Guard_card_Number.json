@@ -1,0 +1,61 @@
+{
+  "id": "289e5f79-7f3d-4ae2-bff9-32c0bb51afd4",
+  "name": "Guard_card_Number",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "814b741d-5935-470d-be4b-251f96535447",
+          "name": "guard_card",
+          "required": false,
+          "dataType": "@guard_card",
+          "value": "$guard_card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d2c1d865-96b2-441d-9b9d-8460a055f5f8",
+          "name": "number_shorthand",
+          "required": false,
+          "dataType": "@number_shorthand",
+          "value": "$number_shorthand",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

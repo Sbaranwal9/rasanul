@@ -1,0 +1,338 @@
+[
+  {
+    "id": "c6b8a525-f996-40fc-9e1a-e1a7ccff37ea",
+    "data": [
+      {
+        "text": "how do I get a copy of my citation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66ab120b-ed77-4b74-a77e-f86e42c146fd",
+    "data": [
+      {
+        "text": "How can I get a copy of the appeal board decision? I passed and need a copy for a foster parent hearing Monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d1bdda5-65d9-4887-aa11-c58eeb3efe92",
+    "data": [
+      {
+        "text": "I am trying to find citation information to establish a payment plan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad544236-2bd0-4d5b-8636-87f007f91d20",
+    "data": [
+      {
+        "text": "request a ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": " copy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61022363-fcb8-4f44-9ab0-359627d10b23",
+    "data": [
+      {
+        "text": "How much amount I need to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": ", can I pay it with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43f48daf-256f-4c5e-ba69-623a6f5903cd",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "court date",
+        "meta": "@Past_CourtDate",
+        "alias": "past_courtdate",
+        "userDefined": false
+      },
+      {
+        "text": " is past can I get a new date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26db8fd8-2e65-45e9-b652-ec87f41ae293",
+    "data": [
+      {
+        "text": "I lost of my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": ",can I get its copy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ea7498-f0d2-436e-9041-f322d38aaf50",
+    "data": [
+      {
+        "text": "Can I get a copy of my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1f73e87-d7e5-463e-b73d-1912a604e984",
+    "data": [
+      {
+        "text": "I lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": " can you provide its copy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "023fb8d3-4fc2-401f-ad22-e50735bda8ad",
+    "data": [
+      {
+        "text": "how much is my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00e9b6f7-b72e-4c11-a4bd-b550464af523",
+    "data": [
+      {
+        "text": "can I pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": " with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c75f11b-4256-4526-827f-14e4130f4b05",
+    "data": [
+      {
+        "text": "Can I change my ",
+        "userDefined": false
+      },
+      {
+        "text": "court date",
+        "meta": "@Past_CourtDate",
+        "alias": "past_courtdate",
+        "userDefined": false
+      },
+      {
+        "text": " with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac3470b-a3e2-4a1c-93f8-921c45a18d51",
+    "data": [
+      {
+        "text": "I think my ",
+        "userDefined": false
+      },
+      {
+        "text": "court date",
+        "meta": "@Past_CourtDate",
+        "alias": "past_courtdate",
+        "userDefined": false
+      },
+      {
+        "text": " is coming up or past",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e771707-3081-4364-afea-95380ceaf490",
+    "data": [
+      {
+        "text": "I can\u0027t find my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f563311-70a4-46f5-b002-bb50be3ce5cc",
+    "data": [
+      {
+        "text": "I lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba539e7e-7e23-4c78-8300-bb0ae05eb396",
+    "data": [
+      {
+        "text": "I lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "citation",
+        "meta": "@LostCitation",
+        "alias": "lostcitation",
+        "userDefined": false
+      },
+      {
+        "text": " and I know my ",
+        "userDefined": false
+      },
+      {
+        "text": "court date",
+        "meta": "@Past_CourtDate",
+        "alias": "past_courtdate",
+        "userDefined": false
+      },
+      {
+        "text": " is coming up or past. Can I take care of that with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1f8da827-c59b-49a8-9991-96467f8e5168",
+    "data": [
+      {
+        "text": "Did not answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37d392b6-ee90-472e-aa08-3e033c28b54e",
+    "data": [
+      {
+        "text": "You are not helpful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1595578e-4857-4237-9343-3fb2a9ff6bfc",
+    "data": [
+      {
+        "text": "You keep sending me the same thing and that is not helping me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01e7b4a2-e313-4787-8ae9-2848a5a3f121",
+    "data": [
+      {
+        "text": "Y all\u0027s customer service sucks ",
+        "userDefined": false
+      },
+      {
+        "text": "larry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed687f0d-127b-4d48-bcae-75b9611bda82",
+    "data": [
+      {
+        "text": "you are stupid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9747f2-784d-4066-a509-ae8b90c7e8f0",
+    "data": [
+      {
+        "text": "You did not help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1717caeb-1951-472e-9e7d-0dc296570fbf",
+    "data": [
+      {
+        "text": "RIDICULOUS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b06f2b7-0e31-45da-b739-03b2268018b6",
+    "data": [
+      {
+        "text": "you are useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5d81f43-9a96-4fe9-be03-801b3db24a03",
+    "data": [
+      {
+        "text": "you are not helping me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dc33f73-6e05-4fe6-a100-e08f17cb7bdf",
+    "data": [
+      {
+        "text": "This Does Not Answer My Question!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d4fe48b-5013-4403-b670-577cab672530",
+    "data": [
+      {
+        "text": "We are done I am not happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60031574-02eb-4bcc-a8f3-4fd2ead297c0",
+    "data": [
+      {
+        "text": "You provide no help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c386f30-854c-4e76-9540-7b46c614612e",
+    "data": [
+      {
+        "text": "That doesnt really help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b258f62-ccc1-4e25-8073-6c3b7ae693b6",
+    "data": [
+      {
+        "text": "Thanks for not helping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77a1bfbd-d08a-42ec-bf4f-c3c6651ace83",
+    "data": [
+      {
+        "text": "your not helpful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d3d7776-8b06-4967-a7b2-7e46d881f8d8",
+    "data": [
+      {
+        "text": "That does not help me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc9971f1-a71c-4015-aa52-5cc911b589c7",
+    "data": [
+      {
+        "text": "this is not helping. i have been trying for ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb32e7c5-417e-4f6b-9594-97c37d59ceba",
+    "data": [
+      {
+        "text": "Fucking help me I\u0027m tired of this shit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40fe10ba-15ec-4bd9-8b8a-6d9df8c695d0",
+    "data": [
+      {
+        "text": "You are mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf5b5bf2-5f63-41d7-9a76-7828ca785aa5",
+    "data": [
+      {
+        "text": "You are rude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f260e2a8-58c4-47dc-a1e8-795082521eaf",
+    "data": [
+      {
+        "text": "NONE of these fits my needs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32cfe376-a71c-4084-8656-298131401ad5",
+    "data": [
+      {
+        "text": "can i sue you for negligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c26bbc3-3300-45f6-9935-e344252d3acb",
+    "data": [
+      {
+        "text": "you didnt help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f06e576-bc80-40e6-8815-bcae1be26839",
+    "data": [
+      {
+        "text": "this is the absolute worst service by far that i have ever experienced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae811d36-4813-482a-abb6-de6c5f3099fc",
+    "data": [
+      {
+        "text": "this is stupid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a647ad91-dfd9-4a1a-b847-14a4b4d6b931",
+    "data": [
+      {
+        "text": "Good bye cruel world. Thanks for nothing.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcdb1f13-cb49-406b-8caa-50bcc52a4b6f",
+    "data": [
+      {
+        "text": "You are bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6342df-24d7-4161-a936-116e0c2e3fd5",
+    "data": [
+      {
+        "text": "You didn\u0027t answer my question.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66d06c8e-8986-4c19-b1af-2f33f893a2c8",
+    "data": [
+      {
+        "text": "Frustration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e67001-ec87-49f1-a4a0-21abefa1e6aa",
+    "data": [
+      {
+        "text": "I am frustrated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cee6cb0-34f4-486c-8305-8176699d490f",
+    "data": [
+      {
+        "text": "You don\u0027t help much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2988ae70-8bd3-482f-9837-5316a1beff61",
+    "data": [
+      {
+        "text": "Now I\u0027m getting really angry!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "519ef57b-9d04-424e-b1fe-a87c519bf048",
+    "data": [
+      {
+        "text": "YOU DIDNOT ANSWER MY QUESTION",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2da08b4f-a29f-43c9-9b6d-354b90bee5fe",
+    "data": [
+      {
+        "text": "I have and it\u0027s not giving me my answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c3ef652-87ca-4a9c-ac42-df877e253131",
+    "data": [
+      {
+        "text": "a bureaucrat must have programmed you with standard answers.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c36c3761-bab8-4ac9-9479-449e9863b342",
+    "data": [
+      {
+        "text": "You guys are being paid for worthless service, you guys are not providing assistance with true integrity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42ff974b-48ab-4bf8-853a-8ee557527a66",
+    "data": [
+      {
+        "text": "Assistance zero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe60dfda-943a-442d-a3d0-8ebeec98877b",
+    "data": [
+      {
+        "text": "That wasn\u0027t what I needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f7eec5b-40eb-4517-8fc4-ea84fdb6465c",
+    "data": [
+      {
+        "text": "this website is a joke. Wtf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24514385-9d47-44b9-8e7c-e84e4f6585f6",
+    "data": [
+      {
+        "text": "HELLO YOU DIDN\u0027T ANSWER MY ORIGINAL QUESTION",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "febc1632-c672-4d63-940d-b1cf743a24a1",
+    "data": [
+      {
+        "text": "GO TO HELL QUICKLY AND THE GOIVENOIR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70c0cfff-f9d2-40c2-90e8-be6e5c70b4c9",
+    "data": [
+      {
+        "text": "GO TO HELL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f7447df-b6b0-4b8c-99c4-62816256aa60",
+    "data": [
+      {
+        "text": "you must be a freaking robot!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c59469f-9948-4d1b-b00f-6ed9da169f77",
+    "data": [
+      {
+        "text": "I am very upset at the lack of customer service that\u0027s been going on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f8e50ad-d14e-49a9-9c2d-e9308305f426",
+    "data": [
+      {
+        "text": "Why do you suck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ffc1a08-00bd-4c1d-86fb-fcc648a37eed",
+    "data": [
+      {
+        "text": "YOU HAVENT HELPED ME AT ALL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b17480f7-153b-404c-81f1-c863acc935af",
+    "data": [
+      {
+        "text": "Very depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "993f3f98-c566-49ba-9bec-6c1d934fcaeb",
+    "data": [
+      {
+        "text": "you haven\u0027t had been any help to me only made me mad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d72d2ffe-5962-4ad9-acff-072f44f34d4f",
+    "data": [
+      {
+        "text": "not helping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ad1c357-42f5-4168-b7e8-f0e23c4c3fa4",
+    "data": [
+      {
+        "text": "I did, no help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0da23da-4caa-4fad-81e4-b46067999086",
+    "data": [
+      {
+        "text": "This is ridiculous!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae77c31-6754-4274-874c-3ec89685aa43",
+    "data": [
+      {
+        "text": "Not help here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "058ddac7-a038-4cab-b203-1e3c3391cae7",
+    "data": [
+      {
+        "text": "fuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "915f2ff9-d263-41c3-b1ec-a2dce2d2acd4",
+    "data": [
+      {
+        "text": "That did not answer my question.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1833934e-0610-4251-b204-2dc8d877dc8e",
+    "data": [
+      {
+        "text": "you are worthless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5df19eea-f825-4918-8d4b-d020fdc1b0d4",
+    "data": [
+      {
+        "text": "It seems like nobody has any answers to any questions at all nobody knows what anything\u0027s going on it does not make any freaking sense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "141494c9-3e9c-4c46-8f70-0a848a5c62bc",
+    "data": [
+      {
+        "text": "This is not helping me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbeb84b1-8bfe-437e-8ac2-6798652e6452",
+    "data": [
+      {
+        "text": "this is getting to be a point where its not being helpful. please someone answer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b8ae86-d1b4-4f7b-970f-cc44ea1c2619",
+    "data": [
+      {
+        "text": "You have not helped me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a8b5e6b-6edb-4209-bb80-ac1fac47ca78",
+    "data": [
+      {
+        "text": "shut yo dumb ass up it don\u0027t say that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3252e8a8-df1e-4ea9-9239-cf816a6fd458",
+    "data": [
+      {
+        "text": "shut up fat bitch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "193818ca-2b63-4b97-a77d-a54cff6e11bf",
+    "data": [
+      {
+        "text": "You\u0027re a dumb bitch don\u0027t know what you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58adf23a-7bcd-410e-bfcf-c6a70c47f1f4",
+    "data": [
+      {
+        "text": "Lies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d519ee93-f51d-4310-8557-7c100a300a01",
+    "data": [
+      {
+        "text": "I am sorry but I am so frustrated. I need help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

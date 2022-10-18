@@ -1,0 +1,964 @@
+[
+  {
+    "id": "eb9681d0-3393-46b2-b7df-0ad767d7abad",
+    "data": [
+      {
+        "text": "So it said I had to go to a message center after I purchased a updated finger print card where is that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e63a8d3-d9e4-4d83-b763-15ee217223f1",
+    "data": [
+      {
+        "text": "How do I get to my messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b370f76-b349-4e29-8c2e-335df9273f5c",
+    "data": [
+      {
+        "text": "Do you have a message for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88677486-e30f-4a79-968f-ca3ee510d267",
+    "data": [
+      {
+        "text": "How do I open the message that was sent to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "456b7cb1-85f7-43aa-a7fb-c2b7f94359de",
+    "data": [
+      {
+        "text": "I know all of that. Please help me to navigate the process so I can read my message",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "930900f2-4e16-427b-b99d-2a37b5382bc9",
+    "data": [
+      {
+        "text": "where is messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40074f56-c523-43ef-bcea-af409089e271",
+    "data": [
+      {
+        "text": "how do i access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8e29cb-aaa8-49b6-aa3e-cc6a31a131c9",
+    "data": [
+      {
+        "text": "Where is message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2054c7e4-c484-444c-b6ac-e7562a1137ca",
+    "data": [
+      {
+        "text": "How do I retrieve my messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0f29e9d-6957-4cf6-8d16-13ab580f5e2e",
+    "data": [
+      {
+        "text": "I want to read my msgs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9ce6940-fb5f-4dd0-bd5e-08fb1745e8de",
+    "data": [
+      {
+        "text": "How do I find my message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "272e4a7d-972e-4795-a895-9a7eb4c1de2e",
+    "data": [
+      {
+        "text": "wheres my msg center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51a0b619-5efc-43d4-8304-0a152ca2475e",
+    "data": [
+      {
+        "text": "Where is the portal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6547c0c-f7f9-4483-8e3a-718c80f4b319",
+    "data": [
+      {
+        "text": "How do I access message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2553de43-18d4-4c66-bd0c-d69d2d870b90",
+    "data": [
+      {
+        "text": "Please connect me with the message center to complete fingerprint process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f287af46-32e3-4709-8f54-2d1d4bba6ffa",
+    "data": [
+      {
+        "text": "Where is portal message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16c6cd48-3c14-4a2d-8f73-c866f5b619ab",
+    "data": [
+      {
+        "text": "Where is the portal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa99204-46f7-4c68-b631-0cbd581c8149",
+    "data": [
+      {
+        "text": "where do I find the message board?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d1af933-9cc0-4423-b185-6e7707a933ee",
+    "data": [
+      {
+        "text": "where do I find messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "326efe19-e14a-4b96-8d12-788cdea1ac17",
+    "data": [
+      {
+        "text": "Where is the portal message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3834f663-d6f2-407f-92f6-f57fbd80e5b6",
+    "data": [
+      {
+        "text": "What message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d7202b2-df08-4fb0-b2ac-86921f76a045",
+    "data": [
+      {
+        "text": "where is the portal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e3c90f5-dc78-45e4-b8a6-df678a46c9ce",
+    "data": [
+      {
+        "text": "How do I get to the messages center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "367ce068-5817-47de-a34d-a45d67713862",
+    "data": [
+      {
+        "text": "How can I locate the message Center for information for further instruction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecc9d7b2-50c2-4d1d-b5ea-b71b4915d0f8",
+    "data": [
+      {
+        "text": "Where is the portal messaging center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5cee2df-4a4e-4df2-968b-4c8ec02d050a",
+    "data": [
+      {
+        "text": "How do i get to message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25c7164b-463c-4ceb-8faa-f37e48ac4b6a",
+    "data": [
+      {
+        "text": "The message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e811ad90-5f1b-4f85-8ca4-874c4e48668b",
+    "data": [
+      {
+        "text": "how do i get the potal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c3b3928-b9f6-4bea-8b85-8b2a190cbfb2",
+    "data": [
+      {
+        "text": "where is portal message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "247b13d5-1f68-4f38-9afd-54a7b9b5b9fe",
+    "data": [
+      {
+        "text": "how to view messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d6810a-f538-41ce-a8bb-7afeb069a76d",
+    "data": [
+      {
+        "text": "Can you send the link to portal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eae5671-4436-4ef3-97ab-7be9b7af108f",
+    "data": [
+      {
+        "text": "I don\u0027t see where to log in to go to my message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d199eea7-af68-4311-bff4-b412b7c2f7d7",
+    "data": [
+      {
+        "text": "How do I check my portal messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf7ffd5d-c40e-4754-82f3-0e07b6a3d180",
+    "data": [
+      {
+        "text": "Portal message ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6cb4901-57c3-4a1a-b9b1-583e4924b317",
+    "data": [
+      {
+        "text": "How do I get to the message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19524602-8561-41e1-a759-cf1b46f3f003",
+    "data": [
+      {
+        "text": "Where can I find my message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0aef4b-2f93-4699-b8cc-1a95cb56ed20",
+    "data": [
+      {
+        "text": "Where can I find the portal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f9b8cb0-493e-4f32-8841-433af0bede6b",
+    "data": [
+      {
+        "text": "Where is the portal message?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "544a428c-2028-4eff-9afc-103afb369576",
+    "data": [
+      {
+        "text": "where is the message center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c80784f-3f2b-4375-9480-bcde22c456d2",
+    "data": [
+      {
+        "text": "ok how do I get to the portal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab4907c-5449-4ce5-8eb6-ea9370255e00",
+    "data": [
+      {
+        "text": "message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6fda883-d8d0-4b88-bd32-a9d8af696395",
+    "data": [
+      {
+        "text": "how do I get to the portal message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9025586-aba8-4085-9068-b7f4d8357e14",
+    "data": [
+      {
+        "text": "I need to access the messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63f0fb93-7208-4f9f-a64d-aeb55f23ced3",
+    "data": [
+      {
+        "text": "steps to access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0c025a4-73b8-4c09-a77d-f5b1574439e6",
+    "data": [
+      {
+        "text": "Can I access message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9a86b06-fc61-4604-b98f-196e354db76b",
+    "data": [
+      {
+        "text": "\"How do I access Message Center? \"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0566debb-fc59-40cb-9f33-7197c1fea299",
+    "data": [
+      {
+        "text": "\"How do I find unread messages? \"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b076d6b-4e36-437f-96ed-0fc2e31086c3",
+    "data": [
+      {
+        "text": "\"How can I access my text Messages \"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89064dd0-4561-479f-8a3e-a4e776e0f2c9",
+    "data": [
+      {
+        "text": "I want to access my message, how can I do that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4565066e-f53a-4b5e-b672-0b891ef0f801",
+    "data": [
+      {
+        "text": "Guide me to access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53337399-d14d-4750-a4aa-0c26fc996946",
+    "data": [
+      {
+        "text": "Need to access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44bd8c9a-6cda-432c-a205-8d8d77f0eb15",
+    "data": [
+      {
+        "text": "How to access messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd558bb4-d484-4f11-b2d4-f41cdfd07dca",
+    "data": [
+      {
+        "text": "Help me in accessing messages.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21b15db0-407e-45f5-a421-4ca6d2cf7fa8",
+    "data": [
+      {
+        "text": "I want to view my messages.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c0eea22-3b0b-49a4-bc3c-298323bb127e",
+    "data": [
+      {
+        "text": "Can I access unread messaged?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "742f9218-9215-4b70-baf0-6f965c8bd4d6",
+    "data": [
+      {
+        "text": "I want to access my unread message, how can I do that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbafa85f-7a3d-48c5-b4e7-58a2840de0ac",
+    "data": [
+      {
+        "text": "How can I access messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e52b4ce-6502-4c40-89ab-ba9ee75fc22f",
+    "data": [
+      {
+        "text": "access message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ad21da-1618-4ead-a0c9-e6a4b2b3cf42",
+    "data": [
+      {
+        "text": "unread messages access",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "290e606c-d58f-41f0-9150-24675f437eef",
+    "data": [
+      {
+        "text": "link to message center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5d89b9c-1532-42df-b9df-1972cea3e051",
+    "data": [
+      {
+        "text": "How can I check messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd8d40a2-84fa-421b-b3aa-96209d2942cd",
+    "data": [
+      {
+        "text": "Where do I check messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67b433cf-e0b4-458f-aa54-ba81dbc026f7",
+    "data": [
+      {
+        "text": "What is the procedure to access message?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "115599b2-bbfb-4057-8c37-beea9d1fc1f4",
+    "data": [
+      {
+        "text": "I need to view messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94520a8e-4490-4142-8ba3-e92242af51b9",
+    "data": [
+      {
+        "text": "Where to check unread messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2631b881-ab47-4ff3-8597-c02ad9401322",
+    "data": [
+      {
+        "text": "How can I check unread messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "627fa4f6-6977-4e05-8227-8d744b4b49a3",
+    "data": [
+      {
+        "text": "Unread messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26e75952-bf2c-4648-8f51-4b06d0d60b79",
+    "data": [
+      {
+        "text": "Access unread messages page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4159bf23-db1f-469b-8d95-2ee1de9ac3ce",
+    "data": [
+      {
+        "text": "Trying to access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e59486ff-2267-4fce-bcbb-ba9b590e72f8",
+    "data": [
+      {
+        "text": "How can I access message?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64fecb60-59ff-4295-b3d4-b0a50244f06f",
+    "data": [
+      {
+        "text": "Access messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8906295-3949-432d-a64b-3d4927b0ae84",
+    "data": [
+      {
+        "text": "Want to access messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b02b9b7b-d247-4f1a-9497-da89c3e1e5af",
+    "data": [
+      {
+        "text": "Where can I check messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df848513-e2b2-4d2d-8aa1-e039d3e7adb0",
+    "data": [
+      {
+        "text": "How do I access messages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

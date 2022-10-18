@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ea36f858-8c26-4f9c-88ee-b3bf6b18e61e",
+    "data": [
+      {
+        "text": "I don\u0027t have a record of me paying for my card online. Can you find it for me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d55790b-7de0-4390-97a7-be913fc6e21f",
+    "data": [
+      {
+        "text": "i need an invoice for my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb12add-69c9-4284-a54d-6d62884695ae",
+    "data": [
+      {
+        "text": "Hello, on 6/9 I requested accident report #I21029742. I still have not received an invoice.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5e798bb-be20-43d0-bfc0-31cd4a308312",
+    "data": [
+      {
+        "text": "Need copy of ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d3c69dd-1e53-4972-8901-06cd83b94ee0",
+    "data": [
+      {
+        "text": "Assist me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4981ef6b-cb79-495c-b766-038840ad251b",
+    "data": [
+      {
+        "text": "What\u0027s the procedure to fetch an ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0187b9b0-7129-4e14-b0fc-4df783f3706f",
+    "data": [
+      {
+        "text": "I am trying to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ac2e358-cf88-428b-9a0f-d7297bde7f4d",
+    "data": [
+      {
+        "text": "Invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " required",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94977159-c470-47e5-80de-f1c50730598b",
+    "data": [
+      {
+        "text": "Where can i find the ",
+        "userDefined": false
+      },
+      {
+        "text": "Invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ceb088c-ebdf-483e-9ebb-99074dbb09b4",
+    "data": [
+      {
+        "text": "Not able to find the ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33974cf9-efb3-457f-b3ef-59e562fb8710",
+    "data": [
+      {
+        "text": "Want ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc184f7-f689-4d9a-9558-34140befc7db",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33d8d260-30e5-4fbc-96f9-40b5fa82aed1",
+    "data": [
+      {
+        "text": "Where can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b1c4e8b-cd00-4b1e-a667-58cf49dbbff2",
+    "data": [
+      {
+        "text": "Help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76158cca-42b2-4bf3-8eba-4d01cf2192e9",
+    "data": [
+      {
+        "text": "Can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd62ed1a-2d33-496d-ba67-82a6f8751be0",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1eb1d39a-79ae-4fa3-945d-b43b7422ce89",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ba1bb04-3ee0-4b2c-b919-244c9811f25b",
+    "data": [
+      {
+        "text": "May i know where is my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a178b747-4052-4aa1-98fc-41434c3ff899",
+    "data": [
+      {
+        "text": "Can you help me find my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d433019-da5b-41fd-9167-72aaf81311a3",
+    "data": [
+      {
+        "text": "Where to find the ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "701c5306-68fc-4721-8205-8b82e872817d",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "828c2ce2-7cb1-43b6-81b3-1c5ec1fcc489",
+    "data": [
+      {
+        "text": "Whom should i request to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f42338f-4983-470a-9ccf-340f8eb50fe4",
+    "data": [
+      {
+        "text": "I would like to take my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1846a1b-5f09-401f-8a4c-34a704952c99",
+    "data": [
+      {
+        "text": "Guide me to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec844e87-6d07-40f2-ad47-a3502da4d034",
+    "data": [
+      {
+        "text": "I am looking for my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebae4d74-6569-4033-8575-ed2e0aa28b1a",
+    "data": [
+      {
+        "text": "Where will I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

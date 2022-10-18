@@ -1,0 +1,36 @@
+{
+  "id": "938f5e93-5602-4ea3-b073-21d4076c907d",
+  "parentId": "1a95a41e-c9b0-4c25-ac2e-2c73a4205739",
+  "rootParentId": "1a95a41e-c9b0-4c25-ac2e-2c73a4205739",
+  "name": "X_Replacement_FingerprintClearance",
+  "auto": true,
+  "contexts": [
+    "X_Replacement-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "X_Replacement.X_Replacement-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

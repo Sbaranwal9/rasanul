@@ -1,0 +1,724 @@
+[
+  {
+    "id": "6849d738-f433-4120-a5dc-4f43fba2dfc0",
+    "data": [
+      {
+        "text": "Gemalto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4b23611-1885-4273-ad05-f8b490eacbf2",
+    "data": [
+      {
+        "text": "How do I find my registration code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e68f0fc-9d5e-42d2-969a-5d1110bd8699",
+    "data": [
+      {
+        "text": "trying to sign in to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " digit reference for gemalto I have appt ",
+        "userDefined": false
+      },
+      {
+        "text": "at 12:00",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " for fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07027091-2bbd-4eca-be54-56925a678866",
+    "data": [
+      {
+        "text": "what is Gemalto? I have just applied online and need to find out what I do next to get fingerprinted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ec231a1-aad2-4e34-8eae-3693c3523f7f",
+    "data": [
+      {
+        "text": "gemalit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a5eb07c-cdb5-4dca-8359-46ded7d7d1d6",
+    "data": [
+      {
+        "text": "How do I get to the gemalto site to pay the fee and schedule my fingerprinting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec4011cf-fb10-4944-8b20-f0542663aa81",
+    "data": [
+      {
+        "text": "The Gelto link For electronic fingerprints says server not found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d52fd3da-47ba-4f93-8270-8a78813e2e63",
+    "data": [
+      {
+        "text": "gemalto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9df18c46-f9db-437d-94f2-40f9a76d7fc3",
+    "data": [
+      {
+        "text": "registration number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e89223b6-8fab-49dc-a8de-ed26d6380f67",
+    "data": [
+      {
+        "text": "How do I locate Fingerprint Clearance Card Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cab7abc5-3657-4c95-9a96-d11c98539461",
+    "data": [
+      {
+        "text": "help getting registration number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "733e3e5e-fcf2-4854-b2fb-75a1321617e9",
+    "data": [
+      {
+        "text": "hello, Im on the process of paying gemalto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae727115-107a-42a5-9a0e-d309ab2c2e51",
+    "data": [
+      {
+        "text": "I don\u0027t know my app number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "873349eb-b650-4a87-bec1-e716af37fc93",
+    "data": [
+      {
+        "text": "I applied online, but no application number was issued.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0835b558-456e-4131-9549-fab9cf3b7bcb",
+    "data": [
+      {
+        "text": "where is the application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61343d18-bee7-4c06-9870-6ac3882372fc",
+    "data": [
+      {
+        "text": "How can I get a registration ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb4f39d9-efb2-4b3e-a9e2-2cd4ead75d93",
+    "data": [
+      {
+        "text": "Where can i find gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87f77160-7095-405e-ad53-172001cd44ad",
+    "data": [
+      {
+        "text": "Where is gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1406733e-cf38-45c4-a5e4-a6f8438ab11f",
+    "data": [
+      {
+        "text": "Where do i find the registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "398cd660-fc63-4b5a-875b-f5eb5937a396",
+    "data": [
+      {
+        "text": "Where is registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fcfe101-ae68-4678-bc35-2ad6711faff5",
+    "data": [
+      {
+        "text": "I need my Gemalto Registration ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c65647ca-7069-4aec-a085-4ed2f98ae9ff",
+    "data": [
+      {
+        "text": "help me in finding registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa6dff2e-d151-472f-9b5b-03be548806c1",
+    "data": [
+      {
+        "text": "How do i get my registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9138e899-6630-44d8-8acb-244402e9056b",
+    "data": [
+      {
+        "text": "Help me find my registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d0dba4-34ac-4491-b5c5-e243a8807c7e",
+    "data": [
+      {
+        "text": "How do I find my registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88b11254-4993-43f9-adc0-c5c288c293c6",
+    "data": [
+      {
+        "text": "tell me my registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a64fe3d-8495-4ec5-9829-9eda7a69aa42",
+    "data": [
+      {
+        "text": "Tel me about registraton id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cae6449-7290-4247-ae1b-47d30a483b6e",
+    "data": [
+      {
+        "text": "Can i get my registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80fe8f6b-d297-4d50-8f46-cf51f1b9a4ec",
+    "data": [
+      {
+        "text": "help me in getting gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "280c7d9a-d1d9-4dbd-91bf-88163d1c5667",
+    "data": [
+      {
+        "text": "Help me in getting registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7518671a-57aa-491f-801a-bc3438584015",
+    "data": [
+      {
+        "text": "Where can I find my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30514928-14df-4061-9f04-7f8871fdc69a",
+    "data": [
+      {
+        "text": "Need details about my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e75d2f00-c834-437b-873d-9d3eae66f269",
+    "data": [
+      {
+        "text": "Tell me gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf08967c-d1fa-4ee5-ae2a-ef016c63149b",
+    "data": [
+      {
+        "text": "where can i get my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b190ec69-098f-473a-a908-aff911683c96",
+    "data": [
+      {
+        "text": "give me my registered id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "365c944c-89c7-48c4-93b8-86d0ff14034b",
+    "data": [
+      {
+        "text": "help needed for id gemalto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05939d7f-8fbc-48d6-a0cc-f847d7401624",
+    "data": [
+      {
+        "text": "help me with my registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5acc8080-9502-404c-8478-0a2ffb2cafe8",
+    "data": [
+      {
+        "text": "help me with my gemalto id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "854aa5d5-3876-49ba-af88-efbe38fcb96c",
+    "data": [
+      {
+        "text": "Where shall i search my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "527b7b6b-ae32-4f0f-ae12-83a54fe0f2cf",
+    "data": [
+      {
+        "text": "Where can i find my registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7034d67c-45cd-4d9b-b0cb-ec1b7a347c6e",
+    "data": [
+      {
+        "text": "what is the place for my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10e0a84b-930d-4ad6-920d-69e8df039a5d",
+    "data": [
+      {
+        "text": "How to find my registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1b61c34-2cef-4205-bb5f-4dfb0f42c54e",
+    "data": [
+      {
+        "text": "I would like to get my gemalto id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4bb74c5-2381-449c-839c-608b47d2d9df",
+    "data": [
+      {
+        "text": "Please help me with gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8334fe37-201c-4107-a94b-5c1da5d11b97",
+    "data": [
+      {
+        "text": "What is my gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4309885-e5d2-4f37-843c-e8c37f51f0c0",
+    "data": [
+      {
+        "text": "Who can provide me the gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e9ce330-6775-403d-98b8-c1b4e4c76d27",
+    "data": [
+      {
+        "text": "Find gemalto registration id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f42c64e-b941-4e0f-94a7-5d5ead3ab385",
+    "data": [
+      {
+        "text": "Find my gemalto id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "876ce6f8-e2cc-4730-a577-cf409e324f7e",
+    "data": [
+      {
+        "text": "What is my registration ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2ff846a-ae0d-48bd-80ce-093e9c52f12f",
+    "data": [
+      {
+        "text": "Where is my Gemalto registration ID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab20a6c-5b56-4e77-b128-10f4bc06257e",
+    "data": [
+      {
+        "text": "Where is my gemalto ID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e23212a0-67a3-4f68-9fa9-8441828b65f3",
+    "data": [
+      {
+        "text": "What is the gemalto id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7c60ff2-2b15-4175-b924-01613e789d36",
+    "data": [
+      {
+        "text": "What is my registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ff7597f-5c1d-48bd-b578-63b2b9dc7f4d",
+    "data": [
+      {
+        "text": "where is my registration id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "e662e88b-ebfe-4008-8ea6-3f5500113121",
+  "parentId": "b25ef488-9444-4e6e-9a75-af8ffb158cf9",
+  "rootParentId": "b25ef488-9444-4e6e-9a75-af8ffb158cf9",
+  "name": "XLIX_Live_Agent - Technical_Support_using_the_site",
+  "auto": true,
+  "contexts": [
+    "XLIX_Live_Agent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "XLIX_Live_Agent.XLIX_Live_Agent-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

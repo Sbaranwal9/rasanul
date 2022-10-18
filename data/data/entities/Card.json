@@ -1,0 +1,9 @@
+{
+  "id": "5b195ace-c682-49da-bca7-e43520d4b0f6",
+  "name": "Card",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

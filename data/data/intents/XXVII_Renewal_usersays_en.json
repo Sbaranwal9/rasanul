@@ -1,0 +1,1641 @@
+[
+  {
+    "id": "e3e7c901-a236-4fb8-8761-e74d6d615f68",
+    "data": [
+      {
+        "text": "This fingerprint clearance card needs to be renewed, can I do that now, online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1a5ad13-a2dc-4cf7-ab3a-51eb8360304e",
+    "data": [
+      {
+        "text": "It expires next month. Can you tell me the process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b3b04ee-6f2d-480a-8971-87a1bd79faec",
+    "data": [
+      {
+        "text": "I have an expired card and want to get a card.  Anything I need to know to expedite it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78996630-0611-4f68-926b-b039742c0d4a",
+    "data": [
+      {
+        "text": "If card is expired, do I need to start the process over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e8ee73-7e90-461a-ad1d-7ffd209834ec",
+    "data": [
+      {
+        "text": "what if that card already expired. do I just apply for a new one. or do I need to clear with the board of fingerprinting first?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "775f3ef1-8402-4b59-9648-06387d0e94e6",
+    "data": [
+      {
+        "text": "Is there no option for just renewal of a card about to expire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7678f51-1f11-4f76-a0fd-81c64586b8d1",
+    "data": [
+      {
+        "text": "I need to renew my armed guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b96a1e63-193e-4777-901f-e76a574c8b65",
+    "data": [
+      {
+        "text": "Hello do you have to do a whole new app if your card is expiring?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee16e54c-2407-4ba0-a294-0fcf61e16761",
+    "data": [
+      {
+        "text": "my card expires ",
+        "userDefined": false
+      },
+      {
+        "text": "in one month",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fae7743-068c-461d-8ff8-fffa1096f883",
+    "data": [
+      {
+        "text": "what if the current card has expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7603ba43-53ad-4772-923b-13bbcb80e52e",
+    "data": [
+      {
+        "text": "Do I have to wait 2 months prior to my card expire expiring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05c4fd2f-d066-41db-9d55-1a25aec816cf",
+    "data": [
+      {
+        "text": "My fingerprint card is expiring soon. Do I have to apply for a new card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4aef8386-21bb-47cd-bf46-8c192511860a",
+    "data": [
+      {
+        "text": "My card is 60 days past the renewal date.  How will that affect my renewal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af9cd3ad-7121-4e1c-9288-cac9d32d77b7",
+    "data": [
+      {
+        "text": "Do I have to do finger prints again my finger print card is expiring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e6724cd-9e98-49b3-82dd-5cb6cd7fc764",
+    "data": [
+      {
+        "text": "I have a current fingerprint clearance card that expires in Sept. Do I have to apply for a new card or is there a process to update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96ca824d-1012-41ba-8022-d6d1577818f1",
+    "data": [
+      {
+        "text": "I need a copy of my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ff12f67-2067-48ce-a57d-12e45fa22b10",
+    "data": [
+      {
+        "text": "My fingerprint clearance card is expiring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed5f17d6-fd3c-4865-8306-d9e2cc79a271",
+    "data": [
+      {
+        "text": "Hi Need a link for the ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " of my Finger Print clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95c1c96d-6dc7-48bc-bb0b-dd87049ae9ca",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my Fingerprint Clearance card, however the system is giving me an error. I believe it\u0027s because I\u0027ve had a name change since my last ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " was issued.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a270cb8-5a96-4aa3-ba01-acfa8cbe7b78",
+    "data": [
+      {
+        "text": "I am looking for the forms to fill out to update my fingerprint card that expires soon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f04bdf88-a26b-4da3-8f49-b2cede4852df",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " it now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "559fdb45-75b5-4c0e-9c50-f12b0690c175",
+    "data": [
+      {
+        "text": "Hello, I am a teacher for FUSD and need to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my fingerprint clearance card for recertification.  What would I need to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb252024-19d6-4336-9cea-68207a3c6f82",
+    "data": [
+      {
+        "text": "I\u0027m lookin to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my fingerprint card for my employer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "985efd9d-0863-42bd-84d6-e440dde051f9",
+    "data": [
+      {
+        "text": "Can I pay for my IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " card with a Debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce2cc21-8787-4a7b-b7bc-c3067968e700",
+    "data": [
+      {
+        "text": "Hello. I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my fingerprint clearance. What do I need to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09fa2ac0-5475-46bb-acca-76db32e42a9b",
+    "data": [
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my card, pay and changed my last name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "241b3d99-23b4-410f-b20b-2f7c6cc2e0ce",
+    "data": [
+      {
+        "text": "I need to get my fingerprint card ",
+        "userDefined": false
+      },
+      {
+        "text": "renewed",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": ". What is the easiest way? Should I start an acct online? Do I have to go get the prints done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6221e191-516b-46e4-a2a4-e32111f1d31c",
+    "data": [
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " a expired fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ad2e063-874b-4acd-8cc0-0837a0ecfe6f",
+    "data": [
+      {
+        "text": "i had an IVP Fingerprint card a long time ago. Do I need to re-apply for a new one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f345690e-807d-4e50-bb86-5755de4344eb",
+    "data": [
+      {
+        "text": "can i ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my card online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c51e16c-0521-4bdb-8587-5cb6bc2e9bfc",
+    "data": [
+      {
+        "text": "Hi - I am having a hard time finding the application for PI Agency ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " forms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79dee7bb-39bd-4a2c-a8cf-25adf8239b0e",
+    "data": [
+      {
+        "text": "yes i read that but it already expired. How do I get a new one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29130173-454f-4467-9027-296cbc640c43",
+    "data": [
+      {
+        "text": "i paid fee  i need renewel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d49d9fd-eea9-4aab-bef4-1da8a2bb8e2d",
+    "data": [
+      {
+        "text": "i NEED TO ",
+        "userDefined": false
+      },
+      {
+        "text": "RENEW",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " MY FINGERPRINT CARD?  hOW DO i DO THIS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af8b1490-d65a-49e8-877f-3a0fbeef4166",
+    "data": [
+      {
+        "text": "My Level One Fingerprint Clearance Card is expiring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc750366-a7d0-4907-a5fe-351f28485b12",
+    "data": [
+      {
+        "text": "When I fill out the ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " application do I mail it in or what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3366c9-5188-4229-b005-3320c575ec8e",
+    "data": [
+      {
+        "text": "My fingerprint clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "expired. Do",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " I need to repeat the same application process as the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " card? Is there a way to get a fingerprint clearance card updated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed4522fe-d2d9-4342-9115-d5280ce38d88",
+    "data": [
+      {
+        "text": "Question about new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aafb2ef8-5a05-4f5c-9201-cac5d3c8ef09",
+    "data": [
+      {
+        "text": "how do I get it ",
+        "userDefined": false
+      },
+      {
+        "text": "renewed",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7dea22c-70ff-432a-86df-d00ae3b9b4ea",
+    "data": [
+      {
+        "text": "My fingerprint car  expires ",
+        "userDefined": false
+      },
+      {
+        "text": "May",
+        "userDefined": false
+      },
+      {
+        "text": " 18. What do I need to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2eada5a-cdaa-49c4-9b83-65a2087082e1",
+    "data": [
+      {
+        "text": "My fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " is going to expire towards the end of the year.  Do I need to do a completely new application with new prints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db0cab0-13e7-4101-91d0-730f5998e41b",
+    "data": [
+      {
+        "text": "I will find the order a replacement for your point clearance card. I currently do have one I tried going through the automated system and it\u0027s telling me that they can\u0027t find it. So I need your help requesting a new fingerprint clearance car.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "026c668a-fedd-41ec-9d28-717fe7124967",
+    "data": [
+      {
+        "text": "yes but my question is where do I ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " on this webiste?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe0e581-303b-4823-98a1-fc1945681384",
+    "data": [
+      {
+        "text": "I\u0027m beyond ",
+        "userDefined": false
+      },
+      {
+        "text": "60 days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " what do I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18aeda30-c46d-446e-a577-de6122b3cacb",
+    "data": [
+      {
+        "text": "My card expires ",
+        "userDefined": false
+      },
+      {
+        "text": "in a few weeks",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " what do I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f6bb7b2-4ae7-461d-920c-153efe553101",
+    "data": [
+      {
+        "text": "Fingerprint clearance it expires in ",
+        "userDefined": false
+      },
+      {
+        "text": "June",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d9a0561-27a2-4fb1-91e9-1520721e67e7",
+    "data": [
+      {
+        "text": "How long after cards expire can you ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "372220a6-d325-44e0-96ef-060244908414",
+    "data": [
+      {
+        "text": "I need an IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " as a teacher in the Chandler district. I\u0027m told I need to set up a New User. I\u0027m not seeing any of the steps the district told me I would see.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92547d4b-490a-47b6-a38c-bac6f7590d6c",
+    "data": [
+      {
+        "text": "Expired ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41b4e36f-8aac-4120-8e35-70c774735713",
+    "data": [
+      {
+        "text": "Expiration date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d660735e-ef3d-43ad-8f6f-4a59ae2dd378",
+    "data": [
+      {
+        "text": "My Fingerprint Clearance Card expired. How do I apply for new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76031203-8b3a-4cb2-88a7-50bff337a10d",
+    "data": [
+      {
+        "text": "My license doesnt expire ",
+        "userDefined": false
+      },
+      {
+        "text": "until 05/15",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "963513d6-08e2-4338-af4a-e835ec5f48a5",
+    "data": [
+      {
+        "text": "replace or ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd4743d4-3c29-4873-9c7b-1888507bb001",
+    "data": [
+      {
+        "text": "Trouble ",
+        "userDefined": false
+      },
+      {
+        "text": "renewing",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f28fedb-db71-4bd8-b2b2-7b889a098fa4",
+    "data": [
+      {
+        "text": "Hi Can you tell me if my Fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " is still valid?  I thought I ",
+        "userDefined": false
+      },
+      {
+        "text": "renewed",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " it but I haven\u0027t gotten a new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e86a42a8-15c6-4272-ab85-98c163fdb877",
+    "data": [
+      {
+        "text": "Fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " expiration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eaca7e5-e055-46f6-82fa-c038757c0564",
+    "data": [
+      {
+        "text": "What if I no longer have the physical ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b3d896d-bf4b-456d-9fb3-af21923af49e",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78142cf1-db07-4f3d-b6d5-c2d71e566db4",
+    "data": [
+      {
+        "text": "I just realized my card expired ",
+        "userDefined": false
+      },
+      {
+        "text": "4/9/2020",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff752aaa-e223-4d9a-90c6-0d984f14c2ec",
+    "data": [
+      {
+        "text": "My card expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25d28e0f-feb6-4ee7-84b5-e9d134aa5f68",
+    "data": [
+      {
+        "text": "My fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "expires",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "July of this year",
+        "userDefined": false
+      },
+      {
+        "text": ".  When can I reapply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d213fa8-d98e-43bd-92fe-add7c9a77ced",
+    "data": [
+      {
+        "text": "How do I reinstate my finger print clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42455f25-54e6-4781-98fb-14992b59aa2b",
+    "data": [
+      {
+        "text": "What if your fingerprint clearance is expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5114edf8-4856-41e0-9109-83bd1ab9b6fe",
+    "data": [
+      {
+        "text": "My fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "expires",
+        "userDefined": false
+      },
+      {
+        "text": " at the end of the month. How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32a7839-88db-48bb-bb58-15267b54d073",
+    "data": [
+      {
+        "text": "can i ask for a ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e3b7cf0-edce-4f6a-afd7-6aa3bab6607d",
+    "data": [
+      {
+        "text": "I had a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " that expired already and don\u0027t have it. What should I do to retrieve the Number on it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9296f97-3d7c-4c00-82b7-a13c0ba03408",
+    "data": [
+      {
+        "text": "Renewing",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my fingerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82411780-40fe-48ec-99b4-6a4564cc50d3",
+    "data": [
+      {
+        "text": "My license says it diesnt expire ",
+        "userDefined": false
+      },
+      {
+        "text": "until 05/15",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe9fd64-8cd0-4f27-b012-3d9392a4f0fe",
+    "data": [
+      {
+        "text": "Card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " got expired ",
+        "userDefined": false
+      },
+      {
+        "text": "last week",
+        "userDefined": false
+      },
+      {
+        "text": ", how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c96ceba-776e-4819-92cc-2947bf2f8214",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " is about to expiry, what should be done next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d68b95a-b5e5-467e-b52c-7c3d511e69d3",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c990e41-90da-4d00-87be-0369f91eea59",
+    "data": [
+      {
+        "text": "How much time one will have before applying for ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "855f0192-e433-4d23-b8c4-5690857f67c6",
+    "data": [
+      {
+        "text": "How many days before I need to apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "054728e1-e11b-4fd9-abcf-4d6f805e0ba7",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " should apply for license ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36115640-3c5e-4438-a1e6-706b2dc74ab4",
+    "data": [
+      {
+        "text": "when do I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my private investigator (PI) ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " (license)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "018af3ee-ae2d-40f5-af26-129ef1c4a92b",
+    "data": [
+      {
+        "text": "When should I apply to ",
+        "userDefined": false
+      },
+      {
+        "text": "renew",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " my security guard ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ca761f1-9120-405e-b6b5-01e23c21723c",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " before my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "expires",
+        "meta": "@until",
+        "alias": "until",
+        "userDefined": false
+      },
+      {
+        "text": " should I send in a ",
+        "userDefined": false
+      },
+      {
+        "text": "renewal",
+        "meta": "@Renewal",
+        "alias": "renewal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

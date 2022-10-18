@@ -1,0 +1,9 @@
+{
+  "id": "d7c15f88-4139-46db-8bb7-1836d7fde4c2",
+  "name": "Renewal",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

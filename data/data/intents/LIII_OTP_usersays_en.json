@@ -1,0 +1,834 @@
+[
+  {
+    "id": "575df731-c626-40c2-8962-bb26105ace20",
+    "data": [
+      {
+        "text": "why are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": false
+      },
+      {
+        "text": " sending me a passcode?  there is no where to enter it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c7ba75d-fcf6-4482-8d2b-1a8e52e2ae99",
+    "data": [
+      {
+        "text": "Ive been waiting quite awhile for a ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " time pass code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa595ce8-eb08-4651-b9d0-70f5878f5a3e",
+    "data": [
+      {
+        "text": "my application was approved. Do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " mail the card to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baba98ef-24aa-4914-aeb9-612b96f7feaf",
+    "data": [
+      {
+        "text": "otp",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6d1d31d-ae93-446a-aa22-4fd61a82fd99",
+    "data": [
+      {
+        "text": "Can someone tell me what is an ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea760ae8-4b26-4e51-84ee-43c3e1ab350b",
+    "data": [
+      {
+        "text": "Where to find details of ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b12860c2-12aa-4a83-92c6-bc0416a7de44",
+    "data": [
+      {
+        "text": "Need info about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "671da93c-f3e7-4ea5-9867-7f5a83d89c0a",
+    "data": [
+      {
+        "text": "How to do get an ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1df0960-b121-4077-bcd2-dc8a8622b1a1",
+    "data": [
+      {
+        "text": "More info on ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5709c90c-3476-47a1-938b-d3629cf099d9",
+    "data": [
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " means",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a9f625-0341-4809-aefb-f7e36c8365e5",
+    "data": [
+      {
+        "text": "Onetime password",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " means",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc0d49d-84d1-4a4d-844b-45caa162fd81",
+    "data": [
+      {
+        "text": "What do you mean by ",
+        "userDefined": false
+      },
+      {
+        "text": "One time password",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdb887fe-cb0c-470a-82f9-b0047c739e67",
+    "data": [
+      {
+        "text": "What do you mean by ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16592ca8-9a0b-4007-be2d-4e84fa95e59c",
+    "data": [
+      {
+        "text": "What does ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3d6ca62-02b9-4aa3-8ecb-75c625e24809",
+    "data": [
+      {
+        "text": "How does OTP function",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33a021be-56a2-430a-9a87-6fa280371571",
+    "data": [
+      {
+        "text": "Can you explain me about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d19f7c2a-82fc-4363-a4af-231131024934",
+    "data": [
+      {
+        "text": "Who generates ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b4219db-cd38-4d0f-ad08-53e06d80e28a",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "041b4c81-a074-427c-9133-77736d8cf66b",
+    "data": [
+      {
+        "text": "What is an ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c6b8e06-2af2-45af-807f-a6af55b21bcc",
+    "data": [
+      {
+        "text": "Information about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "869c9cab-5236-4a8c-a4c2-daa547af9c14",
+    "data": [
+      {
+        "text": "Help me to get ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d55a5b-af9c-44a3-bc32-f3b773903db7",
+    "data": [
+      {
+        "text": "How to get ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a76bd1fa-3839-46cf-99da-8a4ca281b630",
+    "data": [
+      {
+        "text": "Need ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d632f2a2-d1eb-4181-b403-1dacd3a6c45e",
+    "data": [
+      {
+        "text": "Need to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da01048-b29d-48c3-bf69-ef34717cf78a",
+    "data": [
+      {
+        "text": "i don\u0027t have ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " , please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08b4144f-c992-4b05-91d3-098ee8053187",
+    "data": [
+      {
+        "text": "what is login ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "788d6783-a7fe-40c2-b265-5baa8b1e5ce3",
+    "data": [
+      {
+        "text": "how do i het my ",
+        "userDefined": false
+      },
+      {
+        "text": "otp",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c29e40c-71dd-433a-acc5-93cdeb77cf46",
+    "data": [
+      {
+        "text": "what is the procedure to get ",
+        "userDefined": false
+      },
+      {
+        "text": "otp",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e59b37e-b18b-4f42-86bb-87044b9cb42e",
+    "data": [
+      {
+        "text": "Please provide me in understanding ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db0b515a-96e1-42b3-88b8-4b79b5918d72",
+    "data": [
+      {
+        "text": "Let me know about what is ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf86f0d0-e20f-4e9c-bb0a-92e006b46280",
+    "data": [
+      {
+        "text": "Provide me the brief explanation about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618e934a-0438-4ca1-8f4f-6f871491ffe5",
+    "data": [
+      {
+        "text": "Explain about ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95522050-b19b-43ea-962d-df3f0a3c7d39",
+    "data": [
+      {
+        "text": "Help me understanding ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a83973a2-f2ca-46f0-988e-e10d401b88ef",
+    "data": [
+      {
+        "text": "How exactly the ",
+        "userDefined": false
+      },
+      {
+        "text": "otp",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d73ba1e3-ca79-419f-bccb-6a71c7a57e17",
+    "data": [
+      {
+        "text": "How does otp works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c01a4efe-be57-42a9-8d96-0bd486afea20",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ce44ea9-559a-4ce2-b0e9-25060b28f69c",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " time password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe238e8b-e807-4f7a-9f29-3905b3147edd",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "one time password",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "803084aa-fe46-4050-816c-17cde6647446",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " are generated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2add4edc-6954-4590-82bf-8d1c0624256a",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "448fe079-3001-440a-9555-5f145dc9a0c0",
+    "data": [
+      {
+        "text": "How do I find my ",
+        "userDefined": false
+      },
+      {
+        "text": "OTP",
+        "meta": "@otp",
+        "alias": "otp",
+        "userDefined": true
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93603112-b70c-409c-ae74-f6ca4023814e",
+    "data": [
+      {
+        "text": "How does OTP work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

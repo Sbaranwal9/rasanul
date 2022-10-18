@@ -1,0 +1,9 @@
+{
+  "id": "2d389f26-5bf6-46dd-b48e-2e59ee774e92",
+  "name": "connection_timeout",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

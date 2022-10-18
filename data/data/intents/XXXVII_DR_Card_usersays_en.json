@@ -1,0 +1,366 @@
+[
+  {
+    "id": "018e6d13-73a9-438e-9adb-e4407fb4af38",
+    "data": [
+      {
+        "text": "Does my clearance card have a driving restriction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11e80ba4-d748-4f9c-96c2-7beef627c01a",
+    "data": [
+      {
+        "text": "do I have to reapply for a new fingerprint clearance card to get a driving restriction removed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14af4a3e-b6a8-414a-9d3c-af86bb145015",
+    "data": [
+      {
+        "text": "trying to get driving record for Texas to issue driver license - in portal, don\u0027t have officer badge# or any info at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04a351e8-a4e8-4aca-85fb-170db7aa149d",
+    "data": [
+      {
+        "text": "Hello. I am wondering if it is possible to have ",
+        "userDefined": false
+      },
+      {
+        "text": "driving restrictions",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " removed from my fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbc1726f-b683-4e9e-95ad-98b62e9fda2d",
+    "data": [
+      {
+        "text": "What is a level one ",
+        "userDefined": false
+      },
+      {
+        "text": "Driving Restricted",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fingerprint Clearance Card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70c88bad-5e95-40e8-9dfc-d466c58c89dd",
+    "data": [
+      {
+        "text": "What happens if my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cdb3f07-0d94-456c-a63f-1759a383c046",
+    "data": [
+      {
+        "text": "How much time I need to wait for ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " to be removed from my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "352b898d-94ba-4c8c-b6dd-4ed9aaca153c",
+    "data": [
+      {
+        "text": "What privilege I loose if ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " printed in  my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance Card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f06f42f8-a637-4648-8653-d84b70b81c5f",
+    "data": [
+      {
+        "text": "What is the actual meaning of printing DR in the ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance Card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c7ea85e-6949-4e01-90f3-5e6d2c7bb04d",
+    "data": [
+      {
+        "text": "What if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a27c82-fe1c-4e50-b832-f27ae0e1e8ea",
+    "data": [
+      {
+        "text": "What is the meaning of ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance Card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c6b04d-eb69-4cd0-b1ab-4b5eb291c0c3",
+    "data": [
+      {
+        "text": "How long does it take to get the restriction removed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c8924e-2ea6-4e76-8a8e-1a96e15761ec",
+    "data": [
+      {
+        "text": "When can I removed the ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " (restriction) from my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b211b1-1e59-424b-a7c8-ee7f073ff684",
+    "data": [
+      {
+        "text": "What does ",
+        "userDefined": false
+      },
+      {
+        "text": "DR",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": " on my card mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6be97d01-7dba-444b-897b-09813a1cca22",
+    "data": [
+      {
+        "text": "How is my card affected if its ",
+        "userDefined": false
+      },
+      {
+        "text": "driving restricted",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ccf65e0-d5cd-44a0-bdc1-eab33d5f60c0",
+    "data": [
+      {
+        "text": "What is a \"",
+        "userDefined": false
+      },
+      {
+        "text": "Driving Restricted",
+        "meta": "@Driving_Restricted",
+        "alias": "driving_restricted",
+        "userDefined": false
+      },
+      {
+        "text": "\" ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

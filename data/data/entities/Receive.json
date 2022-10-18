@@ -1,0 +1,9 @@
+{
+  "id": "16a75dd3-54d2-431e-8b12-ac49b9454048",
+  "name": "Receive",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "b379410b-bfbf-4e9c-8ac1-66e35c15eaf4",
+    "data": [
+      {
+        "text": "Hi just submitted an application for fingerprint card when do I pay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a7f8143-706b-4b39-a28c-c4277f04c91f",
+    "data": [
+      {
+        "text": "how do I pay online for fingerprinting clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67644b49-94df-465d-8985-fdda8293a71c",
+    "data": [
+      {
+        "text": "payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cfec49f-eb3d-45e1-a7e0-75fd06d6b18d",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my finger print clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f0164e0-b4b5-49a1-a678-42f009d16d98",
+    "data": [
+      {
+        "text": "it says i already have a card in process but i did not do the ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da38c7cb-fd35-497e-ad0e-9376d03630b2",
+    "data": [
+      {
+        "text": "I have not paid yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84593880-4631-4cc6-883c-b976b260f380",
+    "data": [
+      {
+        "text": "I need to pay for my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "162aaa15-2282-4b92-be29-305ef7dc860c",
+    "data": [
+      {
+        "text": "I can\u0027t proceed with my application to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "075a83ed-c74f-4ebd-8262-33145b12f81e",
+    "data": [
+      {
+        "text": "How to pay l for may application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4207d2c-ddf5-4c40-b207-20af99f33ef3",
+    "data": [
+      {
+        "text": "Can I get to the page where I need to pay for the fingerprint clearance card I\u0027m applying for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcf8d526-232c-4bd6-a2e8-baad0d4fa0d6",
+    "data": [
+      {
+        "text": "Need to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my Application  for fingerprints card of ",
+        "userDefined": false
+      },
+      {
+        "text": "69",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ". Where to I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " to get a reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feaf2dd8-0c35-40e3-962a-44d550d55e5a",
+    "data": [
+      {
+        "text": "I need to pay for my IVP card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b09f440c-87f5-4024-9310-1a2a4b1722c6",
+    "data": [
+      {
+        "text": "I applied for a new fingerprint card and I wasn\u0027t able to pay for it online. How do I go about paying for it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71160782-87c0-4b02-8f80-c4f1a2ece00d",
+    "data": [
+      {
+        "text": "I have applied for my finger print card how do I pay for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0107347d-da1d-441d-87b4-dcb644b71fb4",
+    "data": [
+      {
+        "text": "I have not paid for this yet how do I pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29b6404c-48ba-42d4-9493-1fb6dce5bad9",
+    "data": [
+      {
+        "text": "I did not pay yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db9e1024-5585-44a5-a9d2-d0ba3d35c0ac",
+    "data": [
+      {
+        "text": "if my card expires in 2021 do I have to pay the full price to renew it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00aadbc1-ef2b-4d50-84c2-45a8479a1470",
+    "data": [
+      {
+        "text": "Anything else I need to include if I applied and paid online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6219ec7d-c6f7-4ccc-bb47-2f03711e512a",
+    "data": [
+      {
+        "text": "I submitted an application to get an IVP card but didn\u0027t have the time to pay for the service? How can I pay now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f76e8319-20ee-44e0-aea4-18800b7100b4",
+    "data": [
+      {
+        "text": "How much is a guard card after turning in the finger print card and back round check?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "545560d9-4a3c-4f57-8c59-f71d6a297369",
+    "data": [
+      {
+        "text": "Pay for ivp card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bb7a131-27cd-402a-9864-32094cceb1e9",
+    "data": [
+      {
+        "text": "I have to get my digital fingerprint where is the link to pay for that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d59756f9-745e-453d-b2d6-a766400c4c99",
+    "data": [
+      {
+        "text": "Did not pay for it yet just created account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f55cbd69-d11c-4483-81d8-65ba473be771",
+    "data": [
+      {
+        "text": "I applied but did not pay!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef45053-92bb-473d-9b57-3f77138e0164",
+    "data": [
+      {
+        "text": "I submitted the application, but did not pay for the card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0acc261-e107-4296-b18e-33f1b6edb0a9",
+    "data": [
+      {
+        "text": "Hi, can a finger print card be process on line by paying with bank transfer rather then mailing money orders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adaa0c92-b7e7-4566-b2de-bb2ebfb0e9a8",
+    "data": [
+      {
+        "text": "If my employees get there fingerprint\u0027s electronically. Is there a way we can ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for there fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f663cd5-54ff-4691-8000-4b6dac1e2b7f",
+    "data": [
+      {
+        "text": "Changing from Unarmed to Armed guard license. Class is complete, which fee do I need to pay? the Upgrade card or the new armed card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a15d67-078b-484b-aae0-27feaa79304a",
+    "data": [
+      {
+        "text": "How can I pay and get the accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b471febf-a68c-4e8c-b5b5-ccb9457136c0",
+    "data": [
+      {
+        "text": "Hi, I\u0027m trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " a dealer application license fee. can you tell me where to go on website to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9292355a-b7c2-42cf-b82d-bfbc6fed22b6",
+    "data": [
+      {
+        "text": "I don\u0027t know where to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " and submitted clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e70655f5-5e98-43fe-8a3b-be0d0b4248e9",
+    "data": [
+      {
+        "text": "Where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my records request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "547881a6-779e-40b4-843d-ab180dabad23",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " the fee to get my renewal card. How can I do this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5ae0935-feef-4705-ba36-bdcfb369db58",
+    "data": [
+      {
+        "text": "My card status is valid but I need to pay the ",
+        "userDefined": false
+      },
+      {
+        "text": "$5",
+        "userDefined": false
+      },
+      {
+        "text": " renewal fee. How do I do it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48c2d329-43ef-4889-a87e-cf7c2de88268",
+    "data": [
+      {
+        "text": "I am trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " online for a police report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30d450a8-3ac0-435e-9213-f04ab75f35cd",
+    "data": [
+      {
+        "text": "Need to pay for my request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d786910-d058-474a-b17b-f9671839d403",
+    "data": [
+      {
+        "text": "I am trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " an invoice for a public records request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fa0c315-d7bc-4184-9d92-38f8adb73593",
+    "data": [
+      {
+        "text": "It\u0027s making me ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72241080-bd22-4b8e-9b87-54c57d0341a8",
+    "data": [
+      {
+        "text": "My card status is valid but I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "$5",
+        "userDefined": false
+      },
+      {
+        "text": " renewal fee. How do I do it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a490917d-d499-4531-8001-d4bee0bf2f35",
+    "data": [
+      {
+        "text": "How do I get the \"",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "\" icon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47a76198-b09f-4a7b-808d-3076c333eb83",
+    "data": [
+      {
+        "text": "how to submit and ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fae8030f-ebbe-47d1-b2cf-f1a2f0a79851",
+    "data": [
+      {
+        "text": "How can I pay for my renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1276e393-87f5-44cd-bea2-9b99509976f9",
+    "data": [
+      {
+        "text": "Once the ",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " is paid, how soon before we get the report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e338ac-7ec2-451a-889e-0dff96211da5",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " online for my items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dcbeab8-1046-4144-bf24-28989e5f01b6",
+    "data": [
+      {
+        "text": "how to submit a ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c06ad0bb-8724-45e4-86aa-099959e0ee52",
+    "data": [
+      {
+        "text": "procedure to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aeda7b5-14c1-471d-b5d1-62337df67ccd",
+    "data": [
+      {
+        "text": "help me to make payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ba1f8b-83c3-43d5-8e2c-0aab3d282522",
+    "data": [
+      {
+        "text": "facing issues in submit a ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee34a39f-292a-43ed-83f7-507ad5a13e3c",
+    "data": [
+      {
+        "text": "How do I make my ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a71d4502-d1ef-442f-8e6f-efebe98c74fe",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my renewals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8329532e-74fc-4508-be45-9d210e95ebfe",
+    "data": [
+      {
+        "text": "Where can I submit my ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a50ba3e0-c432-4749-b73d-d762c2e409bc",
+    "data": [
+      {
+        "text": "Can I make a payment for my ",
+        "userDefined": false
+      },
+      {
+        "text": "invoices",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": true
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d93fec0-e5cc-4d56-a760-bce6bfc34831",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " (make a payment, submit a ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": ") online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41c5673d-9f2a-4740-af29-aab5a133b44b",
+    "data": [
+      {
+        "text": "Where do I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my items (",
+        "userDefined": false
+      },
+      {
+        "text": "invoice",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": true
+      },
+      {
+        "text": ")?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce585d88-a862-46be-be02-b6af09d43d40",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my items?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

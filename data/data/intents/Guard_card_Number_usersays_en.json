@@ -1,0 +1,826 @@
+[
+  {
+    "id": "f539a0af-c177-4e6c-a88c-bd5992c60288",
+    "data": [
+      {
+        "text": "I cannot find the agency license number on my unarmed guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16270d18-dd89-445c-9f57-fb889e04ec96",
+    "data": [
+      {
+        "text": "Check my guard court license.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b5e663-ab91-435a-aeda-1c5adc9e79fe",
+    "data": [
+      {
+        "text": "What if you didn\u0027t know what your license number for your guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27918331-50b0-4635-a389-ebbfe6dbab10",
+    "data": [
+      {
+        "text": "Guard card",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "848b2f1f-c557-4f0c-82d5-b74907d72eec",
+    "data": [
+      {
+        "text": "i don\u0027t have either of the ",
+        "userDefined": false
+      },
+      {
+        "text": "numbers",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      },
+      {
+        "text": " though",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777ca123-6723-4a15-ab33-8139bb307188",
+    "data": [
+      {
+        "text": "I have a new employee who just recently had his finger prints taken for a new job, either at the end of last year or early ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "userDefined": false
+      },
+      {
+        "text": ", but his card was mailed directly to the new company and he never saw it. How do we find his card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2e27458-cae7-413e-bdec-f609df1cdef4",
+    "data": [
+      {
+        "text": "what is the card ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      },
+      {
+        "text": " for fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40030c85-c443-424e-b9bf-6534d0ce7904",
+    "data": [
+      {
+        "text": "How to get ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f0a02a6-bbcf-4d6d-87f5-25cd84661a4f",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e404664-f316-4a64-a74e-798427752680",
+    "data": [
+      {
+        "text": "Guide me to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2618f0a-e31b-446f-9a37-79dcf6cea932",
+    "data": [
+      {
+        "text": "Where is my ",
+        "userDefined": false
+      },
+      {
+        "text": "guard",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "046fc64d-7f5f-4161-8194-d864724841b8",
+    "data": [
+      {
+        "text": "By any chance, can i see my ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "598e8e0a-d3c2-4598-bad7-82cc4de7d2b9",
+    "data": [
+      {
+        "text": "I would like to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6457e9f-19bc-423b-b4ce-c34b2dc86709",
+    "data": [
+      {
+        "text": "Is there any way to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8941cb18-363e-4dea-85ac-35f272299fb9",
+    "data": [
+      {
+        "text": "Need help to find ",
+        "userDefined": false
+      },
+      {
+        "text": "gurd",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebab0447-8d67-4457-9880-0355b1b11784",
+    "data": [
+      {
+        "text": "Help me to finf my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bb3f16b-6601-4c83-9f88-fd44e73b7b48",
+    "data": [
+      {
+        "text": "Need ",
+        "userDefined": false
+      },
+      {
+        "text": "Gurd number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "182fa27c-8c62-4245-900e-964f69bc0fc5",
+    "data": [
+      {
+        "text": "how do i get my ",
+        "userDefined": false
+      },
+      {
+        "text": "Guard number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da8beb1a-002a-4003-89dc-a8d22044d346",
+    "data": [
+      {
+        "text": "Where is my sg#",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7917adeb-5785-4251-94c5-290cbdc46b82",
+    "data": [
+      {
+        "text": "What is my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f80467-fedc-46c7-aa71-73b156d0ca97",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f85c6201-477e-4a2f-a467-01c492d6ded3",
+    "data": [
+      {
+        "text": "Guard card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bc7d5ee-46f1-45d9-9022-cef75351c95d",
+    "data": [
+      {
+        "text": "Where to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f019af9-28b9-466a-9fc2-feded5153037",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "gurad card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f20e2c-7318-461f-a1ad-054ee32e0df3",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "SG number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3db3c7-eb95-4ccd-9f32-9dae72804399",
+    "data": [
+      {
+        "text": "Guard card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f69e694-e780-4442-ab5c-0e66648b38c7",
+    "data": [
+      {
+        "text": "I need to know where is my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee509eb-69b8-4dfc-8d41-d008b713076b",
+    "data": [
+      {
+        "text": "GIve me more info about ",
+        "userDefined": false
+      },
+      {
+        "text": "sg number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b14414f-a0c0-4c17-b08b-6f5a87061dc2",
+    "data": [
+      {
+        "text": "My SG number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59991f2d-75e0-46e2-ab42-d3c5ce8d4708",
+    "data": [
+      {
+        "text": "where to know ",
+        "userDefined": false
+      },
+      {
+        "text": "guard number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7802021-998b-4c19-bdb0-6416cb6d8822",
+    "data": [
+      {
+        "text": "I have forgot my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg",
+        "userDefined": false
+      },
+      {
+        "text": " number, help me in finding that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b078ff0a-d9b1-4450-9659-5dbb31b6dd2b",
+    "data": [
+      {
+        "text": "Where do i find ",
+        "userDefined": false
+      },
+      {
+        "text": "guard card number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62f09d22-c983-4b34-9585-631657741044",
+    "data": [
+      {
+        "text": "Where to get ",
+        "userDefined": false
+      },
+      {
+        "text": "sg number",
+        "meta": "@guard_card",
+        "alias": "guard_card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f429148-22f1-48fb-92f9-2f1ae5d25183",
+    "data": [
+      {
+        "text": "Need my guard number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3840e0df-33cc-4386-bfa2-2646d88e84d8",
+    "data": [
+      {
+        "text": "How to find my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "453643e1-1875-40c1-8652-6b426d193f32",
+    "data": [
+      {
+        "text": "Help me in finding my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75cfdef1-4113-4899-9653-408c65bc65dd",
+    "data": [
+      {
+        "text": "Is it possible to find my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04191c5c-04b1-45ab-a2c1-6712b9f617ae",
+    "data": [
+      {
+        "text": "Trying to search my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12256260-4ea9-483c-bacc-2503de0d59f3",
+    "data": [
+      {
+        "text": "I forgot my card number,how to find",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acb86393-413d-493a-841b-1c7609792075",
+    "data": [
+      {
+        "text": "Can i know my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4dc373-894b-42a3-874f-223b2781ae3b",
+    "data": [
+      {
+        "text": "Need to know my guard card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "723f38df-69d2-472f-b451-4dd2df37f63f",
+    "data": [
+      {
+        "text": "How do I find my guard ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      },
+      {
+        "text": " number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

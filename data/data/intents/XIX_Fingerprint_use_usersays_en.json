@@ -1,0 +1,293 @@
+[
+  {
+    "id": "fb2987fc-58ab-4902-af2f-19876e497d4e",
+    "data": [
+      {
+        "text": "What do I do with my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6977daf1-739b-417d-a4fe-661392f496ff",
+    "data": [
+      {
+        "text": "What is a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc887d4c-f541-4e06-94e3-4bc624fdcec3",
+    "data": [
+      {
+        "text": "Why are you taking my fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcf799dc-382d-42e7-83a6-24d2ed2f97f5",
+    "data": [
+      {
+        "text": "Is my ",
+        "userDefined": false
+      },
+      {
+        "text": "biometrics",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " going to be used to track my criminal history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9b83060-271e-466d-9bb2-dbba1ccb5153",
+    "data": [
+      {
+        "text": "what is the use of ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " and for what it will be used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c21804e7-ce1d-490e-8001-d39d6479a662",
+    "data": [
+      {
+        "text": "Why thumb print is required",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1539efa2-cec9-4d28-b425-98547f4e31d3",
+    "data": [
+      {
+        "text": "There will not be any mis-usage of thumbprint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e162648-8b18-4e3a-adf5-4fdefd47695f",
+    "data": [
+      {
+        "text": "May I know my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3b8ae6c-0161-4414-921f-6f54515606a4",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "biometrics",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " were taken by DPS I am curious to know how its gonna be used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50694443-3af1-419b-afa2-fa49cbd01e42",
+    "data": [
+      {
+        "text": "I would like to know where my ",
+        "userDefined": false
+      },
+      {
+        "text": "biometrics",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " are going to be used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e38d886-2209-42c2-9d7b-d318d845161c",
+    "data": [
+      {
+        "text": "Why do DPS need my ",
+        "userDefined": false
+      },
+      {
+        "text": "thumbprint",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93ff5c48-0588-40fe-a195-c9920ea385c3",
+    "data": [
+      {
+        "text": "I want to know where my ",
+        "userDefined": false
+      },
+      {
+        "text": "biometrics",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": true
+      },
+      {
+        "text": " are gonna be used?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "361adbb8-1432-442e-8c12-bda6852949ac",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": true
+      },
+      {
+        "text": " for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c230171-a271-468f-972e-aa6d0de3bf42",
+    "data": [
+      {
+        "text": "Why do I need ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e69ce19b-2958-43b4-acb4-5bc915c84c2d",
+    "data": [
+      {
+        "text": "What will my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprint_usage",
+        "alias": "Fingerprint_usage",
+        "userDefined": true
+      },
+      {
+        "text": " be used for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

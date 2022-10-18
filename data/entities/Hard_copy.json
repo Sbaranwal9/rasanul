@@ -1,0 +1,9 @@
+{
+  "id": "bdd2ccfb-6009-424e-a262-842dc7b8dd2b",
+  "name": "Hard_copy",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

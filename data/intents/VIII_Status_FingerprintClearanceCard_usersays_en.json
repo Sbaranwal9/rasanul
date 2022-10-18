@@ -1,0 +1,54 @@
+[
+  {
+    "id": "4bb12bd7-5825-45b9-8ce3-a9dce31bb2c1",
+    "data": [
+      {
+        "text": "II_Status_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93a75484-cc64-4434-aa0d-7c4f45a43f05",
+    "data": [
+      {
+        "text": "III_Status_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "005aa524-59ff-4970-88d4-f280a43a1834",
+    "data": [
+      {
+        "text": "VIII_Status_FingerprintClearanceCard.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83088bef-35cc-4914-9c7b-49a27e1df451",
+    "data": [
+      {
+        "text": "VIII_Status_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

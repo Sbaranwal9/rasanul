@@ -1,0 +1,58 @@
+[
+  {
+    "id": "eb3d1457-c103-476e-a3a0-b9621a3dadf5",
+    "data": [
+      {
+        "text": "IX_Live_Agent_DRU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ef60a16-7511-401c-9d7c-7571aa8b43ea",
+    "data": [
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "Live_Agent_DRU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07760664-5bb5-4255-8176-f8bdfcd7faea",
+    "data": [
+      {
+        "text": "XLIX_Live_Agent_DRU.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "195f5671-05c9-44a1-afa1-d8dfcded073e",
+    "data": [
+      {
+        "text": "XLIX_Live_Agent_DRU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

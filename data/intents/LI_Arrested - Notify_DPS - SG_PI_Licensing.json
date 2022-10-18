@@ -1,0 +1,36 @@
+{
+  "id": "616bf1a1-6271-40a1-b5e1-201b38da890f",
+  "parentId": "ce4b5057-623d-425d-8a75-8e0efc1a10e5",
+  "rootParentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "name": "LI_Arrested - Notify_DPS - SG/PI_Licensing",
+  "auto": true,
+  "contexts": [
+    "LI_Arrested-Notify_DPS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LI_Arrested.LI_Arrested-custom.LI_Arrested-Notify_DPS-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

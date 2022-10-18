@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3f5caa30-11b5-4c28-8707-ddbd272b2040",
+    "data": [
+      {
+        "text": "fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c95f5c44-4b26-4473-aec9-6cd284608b2e",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

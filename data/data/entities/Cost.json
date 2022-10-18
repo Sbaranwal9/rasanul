@@ -1,0 +1,9 @@
+{
+  "id": "63d0ed69-801d-48e5-93e9-8425d73f27c5",
+  "name": "Cost",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

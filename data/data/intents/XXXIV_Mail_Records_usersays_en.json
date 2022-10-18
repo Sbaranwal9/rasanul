@@ -1,0 +1,351 @@
+[
+  {
+    "data": [
+      {
+        "text": "Could you please mail my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " to my residence?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "procedure to get ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " through post/online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "how can I request my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " to get it through online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0276ba53-4362-4312-88d3-9ce7c38ef5df",
+    "data": [
+      {
+        "text": "May I request ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " DVD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d32a9c29-7980-4df0-8d8f-602c2501440e",
+    "data": [
+      {
+        "text": "Can I access my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ec2352e-5206-4234-b3f8-b3ea07989392",
+    "data": [
+      {
+        "text": "Is it possible to ship my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6579a3-366b-4e5b-9a77-1382fd023f6b",
+    "data": [
+      {
+        "text": "Can I get my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " through courier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e95cbab-0553-4175-adbf-f9a7bc1860b7",
+    "data": [
+      {
+        "text": "Can I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " to my ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@Email_Records",
+        "alias": "email_records",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "187a7719-1671-4bca-b611-7ce64d252cbe",
+    "data": [
+      {
+        "text": "Is it possible to send all the ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " through ",
+        "userDefined": false
+      },
+      {
+        "text": "mail",
+        "meta": "@Email_Records",
+        "alias": "email_records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "999c54a9-ff44-44c8-a93c-d17b40193d51",
+    "data": [
+      {
+        "text": "how can I get my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff106c22-8164-475d-a599-f456f2a533eb",
+    "data": [
+      {
+        "text": "what form will my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " be in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49446be3-c4e7-49c5-9cd0-3a41c9d50981",
+    "data": [
+      {
+        "text": "why wont dips ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@Email_Records",
+        "alias": "email_records",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e874d482-77e8-4102-9818-595dc559d7cf",
+    "data": [
+      {
+        "text": "can I get all my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " via ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@Email_Records",
+        "alias": "email_records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cecd392e-b851-44da-99b5-df3015b1b8e4",
+    "data": [
+      {
+        "text": "Why can\u0027t some ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "emailed",
+        "meta": "@Email_Records",
+        "alias": "email_records",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "a2774ec8-da91-4d8d-b0d4-b05d604d8b02",
+    "data": [
+      {
+        "text": "was it sent to the right address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b05a82f7-4756-4d6a-b732-e37c90471703",
+    "data": [
+      {
+        "text": "can you tell me the address it was mailed to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4380f065-c552-4d87-83aa-f1dccc51a869",
+    "data": [
+      {
+        "text": "I\u0027m wanting a replacement Guard card but I would like to ensure it\u0027s sent to the correct address. How would I know it\u0027s being sent to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da3712c2-cb30-4e2e-81b8-e04d522c0cef",
+    "data": [
+      {
+        "text": "I\u0027m planning to leave for Prescott around July 5th. Could you send my fingerprint packet to me in Los Angeles by then?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c2c60ed-0a51-441d-b610-e580fb65154a",
+    "data": [
+      {
+        "text": "how can I find out what address my fingerprint card was mailed to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6700885-0192-413d-8108-211b1d91483f",
+    "data": [
+      {
+        "text": "I just want to make sure my fingerprint card is getting sent to the correct address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0b88789-5cef-4210-8741-2533c8b49b45",
+    "data": [
+      {
+        "text": "I would like to order a fingerprint card kit to my house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "732108cb-09d2-45ae-a2e8-875c3d8eadc6",
+    "data": [
+      {
+        "text": "I want to know if it\u0027s been mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad52ae25-70ac-407f-86b7-a0713b1010b3",
+    "data": [
+      {
+        "text": "Where did you mail my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c745bf3-6783-4472-8f9a-f177fc0b9937",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a46630f8-24c6-45b0-a23a-99a9cb4aa2e2",
+    "data": [
+      {
+        "text": "Hi,\n I am from Minnesota but have been living here for ",
+        "userDefined": false
+      },
+      {
+        "text": "the last 6 months",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ".  Should I put my ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " here or ",
+        "userDefined": false
+      },
+      {
+        "text": "Minnesota",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " where my drivers license says",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8890a3f-1d2a-43c2-ad1e-1da5e773e524",
+    "data": [
+      {
+        "text": "Delivery request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8233dea-6af6-46eb-948a-4beaed52ada2",
+    "data": [
+      {
+        "text": "where is my packet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68214af3-94ac-47e5-bc20-cb0c39557208",
+    "data": [
+      {
+        "text": "I haven\u0027t authorization number do I need to do anything else to receive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e2fd12-2a4d-44cc-9c88-9e5f2f58a2d9",
+    "data": [
+      {
+        "text": "Where do I need to go to get my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a523a659-b78a-4893-9a33-aea986a01cb0",
+    "data": [
+      {
+        "text": "Can I check to see if my fingerprint card has been mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c14f084e-1520-4e5a-8754-57ea70c66063",
+    "data": [
+      {
+        "text": "I applied and had my fingerprints taken.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27829c44-2c5e-4362-8402-1b51af512370",
+    "data": [
+      {
+        "text": "Hello, I am looking for the address to send fingerprint clearance card applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8059845-60ab-40a8-981d-27a708307677",
+    "data": [
+      {
+        "text": "My card never arrived",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4bff470-733a-4466-96aa-5885e3fb5335",
+    "data": [
+      {
+        "text": "What mailing ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " do you have on file for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3374683-dc32-4602-b60c-043598a45842",
+    "data": [
+      {
+        "text": "I am already applying but having difficulty with mailing ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9921f221-6b58-4c22-b421-a1dac7c9ddc8",
+    "data": [
+      {
+        "text": "Do you guys only send hard copies for the fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac11ff6-e795-47dd-97da-22b356ee74b6",
+    "data": [
+      {
+        "text": "How can I have a fingerprint clearance license application mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1968cc9c-c116-4bc6-92c0-f5df8aa9275f",
+    "data": [
+      {
+        "text": "where am I receiving my fingerprint clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3395e56-f9e5-40e5-9764-43cfc2bac840",
+    "data": [
+      {
+        "text": "How can I advance on to the payment area and make sure they are going to mail the card to my (actual) home address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1214dbe4-ef16-4ad5-8cbd-ff90144c7fd9",
+    "data": [
+      {
+        "text": "Hello what is the website to find a place to be fingerprinted at",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cb5d064-f66a-4050-b8a9-9315c04e7c18",
+    "data": [
+      {
+        "text": "Address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e161687e-0982-4849-bbcd-2c4c5e4c9bcc",
+    "data": [
+      {
+        "text": "Address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " to which card has been sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ecbd8c1-68e0-4bef-be7a-11c4223105ed",
+    "data": [
+      {
+        "text": "Card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " sent ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a057b5a8-24f8-4df0-bcd6-b207d0631fce",
+    "data": [
+      {
+        "text": "My card sent to which address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b63215d6-ddcc-4754-b5ed-b30e8e58985a",
+    "data": [
+      {
+        "text": "May i know to which address my card was to sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f931b458-b07c-41d6-bc7a-a73d8e13cf3c",
+    "data": [
+      {
+        "text": "I want to know the delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dc17d0f-872c-40e8-959c-9c550274cf30",
+    "data": [
+      {
+        "text": "To which address my card is delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7531e82-9919-413a-b57d-80bd95d21ec5",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mentioned in my card deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f864bc02-4592-4ee0-a596-cf23961bfdc9",
+    "data": [
+      {
+        "text": "To which ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " is my card sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efe673c5-e135-4711-975b-272405ce3caf",
+    "data": [
+      {
+        "text": "From where I can collect my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dfd64ab-cfb8-4fc8-bb18-cb2d73be336d",
+    "data": [
+      {
+        "text": "Please send the card to my mailing ",
+        "userDefined": false
+      },
+      {
+        "text": "Address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c9c4485-dfe7-46d0-b9d6-a26e95a68865",
+    "data": [
+      {
+        "text": "Tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " used for my card to deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6280c03-3f44-4262-b927-91a468d7f6ee",
+    "data": [
+      {
+        "text": "My card address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0084eba6-56d5-42dd-82f6-fce2c44a082c",
+    "data": [
+      {
+        "text": "Tell me the address for collecting my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a5680a8-bd9d-4da4-ba41-a2b6579adf92",
+    "data": [
+      {
+        "text": "Where can I collect my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95890530-778a-4d94-8ac3-2ce3773f4ac3",
+    "data": [
+      {
+        "text": "Tell me the card delivary ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ded278cf-890b-41e5-9d3e-b97093cdc462",
+    "data": [
+      {
+        "text": "where\u0027s my card being delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccbfddf2-5b0e-43e7-89b4-c34d7e1f0559",
+    "data": [
+      {
+        "text": "where are you mailing my card to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5182f91-076c-4493-9078-768fed9689e6",
+    "data": [
+      {
+        "text": "Card delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0ebac3c-98dc-4fe5-9c6c-5fc405dd3491",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " used for my card to deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7335efdd-e53a-4cab-ac16-601c04e5aafe",
+    "data": [
+      {
+        "text": "How do I find the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " of my card delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a3c6c2-f738-4e05-946f-03708a5f0244",
+    "data": [
+      {
+        "text": "Where my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f04c8622-d178-4aa1-9acf-8f73a7598201",
+    "data": [
+      {
+        "text": "For which my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b8e0593-fd02-4bb7-b022-47ce8cb31dc5",
+    "data": [
+      {
+        "text": "Card mailing ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84e1ce67-d656-402f-b6bf-9da7f17e68d1",
+    "data": [
+      {
+        "text": "Card will be sent to which address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e45184-2c38-4fed-b44d-3a294ef169ab",
+    "data": [
+      {
+        "text": "To which address will my card be sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d0b4cfa-51a7-4170-89b1-469a4412a73f",
+    "data": [
+      {
+        "text": "Where will my card be sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1398b836-833b-49dc-8bcb-3df1e997dd15",
+    "data": [
+      {
+        "text": "Where is my card sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99d469b9-c74f-4aba-a691-8de105efaaa9",
+    "data": [
+      {
+        "text": "Where can I expect my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9645b7c2-2fb0-4e7c-9418-2517ddc73f7a",
+    "data": [
+      {
+        "text": "To which address my card is sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35d8d68e-a8a5-4c98-a123-0f36ffec57a3",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " may card is sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5c7aec8-a839-46df-a969-09a40d78f0a5",
+    "data": [
+      {
+        "text": "Address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " of my card to be reached",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b881cda-3c98-4eb0-b6df-5cf8f97e96ba",
+    "data": [
+      {
+        "text": "Delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " of card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e0ba70-b16d-415c-bcf0-805ffe8c5a93",
+    "data": [
+      {
+        "text": "Can you please tell me to what address my card will be sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0c4303a-06c6-40d2-a790-f981caa727b7",
+    "data": [
+      {
+        "text": "To which address, my card will be sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "062c783b-0ddd-4829-9468-26b722b7c4d2",
+    "data": [
+      {
+        "text": "Where can I expect the card to be delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dbc2f30-f414-4981-adc1-ddb61454236d",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " was my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

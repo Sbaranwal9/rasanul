@@ -1,0 +1,36 @@
+{
+  "id": "e76f5a78-14d2-49e9-9692-90e3709b97fa",
+  "parentId": "f413221c-263d-44ab-af7c-9cdf3c830a8f",
+  "rootParentId": "f413221c-263d-44ab-af7c-9cdf3c830a8f",
+  "name": "LVII_Submit_and_Pay - SG/PI_License",
+  "auto": true,
+  "contexts": [
+    "LVII_Submit_and_Pay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LVII_Submit_and_Pay.LVII_Submit_and_Pay-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

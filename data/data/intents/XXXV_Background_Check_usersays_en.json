@@ -1,0 +1,453 @@
+[
+  {
+    "id": "cf3473e4-f73c-4db3-b24f-f81a4e0eb310",
+    "data": [
+      {
+        "text": "hello after you pay for back ground check how long does it take to get the report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d66b4d1-cad8-41ea-98bb-74a9ba3108d9",
+    "data": [
+      {
+        "text": "Hi! So I just got my confirmation number for my fingerprint clearance card. How do I schedule a ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      },
+      {
+        "text": "/ get finger printed from there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f53184ab-e2c7-454c-82c3-fcb81b051dc0",
+    "data": [
+      {
+        "text": "Is there a way for me to look up a employees information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ace6abf-06d2-4a23-8d60-8c60fa99dc49",
+    "data": [
+      {
+        "text": "I need to find out about a speeding ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6e9d5f7-950b-4f1e-83b8-27eda6c3a06f",
+    "data": [
+      {
+        "text": "Hi. Im new to the system and I\u0027m trying to access ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "userDefined": false
+      },
+      {
+        "text": " reports for my employees.  How do I complete the report request if I don\u0027t have an event date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0725bb63-3d5d-4cfe-a433-bbb189bc6c66",
+    "data": [
+      {
+        "text": "Where can I get a finger print ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      },
+      {
+        "text": " done.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2a3ad9f-cd29-417f-8dae-7a05448e2e0a",
+    "data": [
+      {
+        "text": "Search my public criminal record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42ecc4e8-23a6-4279-8115-318eac2d3305",
+    "data": [
+      {
+        "text": "No web site for criminal history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9252e7ae-c87d-400a-8b74-b5c5db2c1ac0",
+    "data": [
+      {
+        "text": "is there anyway that I can see my report about my background?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a5a4d6d-ba52-4898-a1e2-bed17015082e",
+    "data": [
+      {
+        "text": "Checking personal history for job search.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cfa381e-aa57-40b5-8559-7c7f2cf9b2d1",
+    "data": [
+      {
+        "text": "how do I request a background packet for someone else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8d0604e-c030-43f5-b515-dc17c9eb726e",
+    "data": [
+      {
+        "text": "My fingerprints got sent into dps and they were supposed to do a ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "userDefined": false
+      },
+      {
+        "text": " im just wondering how to check that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e194681-fc6f-4635-af0c-6d92f03fe2b4",
+    "data": [
+      {
+        "text": "HOW CAN I OBTAIN MY CRIMAL BACKGROUND",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e00b703-3777-4a02-ba43-742dbe715c81",
+    "data": [
+      {
+        "text": "Need to run ",
+        "userDefined": false
+      },
+      {
+        "text": "Background Checks",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ddf201-01b3-4800-b530-caae65c21f7b",
+    "data": [
+      {
+        "text": "I just need to run backgrounds for employment is this the website for that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cecc1bdd-a7f8-4a4a-8d86-8b8722760ea2",
+    "data": [
+      {
+        "text": "Nee a copy of a warning by a state trooper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a242aec-5eb2-47c2-8614-be963e7f904b",
+    "data": [
+      {
+        "text": "I am an employer . how to start to get a back ground check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f654521c-0ca1-43cb-bb20-17499871c330",
+    "data": [
+      {
+        "text": "Looking for criminal record for employee to get cleared in childcare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1392958c-bb35-4621-8796-a5019c3fccae",
+    "data": [
+      {
+        "text": "I need help  with getting ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      },
+      {
+        "text": " register and fingerprint card. where is application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59700a32-2178-41ec-abed-1cc608b1fa8c",
+    "data": [
+      {
+        "text": "I would like to obtain my criminal records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b16f674-b989-40a5-983a-b1289f2a70b0",
+    "data": [
+      {
+        "text": "may I know the procedure to do ",
+        "userDefined": false
+      },
+      {
+        "text": "background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca52d904-2454-4848-bfea-0f4517396a3b",
+    "data": [
+      {
+        "text": "how to find out my criminal background",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc404a38-2839-4724-9038-1e0a20261d97",
+    "data": [
+      {
+        "text": "How can I do my ",
+        "userDefined": false
+      },
+      {
+        "text": "criminal background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f068ba1-ffba-402d-a688-e921c29ef4bc",
+    "data": [
+      {
+        "text": "What is the criteria for ",
+        "userDefined": false
+      },
+      {
+        "text": "criminal back ground check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91b07e5e-ccf4-4cc3-aef7-f5fff0ad74b7",
+    "data": [
+      {
+        "text": "do I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "criminal background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffaf62f4-3487-4a5c-81e7-2741867c7749",
+    "data": [
+      {
+        "text": "How do I know if I need to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "criminal background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bff64c4-09cb-431e-b11e-22a4dfc2033b",
+    "data": [
+      {
+        "text": "Can you help me find out if I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "criminal background check",
+        "meta": "@Criminal_Background_Check",
+        "alias": "criminal_background_check",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

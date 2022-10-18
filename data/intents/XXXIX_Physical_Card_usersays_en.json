@@ -1,0 +1,1547 @@
+[
+  {
+    "id": "5be8b230-80ce-4fc4-b066-857b0d3251a7",
+    "data": [
+      {
+        "text": "when the fingerprint done, are they sending by mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74379c42-4364-4a24-93d9-dde8ba2ee046",
+    "data": [
+      {
+        "text": "Where is my fingerprint clearance card being delivered to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a23ad0d6-c06e-4ed8-b51d-aba38bda8dbb",
+    "data": [
+      {
+        "text": "will my replacement card be mailed to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef0af239-6088-4126-a6f6-6e300fa51c8c",
+    "data": [
+      {
+        "text": "Is the AZDPS send the clearance card by the address provided?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7781c338-0f12-4263-9fc8-bba94056f6f0",
+    "data": [
+      {
+        "text": "Where does fingerprint card get sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "657c06a3-1140-4658-b744-f365e77ae7cb",
+    "data": [
+      {
+        "text": "does the card go to our house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8a0a4b7-9709-439c-911a-7bf6e243cf1a",
+    "data": [
+      {
+        "text": "I just checked the status of my fingerprint clearance and it says valid, with my new card number. Will the card be mailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c8d0e04-8e5e-4866-bb95-286dc5c43caf",
+    "data": [
+      {
+        "text": "Hi I need my fingerprint clearance card sent to a different address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4cf02d8-1f1b-472d-9ef2-b7ef4e0fdbc1",
+    "data": [
+      {
+        "text": "Will I be getting something in the mail from you all ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47141f68-24cc-4fdd-a5ce-392ed4c6b695",
+    "data": [
+      {
+        "text": "i already applied i just need a packet sent to my ",
+        "userDefined": false
+      },
+      {
+        "text": "house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dbfc0cb-e39f-40e6-abdf-a7643812d7a5",
+    "data": [
+      {
+        "text": "Is an IVP packet being mailed to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7239a6c-37de-4f78-b612-ae5ace332b40",
+    "data": [
+      {
+        "text": "Can you please send my card the Department of Education?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be8a9ac9-f795-4254-a928-7ec877fe671d",
+    "data": [
+      {
+        "text": "Will my replacement fingerprint clearance, card be automatically mailed to me once I\u0027ve paid??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d875edf-6c53-48a1-a56a-bbc3f40a1a90",
+    "data": [
+      {
+        "text": "I have applied. Can you send a packet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1db6f709-db37-45a5-b8dc-ed5e242a0894",
+    "data": [
+      {
+        "text": "Now that my fingerprint clearance card application was processed \u0026 issued, will I be getting something in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da846d0a-c4ff-4590-ad68-482e6af59135",
+    "data": [
+      {
+        "text": "How do I know if I\u0027m going to be sent an IVP packet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de0a763d-fa4a-4354-8d21-fe024396cbef",
+    "data": [
+      {
+        "text": "The fingerprint card mailed to me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20c51bcf-5b26-4235-b124-03493f9f5acb",
+    "data": [
+      {
+        "text": "How can I know when my finger card will be sent back to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7a079be-d17d-4dc3-b727-a57ca2ed5153",
+    "data": [
+      {
+        "text": "Clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " mail delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bad4614-c9b1-4886-bb79-c6abcd1e921f",
+    "data": [
+      {
+        "text": "Hello I was wondering if I could receive an electronic version of my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a611e90-092a-4285-8cf1-19f60e1ca9ad",
+    "data": [
+      {
+        "text": "Once I have the fingerprint card completed am I supposed to mail it in myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0854fcb-ac24-4d1c-9912-69b9295fd148",
+    "data": [
+      {
+        "text": "need to have my clearance sent to my address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3f4b07c-9fbd-4ff2-8c87-d7be8e3ce2ea",
+    "data": [
+      {
+        "text": "I already applied and need the IVP packet mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88448235-da76-4d0b-9dfe-3b518e674604",
+    "data": [
+      {
+        "text": "How do I receive finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "029368eb-3399-4fcb-95f5-6c54cc3ebae0",
+    "data": [
+      {
+        "text": "no I need the actual physical card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9835c401-69d9-47a4-940f-b353e87b3f1a",
+    "data": [
+      {
+        "text": "Clearance card in mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22e4817f-3322-41bf-b333-2a7694bc3b18",
+    "data": [
+      {
+        "text": "NEED fingerprint clearance cards sent to my address. Lester Ackerman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b2aa6d4-6032-4e1d-a512-e3a6c6c28361",
+    "data": [
+      {
+        "text": "Can I have my fingerprint clearance card sent to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "691ffbf1-ab90-4cb1-8f0d-16b78803cf3d",
+    "data": [
+      {
+        "text": "I just applied for my fingerprint card and just want to make sure my card gets mailed to the P.O. box not the physical address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57f4e4ed-4701-444f-ab92-2f489a602cab",
+    "data": [
+      {
+        "text": "was wondering do you ship my  guard card or do I come to a dps office I purchased one online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e323a654-d398-4866-a723-01c474a774cf",
+    "data": [
+      {
+        "text": "Hello I was issued a fingerprint clearance card and was wondering how I would receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8857aba0-3426-4270-ab40-f347fbd583d2",
+    "data": [
+      {
+        "text": "How do I get the FD-258 card mailed to my home address? I need it to obtain my social work license in Arizona.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c755e48-fa89-4203-93a8-8961344ee963",
+    "data": [
+      {
+        "text": "Can my fingerprint clearance card my physically mailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4a269f9-93cb-4418-b723-f8b83d556f21",
+    "data": [
+      {
+        "text": "I need an IVP packet mailed to me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17c1512e-c200-4b2d-8728-134bad9f0087",
+    "data": [
+      {
+        "text": "I have question on mailing of the Fingerprinting Clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2577f74c-9d0c-47e7-8c33-c26edb54031d",
+    "data": [
+      {
+        "text": "how do I get the physical card ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe4c4572-3d9f-47d6-95d6-2c326fe60732",
+    "data": [
+      {
+        "text": "if my fingerprints were approved, do I get a physical card ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8477f2a-a428-4a3c-9214-6235cfbbf023",
+    "data": [
+      {
+        "text": "need fingerprint card sent to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f38f23db-2c28-4a30-9f0d-6b3c81ee3cc0",
+    "data": [
+      {
+        "text": "I\u0027VE GOT MY FINGERPRINT CLEARANCE CARD APPLICATION AND WOULD LIKE THE FINGERPRINT CARDS SENT TO ME",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610d3d5d-61d8-43cf-aac3-4bcf0dcfe303",
+    "data": [
+      {
+        "text": "Are IVP fingerprint clearance cards sent via email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "217edef3-5d22-456b-a881-0e081ccefbbc",
+    "data": [
+      {
+        "text": "Can you send to me the Arizona Dept. of Public Safety Fingerprint card clearance application including the fingerprint cards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a390306-675e-4998-bf40-e57fb4d2e635",
+    "data": [
+      {
+        "text": "Is it possible to get an electronic version of the fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cf3c9b2-3798-4fa2-8ca0-8fef63753a47",
+    "data": [
+      {
+        "text": "Ok, so I should expect my renewed card in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55750481-3208-4a99-91bd-533066059868",
+    "data": [
+      {
+        "text": "Hi, after getting issued a fingerprint clearance card, does it get mailed to you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f13f58-8cfb-4af3-b4b2-c8eaa098240b",
+    "data": [
+      {
+        "text": "How do I get a copy of my finger print card application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b20600-d5b1-4531-a6c9-5afa3636870e",
+    "data": [
+      {
+        "text": "I need to request a copy of my card for a new employer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "569a9cdc-07f1-40ed-9fce-96d780a51a1e",
+    "data": [
+      {
+        "text": "Can you receive clearance cards electronically?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7495dc7-ba2b-4d3c-b9d9-3338ba5751b9",
+    "data": [
+      {
+        "text": "does the fingerprint card get mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c19fc962-200b-47ca-ad95-cb7271204f54",
+    "data": [
+      {
+        "text": "My application for fingerprint clearance card is valid. Will a physical card be sent to my home address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ada12f9-fa3e-4f66-96b4-7b25a5731dcc",
+    "data": [
+      {
+        "text": "send card to sponsor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11f099e6-2bda-4fb8-8cc1-bfe5675a3ce4",
+    "data": [
+      {
+        "text": "send to doe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "366e3f44-1ffe-4ea9-bb8b-acf93e59527c",
+    "data": [
+      {
+        "text": "Will it be send automatically to the department of real estate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c3716c-4ae8-4939-8040-0af6f21349ac",
+    "data": [
+      {
+        "text": "I need the hard copy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e868022c-47c3-467c-9e53-c72baa35afe4",
+    "data": [
+      {
+        "text": "can I pick up fingerprint card in person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4459e89e-6c49-4f0f-af6c-0c157ba50de5",
+    "data": [
+      {
+        "text": "Will my billing address be used to send my fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15883d10-fc50-4546-a082-af5eeff22463",
+    "data": [
+      {
+        "text": "IS my fingerprint card being mailed to my home address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca222351-896a-430a-bc7d-6d1dd2d3ccd6",
+    "data": [
+      {
+        "text": "Hi!  I just want to make sure that by selecting that I live out of state, that means my IVP will be mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faaeded6-5d60-4d69-830c-860f1eb85e53",
+    "data": [
+      {
+        "text": "I have applied for my card and was wondering how I receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e4470fb-c070-48f4-84e5-3bda68eae65d",
+    "data": [
+      {
+        "text": "Will I get a physical card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9428667e-958b-49be-81d6-49d7d28282e8",
+    "data": [
+      {
+        "text": "Has the pre-paid envelope been mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25c84525-bc12-4792-81d6-60bcd21f4277",
+    "data": [
+      {
+        "text": "I currently live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sacramento",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", Ca and have not move to Az as of yet. Can I get the finger prints taken here in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sacramento",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city1",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "CA",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9594a1a1-3dfb-4807-880c-08e44e1e5365",
+    "data": [
+      {
+        "text": "Hello - I am wondering how I get the physical finger print card. Is it mailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0994f186-2b47-42d1-ba6c-201053b0e889",
+    "data": [
+      {
+        "text": "how to get copy of fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64ece48e-adaa-4e92-ba95-36a643a84416",
+    "data": [
+      {
+        "text": "I need my card in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9346a4e-5411-4837-acbc-3b3e2a9f034f",
+    "data": [
+      {
+        "text": "How do I change my order to a ",
+        "userDefined": false
+      },
+      {
+        "text": "Level One card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " which I just paid for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb7f6dcd-355c-4920-8740-d855b968035b",
+    "data": [
+      {
+        "text": "Once I pay for my application for fingerprints where do I get fingerprints if I live in another state?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e52bd10c-eb26-4429-8e6f-05aa6a447a7c",
+    "data": [
+      {
+        "text": "How can I get a fingerprint application emailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa9c2cdf-1bec-4ad3-be92-1e6746d44ad6",
+    "data": [
+      {
+        "text": "do I get my fingerprint card in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "272ff9a0-fc98-4768-abc8-09d451e5d42e",
+    "data": [
+      {
+        "text": "When will the ",
+        "userDefined": false
+      },
+      {
+        "text": "hard copy",
+        "userDefined": false
+      },
+      {
+        "text": " be sent to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a8088f9-2ea3-457e-879e-684874e4c3bf",
+    "data": [
+      {
+        "text": "Do I get my fingerprint card mailed to me now that it\u0027s been issued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15dd98e3-26df-4574-9a47-55a75ed3a572",
+    "data": [
+      {
+        "text": "Where do I get the card from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28a75e3a-a900-48d2-8c3e-45005058d2af",
+    "data": [
+      {
+        "text": "My application was accepted. I need to know where I get the card from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09eec0f9-2071-4b91-a721-88e9daeed09f",
+    "data": [
+      {
+        "text": "How do I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88d44966-6f46-4698-991a-105f4c973d7f",
+    "data": [
+      {
+        "text": "Do I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " via mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40e4a73f-c4c6-421f-8079-d37929373c25",
+    "data": [
+      {
+        "text": "I need a copy of my finger print ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " but no record is found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77414d38-2240-46eb-8487-52ae21afcf6b",
+    "data": [
+      {
+        "text": "is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      },
+      {
+        "text": " physically sent us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "696be4d0-2221-4f07-9ff1-de70125ab1b0",
+    "data": [
+      {
+        "text": "\"How do I print my finger print ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance  card",
+        "userDefined": false
+      },
+      {
+        "text": " or get a copy of it\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc07dcdd-c022-42d2-ae6e-6f8ab2527b50",
+    "data": [
+      {
+        "text": "copy of ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d664f836-0768-48ff-a4b1-45360f975456",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance",
+        "userDefined": false
+      },
+      {
+        "text": " cardregistration is complete and my fees are paid.  Where can I go to get the electronic fingerprints taken?  I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Queen Creek",
+        "userDefined": false
+      },
+      {
+        "text": ". Thank You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f5a857e-6ef9-4cc7-9acd-a77aee15a7b6",
+    "data": [
+      {
+        "text": "Will the packet be emailed or mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d742f040-c773-426d-9806-61a28e8f7876",
+    "data": [
+      {
+        "text": "How do you print out the ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " results as they are not a normal format",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfaadcef-fb50-4922-925e-9f92a5f4ff9a",
+    "data": [
+      {
+        "text": "I cannot begin work without the ",
+        "userDefined": false
+      },
+      {
+        "text": "hard copy",
+        "meta": "@Hard_copy",
+        "alias": "hard_copy",
+        "userDefined": false
+      },
+      {
+        "text": ". How can I obtain it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af476023-8f56-4044-9171-e9052a886f63",
+    "data": [
+      {
+        "text": "are ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " mailed out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39b7eb4f-727d-4955-ab91-ea851e4f0f4e",
+    "data": [
+      {
+        "text": "How do I obtain a ",
+        "userDefined": false
+      },
+      {
+        "text": "hard copy",
+        "meta": "@Hard_copy",
+        "alias": "hard_copy",
+        "userDefined": false
+      },
+      {
+        "text": " of this information for my prospective employer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a35d4a9e-af2e-41ba-b755-3292d6026bf9",
+    "data": [
+      {
+        "text": "i need fingerprint copy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310f6aee-46af-47e2-8178-6c546175f8d9",
+    "data": [
+      {
+        "text": "Who is going to deliver my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c1ce350-5f71-4d9d-87ef-f87e2b2a3ffc",
+    "data": [
+      {
+        "text": "Can you confirm me on what mode the ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " will be sent to my home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f703b990-107e-4e5c-8392-c2c44e5f6956",
+    "data": [
+      {
+        "text": "can you please mail my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c63cba0-e521-4ce7-aad0-930e7f46e917",
+    "data": [
+      {
+        "text": "How will my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " be sent to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a37f9d6f-f167-46f2-b345-8b73bb9f5d53",
+    "data": [
+      {
+        "text": "Will my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " will be sent through mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7796191-a053-46e1-b9c2-fb02b82f1df6",
+    "data": [
+      {
+        "text": "how am I gonna get my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ca07cb-787b-49d1-aaa3-ab243f56928a",
+    "data": [
+      {
+        "text": "Are my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " is gonna be sent through mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b564db9f-f75b-4be7-98f5-510d1362b3e5",
+    "data": [
+      {
+        "text": "will I receive the ",
+        "userDefined": false
+      },
+      {
+        "text": "hard copy",
+        "meta": "@Hard_copy",
+        "alias": "hard_copy",
+        "userDefined": false
+      },
+      {
+        "text": " of my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67b8e993-73b8-4f39-a819-17b7449d199a",
+    "data": [
+      {
+        "text": "how will I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c01fc4c-d8ed-4630-b442-4c8aa5635be1",
+    "data": [
+      {
+        "text": "how will I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05adae77-1160-4349-97cc-9c0f57f11da5",
+    "data": [
+      {
+        "text": "will I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "physical copy",
+        "meta": "@Hard_copy",
+        "alias": "hard_copy",
+        "userDefined": false
+      },
+      {
+        "text": " of my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc92a83-af4f-45a6-a1f4-26230c7dd4e0",
+    "data": [
+      {
+        "text": "Am I going to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "hard copy",
+        "meta": "@Hard_copy",
+        "alias": "hard_copy",
+        "userDefined": false
+      },
+      {
+        "text": " of my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

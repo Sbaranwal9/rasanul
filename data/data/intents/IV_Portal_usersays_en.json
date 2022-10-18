@@ -1,0 +1,195 @@
+[
+  {
+    "data": [
+      {
+        "text": "One need to create ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " to access portal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Is it necessary to create a ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " to use the portal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "is user ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " required to submit a request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "for the online application is this necessary to have ",
+        "userDefined": false
+      },
+      {
+        "text": "user profile",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Do I need to set up ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " to use the portal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "User account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " for online application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29fe1ee6-2323-4881-a23c-0e5f71b08b00",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " creation is required to access portal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7cafe0-3ec3-42fb-9907-39010e57bb32",
+    "data": [
+      {
+        "text": "Is a portal ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": false
+      },
+      {
+        "text": " required to apply online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c4cb0c6-76c2-432b-bea3-d971ddcbadfa",
+    "data": [
+      {
+        "text": "Do I need to create ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "meta": "@an_account",
+        "alias": "an_account",
+        "userDefined": true
+      },
+      {
+        "text": " to use the portal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

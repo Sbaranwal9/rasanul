@@ -1,0 +1,61 @@
+{
+  "id": "1d4ca667-e4b4-43ea-a8b5-be4a1492a724",
+  "name": "XXXI_Crash_Report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf284c01-5896-48cc-90b5-14886a2fdbd8",
+          "name": "crashreport_vs_policereport",
+          "required": false,
+          "dataType": "@CrashReport_vs_PoliceReport",
+          "value": "$crashreport_vs_policereport",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6fe16073-54f8-4c75-8b13-70721c40ddd3",
+          "name": "crashreport_vs_policereport1",
+          "required": false,
+          "dataType": "@CrashReport_vs_PoliceReport",
+          "value": "$crashreport_vs_policereport1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

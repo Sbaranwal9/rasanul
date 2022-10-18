@@ -1,0 +1,9 @@
+{
+  "id": "5e886de4-bdf3-455d-84fb-96b4cab2882f",
+  "name": "Valid_Card",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

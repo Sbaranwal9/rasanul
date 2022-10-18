@@ -1,0 +1,9 @@
+{
+  "id": "56d30508-88cb-4dd9-9fe8-850cd3329826",
+  "name": "CrashReport_vs_PoliceReport",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

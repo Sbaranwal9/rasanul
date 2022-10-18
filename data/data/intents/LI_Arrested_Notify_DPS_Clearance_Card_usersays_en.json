@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bf5ab0a5-f847-4f38-9ed7-05875c84365e",
+    "data": [
+      {
+        "text": "I_Arrested_Notify_DPS_Clearance_Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f5f4f2e-8f83-4605-99fa-bc55f50f12b9",
+    "data": [
+      {
+        "text": "LI_Arrested_Notify_DPS_Clearance_Card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "489b7ef5-2813-4a28-8430-085f061310ed",
+    "data": [
+      {
+        "text": "LI_Arrested_Notify_DPS_Clearance_Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

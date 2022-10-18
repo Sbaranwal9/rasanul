@@ -1,0 +1,3256 @@
+[
+  {
+    "id": "327c43ff-3cba-40ec-8430-82642a06d70b",
+    "data": [
+      {
+        "text": "Good afternoon, I was wondering what is the wait time for The IVP fingerprint card. Thank You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2154a9bc-9466-4e1f-88cc-14c499d5483e",
+    "data": [
+      {
+        "text": "Wanting to know what\u0027s the delay on my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e693ad84-a1d4-4c6d-b410-892b08f9dc21",
+    "data": [
+      {
+        "text": "how does waiting for fingerprint card work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85f1a4d4-a74a-46fa-a33c-8806633978de",
+    "data": [
+      {
+        "text": "but how long until l  get it emailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72c1852f-09d2-4db9-8779-2521034f7f77",
+    "data": [
+      {
+        "text": "Can you tell me when I will receive clearance? It\u0027s holding up our License renewal and we \u0027ve always been in (and are now) \u0027good standing\u0027.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "463f6b64-1e55-4923-84fb-f6de117fdc03",
+    "data": [
+      {
+        "text": "When will I know if my finger print clearance card has been approved or denied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ac9812a-1902-4cbc-ae0c-4643b8af2e79",
+    "data": [
+      {
+        "text": "I have not received my finger print cards and it has been two weeks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ff26f5e-b0e6-4061-90f6-65a287f252f4",
+    "data": [
+      {
+        "text": "i ordered it on august 2nd and haven\u0027t received it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a2d204-3a55-4f1d-968e-5a48ee2afe32",
+    "data": [
+      {
+        "text": "I need my Fingerprints right away, I can\u0027t wait any longer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "082c9ae3-4617-4c75-8f25-e657ec76f92d",
+    "data": [
+      {
+        "text": "When will I get my IVP card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a470f1-6301-47db-8ffa-a860ef8bf72a",
+    "data": [
+      {
+        "text": "How long do they have to update this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4e42d51-9f30-439f-b9c3-340a83020626",
+    "data": [
+      {
+        "text": "How long for clearance card to be processes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6358990f-dc63-4e36-900a-759e30dae146",
+    "data": [
+      {
+        "text": "What is the typical time it takes to receive it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "198fa8d2-d2e7-4e3a-b5fa-1e986d8ea529",
+    "data": [
+      {
+        "text": "hello i purchase my records a month and havent received it yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bd9f649-7d48-434c-8a85-cffe4d35bbc8",
+    "data": [
+      {
+        "text": "I requested a replacement of my fingerprint clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "three weeks ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and haven\u0027t received it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26db0781-7da3-40ca-969b-619a084cc320",
+    "data": [
+      {
+        "text": "how long is the wait to receive a blank fingerprint clearance card and is there a charge?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "379badca-dc5e-4bf4-aa20-535f35533737",
+    "data": [
+      {
+        "text": "I\u0027ve been waiting for over 2 months to receive my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8ad0b0e-3912-45ff-9d81-8ee635d8e40b",
+    "data": [
+      {
+        "text": "Usaully in how many days can you receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "676a356f-93e4-45dd-a38d-11b3905d68f1",
+    "data": [
+      {
+        "text": "time between mailing fingerprints and approval for card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7582a676-52fb-4668-9cdb-f1d4fef4eb99",
+    "data": [
+      {
+        "text": "My fingerprint clearance card application was submitted ",
+        "userDefined": false
+      },
+      {
+        "text": "4 months ago",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and I am wondering what is taking so long as I have to have this to start my clinicals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80b44a74-7a51-43e5-955d-0fd01859f328",
+    "data": [
+      {
+        "text": "I am still waiting for my fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6112eb0-0427-426c-9588-b60bfc9b03d1",
+    "data": [
+      {
+        "text": "why is it taking so long to get my replacement card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e8c2bcf-06bd-40be-8c39-c7a0638453df",
+    "data": [
+      {
+        "text": "Current ",
+        "userDefined": false
+      },
+      {
+        "text": "processing time",
+        "userDefined": false
+      },
+      {
+        "text": " for IVP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5d2c71e-6ae0-4bb3-a66c-1779f0a5938f",
+    "data": [
+      {
+        "text": "Hi!  I just put in a request for my records for my fingerprint clearance card application #PHONE_NUMBER. Do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "userDefined": false
+      },
+      {
+        "text": " it will take to email to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f000d0f-af78-4bd9-8a5c-8732f9f27e87",
+    "data": [
+      {
+        "text": "What is the current processing time for ivp cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ebc931b-cd2b-4dd7-bcac-9d21f201140d",
+    "data": [
+      {
+        "text": "when will i get my police report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "637086bb-17ce-4d86-874f-f631acf1e22b",
+    "data": [
+      {
+        "text": "Requested a record but haven\u0027t received yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "374fc760-a81b-4b2e-b9b0-dd1d4af9e39c",
+    "data": [
+      {
+        "text": "why is my fingerprint clearance card in progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9418a84c-ea62-4f78-b24a-38a3ebe11670",
+    "data": [
+      {
+        "text": "Hello, I created an account but it wants me to wait till it\u0027s verified by DPS. ",
+        "userDefined": false
+      },
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " will this take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e8ad613-ba53-449f-a6b6-e5cfaed11b9c",
+    "data": [
+      {
+        "text": "good morning, I was wondering when I will get my clearance back I\u0027ve been waiting for a couple of weeks now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee21500-52ce-43b5-a759-6f56b5767ffe",
+    "data": [
+      {
+        "text": "Waiting for my card to come in mail? How much longer? School needs me!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37533d95-0084-4844-9018-49701648dd50",
+    "data": [
+      {
+        "text": "I applied for fingerprint clearance card on July 12th but I haven\u0027t gotten anything until now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdcfeae4-92ca-44f2-a805-333dcffacadb",
+    "data": [
+      {
+        "text": "Hello I\u0027ve been waiting for my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e336ffc3-9121-4e16-80de-96faa8412393",
+    "data": [
+      {
+        "text": "Why is my fingerprint card taking so long?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd6a862e-fcab-4171-9570-0f3a151397ae",
+    "data": [
+      {
+        "text": "With no criminal history, should it be taking this long?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d771674f-573f-409d-83ac-e72d6f1ca71f",
+    "data": [
+      {
+        "text": "I don\u0027t need to check the status. I want to know why it\u0027s taking so long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a67cc69a-3628-494b-9473-9a2abf4dbd08",
+    "data": [
+      {
+        "text": "It says in process.  I cannot work if it expires. Please help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2b9118d-1273-4fb4-b8fe-d48b6e1be73a",
+    "data": [
+      {
+        "text": "Why is my finger print card taking so long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67d49d9f-b997-4d43-988a-767d4ba7bff0",
+    "data": [
+      {
+        "text": "APPLICATION IN PROCSS SINCE 04/03/2020",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72ccd0d4-d3ce-4cb9-a796-b3d1e737efdb",
+    "data": [
+      {
+        "text": "Why is my finger print taking so long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a32c98a-b595-49cb-9ef7-725d7d539c3f",
+    "data": [
+      {
+        "text": "Why my Fingerprint clearance card is taking as long as it is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6730aacd-ed62-45af-b78f-85fedb9fdae6",
+    "data": [
+      {
+        "text": "no criminal record, taking longer then ",
+        "userDefined": false
+      },
+      {
+        "text": "10 days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68d77402-2e8d-4b62-8211-34421fb17a64",
+    "data": [
+      {
+        "text": "I just applied to renew my fingerprint clearance card. How long will it take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83c916bc-daa0-4b8d-a420-a9fd1dd774e5",
+    "data": [
+      {
+        "text": "Yes I need to know why is it taking so long for my card to go through. My job is threading to take me off the schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "450e9ef8-a3e5-4fff-81f9-7ad3c36f15ee",
+    "data": [
+      {
+        "text": "Hi I made a request for the pictures of a fatal car accident and nothing happen how long should I wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eebf063-4baf-417e-8425-d95bca6e4ce3",
+    "data": [
+      {
+        "text": "Hello, would you please let me know what is causing the delay in the processing my fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08da2d28-7dd2-4340-8fb7-a7f0669551da",
+    "data": [
+      {
+        "text": "I had my fingerprints completed on the 21 of July and I am still waiting for the results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0e80846-52a3-4c86-8caf-6d746df3b22e",
+    "data": [
+      {
+        "text": "Can you check why my application has taken longer than 30 days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2479be9a-7512-42a7-8ee9-4fd3d383939d",
+    "data": [
+      {
+        "text": "how long does it take to get email to verify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6acebfa-e4be-4067-8470-22123638c0ce",
+    "data": [
+      {
+        "text": "How long does it take to receive a replacement card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f0b2a14-da70-4761-bf61-6f95f1ed9d37",
+    "data": [
+      {
+        "text": "Why does my account need to be approved by dps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb396578-cc8c-4e99-b99c-93d53b2357f8",
+    "data": [
+      {
+        "text": "Can you you tell me how long does the finger print card process take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c33baaf0-2ab5-48c8-924c-63e71de97e97",
+    "data": [
+      {
+        "text": "Hi, I am trying to figure out when I should be receiving my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83eafff4-d80e-4e5d-9105-1fe9aeb32b4c",
+    "data": [
+      {
+        "text": "I payed for a fingerprint card renewal may 2021 never received  new card status says  in process  when can I get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15b12a15-3cde-49ca-b2f8-c3bc976a0295",
+    "data": [
+      {
+        "text": "hello please tell me how long will take to DPS to verify my login access",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f14c0f32-4bcd-4c59-a5ad-f498ef8aa925",
+    "data": [
+      {
+        "text": "Once I make a payment, when do I receive the report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "016e1d04-b253-4166-81d8-c4edc074963c",
+    "data": [
+      {
+        "text": "My fingerprints are taking super long to come in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "add751d0-c5b9-4d91-9b95-399197d8c668",
+    "data": [
+      {
+        "text": "how long to mail a FCC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f8f0573-20a0-42de-8753-3c296aa30f67",
+    "data": [
+      {
+        "text": "will receive a card soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9459c47-911b-45c5-9f56-785ceb95f5ac",
+    "data": [
+      {
+        "text": "I sent my LEOSA renewal form in on May 19 and was wondering when the new LEOSA card will be issued to me. Thank you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b26cdd1e-0a7c-4281-bc86-c79e66f81380",
+    "data": [
+      {
+        "text": "Hi there I\u0027m wondering when I\u0027m I receiving my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d999dfb-a2b3-44c8-a261-877361a1228f",
+    "data": [
+      {
+        "text": "When will I receive the form to take to the police station",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39fd29ab-449b-49d5-8545-0c6967b4bde7",
+    "data": [
+      {
+        "text": "Hi I ordered a replacement card and I was wondering how long it would take to get here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a9ff41d-28ee-4bc9-abf2-580d63545938",
+    "data": [
+      {
+        "text": "Hi I start work ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and I need me clearance card, when will I be receiving that card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f84d9967-0a00-495b-952a-df865b46a837",
+    "data": [
+      {
+        "text": "When will my IVP card be issued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d363953b-5102-494d-885d-e8a0a07a2ff0",
+    "data": [
+      {
+        "text": "expedite a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9210324-e14f-49a0-ba7d-e2b43a53c75f",
+    "data": [
+      {
+        "text": "Once I sent all the info and paid for my card when do they mail it to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a4d9d12-0365-4e23-a207-743215588eb8",
+    "data": [
+      {
+        "text": "I\u0027m trying to process an application for a volunteer that I need to onboard right away. Is there a way to expedite a clearance card that he has applied for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638ed10b-2d74-4350-b5c5-08f799d1d1a7",
+    "data": [
+      {
+        "text": "Is there a way to speed up an application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "088adb59-b6c0-43ec-87b6-fc6289c2539f",
+    "data": [
+      {
+        "text": "I already checked, how soon should I get it in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "914fe4f8-7800-44ae-908f-52fa7c8d4d99",
+    "data": [
+      {
+        "text": "How long do I need to wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "129bcaa8-d5d0-41b5-9349-4bd59290d543",
+    "data": [
+      {
+        "text": " I had my fingerprints done at location now I need my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e22455c-f4e1-4bc5-82fe-a3a6cf5a954c",
+    "data": [
+      {
+        "text": "p331992400  I never received my finger print card in the mail, which is concerning. Can you please mail or better yet email a card to me please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3aefaa3-f482-4aa7-b90f-1e4133534109",
+    "data": [
+      {
+        "text": "Can you tell me when my request #PHONE_NUMBER will be processed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd4957c9-3e66-4c75-a4e5-efc041c4ea56",
+    "data": [
+      {
+        "text": "If I ordered a fingerprint clearance card and it says in process what does that mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b965d20e-c8cd-4402-bb6a-6f6a0c539081",
+    "data": [
+      {
+        "text": "I already checked the status and it still says in process. its been over ",
+        "userDefined": false
+      },
+      {
+        "text": "30 days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95577c69-14fa-4c2b-81a4-5a47d05207b4",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will it take to get level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " finger print card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2301abde-ff9a-4e10-8af9-16a2987643dd",
+    "data": [
+      {
+        "text": "I am trying to get my clearance card completed. It said I have to wait for my account to be approved. ",
+        "userDefined": false
+      },
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will that take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164362b0-0147-43ca-b3df-11afc4413050",
+    "data": [
+      {
+        "text": "When can I receive my finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e67b2b06-6622-4c6c-be7b-4220cfa0cfe9",
+    "data": [
+      {
+        "text": "if I have a valid fingerprint status, when can I receive my mailed copy of my clearance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6efc966c-8170-45bb-b991-49b428fb691a",
+    "data": [
+      {
+        "text": "Filed April 28th paid 67.00 and haven\u0027t received card or update on card. Need refund or card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89ac9c28-b3c1-451d-afb3-5c806550a535",
+    "data": [
+      {
+        "text": "Why are my fingerprints taking so long to come back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ff5dbc2-cb1c-4a77-8e4f-923afef95240",
+    "data": [
+      {
+        "text": "my record request is still pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dec2d95-f757-4896-a9ba-396ca268108c",
+    "data": [
+      {
+        "text": "Hi there I\u0027m wondering when I\u0027m receiving my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "485050fb-29ef-40a4-834c-706cb7eccc0b",
+    "data": [
+      {
+        "text": "Hello! I was just wondering since I requested a paper fingerprint card to go to a police station with, how long does it usually take to receive a response to go get that done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adadd468-b626-42de-bfbd-5277a8c43c9b",
+    "data": [
+      {
+        "text": "In how many days does it take for the card to be delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcf51fec-f094-4220-be0d-ed34b5020f01",
+    "data": [
+      {
+        "text": "It\u0027s been over one week and my fingerprint card has not processed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0084681e-f679-4aa9-9689-5408f10284b7",
+    "data": [
+      {
+        "text": "Hello, I applied and registered for a clearance card and it still says in process. What steps do I need to take to obtain my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1d702be-a412-4fb0-9c3f-1d26b3090fcc",
+    "data": [
+      {
+        "text": "Hello! I mailed my finger print card and was wondering when I will get clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5f1deb1-ffdf-443e-bab5-f88c2113eac7",
+    "data": [
+      {
+        "text": "Is there a way for me to determine when I will receive my fingerprint clearan\n ",
+        "userDefined": false
+      },
+      {
+        "text": "ce",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6a9672-d30a-4821-a3e9-5d29d4b5c7cd",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will it take after applying for fingerprints card to get clearance to get this done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5e1277a-3215-4941-8634-da51b1354eb9",
+    "data": [
+      {
+        "text": "How do I find my fingerprint card? I haven\u0027t received it in the mail yet and I need it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6800a26-895f-4e21-b1f0-948fd9f978a0",
+    "data": [
+      {
+        "text": "I was  curious on how long it takes for a replacement fingerprint card comes in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4385bde7-c079-4a14-a298-ccfaed7f1c26",
+    "data": [
+      {
+        "text": "Fingerprint clearance card time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a7f10c0-d5bb-4ee2-8f96-9ec42e00dc04",
+    "data": [
+      {
+        "text": "i have not received my fingerprint card in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69f43472-ac01-4d0b-b54f-768644a4d478",
+    "data": [
+      {
+        "text": "Shipping time for fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "643bd81e-5b28-4277-92a0-091a2adb13cd",
+    "data": [
+      {
+        "text": "What is the average days to get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d219de14-c937-4c6d-8308-bdf12fd552f8",
+    "data": [
+      {
+        "text": "When will I get packet I need?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e98393-df86-451a-86aa-80bb129ef888",
+    "data": [
+      {
+        "text": "I am not sure why my card is still in process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2e8786f-603e-4f06-90d8-ee361e02a9f9",
+    "data": [
+      {
+        "text": "I HAVE APPLIED FOE MY FINGERPRIN CARD DIDNT GET UNTIL KNOW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "704ab553-ae4c-4a9f-b011-e0c3526ffa66",
+    "data": [
+      {
+        "text": "How much longer to process application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c9994e3-3a42-4205-a466-279329fc3bc7",
+    "data": [
+      {
+        "text": "Please can  you send me my card still waiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29d3121d-d8c4-4008-8f4a-75c06c15dc2b",
+    "data": [
+      {
+        "text": "What is the timeframe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "634e0439-f70b-4fd2-9448-17a93e58be39",
+    "data": [
+      {
+        "text": "It had been over ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "userDefined": false
+      },
+      {
+        "text": " what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58b075b7-36b4-48db-bd8f-d859bc69dd85",
+    "data": [
+      {
+        "text": "I already applied for fingerprints clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "170f8a81-9dcb-4887-8537-e7f15e11d781",
+    "data": [
+      {
+        "text": "It has been ",
+        "userDefined": false
+      },
+      {
+        "text": "6 weeks",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " since I sent in my fingerprint clearance card renewal and the status still says \"in progress\".  Is there a way to see how much longer it will be until I receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1eda62a-67b6-4efe-a287-0e3b428b02d1",
+    "data": [
+      {
+        "text": "what format do I get my fingerprints done in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b70115bc-235f-486f-912d-301aa687e0ea",
+    "data": [
+      {
+        "text": "I have a question about fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02a4460d-929a-4bd6-b7b8-529bef7f24e4",
+    "data": [
+      {
+        "text": "How do I find addresses for electronic fingerprinting sites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a6c55d2-18ee-4fb9-aab2-49ad3ece5091",
+    "data": [
+      {
+        "text": "When do I expect my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "232ac55a-a8f4-43b7-98b5-6069bf3bca49",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " until my fingerprint card arrives?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ded75b8d-a8ec-4241-be7b-977c7702265b",
+    "data": [
+      {
+        "text": "Hello, I sent my fingerprints when can I expect the results to update? Thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d20a56ac-437c-4e71-ab4a-1d3fe72f7b06",
+    "data": [
+      {
+        "text": "why my application took too long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65c12014-52c9-4d28-a5b6-0c92c1fb9a05",
+    "data": [
+      {
+        "text": "i need to find out why my application is delayed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2347175-cb53-44cc-88f5-83223825560d",
+    "data": [
+      {
+        "text": "So even if I\u0027m getting it replaced I need to wait ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "userDefined": false
+      },
+      {
+        "text": " days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21322363-65b8-4eab-99f2-ef67837ea24b",
+    "data": [
+      {
+        "text": "How to speed up getting a clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6763cbf-9612-455d-b8ed-4f40cab1d01b",
+    "data": [
+      {
+        "text": "how long",
+        "userDefined": false
+      },
+      {
+        "text": " to confirm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b91bed39-34dc-4a7a-b8b4-e43018202ffa",
+    "data": [
+      {
+        "text": "when do I get the card to fill out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e03cef90-b648-47a8-bb8c-904db440ea9b",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " does it take the IVP packet to be mailed to me after the application has begun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8f95587-89c0-4a23-9c7f-9d7f955cf622",
+    "data": [
+      {
+        "text": "Hello my application was submitted on 4/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " and I still shows no results when I look up my application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf37152a-ccca-4976-9d42-a9b3b8818f34",
+    "data": [
+      {
+        "text": "do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1776bf52-a9af-4832-ac79-a63e3f8b8225",
+    "data": [
+      {
+        "text": "how long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7681e10e-6b86-4bb6-9ebf-7989359e5a9d",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will this take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ab86c8c-7063-41a2-bf27-8f288edfe3ff",
+    "data": [
+      {
+        "text": "i havent gotten my clearance card yet. would the police department be able to submit my clearance cardfor a new clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0abefa4e-36a0-42f1-ae84-7f26d4fae93d",
+    "data": [
+      {
+        "text": "I have yet to receive my fingerprint card and ",
+        "userDefined": false
+      },
+      {
+        "text": "blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " envelope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbc44f18-074f-4da1-8efd-1a39a925c149",
+    "data": [
+      {
+        "text": "I applied for the fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef62358a-d66b-4e91-805c-c8edc0da0081",
+    "data": [
+      {
+        "text": "I already checked that but it\u0027s still saying is processing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "734d996f-c793-46b7-9bc7-843a70a4831b",
+    "data": [
+      {
+        "text": "It\u0027s been more then ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce9e2939-5735-49fc-9a5c-999d25931d72",
+    "data": [
+      {
+        "text": "Hi! I am out of state but applied for a fingerprint card and it said I would have to send back the blue envelope. I\u0027m wondering ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " that will take to be sent to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0303e7ab-a540-4f9e-ab35-7dbf535baa42",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " taking longer at ",
+        "userDefined": false
+      },
+      {
+        "text": "this time",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b6ddd9-242d-4678-ae66-f72ce60ba0d2",
+    "data": [
+      {
+        "text": "don\u0027t have my fingerprint clearance card yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2fdc969-6499-4c1c-b852-359ab2349ce3",
+    "data": [
+      {
+        "text": "How quickly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6b6d6f0-171a-4fc6-a0d5-43828df3c715",
+    "data": [
+      {
+        "text": "What is the typical turn-around time for getting approval?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65881363-7752-400d-a1db-a6c6e5cf37fd",
+    "data": [
+      {
+        "text": "It\u0027s been ",
+        "userDefined": false
+      },
+      {
+        "text": "more than two months",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": ".  Where could it be?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "363f2e66-b3e5-4885-9f65-0c9eb43565dc",
+    "data": [
+      {
+        "text": "I need to know why i have not received a fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a975385c-59d8-42f3-970a-cfa1e5c6cab9",
+    "data": [
+      {
+        "text": "I did not receive it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f446ebe-a6cc-4ae3-b4d9-ea01346545fd",
+    "data": [
+      {
+        "text": "When will I receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "832c6a8f-7ffb-46eb-889b-66271fa15eb9",
+    "data": [
+      {
+        "text": "Is there any confirmation on my card it\u0027s been longer than a month. I need my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbf787f-b6e1-41f2-b8bc-2da86423efb5",
+    "data": [
+      {
+        "text": "I would like to know why my finger print clearance card is still \u0027in process\u0027 I applied and paid for a renewal in ",
+        "userDefined": false
+      },
+      {
+        "text": "February",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb58df40-9c1c-4482-8260-f01cd3650d36",
+    "data": [
+      {
+        "text": "My apllication is ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 4 months",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": ". what should I need to do to help processing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a1d743-f0f9-48ab-a373-46767559ef37",
+    "data": [
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " has not been processed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a794b8-bc35-4f9b-ab60-638e5a692d5f",
+    "data": [
+      {
+        "text": "I need to see why it\u0027s still pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4961709c-111d-4aee-830b-6b349bd54105",
+    "data": [
+      {
+        "text": "What is the fastest amount of time I will get my IPV fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bd799e2-0348-4bb0-8734-41ad958bb0be",
+    "data": [
+      {
+        "text": "How do I find out what is taking so long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "195e8b20-c68d-45dd-ab29-9f249ce82624",
+    "data": [
+      {
+        "text": "Is gonna take ",
+        "userDefined": false
+      },
+      {
+        "text": "more than two weeks",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "125172b1-43cf-4415-a980-26fe04a2dd79",
+    "data": [
+      {
+        "text": "Why is my mine pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05ea7bcd-566c-4d3c-9856-72fbc6ce1324",
+    "data": [
+      {
+        "text": "I submitted my fingerprints on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". Will I get my card by ",
+        "userDefined": false
+      },
+      {
+        "text": "next Monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80806168-af57-4ec6-a242-6bbedcf59062",
+    "data": [
+      {
+        "text": "How many weeks will it takes ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d9c9b7c-ac3f-4baa-8a25-67ac8e5ae2c1",
+    "data": [
+      {
+        "text": "can i see my past applications for fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8efe6011-d8bd-459f-971e-83d2f4d4fc76",
+    "data": [
+      {
+        "text": "I paid for a security ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " clearance fingerprints and have not received anything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8f95540-58de-48ff-b7a9-377034ea9535",
+    "data": [
+      {
+        "text": "what is the waiting time to get result of the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " of clearance card ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "369e7ef5-03f9-4687-a6d4-8ebd8248a1e5",
+    "data": [
+      {
+        "text": "I am curious as to ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "userDefined": false
+      },
+      {
+        "text": " it takes to get your fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc624bb5-70b3-4680-b76d-7a46b2cbdb76",
+    "data": [
+      {
+        "text": "I never received my fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3824ef1b-11d1-48cb-99f7-f7c5b3542a0c",
+    "data": [
+      {
+        "text": "want to know when will I be getting my new fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b2e3df-e72c-4906-8670-2e4f4dd3533b",
+    "data": [
+      {
+        "text": "how long",
+        "userDefined": false
+      },
+      {
+        "text": " to receive clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bfc5ad7-1db5-4a86-b421-f344b2515b8b",
+    "data": [
+      {
+        "text": "I haven\u0027t gotten my fingerprint card yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52a9683b-39e0-441f-b957-7fd2594df92a",
+    "data": [
+      {
+        "text": "My fingerprint card has been in process for ",
+        "userDefined": false
+      },
+      {
+        "text": "six weeks",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d7cfc3-edad-4e13-b1ce-314eb27f54e9",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get a replacement fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eda200d-626a-464f-9ce9-f1c58177504d",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get your IVP fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf2010e9-5da9-4fb5-90df-cb70d5a80ac7",
+    "data": [
+      {
+        "text": "How long do IVP fingerprint cards take with no criminal background?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06a53b46-047e-47a4-ac26-be535ba213d3",
+    "data": [
+      {
+        "text": "my cards were received , can you tell me why it is taking so long?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73f76ea7-32f8-45f1-a04e-c35de7573118",
+    "data": [
+      {
+        "text": "When can I expect to get the fingerprint clearance card once it\u0027s approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38caa07a-5451-4342-91ca-97e7f649d71a",
+    "data": [
+      {
+        "text": "Why would it be in process for over ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " months?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc14157f-f174-4007-94ea-3118858297dc",
+    "data": [
+      {
+        "text": "when my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " be approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc787f1-de7c-4496-95ff-0eae7bcbb82b",
+    "data": [
+      {
+        "text": "When will my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " be approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "993dfd6b-740a-46aa-93fc-a09aba568315",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get a fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d217ee4e-fbac-4540-81f3-a7ed29832609",
+    "data": [
+      {
+        "text": "when will i get my fingerprints clearance card i paid for it ",
+        "userDefined": false
+      },
+      {
+        "text": "a month ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25b054e3-d61e-4c46-920d-b203908d8ae4",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take for me to get the fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d04310cc-f190-4d3c-b069-3f536d24b6b3",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get my new fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4f51522-0f23-4b8e-9592-566d4b66ca11",
+    "data": [
+      {
+        "text": "I have not received my updated Level ",
+        "userDefined": false
+      },
+      {
+        "text": "One",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2edde610-16b7-44e2-a8cb-dabab3d368b0",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take for fingerprints to be process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88650bc2-405a-4cbb-b846-8dac2ee628ab",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0657ad46-86dd-4bc3-b7c2-97f7a597493e",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does the process take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "800421fe-dae4-4cb7-a7fb-34f35d4d9ab2",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2678417-e5b7-4f61-bac9-aea5ea5f5bc8",
+    "data": [
+      {
+        "text": "does the process to approve fingerprints take a week? how long is the process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95eac395-2186-4476-8095-0070e04226da",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc690cb-a76a-4a89-9ef1-dee736b51e12",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to process a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "489e2ebf-a268-4c2f-b317-f36d9252a355",
+    "data": [
+      {
+        "text": "Checking on fingerprints- processing ",
+        "userDefined": false
+      },
+      {
+        "text": "since December",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dec28c6e-5194-4f71-b22b-87c334561fc7",
+    "data": [
+      {
+        "text": "how long is the approval time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb32d3c0-af22-474f-ac98-94a2570554f4",
+    "data": [
+      {
+        "text": "What is the process time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15ebd81c-ca6a-4688-9ae0-4a501ec65bf0",
+    "data": [
+      {
+        "text": "how long",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2357df45-4d0f-4677-9621-44cda0823bfe",
+    "data": [
+      {
+        "text": "I sent my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks ago",
+        "userDefined": false
+      },
+      {
+        "text": " and i still cant see any results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58e2bbee-4626-41c1-b39a-cee5c7afcf5a",
+    "data": [
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to get records once requested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f36d63a-29f5-4aad-a72d-e20e72f52883",
+    "data": [
+      {
+        "text": "Im contacting you about my finger print clearance card. I have yet to receive it and it\u0027s been over ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "userDefined": false
+      },
+      {
+        "text": " already",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fee09c13-b24d-45a0-a3a8-5847cd09f7d7",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to receive it in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29acd942-bc7e-4caa-a043-6a7af68ef380",
+    "data": [
+      {
+        "text": "It does state that I am eligible. ",
+        "userDefined": false
+      },
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does the process take to receive it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33d846c6-c702-4fce-b009-aaa16c7dc13a",
+    "data": [
+      {
+        "text": "Where is my physical fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0954317a-62a7-407d-95c5-5fcdc969339f",
+    "data": [
+      {
+        "text": "My fingerprint clearance card delayed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99574a08-e1b9-41b2-9f14-7fecc2297ff8",
+    "data": [
+      {
+        "text": "When can I expect the card to come in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c517b5-a378-41d8-b772-4c9bec819217",
+    "data": [
+      {
+        "text": "What is the length of time before I get confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c3b7630-8dce-4f48-b47b-862e40f89c08",
+    "data": [
+      {
+        "text": "May I know the ",
+        "userDefined": false
+      },
+      {
+        "text": "processing time",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "227d8970-ad95-4b8c-90e7-3f97611104f0",
+    "data": [
+      {
+        "text": "when will I get my ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb75bd0e-42b0-494f-89e4-62dea1f8397a",
+    "data": [
+      {
+        "text": "Recently I applied for my ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": ".when I am gonna get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3381153-7d43-4fc6-b9ac-00dbdc97fa14",
+    "data": [
+      {
+        "text": "When am I gonna get my ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "978c537b-6440-475a-adbe-e9a334815249",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " should I wait for my fingerprint clearance card to be processes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e558c68a-8e88-4daa-84d0-b1880ea16967",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "license application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "processing time",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e46d75b1-904b-410b-9b6e-5a154efa27f2",
+    "data": [
+      {
+        "text": "does it take longer to get a clearance card if I have a criminal record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf7f0286-410c-45c6-ae3a-41dfec04405b",
+    "data": [
+      {
+        "text": "If I have a record ",
+        "userDefined": false
+      },
+      {
+        "text": "how long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will it take to get my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c0e880b-6f9d-4cb5-bcea-f6babbf99ab4",
+    "data": [
+      {
+        "text": "What is the clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "processing time",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dba7267c-0d12-402d-aee4-0d1a9a654aca",
+    "data": [
+      {
+        "text": "when will my clearance card be ready",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2120f6a-8083-4f16-99e0-036360a071b7",
+    "data": [
+      {
+        "text": "when will I get my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5c3b9ab-1284-4653-a4a7-e558f476ce83",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " does it take for a fingerprint card (fingerprint clearance card, clearance card)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "928f5c12-4bab-4c9b-8bbe-215851347190",
+    "data": [
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " processing time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fed1c65-db11-43de-b756-21fe69c6b130",
+    "data": [
+      {
+        "text": "How long",
+        "meta": "@Prosessing_time",
+        "alias": "prosessing_time",
+        "userDefined": false
+      },
+      {
+        "text": " will it take for my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " to be processed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

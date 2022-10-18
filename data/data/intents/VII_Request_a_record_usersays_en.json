@@ -1,0 +1,1873 @@
+[
+  {
+    "id": "5a6c5a23-967d-4ce9-ae12-e93beb8f44aa",
+    "data": [
+      {
+        "text": "Hi how you doing today? So I want to know how I can take my collision report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16a65efe-7d58-48f7-b377-4083b7cae34e",
+    "data": [
+      {
+        "text": "Hi is it possible for me to obtain a closed report number  PHONE_NUMBER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6724cc07-8db1-4d54-a64e-468d94e6c219",
+    "data": [
+      {
+        "text": "About my DUI happens in 2012",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3223af7-1f9f-4bae-be90-346bd2a1d64e",
+    "data": [
+      {
+        "text": "I need my collision rept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c21950ba-5ded-46a3-83cc-3068d829a556",
+    "data": [
+      {
+        "text": "I want to request ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "userDefined": false
+      },
+      {
+        "text": " so I can pay a ticket.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a169327-5f40-42af-a26c-b08eff1cd39e",
+    "data": [
+      {
+        "text": "Records",
+        "userDefined": false
+      },
+      {
+        "text": " for my clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0ae015a-ab6c-442b-8b9e-2a34c57dae9c",
+    "data": [
+      {
+        "text": "how to access ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b79106-d55b-45dd-a046-5c49779b696e",
+    "data": [
+      {
+        "text": "I need a update criminal history for the AZ fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af2de7a8-4f75-442b-a91a-324cd7f211e8",
+    "data": [
+      {
+        "text": "i Am trying to obtain a crash report that occurred in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tucson",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".  I live in Florida and need a copy of this report.  What is the best way to get it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d88c441-dc81-43bd-b368-ed3375e9ece5",
+    "data": [
+      {
+        "text": "If I don\u0027t want to create an account is there any other way I can request an accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "252e49dc-b1aa-4a78-94ee-14f08bea0480",
+    "data": [
+      {
+        "text": "Can you help me get my final AZ criminal history report.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "333fedb8-dcae-476e-9db4-d3aa41aaee9a",
+    "data": [
+      {
+        "text": "I was involved in an accident on 8-1-21 and a copy of the report has not been sent to my insurance as of yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57aaecb6-a797-4608-921c-d216d2d2a0cc",
+    "data": [
+      {
+        "text": "i am trying to get a copy of the police report from the accident i was in.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08336c96-4ec1-41c2-9438-dc5a1412660f",
+    "data": [
+      {
+        "text": "Hello how can I obtain a copy of my accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a17bdc57-0641-45c4-bafd-3f9d765bbc53",
+    "data": [
+      {
+        "text": "Need the Case number and disposition for ",
+        "userDefined": false
+      },
+      {
+        "text": "Anderia Garang",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s arrest on ",
+        "userDefined": false
+      },
+      {
+        "text": "11.19.2004",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " and if he was sentenced on a Felony",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d673d4c2-865c-4ea6-b807-5b438c42bfd6",
+    "data": [
+      {
+        "text": "How to find out if driver was cited in accident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19abbd89-6fa2-47d6-9f68-a374b0b16ee9",
+    "data": [
+      {
+        "text": "Is there a way I can find out if someone was in an accident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a82586ae-44f3-4ae8-ae5b-ad598d42edaa",
+    "data": [
+      {
+        "text": "I need info on a car accident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79e4dc15-2743-4da6-bdfe-cf784fa18fd9",
+    "data": [
+      {
+        "text": "I want to know if there is an incident report from I-",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " and Palo Verde Rd from ",
+        "userDefined": false
+      },
+      {
+        "text": "7/24/21",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f89d29a3-bdf0-4a3b-b421-df9f446b3be1",
+    "data": [
+      {
+        "text": "Do I need to set up account to obtain a crash report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0c1cb48-3d12-4346-9939-700facb70662",
+    "data": [
+      {
+        "text": "I am trying too establish the ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " on the accident that happened on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 11, 2021 at 10",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " am at the corner of ",
+        "userDefined": false
+      },
+      {
+        "text": "39th",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Av and Grand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e57c5cff-8a2f-492c-9ead-6f459b8bdbb7",
+    "data": [
+      {
+        "text": "hello was there an incident report around ",
+        "userDefined": false
+      },
+      {
+        "text": "4 pm on Sat the 24th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " on the I-",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " around the Palo Verde Road exit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40240949-7645-439f-b945-389b5f7172e7",
+    "data": [
+      {
+        "text": "I need a time update on a report of an accident does that take really long?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d50ddd5d-5787-4882-977d-4152ba4bd6ee",
+    "data": [
+      {
+        "text": "I Would like to get a record of the citation I got in Arizona couple years ago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5efb8854-ffe3-4fe1-a8c9-07c7af6193c5",
+    "data": [
+      {
+        "text": "How do I get records of my criminal history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b2c4c0-1c00-456b-8c6b-0854de9eaa48",
+    "data": [
+      {
+        "text": "I had and accident on 17 highway July 2nd at 3:52am and IO need report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b249e54a-8f0c-4cd9-9f6e-3bf4062d43a1",
+    "data": [
+      {
+        "text": "Is there a record of a speeding violation issued by DPS on 1/29/21 for Erik C. Anderson, DOB 2/23/67",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f7c2a59-fa9a-45d9-a748-5789d6dbc34c",
+    "data": [
+      {
+        "text": "I would like a copy of my accident report emailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "446845db-afde-4721-afa5-0ce356682cff",
+    "data": [
+      {
+        "text": "I need a copy of the photos that was taken at the seen of  a collision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5175b035-c46d-48fd-a09f-59e948c5b0b3",
+    "data": [
+      {
+        "text": "I need more information about something on my arrest record.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df7b939e-ceda-4869-abf3-f2df052b77d4",
+    "data": [
+      {
+        "text": "I\u0027m looking for 2 accident reports from ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f891e51-12f3-4841-96f5-c44466e3dc03",
+    "data": [
+      {
+        "text": "Hi I am waiting for a request on a accident I was in ",
+        "userDefined": false
+      },
+      {
+        "text": "July 28th.",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7df53bf6-f566-4f95-a1cb-314fb9ca738d",
+    "data": [
+      {
+        "text": "How can l register to receive a complete ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " from AZDPS for my recent auto accident?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3e0feac-fb17-435f-a6d1-e2ca2032d6ab",
+    "data": [
+      {
+        "text": "May you pull a report for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748f3a4e-7ef7-465b-b05d-febfb9c7c991",
+    "data": [
+      {
+        "text": "I was denied clearance with my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3731c5d7-9adb-4661-acff-3937daf0022d",
+    "data": [
+      {
+        "text": "I\u0027m trying to see if I have a police report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5551e392-87ea-4538-972d-1ba3422a95aa",
+    "data": [
+      {
+        "text": "I am trying to get an accident report for our company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59703e29-d40a-402b-b002-ad04bf5ce7df",
+    "data": [
+      {
+        "text": "can I get a report without logging in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45285436-2907-4a22-98dd-cc5de5e3feae",
+    "data": [
+      {
+        "text": "Do I need to create an account just to request an accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85cbd93f-91d2-42ac-af4f-0f329990f269",
+    "data": [
+      {
+        "text": "need complete report of accident motorcycle. name Renato G Cifuentes, date of birth is 10/26/1962",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26dd79d9-d8d0-4cf4-ac7f-ce0f8d46cf87",
+    "data": [
+      {
+        "text": "Are accident records available for search online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cc8eaf8-a38d-4f52-b2fb-7f9a1dbb04b9",
+    "data": [
+      {
+        "text": "I need the investigating Trooper\u0027s contact information and/or name - regarding I21033161 - date of accident 6/19/21.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fdf20f5-ae6f-41a5-8d74-ec87a684d6e7",
+    "data": [
+      {
+        "text": "I had an accident ",
+        "userDefined": false
+      },
+      {
+        "text": "6/1/2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and I need a copy of the accident report for insurance needs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0207b972-52a5-423b-a86d-d9d962fcdd7a",
+    "data": [
+      {
+        "text": "What is the best way to request a copy of report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e19ea375-7295-4ae1-98f0-6570f3e5320e",
+    "data": [
+      {
+        "text": "I need a record for an accident that occurred on 9-19-2019 so that I can pay restitution to Hertz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41f7d643-8d69-4864-aa36-fb42623c192c",
+    "data": [
+      {
+        "text": "How do I go about getting a copy of an accident report from 1-22-2021",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "987b5cc6-4e7b-4587-98c8-492a094e59be",
+    "data": [
+      {
+        "text": "Car Accident Report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d7bc74-eb25-4406-b941-a2ee5689b76d",
+    "data": [
+      {
+        "text": "accident report for 6-3-21 Heber, AZ   I21030126",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01368133-6686-488f-b244-d5412bb68034",
+    "data": [
+      {
+        "text": "I need the information as to the person that ran their car up onto my porch and your I 20046933",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70191c26-5fcc-4a8f-9c99-f12a057267a3",
+    "data": [
+      {
+        "text": "I am trying to find information on a traffic citation issued in Florence AZ years ago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b11b772-3f1c-43db-8d94-966a46e5f88b",
+    "data": [
+      {
+        "text": "get reports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd8fb7b3-7889-4854-ae50-c8831d339d6f",
+    "data": [
+      {
+        "text": "Im ",
+        "userDefined": false
+      },
+      {
+        "text": "Cami",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " with Just in Time Cargo and I need to get a crash report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9486506-d483-4d98-89dd-63514c45b055",
+    "data": [
+      {
+        "text": "accident report on 5/24/2021 for Esperanza Morales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8db9ba8-1519-4582-8040-67d4c90ea70c",
+    "data": [
+      {
+        "text": "Hello I am trying to find a collision report about the other driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d88c31a5-de83-4f7f-b6df-74ae1555b5c8",
+    "data": [
+      {
+        "text": "Can a person request records for themselves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d39591f7-3c6a-4c4a-9608-0fa50c43d076",
+    "data": [
+      {
+        "text": "How can I find an accident report from over a year ago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c22e14-7ca4-4025-817f-1f31c842454f",
+    "data": [
+      {
+        "text": "I am trying to get my accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e761692-249e-4f33-b622-976e2a8c746f",
+    "data": [
+      {
+        "text": "I would like to get my requested photos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "534c71ea-53e6-499e-807a-17f86cfe809a",
+    "data": [
+      {
+        "text": "Where do I find my accident report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fcf9eb0-78ec-4d63-babb-1540d64c840b",
+    "data": [
+      {
+        "text": "I am asking about an emailed accident report.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1acf8f9-3ac1-45a9-8fce-009e85c3e75c",
+    "data": [
+      {
+        "text": "i need to obtain drawings and measurements from the vehicular crimes unit for report no PHONE_NUMBER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12fb09d6-eb0e-44f0-bf31-84fe7b3c4078",
+    "data": [
+      {
+        "text": "I am trying to request a copy of my accident report and would like to get the ",
+        "userDefined": false
+      },
+      {
+        "text": "911",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " and CAD notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f300029-1465-4058-a806-363377aa8c61",
+    "data": [
+      {
+        "text": "How can I request photos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1a819ba-5782-4cef-ac1e-3f9e7d98cbfb",
+    "data": [
+      {
+        "text": "Hello, I was curious if I could get a copy of a traffic warning issued to me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a5491da-3bfc-45f7-94f2-5058f8eae9fa",
+    "data": [
+      {
+        "text": "Is this where I request ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " of my teen ",
+        "userDefined": false
+      },
+      {
+        "text": "daughter\u0027s",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " criminal case?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5ddb851-6aac-465f-8035-cc71393eabad",
+    "data": [
+      {
+        "text": "I\u0027m looking for an accident report which had previously been made available through the portal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d81fdae8-2da5-4f3b-8f83-77c7af526450",
+    "data": [
+      {
+        "text": "I need to show a criminal ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "userDefined": false
+      },
+      {
+        "text": " for Australian Immigration VISA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7713d6dc-0958-404c-b52a-b5280cd22139",
+    "data": [
+      {
+        "text": "Can i be able to request report by email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6ea3c53-49d5-405d-8289-802854f44350",
+    "data": [
+      {
+        "text": "I need to get a copy of a report.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeded44e-acbb-40ca-80fc-5bfccf4d9f7e",
+    "data": [
+      {
+        "text": "do you have an option for criminal ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b367b353-8c03-4991-9aa6-092ab63a2b8f",
+    "data": [
+      {
+        "text": "HOW CAN I GET MY CRIMINAL ",
+        "userDefined": false
+      },
+      {
+        "text": "RECORD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "082f004a-9694-4b26-bcd6-5de395c8f932",
+    "data": [
+      {
+        "text": "Where can I find my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "584cb064-883e-4f45-8897-b219c015f77d",
+    "data": [
+      {
+        "text": "Obtain copy of incident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9020a29-a99c-46b2-8f64-c343161c0720",
+    "data": [
+      {
+        "text": "Traffic ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac9c3fd9-fe09-466f-87b9-0da49e68470e",
+    "data": [
+      {
+        "text": "hi there. im trying to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "userDefined": false
+      },
+      {
+        "text": " where my car was involved, for insurance porposes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f59a0168-3239-4650-8a1f-4983b76eb2be",
+    "data": [
+      {
+        "text": "How can I get my crash report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92132507-d2fa-4641-8edb-bd08899ab2f7",
+    "data": [
+      {
+        "text": "how do I send a request for accident photos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad745bc8-6544-448e-98c7-c1f93c572ade",
+    "data": [
+      {
+        "text": "request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51918906-ebd1-4807-8bd2-19849f416e81",
+    "data": [
+      {
+        "text": "I need help requesting body cam footage for my court case",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d347be7-133e-472c-82ad-5103efbb8b5d",
+    "data": [
+      {
+        "text": "How do I submit a Foia request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac591667-9527-48e5-a73b-e3d365f136c9",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "userDefined": false
+      },
+      {
+        "text": " not a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9e5dee-cf95-42d9-94b3-97a98e223479",
+    "data": [
+      {
+        "text": "how do I obtain a ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " if I have the ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a650f59-53d3-4cd7-b3d5-fd10954d5ec6",
+    "data": [
+      {
+        "text": "Where to obtain police reort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02d2bdfa-afd5-4589-ac23-7863d7ddce96",
+    "data": [
+      {
+        "text": "I need a report number.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adc0bb51-1146-4664-b15f-4247ca32a716",
+    "data": [
+      {
+        "text": "report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "410ecf0d-d3c8-4bc3-8e88-b7ae00b52ed0",
+    "data": [
+      {
+        "text": "I need the accident report and to fill out the request I need the troopers first name.  All I have is T. ",
+        "userDefined": false
+      },
+      {
+        "text": "Kilbourne",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71f2f699-544a-4c6a-82f4-a2379f8323cf",
+    "data": [
+      {
+        "text": "traffic report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba6d0e6d-ef67-4ec0-b2be-77b9b82713df",
+    "data": [
+      {
+        "text": "criminal ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72d522bb-265e-4a5c-af89-6620410e9d0a",
+    "data": [
+      {
+        "text": "I work for a law firm and would like to request an accident report for a client we represent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47881f11-4729-4961-bebf-275050844f3b",
+    "data": [
+      {
+        "text": "how do i get a accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b24558cc-bdb4-4e7e-9402-5859a15dde17",
+    "data": [
+      {
+        "text": "I need help getting public safety report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "175bf0e5-902e-4ca1-b514-8f68130e9aaa",
+    "data": [
+      {
+        "text": "Collision information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "939e03bc-bab1-4ae5-8882-4a61c0b403e5",
+    "data": [
+      {
+        "text": "I have a question regarding a Public ",
+        "userDefined": false
+      },
+      {
+        "text": "Records",
+        "userDefined": false
+      },
+      {
+        "text": " Request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76a58493-a215-4c15-829b-212d79d457c7",
+    "data": [
+      {
+        "text": "records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748a3c50-0eac-4cf4-ab2c-d7f4b3f37745",
+    "data": [
+      {
+        "text": "I want to order public ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "605183d5-a931-4dc5-b73e-fcdf0e8842a0",
+    "data": [
+      {
+        "text": "Can you give me my report that I requested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dd3cb3c-e180-4d7a-816f-ed2a1593d2e2",
+    "data": [
+      {
+        "text": "How can I get the accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c55dadf4-6712-4ed6-9fd4-131c8f49833d",
+    "data": [
+      {
+        "text": "Need accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9873ac7-6c4e-4dc3-8588-a3b2793b3d9e",
+    "data": [
+      {
+        "text": "I wanted to get a collision/accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41880110-12d2-450d-af8a-84855ef99c95",
+    "data": [
+      {
+        "text": "I am looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "911",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recording",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " for a collision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da68bd15-0554-4341-b3db-049c76e68dee",
+    "data": [
+      {
+        "text": "link to request ",
+        "userDefined": false
+      },
+      {
+        "text": "collision record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be8d70f7-8c31-4ae0-a52b-2c17b61f1548",
+    "data": [
+      {
+        "text": "requesting for ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ffb20ec-2e94-4eaa-8d1b-a47c850bdbc1",
+    "data": [
+      {
+        "text": "how to get ",
+        "userDefined": false
+      },
+      {
+        "text": "collision record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8293abf7-67e6-44df-9d43-3a970792681d",
+    "data": [
+      {
+        "text": "Required ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42c30258-3f2f-4099-a53a-a17b9edd3698",
+    "data": [
+      {
+        "text": "need ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dbb7563-e356-47fd-8b0e-0ebcd8843428",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8291e721-004c-4029-b13f-e34e6ad55d24",
+    "data": [
+      {
+        "text": "Where can I find my ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a19c07cc-e529-418f-ae56-82d3d0d49d6d",
+    "data": [
+      {
+        "text": "Can I get my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " pls?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2159265f-3839-43d1-b3f3-e2ca4e743a3e",
+    "data": [
+      {
+        "text": "where can I get my citation report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c31753bc-107c-462a-9f74-abad57c5e1b4",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Police Report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11db0e8e-5097-414a-892a-82e2c151d3be",
+    "data": [
+      {
+        "text": "I need a copy of my citation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f60e4dc-7a88-4a01-a8bd-b54aa0905c75",
+    "data": [
+      {
+        "text": "I need media files",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d604e7e-548c-4ae2-9856-9208db7c71c0",
+    "data": [
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d488c6d3-f63f-4c25-a4ab-330ae9257b94",
+    "data": [
+      {
+        "text": "how do I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f0467ae-787a-4f68-a673-362ac59ae9f1",
+    "data": [
+      {
+        "text": "How do I request a ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

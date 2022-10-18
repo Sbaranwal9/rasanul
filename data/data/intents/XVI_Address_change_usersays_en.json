@@ -1,0 +1,489 @@
+[
+  {
+    "id": "b06d8997-3355-42e5-bdfb-7bedbc229a2a",
+    "data": [
+      {
+        "text": "How about if I already have a new mailing address from the ones that is in your records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fe9a66f-d4d6-4c20-b0b8-9b58917f0bb5",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "address changed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66f51494-dc8a-4f83-807e-eaf0e831779b",
+    "data": [
+      {
+        "text": "I have moved. do i have to notify ?  i have already changed my drivers license.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f69d352a-4afa-4079-9b66-cc5ec0bf26b1",
+    "data": [
+      {
+        "text": "how can I change where it gets mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc1f0c30-131a-4769-b09d-c0a04f903633",
+    "data": [
+      {
+        "text": "I don\u0027t have my card yet can you deliver it on my new address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8295652b-5105-4f8e-b4af-efeb70fc48a7",
+    "data": [
+      {
+        "text": "update address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1db2c061-8693-476b-bdc1-db95fc6f28c4",
+    "data": [
+      {
+        "text": "I\u0027d like to update my address so I can receive my finger print ID card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f994b88-a921-448c-bf22-cb9b853f2216",
+    "data": [
+      {
+        "text": "Hi. My fingerprint card was sent to an old address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a5e2be2-0285-4041-9ca4-c86b10e0216c",
+    "data": [
+      {
+        "text": "Hello, I need to change my mailing address for my fingerprint card to be sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b8cb41-2e69-46cc-9f25-209b3734fa47",
+    "data": [
+      {
+        "text": "can I please change my address to which my clearance card will be sent to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29b1982e-fbf4-4d5d-a2b1-7d564a6e4689",
+    "data": [
+      {
+        "text": "I need to change address to where my finger print clearance card will be sent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6fdfea0-fe24-4650-89b4-da2795ff9f56",
+    "data": [
+      {
+        "text": "Hi, if I have a finger print clearance card already, but I\u0027m moving to Oregon, will they transfer to ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "146a5f9e-9adb-479c-8616-634cae526581",
+    "data": [
+      {
+        "text": "I need to submit a change of address for my guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4af9d42d-8e82-41e5-987d-c812fde37b6f",
+    "data": [
+      {
+        "text": "can I give my current address which is Wisconsin address in the application form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "002a18c6-f91b-4723-9be0-7baaa25ada35",
+    "data": [
+      {
+        "text": "I misspelled my address , HOW CAN I CHANGE it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "885ded40-1389-4663-bd34-d4c8e8bc58f6",
+    "data": [
+      {
+        "text": "how can i change my adress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36350156-96ec-4630-b354-dcbecbe35864",
+    "data": [
+      {
+        "text": "Change of address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1167c222-f36d-4855-b786-deef9f5046ed",
+    "data": [
+      {
+        "text": "I need to report my new address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd49986d-602b-4b4d-a156-04d74f911da9",
+    "data": [
+      {
+        "text": "I need to change the \"work address\" on my fingerprint clearance card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68027dcc-278b-40be-b418-26e19163d275",
+    "data": [
+      {
+        "text": "Change address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b66f699-467e-431a-b890-4a15ac4c7584",
+    "data": [
+      {
+        "text": "i put my old address instead of my new address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c44b44a-09c4-4030-94b7-05e121c3bf8a",
+    "data": [
+      {
+        "text": "I would like the fingerprint card resent to a different address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ca5892e-ecea-4b4b-83ed-2cb7d92da592",
+    "data": [
+      {
+        "text": "My clearance card was return and they send me an email telling me i had to change address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c793d992-e78f-45b3-8582-d79bdccfc7f6",
+    "data": [
+      {
+        "text": "I confirmed my email but it still says I havent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57029408-faf6-4f49-9b9a-f3dc41e3ca14",
+    "data": [
+      {
+        "text": "Recently I moved to another city. Should I inform this to DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96329e46-740c-48dd-b606-09317c662f44",
+    "data": [
+      {
+        "text": "Procedure to change the mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e01bc5b-495a-468e-a334-1bf4101662a7",
+    "data": [
+      {
+        "text": "My mailing address got changed how should I notify the DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c624c96d-66e7-495b-bae1-3cbd82866e98",
+    "data": [
+      {
+        "text": "steps to change the mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2f7785-2f36-4984-a5bc-3da0bcc1d4ed",
+    "data": [
+      {
+        "text": "Need to change the address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18d048f7-954c-4876-ac3e-9ee3c7e8cbec",
+    "data": [
+      {
+        "text": "How to change my mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51155e0e-4a56-4f39-9674-666181171f3a",
+    "data": [
+      {
+        "text": " we shifted out house, Do I need to inform to DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e48aae95-8050-4ad6-85a2-025c04cdb8ad",
+    "data": [
+      {
+        "text": "Do I need to inform DPS if there is any change in address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508d4531-ed45-4dd8-a587-30cb14a9580c",
+    "data": [
+      {
+        "text": "Is it necessary to intimate DPS if we shift the house?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1081109-4778-42a6-aa0e-994b9aa85161",
+    "data": [
+      {
+        "text": "My address got changed where can I intimate the same?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "332fed2a-d71b-44a1-ba1f-bf237a1c5b0d",
+    "data": [
+      {
+        "text": "After I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "userDefined": false
+      },
+      {
+        "text": ", if my ",
+        "userDefined": false
+      },
+      {
+        "text": "mailing address changes",
+        "meta": "@mailing_address_change",
+        "alias": "mailing_address_change",
+        "userDefined": false
+      },
+      {
+        "text": ", should I notify DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

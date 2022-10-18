@@ -1,0 +1,9 @@
+{
+  "id": "cff4cbd9-596a-4ca7-992a-46e9692fa2b1",
+  "name": "request_record",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

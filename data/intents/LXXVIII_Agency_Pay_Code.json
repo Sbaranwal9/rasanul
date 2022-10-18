@@ -1,0 +1,75 @@
+{
+  "id": "7ed60297-0dbc-4857-a072-453f157b3b92",
+  "name": "LXXVIII_Agency_Pay_Code",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "256302c5-71c4-4277-9c3c-42fbf53716d7",
+          "name": "receive",
+          "required": false,
+          "dataType": "@Receive",
+          "value": "$receive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e9f3c031-bd62-414e-9f32-7196f1d62c92",
+          "name": "pay",
+          "required": false,
+          "dataType": "@Pay",
+          "value": "$pay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8926d195-98a6-4eca-9cd5-edb588a80c3b",
+          "name": "you_shorthand",
+          "required": false,
+          "dataType": "@you_shortHand",
+          "value": "$you_shorthand",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

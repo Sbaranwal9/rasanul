@@ -1,0 +1,9 @@
+{
+  "id": "2c49a05e-9d2c-45de-affe-c78d3b16f920",
+  "name": "Driving_Restricted",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

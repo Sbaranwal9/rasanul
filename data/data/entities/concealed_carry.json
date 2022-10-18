@@ -1,0 +1,9 @@
+{
+  "id": "226154c0-4e9c-4053-bc5a-d2ad5cedcbf0",
+  "name": "concealed_carry",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

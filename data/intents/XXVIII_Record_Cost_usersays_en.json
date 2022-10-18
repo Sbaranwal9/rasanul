@@ -1,0 +1,377 @@
+[
+  {
+    "id": "b99e2f37-a01a-499a-9782-70629cafc64b",
+    "data": [
+      {
+        "text": "If I was involved in an accident do I have to pay to see the police report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0ca3a36-dd0d-4423-917d-af30cb8ed467",
+    "data": [
+      {
+        "text": "I need to know if I need to pay for record request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c50e201d-bd79-42ff-84ac-98f6ea3bb6f4",
+    "data": [
+      {
+        "text": "My Level ",
+        "userDefined": false
+      },
+      {
+        "text": "One",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprint Clearance Card is expiring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba63bcd6-2aa4-4bbe-9b92-5f5a15068ead",
+    "data": [
+      {
+        "text": "Also any kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " schedule would be great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7113261-317d-42ce-a996-bb2e00d6ccbe",
+    "data": [
+      {
+        "text": "When do I pay for the transaction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32453a2-94a2-4312-ae2b-c49a4993da8f",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "charge",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c29502d-5946-4847-a367-640a0268ec1e",
+    "data": [
+      {
+        "text": "How much I should be paying for my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76a8da62-3485-4191-9b52-801a831d56a4",
+    "data": [
+      {
+        "text": "How much is my ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e961df45-e8bd-47cf-86fd-d35314a05df5",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " of my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c91f0e06-8ae7-4c2d-9bd4-3e071ad47b8e",
+    "data": [
+      {
+        "text": "How will I know what my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " will ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "209afc26-a184-43bd-af03-d6d0292d08b6",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "rate",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "charge",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ") for ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8a8cd15-5b8c-491e-84d5-05f9002c7e7a",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "amount",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "rate",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": ") do I pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78e81e73-fdb5-4a44-97e7-81cd45dbba34",
+    "data": [
+      {
+        "text": "How much will my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "3b42bb4d-73af-46c3-a763-5d902fb0c08a",
+    "data": [
+      {
+        "text": "Police reports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65f120cd-0c80-4044-9f6b-a964bb2a7360",
+    "data": [
+      {
+        "text": "How do I obtain information an a motor vehicle crash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5630e2ad-9c09-4c3e-a930-0e23d1435b10",
+    "data": [
+      {
+        "text": "How do I get a copy of ",
+        "userDefined": false
+      },
+      {
+        "text": "crash report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45b88ee0-2748-4f05-a5bc-152966cad134",
+    "data": [
+      {
+        "text": "what are the differences of police and ",
+        "userDefined": false
+      },
+      {
+        "text": "crash report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecf123e9-918c-4134-8259-7648593bdf7e",
+    "data": [
+      {
+        "text": "Is there any difference between record and report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7751546-6f49-4939-82c1-5fc17051ffc7",
+    "data": [
+      {
+        "text": "Are both ",
+        "userDefined": false
+      },
+      {
+        "text": "crash records",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "police records",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      },
+      {
+        "text": " are same?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b36e251-a5f9-4111-beeb-901f26314bf7",
+    "data": [
+      {
+        "text": "is an accident report the same as a ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a58415c-b8b8-48e9-87b2-e581af2c75e7",
+    "data": [
+      {
+        "text": "accident report vs ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34de3f73-2119-4adc-b1ca-fc734bc04416",
+    "data": [
+      {
+        "text": "are a ",
+        "userDefined": false
+      },
+      {
+        "text": "crash report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      },
+      {
+        "text": " the same thing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40958451-355d-447b-8457-643d74743526",
+    "data": [
+      {
+        "text": "crash report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      },
+      {
+        "text": " vs. ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da29b02-ab75-4946-8390-b79a1a8d8b0c",
+    "data": [
+      {
+        "text": "What\u0027s the difference between a ",
+        "userDefined": false
+      },
+      {
+        "text": "crash report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport",
+        "userDefined": false
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "police report",
+        "meta": "@CrashReport_vs_PoliceReport",
+        "alias": "crashreport_vs_policereport1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

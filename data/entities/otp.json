@@ -1,0 +1,9 @@
+{
+  "id": "1f0cca12-c5b2-4ebb-ae13-e4be322089c0",
+  "name": "otp",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

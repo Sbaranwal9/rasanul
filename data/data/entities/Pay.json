@@ -1,0 +1,9 @@
+{
+  "id": "433b6731-570b-427c-9c35-95dfc3a11839",
+  "name": "Pay",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

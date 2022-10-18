@@ -1,0 +1,399 @@
+[
+  {
+    "id": "b31a71da-b8c8-4f90-b86a-c3e3a0a0f4e3",
+    "data": [
+      {
+        "text": "I want to verify if you received my mailed application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff4662bc-7d2c-44d9-b19e-4c6b0b59dcc8",
+    "data": [
+      {
+        "text": "How to verify fingerprint if no details except name and DOB?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b521bba6-6293-45d9-a607-c8e3ebe6166a",
+    "data": [
+      {
+        "text": "lost fingerprint card, how to verify?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32eba182-7c18-4353-a0de-194756760ccf",
+    "data": [
+      {
+        "text": "I\u0027m the employer need  to verify employee fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a39ef99d-42d1-41d9-b5b8-6d5f0f7de5fe",
+    "data": [
+      {
+        "text": "need to verify  employee az fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "460f5d36-7859-4b2a-a83f-42222e94574f",
+    "data": [
+      {
+        "text": "how can I verify a fingerprint card through my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5badd62-97e7-493d-81ac-0fc2b8bbdf0b",
+    "data": [
+      {
+        "text": "I need to verify a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72821947-bd66-4602-af8f-a330ec91f94d",
+    "data": [
+      {
+        "text": "i havent gotten my clearance card yet. would the police department be able to submit my clearance cardfor a new clearance application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6325c507-593f-44f1-bb0b-dfccad46e152",
+    "data": [
+      {
+        "text": "clearance card can be considered as ",
+        "userDefined": false
+      },
+      {
+        "text": "proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b84d73a-631a-4984-a4b3-6e009c334362",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "actual card",
+        "meta": "@Valid_Card",
+        "alias": "valid_card1",
+        "userDefined": false
+      },
+      {
+        "text": " will be a ",
+        "userDefined": false
+      },
+      {
+        "text": "valid proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card3",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3888f974-13ec-4eb9-96f2-05cbb1282f96",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "photo copy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of the license is a ",
+        "userDefined": false
+      },
+      {
+        "text": "valid proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card3",
+        "userDefined": false
+      },
+      {
+        "text": " for employer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb4854a3-ffd4-4a37-bdd2-f4e50e95c100",
+    "data": [
+      {
+        "text": "As an employer can I accept a ",
+        "userDefined": false
+      },
+      {
+        "text": "photo copy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": true
+      },
+      {
+        "text": " of the clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c23b13d4-bfce-4f8e-9bfc-d68ca0063cf3",
+    "data": [
+      {
+        "text": "Can I accept a ",
+        "userDefined": false
+      },
+      {
+        "text": "photocopy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4a842e9-0f44-47b4-9131-8190150d0710",
+    "data": [
+      {
+        "text": "Can I accept a ",
+        "userDefined": false
+      },
+      {
+        "text": "photocopy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of a security guard or private investigator license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "161b5a63-888b-4d82-9bf2-dc5f888f5d9a",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "photocopies",
+        "meta": "@Valid_Card",
+        "alias": "valid_card1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of a valid security guard or private investigator license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81c14293-f687-4cb1-8502-fe85e9cff2bc",
+    "data": [
+      {
+        "text": "As an employer, if a person provides a ",
+        "userDefined": false
+      },
+      {
+        "text": "photocopy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of a security guard or private investigator registration, or the ",
+        "userDefined": false
+      },
+      {
+        "text": "actual card",
+        "meta": "@Valid_Card",
+        "alias": "valid_card1",
+        "userDefined": false
+      },
+      {
+        "text": " itself, is that ",
+        "userDefined": false
+      },
+      {
+        "text": "proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card2",
+        "userDefined": false
+      },
+      {
+        "text": " that it is a ",
+        "userDefined": false
+      },
+      {
+        "text": "valid card",
+        "meta": "@Valid_Card",
+        "alias": "valid_card3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "980505a1-fa5a-4f37-b1ab-866128a291b1",
+    "data": [
+      {
+        "text": "As an employer, if a person provides a ",
+        "userDefined": false
+      },
+      {
+        "text": "photocopy",
+        "meta": "@Valid_Card",
+        "alias": "valid_card",
+        "userDefined": false
+      },
+      {
+        "text": " of a registration, or the ",
+        "userDefined": false
+      },
+      {
+        "text": "actual card",
+        "meta": "@Valid_Card",
+        "alias": "valid_card1",
+        "userDefined": false
+      },
+      {
+        "text": " itself, is that ",
+        "userDefined": false
+      },
+      {
+        "text": "proof",
+        "meta": "@Valid_Card",
+        "alias": "valid_card2",
+        "userDefined": false
+      },
+      {
+        "text": " that it is a ",
+        "userDefined": false
+      },
+      {
+        "text": "valid card",
+        "meta": "@Valid_Card",
+        "alias": "valid_card3",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

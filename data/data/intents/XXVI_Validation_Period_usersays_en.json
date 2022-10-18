@@ -1,0 +1,347 @@
+[
+  {
+    "id": "462e624a-3d8f-4b26-9b68-1b3c5f496ff7",
+    "data": [
+      {
+        "text": "Is my license active???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a76ec3e5-8fb9-4249-aa1a-d0cf0833cacd",
+    "data": [
+      {
+        "text": "How long do fingerprint cards last",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc21828-e1c6-4ced-800c-be60bb8e922e",
+    "data": [
+      {
+        "text": "is my card still ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0b95df7-f2d9-4aa6-b60c-1c49fa29ca55",
+    "data": [
+      {
+        "text": "How long last fingerprint clearance card for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a349b42-b6e6-4e73-9d42-64b99f03af90",
+    "data": [
+      {
+        "text": "What is the fastest amount of time I will get my IPV fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b1bf122-d572-4673-b08b-942328b03ba1",
+    "data": [
+      {
+        "text": "When will my license will be expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fc6b24e-a1aa-4b5d-b150-41f9377c9ec7",
+    "data": [
+      {
+        "text": "how to check my card expiry date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05545d54-03af-4f3d-bde6-62f04df531f5",
+    "data": [
+      {
+        "text": "Till when I can use this card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "715edb20-90f9-4292-9558-bff882b6226d",
+    "data": [
+      {
+        "text": "How long I can use the security guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7e56e90-256f-4a57-9d05-847a83ab60f3",
+    "data": [
+      {
+        "text": "May I know the expiry date of the security guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55239815-8b6e-4c50-b837-326282b61b34",
+    "data": [
+      {
+        "text": "Till when my license is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0f3eeaa-d463-4c57-b5a9-7a859b1b4164",
+    "data": [
+      {
+        "text": "How long my ",
+        "userDefined": false
+      },
+      {
+        "text": "PI",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": " for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a659125-c76f-459a-b4ba-582066a9684d",
+    "data": [
+      {
+        "text": "Until what date my license is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a4f0e96-ec28-4fe5-9dd5-7042590073fd",
+    "data": [
+      {
+        "text": "how long can I use my ",
+        "userDefined": false
+      },
+      {
+        "text": "private investigator",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "483c3902-aa8b-4191-9aed-01a00b86071d",
+    "data": [
+      {
+        "text": "Til when is my license good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa36d507-6b04-4ade-8102-5b4a2e11cfcc",
+    "data": [
+      {
+        "text": "What duration of time is my licence ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": " (good) for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "553b9ab5-f6ab-4a2b-97d8-022e32b12e99",
+    "data": [
+      {
+        "text": "When will my license expire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "399ae8cb-c6f1-4769-972f-446970454365",
+    "data": [
+      {
+        "text": "How long until (til) expiration of my license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7b02410-e79f-45b1-a8d5-fcf27e8ed09e",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " is a Security Guard or ",
+        "userDefined": false
+      },
+      {
+        "text": "Private Investigator",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " Registration/",
+        "userDefined": false
+      },
+      {
+        "text": "License",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": " for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

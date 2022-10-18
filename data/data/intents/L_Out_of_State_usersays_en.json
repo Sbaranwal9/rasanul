@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "fe6fbdf8-6613-4c8b-ba70-7d0a42170583",
+    "data": [
+      {
+        "text": "Can I begin the process from outside of Arizona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77948f2b-a03c-442f-bb22-c66f9e85a0aa",
+    "data": [
+      {
+        "text": "How can I send my fingerprints from a different state for a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "294f54d3-a023-4514-adc9-6976159ae6d7",
+    "data": [
+      {
+        "text": "I applied but my birth place is ",
+        "userDefined": false
+      },
+      {
+        "text": "Michigan",
+        "userDefined": false
+      },
+      {
+        "text": " not ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85c68dcf-6a78-4552-a759-b246c5901456",
+    "data": [
+      {
+        "text": "Can I use AZ IVP card in other states?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f2be351-0c13-49c6-8cb2-ce07e8f49413",
+    "data": [
+      {
+        "text": "hi, I would like to know if I need to get IVP and I am not in Arizona, I am teaching abroad what should I need to do ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5887826-646d-44cf-9565-2be19154f7ea",
+    "data": [
+      {
+        "text": "Fingerprints rejected, need new set taken. But I am in California.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ced5a0e8-4495-4525-b600-d189b3e94e42",
+    "data": [
+      {
+        "text": "I do you have an office in Tucson, Az?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efbc10a5-96b6-450d-99b5-721a1bc134e8",
+    "data": [
+      {
+        "text": "WHERE CAN I GO IN ",
+        "userDefined": false
+      },
+      {
+        "text": "TUCSON",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " TO GET A FINGER PRINT CARD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b460df-a010-481d-b60c-6f599795294f",
+    "data": [
+      {
+        "text": "I am providing respite care for a DDD client and need a fingerprint clearance card, but I live in Texas what is the process for me to get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca6271e6-f4b1-451c-a3e4-1fb614796166",
+    "data": [
+      {
+        "text": "How to get a level one fingerprint card when living in Texas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23b856a1-cdba-4a8f-8ed3-1cffdce56c61",
+    "data": [
+      {
+        "text": "Hello.  I have a new employee currently living in California.  Is there any way to have fingerprinting done in CA but submitted to AZ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "417943b6-fb54-412f-abcd-c9450d739a65",
+    "data": [
+      {
+        "text": "I need information on getting fingerprint clearance card for an individual located in India",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a69cb7f3-f1b9-4578-9737-eb3f81385cbb",
+    "data": [
+      {
+        "text": "I need an IVP card but I am not in AZ yet I will move there in ",
+        "userDefined": false
+      },
+      {
+        "text": "July",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ".  Can I process this before moving.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa4a7a5-ec46-4163-8a35-ce7c1ff5a9af",
+    "data": [
+      {
+        "text": "Hello, I am trying to get fingerprinted from out of state.  I just wondered if I can do this remotely with my current application, or if I have to travel to AZ in order to complete this step.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce927995-d479-4e23-b4f5-130fd9093a31",
+    "data": [
+      {
+        "text": "I am applying for an out-of-state card and was wondering if you had any resources to locate a finger printing location.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73717c0f-ef95-4c34-9f0b-fff5b0787658",
+    "data": [
+      {
+        "text": "In my state of NM or do I have to go to AZ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecf68279-cbcd-453d-9588-ad5ecccae11f",
+    "data": [
+      {
+        "text": "How about international applicants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cc78e1a-a9c7-4db5-b674-d8ae067379cb",
+    "data": [
+      {
+        "text": "I have the paperwork already and paid my fee. Can I have the location in ",
+        "userDefined": false
+      },
+      {
+        "text": "Yuma",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ",Az please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78bdf100-e04d-4aa7-88db-5a520d0d2fbf",
+    "data": [
+      {
+        "text": "Hi I am out of state currently applying to teach in Arizona. for my address should I put currently my maryland address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b52c21a5-ba4d-4f08-b475-32bb7e1bed13",
+    "data": [
+      {
+        "text": "what address do i put if I live out of state.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e1a8fb0-c57d-431f-bdf7-d88c601e1955",
+    "data": [
+      {
+        "text": "I have a fingerprint card from ",
+        "userDefined": false
+      },
+      {
+        "text": "NH",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " how do i submit this on this website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b871eb4-ada8-43d7-b343-9f93e73404fd",
+    "data": [
+      {
+        "text": "I applied out of state for a fingerprint clearance card. Then, ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " DPS mailed me ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " packets for my fingerprinting. Do I need to send in both packets, or is one of them extra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8a567e5-2ab6-4424-9393-2a0759664d4d",
+    "data": [
+      {
+        "text": "what address do i put if out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a1f5e4-cab5-4166-aa4e-c03a48e83f75",
+    "data": [
+      {
+        "text": "How do I go about this process if I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "504f82f2-f7cf-4bbe-b047-991ba9e4dfed",
+    "data": [
+      {
+        "text": "I would like to know if there is any way I can get my fingerprints clearance card for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " while still living in Califnormia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23815f5f-5a53-42da-b094-47c9b02785f0",
+    "data": [
+      {
+        "text": "Hello, how can i check if i have a citation in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " if I am not a resident?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84a5b6f9-12cd-4220-8e50-4aae60e752e6",
+    "data": [
+      {
+        "text": "Can I get my finger ring scanned in ",
+        "userDefined": false
+      },
+      {
+        "text": "Utah",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "866a94dd-0c08-4273-81be-1adcc54cdae4",
+    "data": [
+      {
+        "text": "I will be moving to ",
+        "userDefined": false
+      },
+      {
+        "text": "Phoenix",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " in mid ",
+        "userDefined": false
+      },
+      {
+        "text": "June",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " but I need the card ",
+        "userDefined": false
+      },
+      {
+        "text": "before June",
+        "meta": "@sys.date-period",
+        "alias": "date-period1",
+        "userDefined": false
+      },
+      {
+        "text": " for my new job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b208c560-9286-4fe2-a5f0-b5be474715f7",
+    "data": [
+      {
+        "text": "i am was told i need this card to teach in ",
+        "userDefined": false
+      },
+      {
+        "text": "arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8055d79-c790-4ebb-8db0-73132ce49a15",
+    "data": [
+      {
+        "text": "but i am not currently in AZ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1071c389-e937-49f4-b933-b30d2bcb9062",
+    "data": [
+      {
+        "text": "another state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2de7a01a-7a3f-45c4-baff-bd7e133ec5f5",
+    "data": [
+      {
+        "text": "Hello, if a person applying for the Level I FP card is out of state, do they still fill \n out the application online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "406ccad4-1ecb-4342-a52a-9aa2f7143743",
+    "data": [
+      {
+        "text": "I\u0027m not in AZ right now for fingerprinting taking care of my mom but I\u0027m coming back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22a4194d-6490-4bf9-96c0-7452d73807b4",
+    "data": [
+      {
+        "text": "Hello! I\u0027m trying to work on working up there. My future manager tells me to get an ARS ",
+        "userDefined": false
+      },
+      {
+        "text": "36-411",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " card for fingerprinting. I don\u0027t live there yet. Will you help me? Can i get that processed here in TN, if possible, today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "738dbec7-2d67-40b0-835d-845c9ad68fcf",
+    "data": [
+      {
+        "text": "I put that I would not be in ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " but I am. How do I change that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8994ebd9-0686-4ac5-820e-98fdb1662b9e",
+    "data": [
+      {
+        "text": "I\u0027m not in AZ for fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ca5bb4e-913c-4b34-9b09-7aba996d5d4d",
+    "data": [
+      {
+        "text": "Is it possible to get fingerprints done in another state and sent to you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858cd6da-d752-41d5-a8ed-e8f8a6b22cca",
+    "data": [
+      {
+        "text": "I need fingerprinting clearance to reinstate my pharmacist license. I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tucson",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ". Do I need to come to ",
+        "userDefined": false
+      },
+      {
+        "text": "Phoenix",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b651b9e-2916-4442-ad27-c38a2a320d6a",
+    "data": [
+      {
+        "text": "Can I apply for a fingerprint clearance card if my physical address is currently in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3182861f-06ed-4db6-93fb-9f739162293c",
+    "data": [
+      {
+        "text": "Will DPS accept fingerprints from another state?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3e38241-a6e5-4fc1-96d1-595aed4a48fc",
+    "data": [
+      {
+        "text": "if the applicant is still in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Philippines",
+        "userDefined": false
+      },
+      {
+        "text": ", is there a way for her to apply for an IVP card? She will be teaching at ",
+        "userDefined": false
+      },
+      {
+        "text": "Whiteriver",
+        "userDefined": false
+      },
+      {
+        "text": " Unified School District",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "399f7fb0-9923-452b-b2d0-7232b41dbd55",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", how can I submit fingerprints to Arizona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c4e8ac0-4319-41c4-999f-2e6023fd5c5d",
+    "data": [
+      {
+        "text": "I am applying for RN license, which requires fingerprinting, I am out of state. How do I go about it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40688921-b319-4bc1-9156-234a86d6bf46",
+    "data": [
+      {
+        "text": "Can I get my fingerprint card in ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc425043-111f-4cb2-b7e5-31f06c708791",
+    "data": [
+      {
+        "text": "applying for an out of state private investigator license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4467ab7e-3908-4e5e-aeaa-5efb397e28b6",
+    "data": [
+      {
+        "text": "I am a VA certified teacher looking to relocate toAZ. I\u0027m not sure how to get the card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c03a10d1-78ba-4db6-8618-156637668ec4",
+    "data": [
+      {
+        "text": "out of country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "575da441-fdd3-4a53-8866-00c04e80d7e2",
+    "data": [
+      {
+        "text": "How do I submit fingerprints if I am not present in Arizona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6d6f363-362b-427b-9b80-a5e8fd3b9d80",
+    "data": [
+      {
+        "text": "We are in ",
+        "userDefined": false
+      },
+      {
+        "text": "Louisiana",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      },
+      {
+        "text": ", how do we proceed for FCC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2569d27-044c-432e-b80c-808ac0b72d4e",
+    "data": [
+      {
+        "text": "I live out of state but need a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "656a7b18-9147-4c5b-826d-ae801133da52",
+    "data": [
+      {
+        "text": "I live out of state and I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "359bcd0a-9e4e-476d-a8b0-e41d32db9e5e",
+    "data": [
+      {
+        "text": "From out of state, how do I complete fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44da0853-917f-4a61-ad47-48bbb305bb1e",
+    "data": [
+      {
+        "text": "Out of state ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75f3f906-2d03-462c-b3d9-c3e92659623d",
+    "data": [
+      {
+        "text": "I need information on how to get fingerprints completed from another state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1f2d615-d3ae-4cfc-b69a-1341597297db",
+    "data": [
+      {
+        "text": "I am wondering about fingerprints as I am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c297af-d02d-418b-9f2d-c330bc0d10bf",
+    "data": [
+      {
+        "text": "out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "868e1fef-24eb-48e9-b23e-9c76aa496080",
+    "data": [
+      {
+        "text": "Hey I\u0027m work security in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Antonio",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Texas",
+        "userDefined": false
+      },
+      {
+        "text": " and I was moving to ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      },
+      {
+        "text": " and I wanted to know if I need transfer my licenses ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "143f2f35-33a8-4a03-ad2d-4072d0db17ec",
+    "data": [
+      {
+        "text": "I think I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " on file in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kansas",
+        "userDefined": false
+      },
+      {
+        "text": " but it is from back in ",
+        "userDefined": false
+      },
+      {
+        "text": "2008",
+        "userDefined": false
+      },
+      {
+        "text": ", should I just file for a new one for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbd56298-8ea0-472a-a497-749173dd30e5",
+    "data": [
+      {
+        "text": "Can I get AZ ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if out of ",
+        "userDefined": false
+      },
+      {
+        "text": "state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b735d403-bdfe-4e62-a852-3d80d309376f",
+    "data": [
+      {
+        "text": "If I applied for a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "texas",
+        "userDefined": false
+      },
+      {
+        "text": " do I need one for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61aff6ca-47f7-40d7-a000-520552982ddc",
+    "data": [
+      {
+        "text": "If I am not an ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      },
+      {
+        "text": " resident, can I still apply online for ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ede9748f-d9f4-486d-8fae-1d7dca8362d9",
+    "data": [
+      {
+        "text": "I am not an employee of the State of ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "userDefined": false
+      },
+      {
+        "text": ", but work as a Caregiver for Beatitudes Campus.  What do I check for reasons for applying since only State agencies are listed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e159e97-3f02-47a7-8d9e-5edb99de18b0",
+    "data": [
+      {
+        "text": "i\u0027m out of state and need a finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb13b779-0b56-49d1-9cc0-1db36b28f52b",
+    "data": [
+      {
+        "text": "Fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " please, I am out of states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e090c8b-fff6-46e1-b0ed-3a6606ee5a2a",
+    "data": [
+      {
+        "text": "Need my ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " asap as I am not in states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce8eaba3-0e94-4e6b-a9a9-89844559ecc5",
+    "data": [
+      {
+        "text": "I want to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " out of the state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "145767e6-0f14-428c-9d54-b2f6dbf10767",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " and how to get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4923921-8deb-4962-8f46-fcb30cfda039",
+    "data": [
+      {
+        "text": "Do i need to apply somewhere if i want ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3b67428-a1ab-44b5-8f4b-52f1d86045d1",
+    "data": [
+      {
+        "text": "Hey where can i get my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d487a2bb-baa6-443c-a118-8d5e094e8ebb",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " as I am not in the state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84107fba-fc41-4f21-b336-445224b6faf0",
+    "data": [
+      {
+        "text": "Fingerpint card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a82d945-3c79-42a0-a2f6-5a4ed51223d1",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": ", I\u0027m not ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "userDefined": false
+      },
+      {
+        "text": " state right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8065e2c3-b235-44a1-babe-e62323502b6c",
+    "data": [
+      {
+        "text": "I would like to have a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a26ec66-2322-4867-b093-cacdcfb39098",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " outside the state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9aca57d-e0a2-4a89-ba1c-8751fbdfba2a",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e61e58b3-f111-4b48-b30e-28d265d776e4",
+    "data": [
+      {
+        "text": "I am out state, can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " please tell me how to obtain a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bd3984b-acdc-4e39-a1c2-0700a65ed7da",
+    "data": [
+      {
+        "text": "Please help me in getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "086368b2-6fcb-4627-8c81-d60c949ee17c",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " when I am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1caf03a4-c54a-490b-8fdb-519579447339",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ae4cc7f-5ac6-4854-ae61-bf46e34b1084",
+    "data": [
+      {
+        "text": "Will i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4631d4f4-6fb2-4de3-821c-b0fb24704905",
+    "data": [
+      {
+        "text": "Help me to get fingerprint clerance card am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e3c99c3-157d-4485-bde3-f7e84250edeb",
+    "data": [
+      {
+        "text": "Need to get ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " but am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb1d2cc7-bd42-4a6a-93e0-bd674f1d0dc0",
+    "data": [
+      {
+        "text": "Am out of state how to get ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49863fd9-95ea-4202-a028-08002e69e51e",
+    "data": [
+      {
+        "text": "Out of state,  can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a8d640b-4253-409f-982b-6a9cb18abca5",
+    "data": [
+      {
+        "text": "How to apply the ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if i am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b06e8083-1980-43b2-8f02-59d156cf35fa",
+    "data": [
+      {
+        "text": "Is it possible to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if i am out state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa347a50-0320-4f29-aa26-2b19babb2351",
+    "data": [
+      {
+        "text": "how can i get the ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "? if i am not in my place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467245c2-ad54-46d1-b818-6f24f80580c3",
+    "data": [
+      {
+        "text": "How to get the ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " when out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb0baaf5-d9ed-4ba4-a109-396d58ba4a79",
+    "data": [
+      {
+        "text": "Can i still get the fingerprent ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " even if i am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e99b3af-680f-4e67-b4fc-45c9e2c82460",
+    "data": [
+      {
+        "text": "Fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " for out of state person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb74df2c-1bd5-492c-98d8-8f003285f0ac",
+    "data": [
+      {
+        "text": "Out of state, can i still get the ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d1bbdf5-d591-4f96-a529-74a1e5f03a96",
+    "data": [
+      {
+        "text": "Can You please help me in getting ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint  clearance",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if i am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e334898-efd7-4831-ad85-73b9e679063a",
+    "data": [
+      {
+        "text": "Where to get ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c80b670-1902-4132-8c01-a20dec9d6b12",
+    "data": [
+      {
+        "text": "How to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "  if i am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1018a112-bc4a-42b6-abaa-346c0288a8c9",
+    "data": [
+      {
+        "text": "Help me getting ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if i am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48962188-7c5e-4c06-b079-ff789c3a639c",
+    "data": [
+      {
+        "text": "How to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cd81308-865f-48c6-8a96-9418611f0010",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " if I am out of state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4206a828-e7f5-4cdf-92ff-7bf2ffe5887e",
+    "data": [
+      {
+        "text": "Please help me to find ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a77b7580-a318-4688-9866-e90c4337c2d6",
+    "data": [
+      {
+        "text": "Where do I get ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "146105c2-ac3f-42c6-8832-5daedbfc177e",
+    "data": [
+      {
+        "text": "I am out of state can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

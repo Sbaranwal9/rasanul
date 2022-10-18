@@ -1,0 +1,9 @@
+{
+  "id": "cd290c16-a54e-4646-aa62-ab0c5bcca39b",
+  "name": "Past_CourtDate",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

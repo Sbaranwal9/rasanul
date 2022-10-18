@@ -1,0 +1,61 @@
+{
+  "id": "86a0512b-4395-4c17-91a5-aa7d08cfd609",
+  "name": "LXXXV_Blank_Card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "001b7adf-5cf5-442f-956b-95e779b8ab2c",
+          "name": "card",
+          "required": false,
+          "dataType": "@Card",
+          "value": "$card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8633e460-c4e0-40c8-a118-29bb8d6080c2",
+          "name": "fingerprinted",
+          "required": false,
+          "dataType": "@Fingerprinted",
+          "value": "$fingerprinted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

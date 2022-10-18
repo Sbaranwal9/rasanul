@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8c46a424-9032-49d1-b85a-e82dc912c297",
+    "data": [
+      {
+        "text": "L_apply_card_Security_Guard_or_PI_License.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8fd797f-698a-4013-bc2e-e475a2f238b8",
+    "data": [
+      {
+        "text": "XL_apply_card_Security_Guard_or_PI_License.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30d46bed-15c7-4efd-a305-d8b4654fd93c",
+    "data": [
+      {
+        "text": "XL_apply_card_Security_Guard_or_PI_License",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

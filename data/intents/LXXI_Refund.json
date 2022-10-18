@@ -1,0 +1,89 @@
+{
+  "id": "0d334f83-927c-4e32-a0f1-68b0c38c02fa",
+  "name": "LXXI_Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf9db87c-1512-49cf-b65d-8c6b19fcea95",
+          "name": "receive",
+          "required": false,
+          "dataType": "@Receive",
+          "value": "$receive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "15fd295f-726f-48d6-bab1-6654c81a1a4f",
+          "name": "apply",
+          "required": false,
+          "dataType": "@Apply",
+          "value": "$apply",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "23ced0d7-f861-4b1d-982a-dbf4460277c2",
+          "name": "cost",
+          "required": false,
+          "dataType": "@Cost",
+          "value": "$cost",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "df1ba8f0-a130-41ed-ad78-0e1505b7ba5d",
+          "name": "qualify",
+          "required": false,
+          "dataType": "@Qualify",
+          "value": "$qualify",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

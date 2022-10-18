@@ -1,0 +1,9 @@
+{
+  "id": "0ffb55d2-09d9-4fbf-af04-d60a6436d70a",
+  "name": "Suspension_Letter",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

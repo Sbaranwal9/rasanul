@@ -1,0 +1,249 @@
+[
+  {
+    "id": "e479f870-91a5-44b0-922d-f6ab62d248c9",
+    "data": [
+      {
+        "text": "I work for the City of ",
+        "userDefined": false
+      },
+      {
+        "text": "Henderson",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Nevada",
+        "userDefined": false
+      },
+      {
+        "text": " in the Crime Lab. I need fingerprints and palm prints for a person who was arrested in Arizona to compare in a case here.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664a54f3-c7a1-45e2-8064-e00d589c11e3",
+    "data": [
+      {
+        "text": "I am trying to find out if there is a record for M",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08be526b-279f-41f2-9c55-29b481119c11",
+    "data": [
+      {
+        "text": "records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "596ce80b-3cd8-4f53-b985-b19d77651201",
+    "data": [
+      {
+        "text": "how could I get my records?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bf7d8fa-4f44-414d-bcb1-7156df9cb0c7",
+    "data": [
+      {
+        "text": "May I know the link to get ",
+        "userDefined": false
+      },
+      {
+        "text": "groups of records",
+        "meta": "@Different_Types_Of_Record",
+        "alias": "Different_Types_Of_Record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42eb06f7-36ec-4ef0-8475-20f21c5e47b2",
+    "data": [
+      {
+        "text": "Procedure to get the records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5dbb21a-3dbb-48f6-a1ee-46da94c43d30",
+    "data": [
+      {
+        "text": "Varieties of the records will I get?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e038834-791f-464f-be6f-11c309312012",
+    "data": [
+      {
+        "text": "do you only provide DPS records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee71e866-a3ab-458b-a01d-1e3336f70fba",
+    "data": [
+      {
+        "text": "What are the varieties of records provided by DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bccabfe-b15d-486d-b5db-79f186464184",
+    "data": [
+      {
+        "text": "Is it possible to get records from other agencies too?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17c661ba-f5ec-46c6-a726-153876f529fa",
+    "data": [
+      {
+        "text": "Are records from other agencies are also provided?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9be68ad7-1ddb-44c5-a9a6-8cb7e3759953",
+    "data": [
+      {
+        "text": "DPS can provide what ",
+        "userDefined": false
+      },
+      {
+        "text": "kinds of records",
+        "meta": "@Different_Types_Of_Record",
+        "alias": "Different_Types_Of_Record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7e18bc-7f21-4496-871f-26ffe901cc62",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "different types of records",
+        "meta": "@Different_Types_Of_Record",
+        "alias": "Different_Types_Of_Record",
+        "userDefined": false
+      },
+      {
+        "text": " available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7b631a6-2dda-41cd-8c0f-f0c058528c92",
+    "data": [
+      {
+        "text": "Can I get records from another agency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a84c80e-c4c9-4965-98ee-b0a1b5efee73",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "kind of records",
+        "meta": "@Different_Types_Of_Record",
+        "alias": "Different_Types_Of_Record",
+        "userDefined": true
+      },
+      {
+        "text": " can I get?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

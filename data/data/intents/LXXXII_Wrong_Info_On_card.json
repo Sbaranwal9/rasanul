@@ -1,0 +1,75 @@
+{
+  "id": "9570be76-8036-4cd7-8284-55acd68b6531",
+  "name": "LXXXII_Wrong_Info_On_card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a05da16e-efe7-451e-8b97-c3f358dbc00e",
+          "name": "fingerprint_clearance_card",
+          "required": false,
+          "dataType": "@Fingerprint_Clearance_card",
+          "value": "$fingerprint_clearance_card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2b09d07f-e2b5-4808-a092-3d740195a446",
+          "name": "receive",
+          "required": false,
+          "dataType": "@Receive",
+          "value": "$receive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6a493fea-960d-44b0-86c4-870eca27ea72",
+          "name": "information",
+          "required": false,
+          "dataType": "@Information",
+          "value": "$information",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,683 @@
+[
+  {
+    "id": "99e5792a-b462-4af5-97f8-cfcb23f9c95b",
+    "data": [
+      {
+        "text": "I am trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " an acct to get a finger print card and it wont let me get past the address portion, can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6b98775-2deb-4b0f-a003-17026db487c6",
+    "data": [
+      {
+        "text": "I do not have an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af3d2329-2e0c-40cb-b646-c19db65601b2",
+    "data": [
+      {
+        "text": "Hello, I was asked to create this account for my finger prints.  Not sure what to do next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6967513-21ae-43ee-99d4-f967f0721d18",
+    "data": [
+      {
+        "text": "Do I need to make an account or can I be old fashioned and get a finger print card just by turning in my paper work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "288bbf96-87ed-4810-bfaf-3ac5ddd83e9d",
+    "data": [
+      {
+        "text": "I do not need help with login I need help with  ",
+        "userDefined": false
+      },
+      {
+        "text": "creating",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4d6345f-17de-46ba-b8cf-bb78bf9117d2",
+    "data": [
+      {
+        "text": "Must I create a AZDPS account to get a fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73ed16e0-7431-4632-ad0d-a5bf64e14064",
+    "data": [
+      {
+        "text": "Hi!  Where do I go to setup an Employer account so that I can give my staff an Agency Code so I can pay for their FP card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97fc3402-2baf-4412-946b-53468e75c7ea",
+    "data": [
+      {
+        "text": "what is the website to sign up for a clearance card electronically",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "449ecbde-a977-4aac-a8f1-1cfb95003d1e",
+    "data": [
+      {
+        "text": "I am trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " an account for a fingerprint card.  I am currently on the screen for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4fa984c-0081-44b6-aac3-b4d37afc7313",
+    "data": [
+      {
+        "text": "Hello how do I register in order to receive a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be6b1e9d-1f63-418d-a898-73bd4de822ec",
+    "data": [
+      {
+        "text": "I have completed my fingerprinting but need to create an account to apply for an educator license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b88425b-6768-45ef-826f-1c209b01a027",
+    "data": [
+      {
+        "text": "Can I register on line? Is there an online address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f10b5439-1a99-4bd1-a001-8728e2f3978a",
+    "data": [
+      {
+        "text": "It is a new application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b9f384-c1d5-4383-9718-7253132b393e",
+    "data": [
+      {
+        "text": "I\u0027m not able to create a personal account can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70f6f4ae-064f-4443-a513-a4c64f695097",
+    "data": [
+      {
+        "text": "My husband and I are new foster parents, and I need help setting up my account for my fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a3080e0-7320-482d-8b4d-b3e03982ebcb",
+    "data": [
+      {
+        "text": "So how can I get into the online system to get it started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1475d1f2-7802-4359-be6c-f4d272d2c846",
+    "data": [
+      {
+        "text": "i am just trying to get the police report. do i have to make an account at psp.azdps.gov?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc35e03-15f8-495c-ba87-865684fef6f6",
+    "data": [
+      {
+        "text": "do i have a register online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "581ae22f-a255-4e68-bafc-c530765288a4",
+    "data": [
+      {
+        "text": "Do I have to go through a log in process ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c95c2006-39ff-4b12-90eb-b90c46051b0f",
+    "data": [
+      {
+        "text": "Do I need an account to get it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7450bdda-e615-444a-8d8d-6d7b910c5e21",
+    "data": [
+      {
+        "text": "How does my employee register with your agency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f69da81e-fedc-4cef-8f87-1f677b3bd15e",
+    "data": [
+      {
+        "text": "I\u0027m trying to sign up for a finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a8c97ac-853a-4d14-8ae1-a6c1fc3b747b",
+    "data": [
+      {
+        "text": "No account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c1ea620-ded7-4eb6-b1e4-7668d2344d7d",
+    "data": [
+      {
+        "text": "im not able to sign up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e10713a-9f61-4154-b0a3-0eb3ee3c77df",
+    "data": [
+      {
+        "text": "I don\u0027t have an account, I want to start ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abc2c81c-d242-4fc9-ac8f-ead6f89d12f3",
+    "data": [
+      {
+        "text": "I have never had an azdps account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7558b1f8-bb62-48e1-9e59-9013688a464a",
+    "data": [
+      {
+        "text": "How do we ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "userDefined": false
+      },
+      {
+        "text": " an employer account to pay for fingerprint cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "854c711e-7c2b-450f-90d5-deb65f63e23c",
+    "data": [
+      {
+        "text": "are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " creating my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdfed8b5-35ac-41a5-9cfd-d8f12bab7ed2",
+    "data": [
+      {
+        "text": "i am having problems signing in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "061860dd-b8e0-45c6-938c-334490f71d64",
+    "data": [
+      {
+        "text": "how to register",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d11ced9-32e5-4d91-a84d-de2277879bb9",
+    "data": [
+      {
+        "text": "difficulty signing in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b359eb0e-9a1a-469f-8a38-92a5da1de01e",
+    "data": [
+      {
+        "text": "issues signing up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d13a29a3-a176-42e0-8842-174685f34c20",
+    "data": [
+      {
+        "text": "Where to ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "new",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "698cedb0-885d-435c-9b79-61d2a102a192",
+    "data": [
+      {
+        "text": "how to set up account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24462aa2-5b88-4957-8705-c9e64093782f",
+    "data": [
+      {
+        "text": "facing issues in ",
+        "userDefined": false
+      },
+      {
+        "text": "creating",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " a account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89e90ea8-200b-43a1-8f65-e1b601a298d1",
+    "data": [
+      {
+        "text": "How do I sign up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc06b592-3b2c-468d-a6f3-a7bd128589f6",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "new",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d092817-9e94-4cbb-a2e8-f95f2366af8c",
+    "data": [
+      {
+        "text": "new",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "830fe20d-0ba0-40c3-b436-1b7ac9c8458c",
+    "data": [
+      {
+        "text": "help me ",
+        "userDefined": false
+      },
+      {
+        "text": "make",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0fd0d79-04a5-4441-9438-a3e8391160cf",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1570cc39-c32f-459a-88c6-a83dc48dfc02",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "meta": "@Create_account",
+        "alias": "create_account",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "an account",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

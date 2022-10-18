@@ -1,0 +1,9 @@
+{
+  "id": "5cd8a521-c872-4804-867f-b6177efd4a8d",
+  "name": "money_order",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

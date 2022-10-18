@@ -1,0 +1,9 @@
+{
+  "id": "529475f9-8fb1-4913-a19c-3e6060179239",
+  "name": "Qualify",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

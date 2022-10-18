@@ -1,0 +1,36 @@
+{
+  "id": "c40735f9-e896-4c5a-8897-66b335cd3418",
+  "parentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "rootParentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "name": "LI_Arrested - Request_Report",
+  "auto": true,
+  "contexts": [
+    "LI_Arrested-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LI_Arrested.LI_Arrested-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

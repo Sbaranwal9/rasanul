@@ -1,0 +1,425 @@
+[
+  {
+    "id": "e99e191e-0a69-442f-a364-c915a05bcd8c",
+    "data": [
+      {
+        "text": "get fingerprint information sent to department of education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d652146b-7fd2-4918-a0f0-bfa833b114be",
+    "data": [
+      {
+        "text": "I have an employee that recently applied for a fingerprint card and for auditing purposes i need a pending confirmation if possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e579c7ef-a83d-41ae-8035-cf7722baa93c",
+    "data": [
+      {
+        "text": "I have been cleared for fingerprinting. how do I show that to my employer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d4d1415-416c-49fa-a6b8-ed7eef7add06",
+    "data": [
+      {
+        "text": "How can I be alerted if our employees card is no longer ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af23ce44-95f9-4e50-98ff-2921da312a23",
+    "data": [
+      {
+        "text": "Will the employer get notified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd014050-c4c0-43f5-9ce3-b398c0ce11bf",
+    "data": [
+      {
+        "text": "I have a clearance card for Jewelia R Taghon and the numbers are faded on it. I need to verify that her card is still valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ec2a9c4-348d-471b-98e3-9576c15faf39",
+    "data": [
+      {
+        "text": "Hello, I need my fingerprint clearance card information to be sent to the Arizona Department of education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf2fea26-7072-4878-be87-43bee7638f61",
+    "data": [
+      {
+        "text": "How can I obtain verification of my finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb07190d-9757-4eca-bb2e-10473ad8d9d3",
+    "data": [
+      {
+        "text": "In addition to a fingerprint clearance card, which I do have, I\u0027m needing verification from the DPS website. How do I go about getting that verification?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31d88c2e-5ef7-41c2-abb5-06882de1a87d",
+    "data": [
+      {
+        "text": "hello my employeer is asking me for the reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "865564ac-8c1f-4b6a-bd83-de0c246de6d6",
+    "data": [
+      {
+        "text": "How to verify ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is in process or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac720750-53b1-44a7-be6d-2c10e007515c",
+    "data": [
+      {
+        "text": "How can I check my card is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": " or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "476eb898-b450-45c2-b4b4-5714199b7b6d",
+    "data": [
+      {
+        "text": "Will I get to know through notification about my card ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": " or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "101f07d6-d5c3-4ea4-8f62-d49fdff10ba3",
+    "data": [
+      {
+        "text": "May I get the notification for my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " process or card ",
+        "userDefined": false
+      },
+      {
+        "text": "validity",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a338530-2aa2-4efa-bc7a-db63444c21df",
+    "data": [
+      {
+        "text": "Can you send me a email about my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03aeffa6-e839-4a28-84d0-761c14a3ccc9",
+    "data": [
+      {
+        "text": "I request you to send an email to my employer saying that my ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is under progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3332e4ce-7a2d-49af-9ba7-b695d551264a",
+    "data": [
+      {
+        "text": "I need a fax to be sent to my employer stating that my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is in process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11f2b0c2-778e-4f0a-bc06-b5b3763e693c",
+    "data": [
+      {
+        "text": "How can I check that my ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c513986c-16ba-47aa-9d82-ad128d4db74c",
+    "data": [
+      {
+        "text": "Is it possible to send me an email stating that my clearance card is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28021c27-69cd-4ebf-92f9-74ca9e5ee33f",
+    "data": [
+      {
+        "text": "How can I check to see if a Security Guard or Private Investigator ",
+        "userDefined": false
+      },
+      {
+        "text": "License",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "/Registration is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2e8ac10-ce2c-48a5-b202-5c74b629917a",
+    "data": [
+      {
+        "text": "Can you send me and/or my employer an email or fax saying my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is in process or that my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "valid",
+        "meta": "@Valid",
+        "alias": "valid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

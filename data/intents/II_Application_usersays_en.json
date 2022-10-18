@@ -1,0 +1,243 @@
+[
+  {
+    "id": "a89b961a-56cb-4c41-98a6-a9094eaefb6c",
+    "data": [
+      {
+        "text": "I need to know how to get back to my application I didn\u0027t finish paying that\u0027s all I had left to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c4c4a0f-c531-4dd0-bea2-09bd80e6c019",
+    "data": [
+      {
+        "text": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3a82899-48ee-4e2c-a290-0c63621c5d2b",
+    "data": [
+      {
+        "text": "How to fix ",
+        "userDefined": false
+      },
+      {
+        "text": "previous page",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      },
+      {
+        "text": " faults",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6518e24-a72f-4d3e-9b88-dfd6f8dd8ba0",
+    "data": [
+      {
+        "text": "facing issues in returning to ",
+        "userDefined": false
+      },
+      {
+        "text": "previous page",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d77ef33-948c-4fa0-be05-f622ea2222fd",
+    "data": [
+      {
+        "text": "need help to edit application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6302c01-fa86-49e0-89fd-2ac5750ff9c0",
+    "data": [
+      {
+        "text": "How can I return to application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2384b19e-d348-42a3-92d5-1ac6ecae8d51",
+    "data": [
+      {
+        "text": "Procedure to get back to my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dc6fad5-bb2c-4235-85b3-888809193186",
+    "data": [
+      {
+        "text": "I want to switch to application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e72ec172-99cd-479a-858b-b28ac1e84689",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "go back",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "previous page",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce8f137e-e0ca-4330-adb1-d0ca5b8d3a5f",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "userDefined": true
+      },
+      {
+        "text": " something on my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3171ec6b-9147-4593-aba4-79d0e6a41706",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "go back",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      },
+      {
+        "text": " a page in my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dea4b10-6e90-44ab-8947-f4d0035bd8c5",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "userDefined": true
+      },
+      {
+        "text": " my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52d6ee63-4f62-4448-80f3-862e543708e4",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "go back",
+        "meta": "@Return_to_application",
+        "alias": "return_to_application",
+        "userDefined": false
+      },
+      {
+        "text": " on my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

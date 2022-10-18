@@ -1,0 +1,754 @@
+[
+  {
+    "id": "b5a5abed-ff47-43eb-9f77-d008355f8a74",
+    "data": [
+      {
+        "text": "How do I upload a format of my pic of DL to your website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4885fe50-19ad-4728-b7b3-a1a7ec26fa88",
+    "data": [
+      {
+        "text": "What do i need to bring with me to get my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec08a30d-e6cc-4f94-8dbf-356734ab32ef",
+    "data": [
+      {
+        "text": "Do i need my birth certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393bcb31-18c9-47ba-8504-57931688ad27",
+    "data": [
+      {
+        "text": "Requirements to apply for fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "627d50a9-d3a3-4ca7-930d-9a1acdfe063f",
+    "data": [
+      {
+        "text": "If I am requesting for a new fingerprint clearance card, do I need to send a copy of my drivers license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "944f38ef-3ff1-49f0-acc1-6f9f385b8edd",
+    "data": [
+      {
+        "text": "where can I see the company liability insurance document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c097b4-7d48-4554-ab87-88d3f0f631a1",
+    "data": [
+      {
+        "text": "where do i submit the documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "713671d6-5b7a-4682-8512-fb337f0c53fd",
+    "data": [
+      {
+        "text": "What documents do you need for a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2cae410-60e3-4db6-95b1-0dcb51250bf8",
+    "data": [
+      {
+        "text": "How do I upload fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88608de2-e60b-460e-8db0-ad220663ad51",
+    "data": [
+      {
+        "text": "I am trying to upload a doc to renew my PI license......License no. ",
+        "userDefined": false
+      },
+      {
+        "text": "1714905",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a252a777-4dec-4422-9a58-fbea8886d162",
+    "data": [
+      {
+        "text": "what ID do I need to get my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba05ca5e-9ddc-4ec8-88f6-f4c67e6be39b",
+    "data": [
+      {
+        "text": "What proof of identification do I need to bring to get my finger prints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d064119-4db2-4e90-a7a1-9332661b3f21",
+    "data": [
+      {
+        "text": "What forms do I take with me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1ead859-daff-4189-9578-a3bebe3dd496",
+    "data": [
+      {
+        "text": "What information is needed for the clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "217f2f1e-c3bc-44a9-a80f-1f1b1b0b90a0",
+    "data": [
+      {
+        "text": "What will I need to provide for fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2d01671-a3da-42e5-91fe-bce71e7647fc",
+    "data": [
+      {
+        "text": "Do I have to scan and Submit any documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc9bfbf6-7802-4533-98e9-8aa4948d2bd6",
+    "data": [
+      {
+        "text": "What is required for fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3e54dfc-416b-461d-b23b-62dcba349056",
+    "data": [
+      {
+        "text": "I got an message saying I needed additional documents how do I get those in without doing another application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a930df7-a202-47f6-b620-de722beb790a",
+    "data": [
+      {
+        "text": "I am trying to upload my documents into my portal and don\u0027t know where to go?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fa333b3-286e-4d70-ada9-01914b24e17b",
+    "data": [
+      {
+        "text": "Can someone help me attach my fingerprint card to my account and send it over to azed.gov so I can apply for my teaching license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c50a5369-9f19-4073-9830-34dfe69dd4ed",
+    "data": [
+      {
+        "text": "I am just renewing pi license so what documents do I have to provide and upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8899c00-ee1d-4386-b087-b1d149fa594a",
+    "data": [
+      {
+        "text": "how to send a file",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "160ac33c-81b1-4867-ac97-b56c5f4b930c",
+    "data": [
+      {
+        "text": "Not letting me upload my citizenship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d11b637-d774-4693-8e84-3d367705e57e",
+    "data": [
+      {
+        "text": "I uploaded the experience doc but I can not upload my government id document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6306078e-fe88-47ad-9ce6-3eab98b07398",
+    "data": [
+      {
+        "text": "How do i upload my fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9459a3d-9e3c-4f32-902d-e5413784df43",
+    "data": [
+      {
+        "text": "how do i upload my Finger ",
+        "userDefined": false
+      },
+      {
+        "text": "pring",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1338362-09e6-4520-beee-da8097fc3e5c",
+    "data": [
+      {
+        "text": "What all do I need to send with my finger prints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a08a976e-86cd-4b3c-967b-eabc1200ccbe",
+    "data": [
+      {
+        "text": "I need to upload my state ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aa9b61a-7479-4713-80ca-9fe32dede4d8",
+    "data": [
+      {
+        "text": "Greetings how do I upload my virtual card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9ee3b4-94e2-47e1-9d37-45caeff6d292",
+    "data": [
+      {
+        "text": "How can I upload that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f36d9ccf-2c42-41be-8ba2-8c7b70601477",
+    "data": [
+      {
+        "text": "The required documents and format are listed on the document upload section of the application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f91f64c-20a1-4ace-9a70-d4c0677c0c2d",
+    "data": [
+      {
+        "text": "document upload,uploading documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f34c2f4-022f-4a68-8ba4-ca0e736b9854",
+    "data": [
+      {
+        "text": "How do I know what documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "733f2c03-4389-4232-bbac-58ba7cd2dd55",
+    "data": [
+      {
+        "text": "What are the documents that I need to upload?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0df3ce68-1cab-47ff-8673-3bf74567e450",
+    "data": [
+      {
+        "text": "Can you please give me the list of documents to upload?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c56197-4594-401b-ad48-1c575efd25b7",
+    "data": [
+      {
+        "text": "Documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca268cbb-92fa-4857-ac6a-c3dff1163cab",
+    "data": [
+      {
+        "text": "What are the required documents to upload?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1be0fe4f-e6bc-4891-a05d-09c6b97ad887",
+    "data": [
+      {
+        "text": "Set to documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02f61928-a744-4d70-a6b6-22e51fc53acf",
+    "data": [
+      {
+        "text": "List of documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bfc4af6-11bd-4961-b8c4-c778de5c9337",
+    "data": [
+      {
+        "text": "Please tell me which ",
+        "userDefined": false
+      },
+      {
+        "text": "dicuments",
+        "userDefined": false
+      },
+      {
+        "text": " have to be uploaded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a16be46-81d2-48da-8243-405d0a60bdae",
+    "data": [
+      {
+        "text": "What are the documents to be uploaded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ade0f6a5-3827-450c-a4f5-0466951962d3",
+    "data": [
+      {
+        "text": "Documents to be uploaded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9a095cb-e87e-4b2d-8449-22717009a397",
+    "data": [
+      {
+        "text": "need to know about the docs to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dbea287-7ea2-4983-b6ba-3f23637fe7b6",
+    "data": [
+      {
+        "text": "where can I see the required documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adff56cf-ae93-4d25-801f-65c799ce4652",
+    "data": [
+      {
+        "text": "I want to know the documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b306b23a-be12-4d0e-ad4d-fee13dfb6cb3",
+    "data": [
+      {
+        "text": "How to know which documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08fdd022-45c8-4122-841a-3877d000efb7",
+    "data": [
+      {
+        "text": "required documents and formats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dec687ee-d615-4e9a-80da-05a820fc6d05",
+    "data": [
+      {
+        "text": "Help me to upload my documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c287f09-38c1-4dd5-9c3d-b15b5a60ad06",
+    "data": [
+      {
+        "text": "Need assistance in uploading the documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e2683a5-ba7f-47f1-a371-2dd1bd5360ba",
+    "data": [
+      {
+        "text": "I would like to know the procedure to upload the documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdaf1c6f-a83c-4133-9a7c-27d8286877b3",
+    "data": [
+      {
+        "text": "Please let me know which documents need to be uploaded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0fdcd68-ec70-4923-80a4-ca84ac3f75f6",
+    "data": [
+      {
+        "text": "what documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bdcfd28-309d-4c0b-9cfb-199b7c7ccf60",
+    "data": [
+      {
+        "text": "Tell me the documents that needs to be uploaded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ee9d8d9-9350-4ccd-aa64-3827edfac546",
+    "data": [
+      {
+        "text": "what all documents to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50e7463e-079b-4548-9c20-3f0f0209a0fe",
+    "data": [
+      {
+        "text": "what all documents to upload in protal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eff0c757-de02-48b0-8556-cbacee62c41f",
+    "data": [
+      {
+        "text": "please let me know which all document need to upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

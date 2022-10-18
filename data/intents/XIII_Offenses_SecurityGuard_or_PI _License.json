@@ -1,0 +1,36 @@
+{
+  "id": "99056dc8-8c08-4831-9c20-90011d9a449b",
+  "parentId": "455b8bb5-b622-4f4a-8a55-846a40a0042a",
+  "rootParentId": "455b8bb5-b622-4f4a-8a55-846a40a0042a",
+  "name": "XIII_Offenses_SecurityGuard_or_PI _License",
+  "auto": true,
+  "contexts": [
+    "XIII_Offenses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "XIII_Offenses.XIII_Offenses-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,579 @@
+[
+  {
+    "id": "f2dfa42a-5a4e-4bee-b3b2-746d06613419",
+    "data": [
+      {
+        "text": "if my husband has a CCW can he get a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eab8f35-9e54-4a60-bd0f-d047f3da2642",
+    "data": [
+      {
+        "text": "Hello! Is it possible to get a fingerprint clearance card with 2 felonies from 14 years ago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa0b9c6b-4bd4-4c32-be5b-2ee8db020547",
+    "data": [
+      {
+        "text": "Can I have misdemeanors and get my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "491cf971-8d2e-4b4d-9b54-87896e69464a",
+    "data": [
+      {
+        "text": "How can I find out if I\u0027m eligible for a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0adcdaac-c70f-461f-92c9-3029afea3b9d",
+    "data": [
+      {
+        "text": "Is a felony that was reduced to a misdemeanor disqualified for a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cb50a3e-b3a5-44d8-9aca-6ceabfb545b8",
+    "data": [
+      {
+        "text": "Can I be a felon and obtain a clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7453432-521f-4450-b3d9-3f6aa4247eaa",
+    "data": [
+      {
+        "text": "The DPS program wants to cancel my request instead of letting me pay for the requests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b8fc55b-22de-4c69-88f7-07a13d5ad8a2",
+    "data": [
+      {
+        "text": "I have had digital finger prints in the past for a different job... would it be a DPS Fingerprint Clearance Card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb69adaf-0e39-4774-8e8d-c0d7094e3189",
+    "data": [
+      {
+        "text": "am I still eligible to walk in for my fingerprint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17487ce9-d66e-4f2f-9542-69229249b253",
+    "data": [
+      {
+        "text": "How do you know if you qualify for an FCC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3adbb31f-11b8-4356-91a4-94c0dcb01d6a",
+    "data": [
+      {
+        "text": "Hi, I am trying to figure out if I would qualify for a level 1 fingerprint clearance card for a new position I am trying to obtain. Is this something you could assist with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c8a5fef-e0e8-4149-ad01-d8cb43ebd776",
+    "data": [
+      {
+        "text": "How can I find out if I am able to get a finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26333120-c1b8-4e01-a777-5f17d60f5341",
+    "data": [
+      {
+        "text": "I\u0027m needing a level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint clearance can you tell me if I can ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e2e4d5c-d2f1-4871-bba9-8e160cb775ce",
+    "data": [
+      {
+        "text": "when will my renewed ivp card be sent out to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b338a470-5f11-4a14-a0b7-643a02cfe414",
+    "data": [
+      {
+        "text": "Qualification for ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5625efec-2d74-49c9-a93e-05af174049cf",
+    "data": [
+      {
+        "text": "Will I get to know before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51de10de-0ebd-4286-8502-13c92dbdacda",
+    "data": [
+      {
+        "text": "Will DPS help to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "961e2ee6-9474-4d94-80df-e72ce2434376",
+    "data": [
+      {
+        "text": "Am I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13f58436-5495-495f-98b1-91b201939c74",
+    "data": [
+      {
+        "text": "Can DPS tell me if I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "Fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b79cac4f-0756-4886-9114-3f5413e062f9",
+    "data": [
+      {
+        "text": "I have been to jail once,can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "293fd0f9-83b8-4085-8d3e-246aa3cfb3b9",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": ",am I qualified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66aa55c6-233a-4697-ac24-7a3868562533",
+    "data": [
+      {
+        "text": "Is it possible to check whether I\u0027m qualified to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2537066b-7612-4b7c-b8fa-0ce2d1c0508f",
+    "data": [
+      {
+        "text": "Where can I check whether I can get a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " fore hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f844b996-ed1b-4944-b8ed-c21bcaf9181b",
+    "data": [
+      {
+        "text": "If I have been arrested, can I get a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82dc6ccc-7c43-4622-beb2-0b7936c1bc61",
+    "data": [
+      {
+        "text": "if I have a record can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3ff0951-d6d6-4ed6-9bab-f7a805079f69",
+    "data": [
+      {
+        "text": "how do I know if I can get a ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "383826e4-e571-44b1-a948-7d914bd99183",
+    "data": [
+      {
+        "text": "Can DPS tell me if I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " before i ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

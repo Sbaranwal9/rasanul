@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "6b128e80-d601-49f5-94bb-d1574cec63d8",
+    "data": [
+      {
+        "text": "I am looking to see it I can get a code to pay for my clearance card. The board of nursing says you guys offer them.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0195b545-18ac-45ee-bbbb-9869408637bf",
+    "data": [
+      {
+        "text": "Code to pay for clearance card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4e9f82d-d85f-41c6-9adc-9e5d9f6ac5a4",
+    "data": [
+      {
+        "text": "Hello, I am looking for \"Submit and ",
+        "userDefined": false
+      },
+      {
+        "text": "Pay",
+        "userDefined": false
+      },
+      {
+        "text": " by Agency Code\" to receive a reference number to apply for a fingerprint clearance card, but can not find it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f9a2c3a-0215-4b65-b687-f5b4916a3fe1",
+    "data": [
+      {
+        "text": "Applying for PI license for myself and do not have an Agency License Number.  How do I get this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f70c3fae-c3f3-4655-8c91-47175a7860e8",
+    "data": [
+      {
+        "text": "what is the agency licensing number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "208e7f89-3a87-4f73-a088-a9ede419c701",
+    "data": [
+      {
+        "text": "Trying to enter my employer code to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for fingerprints and is saying code is not valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5759374-a66e-4204-bacd-dcc9cd251eaa",
+    "data": [
+      {
+        "text": "What is the agency license number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09d965f5-844b-46be-aa8f-ca16b5d6c2b6",
+    "data": [
+      {
+        "text": "Where can I get the agency license number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f825f840-cf54-425b-9add-f33a457be53c",
+    "data": [
+      {
+        "text": "Security agency license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4beee517-7a5b-4431-ba62-66a1347c745f",
+    "data": [
+      {
+        "text": "Hello I am trying to use an agency code provided by my employer and it is reporting that it is invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25aeb7b9-5659-4082-919d-c0e41d269df4",
+    "data": [
+      {
+        "text": "agency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27e054ce-fe9f-48b6-98a7-47a9e94f8230",
+    "data": [
+      {
+        "text": "I don\u0027t have an agency license number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b2afb79-4508-4e81-ba51-02a3ce010420",
+    "data": [
+      {
+        "text": "agency code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61f66eb1-797c-4953-bf3b-6e2f4e251106",
+    "data": [
+      {
+        "text": "agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " codes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee326cb-9056-4770-ad3d-871e148d2145",
+    "data": [
+      {
+        "text": "agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3681816-da4f-4a56-aa27-f6dd7d6e6519",
+    "data": [
+      {
+        "text": "agency codes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c31c1d-8c99-4cfa-b6b9-cff93c729ad5",
+    "data": [
+      {
+        "text": "Please provide me with the agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f78659c7-4c45-46ba-bbc4-c1d145231fab",
+    "data": [
+      {
+        "text": "I need an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "659acd56-36ac-411b-b3a6-df5911c4fa71",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": " help me with the agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2561286a-3298-4552-988e-4faa6842b6fd",
+    "data": [
+      {
+        "text": "From where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " the agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1295ee18-8f7e-4ebe-991e-2391a408a439",
+    "data": [
+      {
+        "text": "Is it possible to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " the agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a3673f7-0874-46e1-a1cf-863a49a1eb4a",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df2619d6-2326-4877-b511-0e28f7bcdada",
+    "data": [
+      {
+        "text": "Need Agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb6a6475-6331-4b74-9e66-a9b25320709f",
+    "data": [
+      {
+        "text": "Agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d282d8b-5c2a-4356-87f2-65b4126223cc",
+    "data": [
+      {
+        "text": "Is there any particular way to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076d19fd-5699-4d00-bc19-9f77128a16d6",
+    "data": [
+      {
+        "text": "what is the method for employers to obtain agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5113106b-2ca7-48bf-925e-acf0fa005e7d",
+    "data": [
+      {
+        "text": "methods to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "021f96f4-5d61-473a-8241-b2c75855f975",
+    "data": [
+      {
+        "text": "can employers ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6455698-c627-42b5-a8a0-c5281528b052",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": " help me with ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8ff34a5-7d1e-40af-9a6e-07a45157ca35",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code? Please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8753c829-d65c-4f62-bc93-6505902d1e2c",
+    "data": [
+      {
+        "text": "Can employers ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e006b15-b829-469d-aa92-a3b37a1d18af",
+    "data": [
+      {
+        "text": "How can an employer ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency paycode?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aacd2395-0670-4265-8bdf-54592a218cdd",
+    "data": [
+      {
+        "text": "Can employers ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency paycode?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14ae98c0-8115-4409-a666-57cfbff9051e",
+    "data": [
+      {
+        "text": "Where can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " employees agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82df83a6-6707-4a8c-afd2-11d0db15996a",
+    "data": [
+      {
+        "text": "Required employees agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18523318-0e1e-4dd0-b8ac-75ebac262ec1",
+    "data": [
+      {
+        "text": "Employees agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c097328-c9e8-4a84-a864-6c244245bcb4",
+    "data": [
+      {
+        "text": "How employees ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41a8445c-2896-4e92-b3e9-64d9f274d2cc",
+    "data": [
+      {
+        "text": "Can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fc882a6-f0a2-4a54-be39-e16eaee49c6e",
+    "data": [
+      {
+        "text": "Need to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dd38618-0a13-476a-87bb-b2f8dc039353",
+    "data": [
+      {
+        "text": "please help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " the agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a74b860-5c91-4d0d-8734-f90abab0f1d2",
+    "data": [
+      {
+        "text": "need agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "946242a7-2002-4491-b0c1-55c52148916b",
+    "data": [
+      {
+        "text": "how will ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d5cf85c-f233-455f-8297-c827288b8473",
+    "data": [
+      {
+        "text": "what is the procedure to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45777739-44a5-498a-88c5-c4ccf6feffc5",
+    "data": [
+      {
+        "text": "need an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cdf1b60-19a5-4e8e-af38-966a38fd2804",
+    "data": [
+      {
+        "text": "an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80d251db-20d3-413c-a935-2530d7965fea",
+    "data": [
+      {
+        "text": "How can employers ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " an agency ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

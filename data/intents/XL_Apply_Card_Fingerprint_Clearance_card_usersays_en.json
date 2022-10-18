@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bac5dcde-a239-41ef-b3d1-ba61dc2e1152",
+    "data": [
+      {
+        "text": "L_apply_card_Fingerprint_Clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa5c6e19-716c-43fc-b3e1-3fedd278949e",
+    "data": [
+      {
+        "text": "XL_apply_card_Fingerprint_Clearance_card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f745db10-e669-48ba-99f4-7e3d5dcfbd62",
+    "data": [
+      {
+        "text": "XL_apply_card_Fingerprint_Clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

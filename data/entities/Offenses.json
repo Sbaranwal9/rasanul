@@ -1,0 +1,9 @@
+{
+  "id": "9cd6c0d7-1df4-4c60-9e4b-a08a6f6f0499",
+  "name": "Offenses",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

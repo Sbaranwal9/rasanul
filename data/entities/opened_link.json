@@ -1,0 +1,9 @@
+{
+  "id": "72bf3bfd-cc97-4568-8a82-407796fcdd01",
+  "name": "opened_link",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

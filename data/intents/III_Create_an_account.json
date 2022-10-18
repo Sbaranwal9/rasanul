@@ -1,0 +1,64 @@
+{
+  "id": "47401907-0535-408d-98fc-6643b8ce1810",
+  "name": "III_Create_an_account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2912e93-0fdb-4487-9620-3de942692055",
+          "name": "create_account",
+          "required": false,
+          "dataType": "@Create_account",
+          "value": "$create_account",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "74f13de0-7211-4911-82c1-3368518b16de",
+          "name": "you_shortHand",
+          "required": false,
+          "dataType": "@you_shortHand",
+          "value": "$you_shortHand",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can select the signup link on the page header or click \u003chere\u003e to create an account."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

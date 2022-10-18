@@ -1,0 +1,144 @@
+[
+  {
+    "data": [
+      {
+        "text": "Connection_Timeout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0f12fb0-4143-430f-ae55-73daaf5c4585",
+    "data": [
+      {
+        "text": "Thankyou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1017c225-be7f-4350-af05-85bfc9e7dac3",
+    "data": [
+      {
+        "text": "thanks you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c46eaae5-0038-4c53-bfa1-0c43dfaaf514",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d103d1b3-e29c-4304-b87a-f7a23453e9b8",
+    "data": [
+      {
+        "text": "well thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc0194f5-e4df-4df9-820f-ccd0f68c2199",
+    "data": [
+      {
+        "text": "thnx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32bc5311-aad6-4807-9062-bb0064afdfb9",
+    "data": [
+      {
+        "text": "thank you so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dbff291-3202-4661-a165-495a2e88c29d",
+    "data": [
+      {
+        "text": "well thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bced8987-73df-45cf-acf7-4efec9a9ec26",
+    "data": [
+      {
+        "text": "Ok thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a07d138-8445-44f9-abe9-f79c605cba7a",
+    "data": [
+      {
+        "text": "Thank you for your time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78368def-857c-40fc-9913-57c23acca0fa",
+    "data": [
+      {
+        "text": "Bravo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "3a10ecb8-2c24-4905-b92c-48ab6e5dfe1d",
+  "name": "Mail_Returned",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "6d74a8dc-935f-4e2c-b5d5-8315eb945e78",
+  "name": "mailing_address_change",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

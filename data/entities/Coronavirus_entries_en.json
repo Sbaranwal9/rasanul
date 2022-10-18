@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Coronavirus",
+    "synonyms": [
+      "Coronavirus",
+      "COVID-19",
+      "COVID",
+      "COVID 19",
+      "Corona",
+      "virus",
+      "corona virus",
+      "hand washing",
+      "germs",
+      "sick",
+      "cough",
+      "quarantine",
+      "wash hands"
+    ]
+  },
+  {
+    "value": "symptoms",
+    "synonyms": [
+      "symptoms",
+      "fever",
+      "cold",
+      "flu",
+      "sneeze",
+      "throat itch",
+      "cough"
+    ]
+  }
+]

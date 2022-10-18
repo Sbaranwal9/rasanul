@@ -1,0 +1,61 @@
+{
+  "id": "76eb0b5f-c5a3-4a63-aeec-c6108809200b",
+  "name": "XXVI_Validation_Period",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33192d4e-d1df-4940-ae63-92d838de0eae",
+          "name": "private_investigator",
+          "required": false,
+          "dataType": "@Private_Investigator",
+          "value": "$private_investigator",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4878dd21-c5c3-4d02-a537-a451e53ddf39",
+          "name": "valid",
+          "required": false,
+          "dataType": "@Valid",
+          "value": "$valid",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

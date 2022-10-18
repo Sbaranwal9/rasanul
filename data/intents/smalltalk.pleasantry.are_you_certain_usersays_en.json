@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a493d4e8-89d6-414b-8c27-0100d27c4f20",
+    "data": [
+      {
+        "text": "Are you sure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1cb00e-1781-4b78-90b3-d6d426e7cb5c",
+    "data": [
+      {
+        "text": "Do you have any doubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6a3d7d9-5571-42c8-8bdc-aec655679e2e",
+    "data": [
+      {
+        "text": "Are you certain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

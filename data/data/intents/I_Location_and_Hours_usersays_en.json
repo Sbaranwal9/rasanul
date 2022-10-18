@@ -1,0 +1,913 @@
+[
+  {
+    "id": "910fbe69-3caf-4b17-87f2-bb2e3e14e9e3",
+    "data": [
+      {
+        "text": "What are the hours of operation for STREET_ADDRESS in Phoenix to get my fingerprints done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab10e15f-9b25-4d52-987a-467222444764",
+    "data": [
+      {
+        "text": "Can I walk in and submit my guard card application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b5a9451-ce16-48ad-83d7-a100ebee9c82",
+    "data": [
+      {
+        "text": "I want to bring my paperwork in to the office in Phoenix is it open today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9452ccf-d927-431e-b45b-03fbdfe297d4",
+    "data": [
+      {
+        "text": "DO YOU HAVE AN OFFICE I CAN TO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f560ca16-8338-4006-a9cd-6776483d6869",
+    "data": [
+      {
+        "text": "I need the address where I can send my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a70faafc-bfd3-47ab-946c-f549f9e9c986",
+    "data": [
+      {
+        "text": "Am I able to visit the physical office to apply for an IVP card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ad72f82-6f35-4585-84e6-ffce719d9cfa",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " does the office ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?  ",
+        "userDefined": false
+      },
+      {
+        "text": "You",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": false
+      },
+      {
+        "text": " give me a fingerprint card, then I go to another ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": " to get it scanned.  Is this correct?  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nancy",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858b862c-6551-4480-bf39-d28829b7747c",
+    "data": [
+      {
+        "text": "Is there a fiscal location to come in person to do an application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d3c5064-88db-40b7-b593-b442f96b3593",
+    "data": [
+      {
+        "text": "What time do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c0a7ae-4e8d-4a7a-a428-940d8b227a8c",
+    "data": [
+      {
+        "text": "Traffic court ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Florence",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "AZ",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1865fa5c-4cdd-478d-a12d-fa93af564b78",
+    "data": [
+      {
+        "text": "are they there on Saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "656c9bf5-d2a7-4969-ae13-67b1749ce392",
+    "data": [
+      {
+        "text": "What is the office ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " of AZDPS for phone request?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1715c835-f0e9-4166-af48-75a7d7fdb1a1",
+    "data": [
+      {
+        "text": "what is the UPS ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51365dba-ef2e-403d-91a2-6fd980875c60",
+    "data": [
+      {
+        "text": "where can I take my fingerprints here in ",
+        "userDefined": false
+      },
+      {
+        "text": "Glendale",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "AZ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5005411b-d633-48da-a6ff-41baa88c670d",
+    "data": [
+      {
+        "text": "Neither. I need an address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda4a2a6-e14f-466d-aad8-065df9826976",
+    "data": [
+      {
+        "text": "Fingerprinting ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d725e381-6f08-49f7-9aef-d4388db063d2",
+    "data": [
+      {
+        "text": "Where can I go in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tucson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae310ee1-1b46-4e1f-946f-674c85908880",
+    "data": [
+      {
+        "text": "locations",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ceafea4-201d-4e85-9b2c-0ff40ea2f450",
+    "data": [
+      {
+        "text": "I need the list of all the places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "742d4a6f-13ab-4c33-aa6c-1197a16d5e31",
+    "data": [
+      {
+        "text": "May know the public services building ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0599b1bb-9b34-4bd7-b90e-db27937713e1",
+    "data": [
+      {
+        "text": "closing",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " of public services center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dd0eb49-77c0-4cac-966c-1decd29e706a",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " public services is available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "510c07f8-d7d7-4aa0-91d5-114ae1925420",
+    "data": [
+      {
+        "text": "May I know the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58f0678e-3ede-4030-ad39-88bc253ba445",
+    "data": [
+      {
+        "text": "May I know the ",
+        "userDefined": false
+      },
+      {
+        "text": "timings",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "928b238e-91ed-40f4-a0db-dc3a46332fc9",
+    "data": [
+      {
+        "text": "Are you working in Weekends and holidays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da2559e2-d6cd-49d1-9a66-e53ea41fb81c",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7090bbb-7a39-42f6-b3eb-9304cf5e8dbb",
+    "data": [
+      {
+        "text": "I require the DPS office contact details?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca5d046f-4f50-4290-8c27-e423a87e108a",
+    "data": [
+      {
+        "text": "I need the DPS office ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "timings",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47d17985-43db-486c-b1e8-c2f0659b707d",
+    "data": [
+      {
+        "text": "Where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "locate",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " The Arizona Department of Public Safety Lobby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b34d406-ae34-483d-82bd-b7392900fed3",
+    "data": [
+      {
+        "text": "What are the DPS ",
+        "userDefined": false
+      },
+      {
+        "text": "timings",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c895dff8-1d88-4c00-b175-2fffa1f9b660",
+    "data": [
+      {
+        "text": "Where is Public Services Center building ",
+        "userDefined": false
+      },
+      {
+        "text": "located",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b525e298-b3d3-46b5-a6fe-f5f6faca20f3",
+    "data": [
+      {
+        "text": "PSC building ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d5820aa-d02e-4439-a344-0715dd1760d2",
+    "data": [
+      {
+        "text": "DPS ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53a612a7-fdb5-495b-a779-9204ed18cd5a",
+    "data": [
+      {
+        "text": "Where are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "located",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9fa159c-dee2-4d45-9a3e-86c72d057c5d",
+    "data": [
+      {
+        "text": "When do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shortHand",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54646399-5437-4cbf-9ebc-1efad3f35fea",
+    "data": [
+      {
+        "text": "Help me in ",
+        "userDefined": false
+      },
+      {
+        "text": "locating",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": false
+      },
+      {
+        "text": " DPS office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b7a54b3-47b4-4a4a-b59c-f170b772c7da",
+    "data": [
+      {
+        "text": "DPS ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26e66c98-1cbe-4f0a-854d-41068aff1632",
+    "data": [
+      {
+        "text": "Where is the DPS ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@Location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e817b7e-a4ea-4e62-9e9c-229f2e9a44a2",
+    "data": [
+      {
+        "text": "At what ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": true
+      },
+      {
+        "text": " DPS office ",
+        "userDefined": false
+      },
+      {
+        "text": "opens",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f31b385-09e9-4671-907c-cdefed1a243a",
+    "data": [
+      {
+        "text": "At what ",
+        "userDefined": false
+      },
+      {
+        "text": "timings",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " I can visit the DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3749bdbf-8682-4168-9380-2e77979b638e",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@Hours",
+        "alias": "hours",
+        "userDefined": false
+      },
+      {
+        "text": " of the Public Services Center building?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

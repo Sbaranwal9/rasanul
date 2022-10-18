@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "29c18cad-92de-43e2-b721-a9a7790ec5dd",
+    "data": [
+      {
+        "text": "how long it take to get your ivp card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72782d9b-0e25-44c7-9a76-961fc0edab92",
+    "data": [
+      {
+        "text": "how long until my card arrives?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79089dd3-1299-4970-9bcd-ff766a80329d",
+    "data": [
+      {
+        "text": "What is the average delivery time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33df321d-92fb-4c19-85b6-a9708c1594da",
+    "data": [
+      {
+        "text": "I\u0027m starting a new job this week and they need my card can you tell me how long it will be before I get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd6a53f7-204d-414d-88fd-5666e4f050f2",
+    "data": [
+      {
+        "text": "Good morning! I submitted a renewal on 8/6. Could you please tell me how long I have to wait to receive my hard copy. Thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc856f29-a1cf-4b38-9898-1c4cb39c9539",
+    "data": [
+      {
+        "text": "I am waiting for my AZDPS Fingerprint card to be sent to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16e78a21-0edb-4656-9883-a851b555b1a4",
+    "data": [
+      {
+        "text": "What is the average turn around time for a fingerprint clearance card to arrive by mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f18fc95-2721-4822-8ff2-e8d23fdddb82",
+    "data": [
+      {
+        "text": "i asked for a IVP card to be mailed to me. how soon will it arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86a4f5d2-c5e6-492b-8692-11db2dd6e63d",
+    "data": [
+      {
+        "text": "i would like to know when my card was mail out to me. my card no. ",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "userDefined": false
+      },
+      {
+        "text": "13764",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86518128-bc02-4585-85aa-768bad51cd1a",
+    "data": [
+      {
+        "text": "when do i get my level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c774298-69d8-498f-b909-26f9aba14b7d",
+    "data": [
+      {
+        "text": "I just applied for a fingerprint card, do I proceed to have my fingerprints taken, or am I waiting for further approval before doing so?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b92ad4a2-1bd1-447e-b92c-895164b75ce7",
+    "data": [
+      {
+        "text": "Hi! I applied to have a fingerprint card sent to me over a week ago and still haven\u0027t received it in the mail. Is there any way I could track when it will come?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a47e974-b5bc-4974-b1c5-6518d31ff995",
+    "data": [
+      {
+        "text": "I have already requested, I would like to know when it will be sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e46cb19c-58dc-434e-9d44-396144dadda6",
+    "data": [
+      {
+        "text": "When will I get my clearance card I applied on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 15",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b797c36-721a-432d-a310-70e79aab5d79",
+    "data": [
+      {
+        "text": "I applied for a new fingerprint card but did not receive it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "118ea436-d490-493a-a90d-f8b93755e8f7",
+    "data": [
+      {
+        "text": "My FCC has been issued. When can I expect it in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeac5ecb-c3f6-4361-9106-1834629ffb76",
+    "data": [
+      {
+        "text": "I wanted to know how soon I would get my card or what I need to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca43dd5-5867-461e-bc7b-ae913a298e66",
+    "data": [
+      {
+        "text": "When will my actual card be mailed to my current address ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e305bf97-0ca2-4307-a0bf-b1f882db6568",
+    "data": [
+      {
+        "text": "When will my fingerprint clearance cards arrive by mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d54905d3-6e4b-4f52-a1db-8195b9209722",
+    "data": [
+      {
+        "text": "I did my fingerprints on July ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " when should I get my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cfceb85-5f15-4037-9ade-3f5f3a3946d0",
+    "data": [
+      {
+        "text": "How soon do I receive fingerprint card after issue.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dfd85c8-0b02-4fa0-a6ee-88ea205d8346",
+    "data": [
+      {
+        "text": "Can you tell me when I can expect my finger print card by mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18daec99-7c42-448e-8041-84af36b0d72e",
+    "data": [
+      {
+        "text": "When can I expect the card to come in physical form if it has been issued 7/19/2021",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abfd2801-b521-404c-9967-7273d11dfb4b",
+    "data": [
+      {
+        "text": "How long does it take you to send out the card to do my fingerprints for an out-of-state applicant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9614ce0-b2b1-454d-a118-f257c9f7f5c3",
+    "data": [
+      {
+        "text": "How long does it take to get FCC if I mail my printed fingerprints in instead of electronically sending?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f77fc82-934a-40c1-9486-c3d1c0c23d6d",
+    "data": [
+      {
+        "text": "I was wondering if I never got my fingerprint card throw the mail how can I get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "314c6ee4-b030-4762-ae97-73f9e7b1dcaf",
+    "data": [
+      {
+        "text": "How long after you apply for a fingerprint card do you send out the paper card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80ad7a02-7203-4b7a-9dfb-506cc7bb346e",
+    "data": [
+      {
+        "text": "NEED fingerprint cards sent as requested ",
+        "userDefined": false
+      },
+      {
+        "text": "a week ago",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " for completion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e2d4498-4384-4fbd-a792-93a23c961423",
+    "data": [
+      {
+        "text": "I need to verify that i put the correct reason for applying for a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea904395-ecf6-4dae-921b-831b33dc3141",
+    "data": [
+      {
+        "text": "shipping information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c2cd80f-cdfb-48da-bc5e-d320b763c211",
+    "data": [
+      {
+        "text": "HOW CAN I KNOW IF MY CARD WAS SENT TO ME VIA MAIL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab63a84-35da-443a-a42e-ee9b2cda8354",
+    "data": [
+      {
+        "text": "Will I be receiving my fingerprint card soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92ca1888-4cc1-45bc-a232-02cf76593c16",
+    "data": [
+      {
+        "text": "I am waiting on my fingerprint application in the mail and have received nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9366694-8367-4aca-b405-e6614477bb1c",
+    "data": [
+      {
+        "text": "When can I get my finger print from the sheriff\u0027s office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "116e0455-3061-41b9-9a1e-7da69474e42b",
+    "data": [
+      {
+        "text": "I requested and paid for a fingerprint card and haven\u0027t received it yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "795adba2-ca3d-47cc-9fc2-3389f206cd49",
+    "data": [
+      {
+        "text": "How are IVP fingerprint clearance cards sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b346c2a-5ef6-4149-a1f6-7a54e411c65e",
+    "data": [
+      {
+        "text": "shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44f03a71-d84e-4272-a509-29def5371221",
+    "data": [
+      {
+        "text": "How does the finger print card get sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d070de5-fb64-4696-922e-bef70702c69e",
+    "data": [
+      {
+        "text": "Once approved for your finger print card is it mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a6efe2-8bb9-4bc2-b16e-b6eda8578591",
+    "data": [
+      {
+        "text": "Hi, I applied for a fingerprint clearance card and got my fingerprints done earlier ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ". I see the status of my card is \"issued\" and that my card number is ",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "H06835. I am wondering how and when I can receive my card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b5c0393-8b91-48c7-a31f-95e360128508",
+    "data": [
+      {
+        "text": "My card is valid, I have not received it yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48199ad4-22bc-480e-bfff-2f475a151042",
+    "data": [
+      {
+        "text": "I applied for a renewal Fingerprint Clearance Card.  When should I expect to receive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b696b76c-edd3-434d-bb33-a9e1a5a33276",
+    "data": [
+      {
+        "text": "I am in the process of obtaining a fingerprint clearance card and completed the fingerprinting at a location this morning, will the card be sent to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75bec159-6023-4961-bc23-1a18f91fc283",
+    "data": [
+      {
+        "text": "where will my clearance card be sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d09c700b-cc21-47e9-9a17-e82ba2e55464",
+    "data": [
+      {
+        "text": "Hi, I can see that my Fingerprint Clearance Card has been approved, but I do not see how I can access the card to print out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d865c75-2305-4907-a89c-64966451cf0e",
+    "data": [
+      {
+        "text": "My card was issued on ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", what is the time to receive it via mail normally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03f2f32d-f850-4745-8e38-2119bcbcf51c",
+    "data": [
+      {
+        "text": "when should I received my card in the mail the status says valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdc591a1-c94f-457c-ad8e-012146e38d8f",
+    "data": [
+      {
+        "text": "Does the fingerprint card get mailed to me? Or can I see the card online somewhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea64d999-573b-4ffb-9ce7-eab4b2a6e311",
+    "data": [
+      {
+        "text": "I have not received my clearance....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc6fe1c4-a0d8-4b30-96ff-6b3015ed7da8",
+    "data": [
+      {
+        "text": "My fingerprint clearance card is valid, but I have not received it yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61db7091-63b3-4ce7-ba97-772c250d6da7",
+    "data": [
+      {
+        "text": "How long will my level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint clearance card replacement card take to receive in mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c050f342-3165-4962-8a53-d17aa6c7d993",
+    "data": [
+      {
+        "text": "How do I know when my fingerprint card has been mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d001e81-69fb-4179-be29-b6a6ed90b3b6",
+    "data": [
+      {
+        "text": "is it possible to have my IVP card sent to my home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f43a782-b4b1-4279-b780-71e8defaadac",
+    "data": [
+      {
+        "text": "can a fingerprint application be sent to my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35fe16fa-2c4c-4ffb-b290-494f0d875036",
+    "data": [
+      {
+        "text": "when will my ivp packet be mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc3be27-63dc-4e0e-9f5a-46deceedd248",
+    "data": [
+      {
+        "text": "When will you mail the fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c07dfbd-fba2-41fc-b75c-2f1dc718544f",
+    "data": [
+      {
+        "text": "How do I request a hardcopy of my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7550f228-89e6-47ab-9748-5626fc18dd97",
+    "data": [
+      {
+        "text": "When will I get my card in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389cf075-8b67-4345-9f6b-b80331136a23",
+    "data": [
+      {
+        "text": "I have not received the hard copy of fingerprinting card and return envelope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6331025a-7732-4f40-a88e-18bac6c1090c",
+    "data": [
+      {
+        "text": "I did not receive a physical card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "899c56ec-0ade-497f-9dc8-2aad7b04cf3b",
+    "data": [
+      {
+        "text": "I have not received my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab55f7e5-fa8a-4a3e-92a3-60084a5eeb11",
+    "data": [
+      {
+        "text": "I have requested a finger print card and paid the fee of ",
+        "userDefined": false
+      },
+      {
+        "text": "67.00",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " will the actual cars be mailed to my address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e618ab4-4bf1-4289-872b-7ddf0296fb72",
+    "data": [
+      {
+        "text": "how do obtain the physical card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64c5ad2e-af92-4f3e-a7bb-2ca49d2c8a06",
+    "data": [
+      {
+        "text": "Your packet has been mailed. Please allow up to ",
+        "userDefined": false
+      },
+      {
+        "text": "two weeks",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " for your packet to arrive via ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " postal service. what packet is that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a8dd0b6-1ffb-4960-9878-a509e08e415c",
+    "data": [
+      {
+        "text": "Do you mail out the fingerprint card after the ",
+        "userDefined": false
+      },
+      {
+        "text": "ten days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74e7b603-baa7-4ce5-8628-4961a841d500",
+    "data": [
+      {
+        "text": "What if you can\u0027t remember which address it was",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca7692c-2c40-464d-a405-5c58a7010aa1",
+    "data": [
+      {
+        "text": "what packet is mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad7d914a-dbfa-4d04-aa41-ac76a9e323cb",
+    "data": [
+      {
+        "text": "when will i receive my finger print card in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52b87683-06da-4c60-98c7-4719701bd09c",
+    "data": [
+      {
+        "text": "how to I get access to the physical finer print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc99588-05c4-442c-8c97-49b0ed03c341",
+    "data": [
+      {
+        "text": "Hi,\n Will the card be mailed to me? I am just making sure I didn\u0027t miss a step.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c56f640e-0419-4532-8edb-61753e7e3ac7",
+    "data": [
+      {
+        "text": "Hi there, I paid for a new fingerprint card on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 24th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". Where do I go to get the card? Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f54e740-1c10-4120-9dc4-46b0b84dc820",
+    "data": [
+      {
+        "text": "is it getting mailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "622e6984-a986-4120-a2ce-ecce770b4127",
+    "data": [
+      {
+        "text": "Was mine mailed??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff25fd3b-5c24-45c5-bfce-3586d2550546",
+    "data": [
+      {
+        "text": "You have not mailed my fingerprint cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f121b325-8a0d-48d3-b6f3-eb52c13c9040",
+    "data": [
+      {
+        "text": "When should I expect to receive my card in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20b6a577-82b0-4055-a461-b2c5bcc1a7cd",
+    "data": [
+      {
+        "text": "My card has not been mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f933eb8c-4c41-4138-86f7-0296c7aaed36",
+    "data": [
+      {
+        "text": "I did not get my fingerprint card mailed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b54a6ba-0939-4c18-9307-0d87b28bb0ec",
+    "data": [
+      {
+        "text": "has the card been mailed already",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8be73706-c61f-4a4c-9107-e82b46a4eff7",
+    "data": [
+      {
+        "text": "Can I have it emailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c40b111a-5845-47bf-bdc0-352ec283e6e3",
+    "data": [
+      {
+        "text": "are you able to tell if it has been mailed already",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "263d1299-29fe-41f5-8505-ed61e8a2e4fe",
+    "data": [
+      {
+        "text": "fingerprint clearance card sent to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f34ba9-e1c5-4d2d-b616-98aa38ac46c7",
+    "data": [
+      {
+        "text": "when can I expect to recieve my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6349411a-9551-4540-a8f5-653e81b3c16a",
+    "data": [
+      {
+        "text": "Where are my cards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4832ebf-0c1e-4c86-a891-b9104a992dee",
+    "data": [
+      {
+        "text": "Hi there I\u0027m wanting to know when will my card be delivered to my home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "021b29f9-f135-47d8-a013-8f88e090a824",
+    "data": [
+      {
+        "text": "Is the finger print card mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4a957c0-2067-4789-baa8-bd7e0559e560",
+    "data": [
+      {
+        "text": "has my card mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb39ddb9-8f62-4a25-b654-baa134d53dc5",
+    "data": [
+      {
+        "text": "how  long does it take to get a copy of my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba0793e7-b4c0-42b4-b3da-a3ecc4c8863b",
+    "data": [
+      {
+        "text": "When can I get my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c8a034-4137-42b2-b8f8-180a0aa815ba",
+    "data": [
+      {
+        "text": " Will we receive an email with the authorization code once it is approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f183d311-522f-4de7-a20e-b5f58ec57c46",
+    "data": [
+      {
+        "text": "after doing electronic fingerprints how long does it take for arrival of card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4786082-3ec2-4769-825d-da5adf4edbfd",
+    "data": [
+      {
+        "text": "When will i get your invoice email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7054e0a-7c8f-43af-b46f-93e1c04c4720",
+    "data": [
+      {
+        "text": "what is the shipping time for a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca91bbe7-e6c3-43ad-b82e-138c3ff3d17c",
+    "data": [
+      {
+        "text": "how long does it take to receive the card in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "847d12f7-8835-4a0f-b1d0-bae526a50c7e",
+    "data": [
+      {
+        "text": "It\u0027s been ",
+        "userDefined": false
+      },
+      {
+        "text": "4 months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b12d2a32-08c6-4007-b3a7-c33b5dfcfaf8",
+    "data": [
+      {
+        "text": "How long tell my application is done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00992814-8038-4987-be60-800f637e2aa6",
+    "data": [
+      {
+        "text": "After I apply and pay on here I just have to wait? And how long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "924dc5de-6a2f-456a-8ef9-57368461ca3f",
+    "data": [
+      {
+        "text": "How many days will it take to shipped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b88aaa98-a09a-4483-8113-ba8682a5f479",
+    "data": [
+      {
+        "text": "How long do I need to wait to obtain a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90fe6755-2888-4eaa-9a89-2616e5effa04",
+    "data": [
+      {
+        "text": "How long will it take to process a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df761e0c-16a8-4f2a-bbc9-a34deb2d6d99",
+    "data": [
+      {
+        "text": "What is the duration of shipping of card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3364211-1c68-4185-a4c9-0060f2c1896a",
+    "data": [
+      {
+        "text": "What is the way to find card shipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d039293d-3222-4d56-a69a-577287a262db",
+    "data": [
+      {
+        "text": "I need the card but unable to locate it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5dde56a-de85-4eb1-bdf1-3c1c82f93577",
+    "data": [
+      {
+        "text": "How long will it talk for the card to be shipped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "446f79ef-a07a-4454-aded-b75a506fe18d",
+    "data": [
+      {
+        "text": "Where is my card right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7916305c-f484-493f-b804-ec97ae5ff9c6",
+    "data": [
+      {
+        "text": "Card shipment details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4475ada-1f2c-4a3c-b09a-e689f06badf3",
+    "data": [
+      {
+        "text": "Time taken to ship the Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "698683a1-1073-4ca7-9f10-8978706b3449",
+    "data": [
+      {
+        "text": "Card shipping how long it takes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bbb9a58-841a-497b-916e-05e34003da82",
+    "data": [
+      {
+        "text": "How long it takes to ship a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d842f2a-e64b-4e0d-9503-fbe8b07ea27b",
+    "data": [
+      {
+        "text": "Card shipment time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f20306fd-c7e7-4785-a70b-b8d2d2887639",
+    "data": [
+      {
+        "text": "When will i receive my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dabd1ad-b143-4ae9-b4bd-b81a49b42afb",
+    "data": [
+      {
+        "text": "May i know my card shipped or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d567791-85a3-4d7e-b951-84c79b4ecf43",
+    "data": [
+      {
+        "text": "Is my card shipped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f114b03c-f682-4b33-888d-68b325c1ea2e",
+    "data": [
+      {
+        "text": "Not yet received my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e46e2c-7e8b-4245-bc57-5eb234c75647",
+    "data": [
+      {
+        "text": "How long should i wait to get my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbab90e-5770-419c-ba21-202b1b48f0cc",
+    "data": [
+      {
+        "text": "what is the time to take the card processing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0eaab23-cc97-475d-bd80-d31281d16c1a",
+    "data": [
+      {
+        "text": "Card is shipped, when i will get",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cddc804c-58f5-48c4-92ba-ef6b82d816c8",
+    "data": [
+      {
+        "text": "how long it will take to get my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb367ef7-8910-4ef5-b85b-0145ccd63ae4",
+    "data": [
+      {
+        "text": "when i will get my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b9b5366-7b3b-436c-956c-5f22ac238103",
+    "data": [
+      {
+        "text": "Let me the the card processing time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0551e4f1-f455-4cbb-85bf-57fb1906b37b",
+    "data": [
+      {
+        "text": "Tell me how long it will take time to Shippment of my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81b6c4a5-32be-4e1a-9eb4-c1f387ac70e1",
+    "data": [
+      {
+        "text": "What is the card processing time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b47cc59e-7bb3-4df2-8bf8-06d341233651",
+    "data": [
+      {
+        "text": "What is the card shiiping time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d4a4b13-f65c-4e07-8e0f-7796b7c65e7e",
+    "data": [
+      {
+        "text": "Card processing time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b6944c8-6240-4f7d-8d76-70b8ae5dbec7",
+    "data": [
+      {
+        "text": "Card shipping time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a8a58fb-acb4-4e78-bdab-19e33a6c8cb4",
+    "data": [
+      {
+        "text": "Time for card to get processed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0dc6374-a8dc-4aac-9439-6a7b38442cf7",
+    "data": [
+      {
+        "text": "Card shippment time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd678341-3d41-4bfe-9e81-3bc28b8b5e7d",
+    "data": [
+      {
+        "text": "Card shipment process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "059a69e5-8905-49cc-a0ce-a76256f43aac",
+    "data": [
+      {
+        "text": "How long does card shipping takes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00b0c2d-7bee-4228-8a91-57828b0a025b",
+    "data": [
+      {
+        "text": "How long does a my card take to arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952ed262-1917-457a-9197-2e0bb296497d",
+    "data": [
+      {
+        "text": "How long will it take for my card to be shipped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e00c41f-ca08-4e46-a734-44edcf1774a1",
+    "data": [
+      {
+        "text": "How long",
+        "userDefined": false
+      },
+      {
+        "text": " does it take for a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      },
+      {
+        "text": " to be shipped/processed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

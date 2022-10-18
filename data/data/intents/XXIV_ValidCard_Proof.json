@@ -1,0 +1,89 @@
+{
+  "id": "3de4c83a-bf7f-40e1-9c76-5a9f2381719d",
+  "name": "XXIV_ValidCard_Proof",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06688777-bf61-4cdf-96e3-17526d912872",
+          "name": "valid_card",
+          "required": false,
+          "dataType": "@Valid_Card",
+          "value": "$valid_card",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bdc6bad1-9f31-4015-9889-46d68af5f2de",
+          "name": "valid_card1",
+          "required": false,
+          "dataType": "@Valid_Card",
+          "value": "$valid_card1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bf684236-931e-4361-956b-d2cabf329312",
+          "name": "valid_card2",
+          "required": false,
+          "dataType": "@Valid_Card",
+          "value": "$valid_card2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fbcf3d44-9166-4c0c-b9ed-2ea996a400a9",
+          "name": "valid_card3",
+          "required": false,
+          "dataType": "@Valid_Card",
+          "value": "$valid_card3",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

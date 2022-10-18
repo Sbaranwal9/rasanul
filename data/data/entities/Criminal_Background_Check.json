@@ -1,0 +1,9 @@
+{
+  "id": "b8a4b6d0-0d77-4cf1-aed3-6a61d8eb25a8",
+  "name": "Criminal_Background_Check",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

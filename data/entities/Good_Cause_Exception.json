@@ -1,0 +1,9 @@
+{
+  "id": "016e190b-ffc9-416b-b1a2-561fef695098",
+  "name": "Good_Cause_Exception",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

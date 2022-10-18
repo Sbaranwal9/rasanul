@@ -1,0 +1,555 @@
+[
+  {
+    "id": "6bfd2ed2-097e-4e18-a40e-a8fd823766af",
+    "data": [
+      {
+        "text": "Can individuals who are not yet ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " obtain an IVP Fingerprint Clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "263dce93-496e-47e6-855c-4353976e29c7",
+    "data": [
+      {
+        "text": "can i be 17 and get a fingerprint clearance card for work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "530ccd68-f929-4406-a5f0-afffb7552867",
+    "data": [
+      {
+        "text": "Does a ",
+        "userDefined": false
+      },
+      {
+        "text": "13 year old",
+        "meta": "@sys.age",
+        "alias": "age",
+        "userDefined": false
+      },
+      {
+        "text": " need a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc982fb0-82bf-48b2-8f5b-e8dc5b24aa8e",
+    "data": [
+      {
+        "text": "Hi, this is ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " from Arizona Livescan.  My question is - What is the minimum age requirement for a person to get a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6d28eb0-848b-4f17-88a1-c55a0d717ebb",
+    "data": [
+      {
+        "text": "How old do you have to be to request a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fa6bbd2-8f97-491d-a798-bf985cf2d5c9",
+    "data": [
+      {
+        "text": "Any Age restrictions when applying for a fingerprint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ab73222-28fd-4e04-96fe-3da4c011f79a",
+    "data": [
+      {
+        "text": "I am 16 will I get FCC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35491f47-54ec-4135-9520-1aeffc95083a",
+    "data": [
+      {
+        "text": "card age, required card age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6407c53-7184-472a-9ab0-6466c588835c",
+    "data": [
+      {
+        "text": "can I get a card if im not 18?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dc7e555-c0b8-4045-8d1b-73deef03f025",
+    "data": [
+      {
+        "text": "is it possible to get card if i am ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afaa699e-e092-49c3-a857-14b9b10917ff",
+    "data": [
+      {
+        "text": "is it possible to get card if i am ",
+        "userDefined": false
+      },
+      {
+        "text": "16",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66e65cbf-da66-4479-9496-9cacb1376c03",
+    "data": [
+      {
+        "text": "what is the eligibility of getting card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a96861d-87f4-42cd-afad-45c38a1b6fad",
+    "data": [
+      {
+        "text": "can I get a card if i am ",
+        "userDefined": false
+      },
+      {
+        "text": "17 years",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "226db987-dbe0-4d75-bb8c-384d462252da",
+    "data": [
+      {
+        "text": "can I get a card if im ",
+        "userDefined": false
+      },
+      {
+        "text": "16 years",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49b05658-20c1-47fd-a8e7-7fcdbc3dfc89",
+    "data": [
+      {
+        "text": "Will it possible to get a card if I\u0027m under the age of ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05da0803-f12b-48a8-a0ec-7e82fd7536c2",
+    "data": [
+      {
+        "text": "Do i need to meet speciifc age to get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e6d31b3-95cd-43a2-b6a8-76d26c32bdd8",
+    "data": [
+      {
+        "text": "Am i eligible to get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1acd91f9-1718-495f-991b-1e8dc39b9fcc",
+    "data": [
+      {
+        "text": "Do we have age criteria to get the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7939873-1576-478e-9930-e1e18528e898",
+    "data": [
+      {
+        "text": "I would like to know the required card age?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee578ba3-a55a-46bb-898f-15542356d349",
+    "data": [
+      {
+        "text": "required card age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23c3e242-9fe0-4ccb-b674-681a5c4204ae",
+    "data": [
+      {
+        "text": "age limit to receive a PI license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52022706-5900-4050-9bbf-bdee2a4f7520",
+    "data": [
+      {
+        "text": "age limit to receive a security guard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4221c6d-0fbd-4b6d-a139-15392df7d110",
+    "data": [
+      {
+        "text": "age restriction to apply for a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d17a7a4-5501-4f72-94cb-178f90716437",
+    "data": [
+      {
+        "text": "age limit to get card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2c4df1d-50d9-4db2-939e-c9dfef41d680",
+    "data": [
+      {
+        "text": "Please let me know required card age?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cc5b022-42de-4b36-9e17-ab0dae75de94",
+    "data": [
+      {
+        "text": "Age restriction to get card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5b05c9-0e36-44a1-a40c-b0752ced4898",
+    "data": [
+      {
+        "text": "Can I get card if I\u0027m above ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5768f312-0f9a-4864-aca1-7cc856a0e68f",
+    "data": [
+      {
+        "text": "What is the age to get card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cb25f27-670a-4a30-9745-10b003651f29",
+    "data": [
+      {
+        "text": "Can I know required card age?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfed1b4c-4b43-434d-91ff-5c9b8922e8b9",
+    "data": [
+      {
+        "text": "I want to know required card age to get card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc64420-c0ef-4195-8740-823424597f32",
+    "data": [
+      {
+        "text": "Is there any age restrictions to get card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a1f0514-b95d-4880-8774-d51336cb9bf5",
+    "data": [
+      {
+        "text": "Am I eligible to get card if I\u0027m under ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32380863-6524-4808-8d14-a919970d06a1",
+    "data": [
+      {
+        "text": "What is the required age to get card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75a763bc-3923-482a-b11f-43eec78fe58d",
+    "data": [
+      {
+        "text": "Will I get a card if I\u0027m under ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8315d18-582b-42c1-b937-574144d81440",
+    "data": [
+      {
+        "text": "can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      },
+      {
+        "text": " if im not ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

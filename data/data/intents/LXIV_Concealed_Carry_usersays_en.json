@@ -1,0 +1,679 @@
+[
+  {
+    "id": "1859025a-0248-4144-be4f-d4d665c7d31e",
+    "data": [
+      {
+        "text": "I need weapon license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e29d862-7173-4e81-920a-68f12728de17",
+    "data": [
+      {
+        "text": "I\u0027m trying to get my CCW permit number to renew it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c33cfb54-9878-44d7-8b8b-b909345c7fce",
+    "data": [
+      {
+        "text": "I had a fingerprint clearance to receive my concealed weapons permit for the State of ",
+        "userDefined": false
+      },
+      {
+        "text": "Arizona",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I use that clearance to apply with Kingman School District?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3f8d5bc-545f-4ede-9d66-b2bc9c1f0f04",
+    "data": [
+      {
+        "text": "I currently have an AZ Concealed Weapons Permit.  Does this mean that I also have a Fingerprint Clearance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad491f9-3a16-4543-b3a2-255f63483aeb",
+    "data": [
+      {
+        "text": "Ccw permit info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8996b987-f87c-4047-9064-d733817a0011",
+    "data": [
+      {
+        "text": "how can I find the ccw renewal form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "218a786b-6a47-4b1c-be7a-3d2a063ee12a",
+    "data": [
+      {
+        "text": "Looking for gun taken by officer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e264b62-c2be-469d-828a-10cfc2f51e5d",
+    "data": [
+      {
+        "text": "Hi my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sandie",
+        "userDefined": false
+      },
+      {
+        "text": ". I would like to get my concealed weapons permit # so I renew my license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06310609-77a9-4112-bc13-45582121bef8",
+    "data": [
+      {
+        "text": "Conceal carry license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1360944-032b-466c-9919-9e174144a563",
+    "data": [
+      {
+        "text": "Permit to carry a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b726852-2f86-4d3c-bd65-b4df9cc5c4f1",
+    "data": [
+      {
+        "text": "weapon carry permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87e26de3-6cec-4dae-8591-7f33a3350ddf",
+    "data": [
+      {
+        "text": "Conceal weapon carry licence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3772216-a131-4d97-9159-cf8926dc46c0",
+    "data": [
+      {
+        "text": "Licence to carry a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f6a6406-afee-4d5e-b4a9-74fd4c820d28",
+    "data": [
+      {
+        "text": "Is portal available to get a permit carry a weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1527d93f-98ea-47f3-ad21-e8b74cc98dcc",
+    "data": [
+      {
+        "text": "Help me to get weapons permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70bd8ed3-1290-4e87-bb0f-fd1956952bc1",
+    "data": [
+      {
+        "text": "Need weapons permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ac6d86b-b480-4fc9-aace-9374e3afb6f1",
+    "data": [
+      {
+        "text": "Where can i get licence to carry a weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86d1b983-84c7-4994-952c-87a0aefffcad",
+    "data": [
+      {
+        "text": "Need licence to carry a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6082bd99-9056-4f3f-a2e9-c5782280fdcb",
+    "data": [
+      {
+        "text": "Am i allowed to carry a concealed weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9092b10b-53aa-4c1d-9876-ce43615361bb",
+    "data": [
+      {
+        "text": "weapons permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2dc1b72-7ae2-41da-b624-f1cf34214f20",
+    "data": [
+      {
+        "text": "How can I get licence to carry a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b08b5159-5326-4dc0-a2d8-8d53e9d12d94",
+    "data": [
+      {
+        "text": "How to get permit to carry my weapons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bf554d0-33dc-4466-a92e-9ba87b18241f",
+    "data": [
+      {
+        "text": "Where can I permit to carry my weapons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8642eaec-3e54-40f4-ac6c-ea935ce9c70d",
+    "data": [
+      {
+        "text": "I need a license to carry my weapons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02bb1ecf-81cf-41e7-8adf-b93f0e476aa3",
+    "data": [
+      {
+        "text": "How to apply license to carry my weopons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6603f357-46a5-4318-a67a-8f966d57f2b2",
+    "data": [
+      {
+        "text": "how do i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " to carry a weapon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "032f4bff-bc76-4610-ad52-5662e79cff53",
+    "data": [
+      {
+        "text": "where can i find more details on the concealed ",
+        "userDefined": false
+      },
+      {
+        "text": "weapons permit",
+        "meta": "@concealed_carry",
+        "alias": "concealed_carry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "652bc0f7-6b9e-4d28-bf61-b206da584168",
+    "data": [
+      {
+        "text": "i need to carry a gun onboard, how can i do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d0b0df-544a-49d9-8cd2-e2ce48bf4d55",
+    "data": [
+      {
+        "text": "can i carry a concealed weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d829b30-ae5d-4c80-bb83-20e42376a515",
+    "data": [
+      {
+        "text": "Need to apply for license to carry my weapons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eae20710-a9f2-4156-9be4-a68136b8f5f0",
+    "data": [
+      {
+        "text": "Where do I get ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " to carry gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ede1d95-cf1b-4f35-85bf-a6fcebe8f655",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "license",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " to carry gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31658fc4-87ce-4b38-ba70-990330c03f4e",
+    "data": [
+      {
+        "text": "Can we carry a concealed gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7294e86-d036-477c-973f-86767528d53a",
+    "data": [
+      {
+        "text": "Am looking for a permit to carry weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9a40951-5fa4-4211-994e-079db15c8126",
+    "data": [
+      {
+        "text": "Weapons carry permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f21a1d4-1aab-40e1-a7bc-dac4aa8b03a6",
+    "data": [
+      {
+        "text": "Conceal weapon carry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b16c7272-d504-477f-93e3-564b927b8017",
+    "data": [
+      {
+        "text": "Conceal carry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e13ca16-a7bd-4dff-94b7-62801d9be844",
+    "data": [
+      {
+        "text": "Concealed weapon permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d8d60d9-f195-4ab1-bd9b-528277eab005",
+    "data": [
+      {
+        "text": "License for carrying a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2104ca7d-00fe-43f6-8804-51b7a979240f",
+    "data": [
+      {
+        "text": "I how do i get permit to carry a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee22894-bcb0-4957-a6a6-96da8e20708f",
+    "data": [
+      {
+        "text": "I need a license to ",
+        "userDefined": false
+      },
+      {
+        "text": "conceal weapons",
+        "meta": "@concealed_carry",
+        "alias": "concealed_carry",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e832dcf0-7f15-46c1-8c3f-7826de90f15a",
+    "data": [
+      {
+        "text": "List of onceal weapons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f18ddcb1-0f42-484f-b89c-3534a37eef6f",
+    "data": [
+      {
+        "text": "Gun license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8ade160-431e-4d50-b5e1-db10541354cf",
+    "data": [
+      {
+        "text": "What is concealed carry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8f5ba34-de74-460a-bd90-f52314761109",
+    "data": [
+      {
+        "text": "would like to know about weapons permit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86ae0b7a-8d4d-4dc3-9296-96421d5cf16f",
+    "data": [
+      {
+        "text": "need license to carry my weapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b99828e9-04c2-4f1a-97e4-7315827a9330",
+    "data": [
+      {
+        "text": "license",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": " to carry a gun conceal carry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c747e655-cf31-4367-8647-3dd8fccb3aeb",
+    "data": [
+      {
+        "text": "_Application_ProcessingTime_Clearance_Card_Application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afff283f-cd40-4e65-b8b2-de2a01b233b6",
+    "data": [
+      {
+        "text": "II_Application_ProcessingTime_Clearance_Card_Application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bd94ba4-5bfc-4ace-97e3-1dd5176c7b12",
+    "data": [
+      {
+        "text": "XXII_Application_ProcessingTime_Clearance_Card_Application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69f2e48f-69c5-4d2d-89cf-19d062760825",
+    "data": [
+      {
+        "text": "XXII_Application_ProcessingTime_Clearance_Card_Application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

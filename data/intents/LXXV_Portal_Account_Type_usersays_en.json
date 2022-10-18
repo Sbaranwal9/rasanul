@@ -1,0 +1,469 @@
+[
+  {
+    "id": "6d680bfb-4550-4186-a7f6-a637c7b6e069",
+    "data": [
+      {
+        "text": "My account is created but how do I verify it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44c89612-9f2b-4aa4-b8d6-e7ceebde5f2d",
+    "data": [
+      {
+        "text": "I am a teacher.  Which card do I apply for?   Should I make a personal account or will my school district have an account number for me to enter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6102933-ab8c-49b2-88f9-4146d9869d6a",
+    "data": [
+      {
+        "text": "I am a teacher that has an IVP card I need to renew. When I set up my account what type of clearance do I select?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cd58742-8461-4ce8-9283-721edd855141",
+    "data": [
+      {
+        "text": "But I\u0027m not an attorney or media or court employee so I can\u0027t make an account. Can I request one in person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff5c8410-5ea5-4457-9e99-6e2f2a4fed42",
+    "data": [
+      {
+        "text": "\n I assisting my son on applying for a fingerprint card, he going to assistance in a school basketball camp .When creating his login which selection should he make?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55ce64d0-5705-4a29-bd72-8007026117df",
+    "data": [
+      {
+        "text": "I am setting up an account for fingerprints but do not know what the agency name ios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44a8764-498b-4109-a8c8-cbec73d8ab29",
+    "data": [
+      {
+        "text": "I\u0027m being asked if I\u0027m a private investigator or security. I\u0027m neither of these choices what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1013e76c-3431-4411-92e1-7461779a7fae",
+    "data": [
+      {
+        "text": "How do I know if I\u0027m an employee or volunteer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c79cb89-f080-43ad-89fb-3bf807166f1e",
+    "data": [
+      {
+        "text": "Type of Account,account type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0833e1f-2f16-4f4a-accf-65857b2c4925",
+    "data": [
+      {
+        "text": "How do I know what account type to create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "522397ec-4dc0-4652-b8f1-d4bb5e73cdbb",
+    "data": [
+      {
+        "text": "need help to select account type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e54113d7-b317-429e-a1d7-c58c43e90280",
+    "data": [
+      {
+        "text": "account type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1d3c004-4826-4cb4-bdca-53a087b658af",
+    "data": [
+      {
+        "text": "different type of accounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dcdfb3d-eb3c-4f1d-b461-4e8980ad7bfc",
+    "data": [
+      {
+        "text": "what is account type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbbeaf60-c166-4146-b687-1a5a96672977",
+    "data": [
+      {
+        "text": "Help me to select an account type?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c2436ed-9784-4cc9-9193-dd04a4da1bc6",
+    "data": [
+      {
+        "text": "How I\u0027ll figure out what kind of account to create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02d773ff-e2a8-43a0-8452-0d6c15d87c14",
+    "data": [
+      {
+        "text": "What sort of account type should I choose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8257f227-b1a5-446e-b420-b9f8ee46d196",
+    "data": [
+      {
+        "text": "What account type should i select?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7da3472f-894c-408b-8642-e0e2fdda4141",
+    "data": [
+      {
+        "text": "Guide me to know the details on account type?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "305df49c-1014-41fb-bcf2-d1994cd1c36b",
+    "data": [
+      {
+        "text": "account type to chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "626c82ab-72b4-49dc-babd-35bbf92c19ae",
+    "data": [
+      {
+        "text": "with which account type I should go ahead?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b4c1b86-a1f9-4913-a45f-01f05b7d9548",
+    "data": [
+      {
+        "text": "which account type I need to select?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2aa5844-95f8-4486-9d74-8f1cffeb857a",
+    "data": [
+      {
+        "text": "account types to create",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8cf0ffd-932b-4a46-8e9a-cd24a9f48bae",
+    "data": [
+      {
+        "text": "Based on what I should create my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "463d39a4-1445-4583-bf2d-be748055b79c",
+    "data": [
+      {
+        "text": "What type of account should I create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "439740e6-5e2f-42c7-bde3-ceb60f962020",
+    "data": [
+      {
+        "text": "Is there any particular account type to create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ef74b98-24b5-416c-bbee-64a7d2a1fff7",
+    "data": [
+      {
+        "text": "How will I know account type to create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "811cde08-3b82-4c2c-a7c2-a242001c5bf0",
+    "data": [
+      {
+        "text": "What is the account type to create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "776c388c-697d-4665-b656-9e2e79272de0",
+    "data": [
+      {
+        "text": "Tell me type of account to create",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad366dcc-1c2e-4791-833f-5f6bc5fe230a",
+    "data": [
+      {
+        "text": "What type of account I should select?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "866b6a84-a7b3-4cb0-bd72-b79f6f73c750",
+    "data": [
+      {
+        "text": "What are the types of account that I can create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d14fbec3-57df-40d7-b07a-f084b5157c76",
+    "data": [
+      {
+        "text": "I need to know the type of account to create",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f733d508-8397-4b85-bb0b-dccd31e3675b",
+    "data": [
+      {
+        "text": "What is the account type?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bdb8438-53f8-4ca3-8476-df6eef56ce67",
+    "data": [
+      {
+        "text": "What type of account I can create?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4cf5148-0e1f-4c97-a317-d58d4da55a96",
+    "data": [
+      {
+        "text": "How do I know what ",
+        "userDefined": false
+      },
+      {
+        "text": "account",
+        "userDefined": false
+      },
+      {
+        "text": " type to ",
+        "userDefined": false
+      },
+      {
+        "text": "create",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

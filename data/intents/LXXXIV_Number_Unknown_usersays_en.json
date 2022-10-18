@@ -1,0 +1,860 @@
+[
+  {
+    "id": "c720b917-316f-495a-96ee-d570b230d2a0",
+    "data": [
+      {
+        "text": "How to find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9c6cfc9-03ae-4d7a-906c-69e2f0605513",
+    "data": [
+      {
+        "text": "Help me in finding my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ce173b5-fa05-40aa-9fa3-7229dbf5fc3d",
+    "data": [
+      {
+        "text": "Not able to find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec6cc47d-81a1-4e5e-b7bd-d88f6c9d7297",
+    "data": [
+      {
+        "text": "how to check the status of my card if I don\u0027t know my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0df0977-28af-4769-8e0e-2a3cb02be2d0",
+    "data": [
+      {
+        "text": "status of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d274587-776b-4e16-89c4-8b311a221697",
+    "data": [
+      {
+        "text": "Can I check status If I don\u0027t have my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ea74c2b-23cf-4661-80d7-9c26435d3ea5",
+    "data": [
+      {
+        "text": "I don\u0027t know the numbers, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba2c0a98-c6b4-43e8-bb71-23fdf28348e5",
+    "data": [
+      {
+        "text": "How can I check status without number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4051650e-f367-4040-b23b-0503a6c123c3",
+    "data": [
+      {
+        "text": "Can I check status without my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20a6bf94-9190-418d-835e-bacbf066ff3b",
+    "data": [
+      {
+        "text": "Need to find the status, but cannot recall my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b80dc8af-a2ea-45d4-8cee-f366909117ef",
+    "data": [
+      {
+        "text": "Numbers are not known, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12aecbe1-11db-46b2-8674-3f4bfaec92f2",
+    "data": [
+      {
+        "text": "how to know the status of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f29cf862-03ab-4e61-8af8-e285ab751487",
+    "data": [
+      {
+        "text": "need to check the status of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb760a11-3d76-4591-8df1-ee2f2cb6a9de",
+    "data": [
+      {
+        "text": "how to check the status if I don\u0027t know my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9c45955-d04d-4e22-97a6-59f10eaf7bf5",
+    "data": [
+      {
+        "text": "need to check status but do not have my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77c7236f-f45a-4f91-a6ce-caa88734b65f",
+    "data": [
+      {
+        "text": "cant find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c242efa6-6689-4ef0-9d22-cec527979e14",
+    "data": [
+      {
+        "text": "how do I view status if I don\u0027t know number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ace40f6-5f39-4660-9fbe-f7af7dceda07",
+    "data": [
+      {
+        "text": "I don\u0027t really have a number, tell me how to check status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b23fde-f359-4c9e-9309-fa634b7dfa44",
+    "data": [
+      {
+        "text": "how do I check status if I can\u0027t find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38125e28-f1bd-4e80-8bf0-75b727f5e66e",
+    "data": [
+      {
+        "text": "I\u0027m not able to find my number, how to check status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1691cfc4-ac88-4d09-bdda-fae333101a40",
+    "data": [
+      {
+        "text": "I don\u0027t have number, how do i check status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f06dba61-1a83-4597-bd2a-7c8c56ef0c3c",
+    "data": [
+      {
+        "text": "I don\u0027t have number, need to know my status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec9898a6-fa9d-493f-a1ed-ad7ffce83521",
+    "data": [
+      {
+        "text": "I loose my number , how to check my status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a68cd52f-d567-4dca-a422-9951aed17c18",
+    "data": [
+      {
+        "text": "check status with out number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22fcfc4e-c33f-4c16-ac53-5735d3cacbff",
+    "data": [
+      {
+        "text": "I don\u0027t know my number to check status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0879f3ab-c70b-4769-a425-8dceeda962d2",
+    "data": [
+      {
+        "text": "need to check my status with out number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "494ef29a-1de4-4628-8f1c-07e08e51d330",
+    "data": [
+      {
+        "text": "check my status I need my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec1d4372-fe31-40eb-9222-e13106d9be5e",
+    "data": [
+      {
+        "text": "what is my number sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f64c104f-c6be-4f6c-b51e-20024e116902",
+    "data": [
+      {
+        "text": "I need to check the status but don\u0027t know my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9556435-6ab9-4df5-8551-422b5cae160a",
+    "data": [
+      {
+        "text": "help me with my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbd3a13e-9fff-44a8-b5f3-d40212bd83c6",
+    "data": [
+      {
+        "text": "can someone tell my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "897e2dcc-fe34-4d60-a7bb-bc5d2c7ac60b",
+    "data": [
+      {
+        "text": "I\u0027m unaware of my number, please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0145bcd5-a127-4a0b-ab25-4d5378f9600e",
+    "data": [
+      {
+        "text": "Help me find my number? I cant check my status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "600e5051-fe99-4d74-965f-f924381fb661",
+    "data": [
+      {
+        "text": "unable to find my number, how do I check status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3676b597-3d58-48bc-9667-0af1bbd90eee",
+    "data": [
+      {
+        "text": "I don\u0027t think I can find my number, how can I check my status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f517c54-8603-4ab3-b166-f39113b2e8bb",
+    "data": [
+      {
+        "text": "can\u0027t find my number, how do I check status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d298f6d-4800-45f4-94e4-d3ab8ebecc66",
+    "data": [
+      {
+        "text": "How can I request for my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c48d9bc6-875e-4aa4-9492-da3a9ef33187",
+    "data": [
+      {
+        "text": "I don\u0027t have a number, how to check the status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2b630e9-308f-4299-8e8f-f6a5dfe389b7",
+    "data": [
+      {
+        "text": "I\u0027m not able to find my number, please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc1e711-8c10-4669-854f-9ce5ba461d54",
+    "data": [
+      {
+        "text": "Why am I still listed as under review It has been many weeks now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6dca4dd-720d-4d81-9d10-595e38be6231",
+    "data": [
+      {
+        "text": "Why is my account and claim still in progress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33ae2f9d-ebed-4768-bc1b-70020088643a",
+    "data": [
+      {
+        "text": "Hi when I look at my claim summary it says it is in progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a7f31ca-b504-4143-b441-824964929ed4",
+    "data": [
+      {
+        "text": "Claim details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d49f25d-1d30-4968-b31c-dc5d52aa9224",
+    "data": [
+      {
+        "text": "Check status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9455bf44-6d43-4216-a507-daf7f89380ce",
+    "data": [
+      {
+        "text": "what is my status, I don\u0027t have number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b918d0ee-a1f3-4f7a-bad9-ef44145219be",
+    "data": [
+      {
+        "text": "my number is missing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4adc19cf-287a-4cb9-8bb8-c524cf4d03b3",
+    "data": [
+      {
+        "text": "know my status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d17c26fb-5c73-4f93-880b-e0df13c364e5",
+    "data": [
+      {
+        "text": "check my status without number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db1fea3e-3d66-4dec-b2bc-ef560429875c",
+    "data": [
+      {
+        "text": "My Number is unknown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "667c7bf6-e738-4a69-85d4-0c3243408f3f",
+    "data": [
+      {
+        "text": "Want to check status without number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e227c797-f362-4798-9411-5029cfbfe08a",
+    "data": [
+      {
+        "text": "Can I still check my status without having number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b3a492c-09e2-4955-be0d-f9ccf64a098a",
+    "data": [
+      {
+        "text": "How do I check my status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df7565ef-b638-4033-93de-302266834c4f",
+    "data": [
+      {
+        "text": "I cant find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73f38090-a383-4d11-9e2a-f36c79efc2c2",
+    "data": [
+      {
+        "text": "Don\u0027t know number, how to check status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c37330-9c93-4a86-9e18-289f197a3b1c",
+    "data": [
+      {
+        "text": "I couldn\u0027t find my card number to check the status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08f3f594-2f90-4967-8537-f6663fc730bc",
+    "data": [
+      {
+        "text": "I am not able to find application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41257b6f-124a-4d77-8bca-d927dd1d24d8",
+    "data": [
+      {
+        "text": "I want to check the status but unable to find number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b6190b8-687d-45c3-815f-ce32409d391e",
+    "data": [
+      {
+        "text": "I am not able to locate number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e27aa1-6d80-48bd-b187-5a4b15e4b112",
+    "data": [
+      {
+        "text": "I am unable to find number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c17c5b0b-c371-4197-ad9b-c8145198b920",
+    "data": [
+      {
+        "text": "How do I know my check status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50739699-6ad1-42db-aeed-f63d836c6fb1",
+    "data": [
+      {
+        "text": "I am not sure with my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8129e96-a583-4186-8c3f-940be5d5774f",
+    "data": [
+      {
+        "text": "Is there any way I can check my ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "addeb613-e53c-4286-bbbc-57ff306d0be1",
+    "data": [
+      {
+        "text": "I would like to check the status of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6b597d-824f-4d78-9260-c1481b99dcfa",
+    "data": [
+      {
+        "text": "I don\u0027t know my ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@number_shorthand",
+        "alias": "number_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": ". How can I check my ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

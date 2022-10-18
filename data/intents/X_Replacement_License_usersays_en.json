@@ -1,0 +1,67 @@
+[
+  {
+    "id": "565b61af-9530-4c82-9d1a-7dafad4a5b97",
+    "data": [
+      {
+        "text": "_Replacement_License.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f4f6162-0c7a-48a8-a824-26f26e421a20",
+    "data": [
+      {
+        "text": "X_Replacement_License.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8ce2ca1-24e5-4668-96d2-79bdebf4c51d",
+    "data": [
+      {
+        "text": "_Replacement_License",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8799bd0-f64c-488d-9efc-488bcc6b0c92",
+    "data": [
+      {
+        "text": "X_Replacement_License",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d787412-a99c-425d-8529-a0cf889be156",
+    "data": [
+      {
+        "text": "Replacement_License",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

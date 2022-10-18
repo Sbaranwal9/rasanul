@@ -1,0 +1,530 @@
+[
+  {
+    "id": "c64f4924-4d36-479f-93a4-8569c83a2212",
+    "data": [
+      {
+        "text": "how to I receive my records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5fa1ecd-f48f-4d86-bbee-7e0dbd98fad9",
+    "data": [
+      {
+        "text": "how long to verify my login ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc9589b-add2-42aa-8745-b93f23fb7977",
+    "data": [
+      {
+        "text": "Accident happen in ",
+        "userDefined": false
+      },
+      {
+        "text": "1/26/2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", will it take less time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41a25ccb-bb37-4ea8-9813-925a7fd5f62f",
+    "data": [
+      {
+        "text": "wondering when my accident report will be ready, it happened on ",
+        "userDefined": false
+      },
+      {
+        "text": "5/24",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b022f26-cba3-456e-9c83-1ca1666fc40f",
+    "data": [
+      {
+        "text": "Where is my report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "958b78be-d4aa-4f1b-a73f-712ea91dcf1b",
+    "data": [
+      {
+        "text": "i have sent over request and they still remain unanswered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06aa995c-e58f-47cb-a600-0e36291ed160",
+    "data": [
+      {
+        "text": "Where is my accident report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcc71041-bbe5-4574-8487-876ef77d39bf",
+    "data": [
+      {
+        "text": "how long do records request take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9093409-fd89-41d7-8032-eb6c52f28a44",
+    "data": [
+      {
+        "text": "I have already requested an accident report when should i expect it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba4e62b3-91db-4999-8e17-7ae50bf4033d",
+    "data": [
+      {
+        "text": "How long for the card to be mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec721e94-6a02-4ce7-9c5a-80a30836dd97",
+    "data": [
+      {
+        "text": "I have not received a response yet to my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "userDefined": false
+      },
+      {
+        "text": " request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b40c6a93-913e-4a8b-b94d-3856dceb98db",
+    "data": [
+      {
+        "text": "I don\u0027t need to know the length of time for validity. I need to know length of time I have to wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bed12edc-583c-4222-90a1-c256e3a30271",
+    "data": [
+      {
+        "text": "Im trying to get my finger print card sent to my address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35f0be5c-1bac-43d6-a582-f2dba6bfd2a6",
+    "data": [
+      {
+        "text": "how do i know when my fingerprint card was mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a7190fa-5619-46f2-b301-29302b241b38",
+    "data": [
+      {
+        "text": "When will I get an invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "840321ef-06ca-4316-8425-d691a3f2137f",
+    "data": [
+      {
+        "text": "may I know the duration to get ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a9d4955-2d29-4d25-9373-58380de9b47e",
+    "data": [
+      {
+        "text": "Still not received my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28a37161-7318-42aa-ac51-e591a3923c70",
+    "data": [
+      {
+        "text": "May I know when can I get the ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2062980d-65a3-4b97-8c4c-201b380d56a3",
+    "data": [
+      {
+        "text": "What is the processing time to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13a5e7f0-5c2c-4a72-bc41-2b0ba6cc2564",
+    "data": [
+      {
+        "text": "How long one should wait to get his/her ",
+        "userDefined": false
+      },
+      {
+        "text": "record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83505712-c4ef-4b33-be3c-907ca47e58a1",
+    "data": [
+      {
+        "text": "What is the waiting period to get the ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c739ba25-e452-412a-84b7-30e962d4b894",
+    "data": [
+      {
+        "text": "What took so much time for my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aca2dca-180d-4ec6-bd92-5b546d20dca9",
+    "data": [
+      {
+        "text": "In order to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision record",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " why do I have to wait for so long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04dbde52-155a-43aa-8f2b-bdf248881b4d",
+    "data": [
+      {
+        "text": "Why it takes so much time to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bee9468-be88-4ee5-88f4-f9553a5bbd87",
+    "data": [
+      {
+        "text": "Why the waiting period is so long to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9570061c-74d8-4d27-b3f8-2c4cd673b3b9",
+    "data": [
+      {
+        "text": "I haven\u0027t gotten my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5781f1a9-7f05-424e-bff0-d23c2220e337",
+    "data": [
+      {
+        "text": "why haven\u0027t I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "collision report",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4091b8cf-943b-400c-8437-d7b97d2c6650",
+    "data": [
+      {
+        "text": "Why haven\u0027t I receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": " yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cace03c-b8f4-4ac6-840b-91f6ff989eac",
+    "data": [
+      {
+        "text": "What is taking so long for my ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef83562-96ff-433f-baef-0e464654f975",
+    "data": [
+      {
+        "text": "Why does it take so long to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "records",
+        "meta": "@request_record",
+        "alias": "request_record",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

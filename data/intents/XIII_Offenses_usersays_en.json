@@ -1,0 +1,473 @@
+[
+  {
+    "id": "dcb80c83-165a-4bd4-8f4d-99469579921d",
+    "data": [
+      {
+        "text": "If someone has to register as a sex offender can they get a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42950d30-64d4-4f99-98b5-ebb972d42521",
+    "data": [
+      {
+        "text": "So if you\u0027re felon can you still get your security card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c73b139-c3b3-4553-8e20-4453e7c8f7e2",
+    "data": [
+      {
+        "text": "Hello, i wanted to know if there is an overall list of disqualifying acts for a invalid fingerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffab8dcc-5313-4461-855a-7f737f074fe8",
+    "data": [
+      {
+        "text": "application is pending more than ",
+        "userDefined": false
+      },
+      {
+        "text": "4 months",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": ". please give reason for not processing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e51913-8e2c-4d45-9f3c-b740bf5698e8",
+    "data": [
+      {
+        "text": "is there a way I can send my employer a criminal history check?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8459fe-4cc1-4671-b9d1-b7911e4e2f1d",
+    "data": [
+      {
+        "text": "Need to know why I didnt pass my clearance. I am very unsure as to the reason why?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd229ec9-5b52-4090-9fc1-4c9d358568b8",
+    "data": [
+      {
+        "text": "Licensing ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c0a0f90-cf15-4353-9631-53a8085239d7",
+    "data": [
+      {
+        "text": "if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "crime",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " history will I get PI license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24ef9e26-52fc-4e8d-90b6-feaa365592a2",
+    "data": [
+      {
+        "text": "I have sealed record can I get fingerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89e21966-87dd-44df-96d3-7a772b7f3d42",
+    "data": [
+      {
+        "text": "What are the offences which stops to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b7118ad-6ff4-4897-b51d-869012ef43fe",
+    "data": [
+      {
+        "text": "If I have a offence history can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3b41582-d3a4-49e5-b660-971fb8c05cc1",
+    "data": [
+      {
+        "text": "list of ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " which keeps me out from getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7a465f8-a1aa-445d-a801-ec6f2fd24ed7",
+    "data": [
+      {
+        "text": "What offences can prevent me from getting license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "891574ce-add7-4711-8c02-c4993232d2e4",
+    "data": [
+      {
+        "text": "Give me the list of offences which could keep me getting clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb7566a2-3dbe-4aa4-8ca7-86344d022a75",
+    "data": [
+      {
+        "text": "I want to know which offences are Precluding ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " for a Regular Fingerprint Clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cfd08a9-887f-4d41-a80e-4e189334d245",
+    "data": [
+      {
+        "text": "Which are all the Precluding ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " for a Level I Fingerprint Clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "Card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "385df930-52ae-4bd2-9b3e-8839b36853d3",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "arrests",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": ") prevent me from getting a clearance ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e817b3a-62f0-49c6-8ca7-5f4c20f4d446",
+    "data": [
+      {
+        "text": "if record was sealed (",
+        "userDefined": false
+      },
+      {
+        "text": "expunged",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": ") can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25c1a8da-b8bf-4ef8-ae2a-04e24da14ec5",
+    "data": [
+      {
+        "text": "Where can I find out what ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " could keep me from obtaining a security guard or private investigator license or registration?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0926123-6976-4067-bafb-5e5e5ebfba9a",
+    "data": [
+      {
+        "text": "if I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "misdemeanor",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": true
+      },
+      {
+        "text": " can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b274c93-7f69-4e4d-865f-981eebf2e6a8",
+    "data": [
+      {
+        "text": "Where can I find out what ",
+        "userDefined": false
+      },
+      {
+        "text": "offenses",
+        "meta": "@Offenses",
+        "alias": "offenses",
+        "userDefined": false
+      },
+      {
+        "text": " could keep me from obtaining a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "meta": "@Card",
+        "alias": "card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

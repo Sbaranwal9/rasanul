@@ -1,0 +1,420 @@
+[
+  {
+    "id": "cc26c25c-2a75-424f-b5e0-f84f7cdb0403",
+    "data": [
+      {
+        "text": "how do employers ",
+        "userDefined": false
+      },
+      {
+        "text": "updated",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " employment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c723d3a-8480-4695-9fa9-87ef915a2095",
+    "data": [
+      {
+        "text": "how do we ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " a employee socical security number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b2d9d8-820a-4578-9c76-b794a2b1ef1d",
+    "data": [
+      {
+        "text": "how do we ",
+        "userDefined": false
+      },
+      {
+        "text": "updated",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " employer info on a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daf96719-bb41-4a8f-ab2c-97ee15685950",
+    "data": [
+      {
+        "text": "Already have a Fingerprint Clearance Card but it needs to be linked to a different Employer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28339616-44af-425e-a005-7ac67c5abeaa",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " the name on my fingerprint id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b1828d-9327-4ea5-a5c5-9a00225c65f6",
+    "data": [
+      {
+        "text": "Recently I ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my name. Pls ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " in my Employee card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4403a84f-4df9-45dd-8310-cfee078aa0e3",
+    "data": [
+      {
+        "text": "Provide me a link to ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " details on my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8252ddc9-3cb2-4559-9bb7-c48d58db064e",
+    "data": [
+      {
+        "text": "required help to ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29095de9-8c21-42fa-91ea-b04c12123389",
+    "data": [
+      {
+        "text": "need to do ",
+        "userDefined": false
+      },
+      {
+        "text": "changes",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " in my employee card will get the link to ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "018370b6-9d23-44e8-8532-8927543921e9",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "731cb1b2-03a2-438e-8348-201fc82b8f9e",
+    "data": [
+      {
+        "text": "employees now need new info on their cards, can I do it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7455065-8f98-419c-a79e-4f6a9e29b65d",
+    "data": [
+      {
+        "text": "My employee needs a new statute, can I add it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8383f10f-88c1-438a-916a-6176841196d4",
+    "data": [
+      {
+        "text": "modify",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " an employee card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a22164a-9fe8-4e86-9e72-15539cf3ab13",
+    "data": [
+      {
+        "text": "card modifications for employees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ffffab3-ca2a-47fd-ad46-aa29cc8faf24",
+    "data": [
+      {
+        "text": "employee statute ",
+        "userDefined": false
+      },
+      {
+        "text": "changes",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfa12c2e-157b-428e-98f4-1409fcc66640",
+    "data": [
+      {
+        "text": "changes",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " to employee cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "106be333-5d8f-42c0-ab3f-f043004cdc59",
+    "data": [
+      {
+        "text": "employee card ",
+        "userDefined": false
+      },
+      {
+        "text": "updates",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5714e646-1d03-4cc2-9372-141eec9042ca",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my employee\u0027s card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae7bf66a-a3ee-4743-b23b-b5359bc2dd6f",
+    "data": [
+      {
+        "text": "need to update employees\u0027 cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da1261c9-97b7-4986-b17d-17354831ed1f",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my employee\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

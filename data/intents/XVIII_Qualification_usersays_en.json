@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1b1026ac-afe0-4d96-ae82-9354842c58bb",
+    "data": [
+      {
+        "text": "Where do I find qualifications to become a ",
+        "userDefined": false
+      },
+      {
+        "text": "PI",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89989be0-6945-4928-99a4-9713c1607b08",
+    "data": [
+      {
+        "text": "What are the qualifications to receive a ",
+        "userDefined": false
+      },
+      {
+        "text": "private investigator",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2df369e0-acc4-4d51-83f0-0e23a66f7b5e",
+    "data": [
+      {
+        "text": "need to check the eligibility before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for security guard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b0c667e-fd7c-4aee-9de7-385349b20850",
+    "data": [
+      {
+        "text": "Before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " will get to know an eligible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c097ec61-2e0a-4ade-b1e3-98b0e16413e2",
+    "data": [
+      {
+        "text": "how to check eligibility before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e375efe4-cf6a-4f9e-aa01-849eb5a99ddd",
+    "data": [
+      {
+        "text": "Will DPS tells me that I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " before ",
+        "userDefined": false
+      },
+      {
+        "text": "applying",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "private investigator",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "296f8af5-6513-449b-ae0d-f9200812f166",
+    "data": [
+      {
+        "text": "Will DPS inform me that I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "private investigator",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": false
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98d33de0-c82f-409b-89b7-6ddb63534a7d",
+    "data": [
+      {
+        "text": "Is it possible to know my qualification for a ",
+        "userDefined": false
+      },
+      {
+        "text": "PI",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": true
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "062a30bb-b589-4d8c-b43c-204a982529f2",
+    "data": [
+      {
+        "text": "Where can I check whether I can ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PI",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": true
+      },
+      {
+        "text": " license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f58df8-38d4-498d-8a6d-b108ab712845",
+    "data": [
+      {
+        "text": "Am I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " to get a license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92e5eac6-33a1-4bab-84d8-e1ae51d48db2",
+    "data": [
+      {
+        "text": "I want to apply for security guard,can I check for my qualification before submitting the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2dab8b3-4d04-4c29-9f5b-96fec7594405",
+    "data": [
+      {
+        "text": "can you tell me if I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for a license before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6be986a-b254-44e0-b2e3-ba39cbbceb95",
+    "data": [
+      {
+        "text": "I want to know if I can become a security guard or ",
+        "userDefined": false
+      },
+      {
+        "text": "private investigator",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": true
+      },
+      {
+        "text": " before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c4c3186-43f0-41e1-a836-ddd662daf7df",
+    "data": [
+      {
+        "text": "Can DPS tell me if I ",
+        "userDefined": false
+      },
+      {
+        "text": "qualify",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for a Security Guard or ",
+        "userDefined": false
+      },
+      {
+        "text": "Private Investigator",
+        "meta": "@Private_Investigator",
+        "alias": "Private_Investigator",
+        "userDefined": true
+      },
+      {
+        "text": " License or registration before I ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "id": "bbe07c90-6bf8-4078-a252-1867df1538e4",
+    "data": [
+      {
+        "text": "May I be able to receive a refund on the fingerprint clearance card, I don\u0027t need it no more?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89d5c6a4-0c3e-46fd-9714-957abe9ff106",
+    "data": [
+      {
+        "text": "Hello, am I able to get a refund if I paid for a fingerprint clearance card? I have not yet gone into the station to get them done.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c80b04b1-d884-43fa-81ca-2a04762ec0d4",
+    "data": [
+      {
+        "text": "Hi, I am unable to get my finger printing done at a location, am I able to get a refund for the $65 I paid? Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b11e23-e368-4370-95c9-1271f88175bb",
+    "data": [
+      {
+        "text": "Hello, I was wondering if there is a number I can call to see if I can cancel my request to get my fingerprint card as well as getting my money back?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f416e10-d7cb-485e-b6b0-35de68723715",
+    "data": [
+      {
+        "text": "Do I get refunded if I got my card myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e882233-986c-45d9-ba98-149407b46f47",
+    "data": [
+      {
+        "text": "Refund for my application for finger print clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a50fd5-6f5f-432d-a22e-d9182bb67f6b",
+    "data": [
+      {
+        "text": "Refund my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af8c2bea-ccff-479a-87c5-010bdcfaaa86",
+    "data": [
+      {
+        "text": "Refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6f0a4d8-43e5-4d93-9e25-ffd23522981f",
+    "data": [
+      {
+        "text": "I need a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b29d73-50b1-416c-aceb-686cace8f6d0",
+    "data": [
+      {
+        "text": "Refund on my fingerprint clearance card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "343f62a1-03a1-4ac5-9013-8677b3cdeb4b",
+    "data": [
+      {
+        "text": "I was looking to get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feea1ee7-2dae-46fb-bdb4-dfaab6d68cf4",
+    "data": [
+      {
+        "text": "process to claim refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "558a9066-77ee-4761-9efe-ffbf77f7f673",
+    "data": [
+      {
+        "text": "Claim refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15b9f051-96c2-4aa2-9e79-78d7f941eab2",
+    "data": [
+      {
+        "text": "How to claim the refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b9f25b-d035-452a-982d-e672f185a586",
+    "data": [
+      {
+        "text": "i want my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61af1fcc-7cd6-4071-b77d-ed29325a9ad3",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de2f4bf3-631c-4ff0-881d-a1454a5c2c22",
+    "data": [
+      {
+        "text": "Info on my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e619c84d-fa52-47d0-93c0-e06d945e0647",
+    "data": [
+      {
+        "text": "I need to know about my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1a8280d-bd5c-4cc5-b5a6-e6880ff8c38e",
+    "data": [
+      {
+        "text": "How do i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c57c96ba-77f3-446a-901d-152fb7ea7b57",
+    "data": [
+      {
+        "text": "Can you please help me in ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44fe5259-6837-4c8b-9827-2173e613cf86",
+    "data": [
+      {
+        "text": "Help me in ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "678882f3-a5ed-42de-bb3c-5fbcfee78ca1",
+    "data": [
+      {
+        "text": "Need my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4db747f-8f6b-4bdf-8bde-f7f3a41aea3a",
+    "data": [
+      {
+        "text": "Need to claim a refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92dc4d13-9729-462f-86b6-9b27fefe4771",
+    "data": [
+      {
+        "text": "Let me know how to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89f626da-f24a-466d-9a64-847cde687ea3",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6717547-03f5-462e-9a85-b9e9a6290fe6",
+    "data": [
+      {
+        "text": "how can you refund me my money?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "375ce364-41ea-44c4-8c59-1a48c5ef9e4c",
+    "data": [
+      {
+        "text": "am i ",
+        "userDefined": false
+      },
+      {
+        "text": "eligible",
+        "meta": "@Qualify",
+        "alias": "qualify",
+        "userDefined": false
+      },
+      {
+        "text": " for a refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e769a1e7-b806-4eaf-aa68-5439d97d063d",
+    "data": [
+      {
+        "text": "claiming refunds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b0a3d4f-b3fd-424a-aa63-ae19064170c5",
+    "data": [
+      {
+        "text": "how can i claim a refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc3e4332-8202-4c3d-8ef9-b8c7713398fe",
+    "data": [
+      {
+        "text": "give me my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "604929c3-c619-42ea-8082-4063bc4df7f6",
+    "data": [
+      {
+        "text": "Please guide me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " back my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e3ef607-91ec-4e1a-8cc5-40bfc651ee0a",
+    "data": [
+      {
+        "text": "I want my refund ",
+        "userDefined": false
+      },
+      {
+        "text": "amount",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4463e45f-6542-4174-97f9-16d42add0efa",
+    "data": [
+      {
+        "text": "where is my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e8c2c9-0df2-428c-a322-ada7a2a4918d",
+    "data": [
+      {
+        "text": "What is the process to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "721510f0-2f4e-4c29-99da-cdb10e9ca0c1",
+    "data": [
+      {
+        "text": "When can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e728c25-4cf6-4ce1-b178-ace3da814845",
+    "data": [
+      {
+        "text": "Whom to contact to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f88e196-eae2-40e3-81f2-0f28e19f471e",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f50b9edb-1db4-4919-a7b8-196401485ae8",
+    "data": [
+      {
+        "text": "How can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5102059-017e-4e52-94e3-a1aa18643059",
+    "data": [
+      {
+        "text": "Info to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "207447b3-498f-493b-96db-7442ae02d276",
+    "data": [
+      {
+        "text": "Is there a way to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a305935-20c7-4bca-8f22-fb0afc754630",
+    "data": [
+      {
+        "text": "Please help in ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14c5658a-494f-4adb-81c7-73d6503b359b",
+    "data": [
+      {
+        "text": "Looking for refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6f1f93a-4582-4763-8020-18d1b079d225",
+    "data": [
+      {
+        "text": "I need my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f805c36f-0781-4e05-8af9-27171d5516ed",
+    "data": [
+      {
+        "text": "Help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01d71e9f-16fb-4b41-a540-952d48dae43f",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my refnd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b7a4edb-0c74-4a8a-a1b0-392dcf2e379d",
+    "data": [
+      {
+        "text": "Want my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "987f0a9a-0c8e-46e3-ab17-658aae627c32",
+    "data": [
+      {
+        "text": "Inquire about refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08ed1e52-cf6e-454d-b9a2-2f140402f7d9",
+    "data": [
+      {
+        "text": "Possible to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " a refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60f0e53a-8ffa-4078-8648-9f6d73dce547",
+    "data": [
+      {
+        "text": "Apply",
+        "meta": "@Apply",
+        "alias": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88816544-7341-4dc7-92bd-c65ed8542e8c",
+    "data": [
+      {
+        "text": "Get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a1190db8-7372-40d4-b54f-779b709f51da",
+    "data": [
+      {
+        "text": "How do I get to the Privacy Act Page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "553d5764-4187-442e-abc6-85cbf4a330cf",
+    "data": [
+      {
+        "text": "what includes in privacy act ",
+        "userDefined": false
+      },
+      {
+        "text": "notifications",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03190556-3833-4d0c-ad25-5af3b5e92929",
+    "data": [
+      {
+        "text": "What are the benefits in Privacy act  ",
+        "userDefined": false
+      },
+      {
+        "text": "statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a04310e4-1281-41c4-b766-a1f282663112",
+    "data": [
+      {
+        "text": "information about privacy act ",
+        "userDefined": false
+      },
+      {
+        "text": "statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      },
+      {
+        "text": " in DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64deef2d-4a74-4b45-a110-077f302cf13d",
+    "data": [
+      {
+        "text": "What and all involves in privacy act ",
+        "userDefined": false
+      },
+      {
+        "text": "agreement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbefe592-c0bf-49cc-9e81-d769bec9fff4",
+    "data": [
+      {
+        "text": "Privacy act ",
+        "userDefined": false
+      },
+      {
+        "text": "statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31519fca-6415-472f-a6c6-976ffbdb940e",
+    "data": [
+      {
+        "text": "I am interested to know about Privacy Act ",
+        "userDefined": false
+      },
+      {
+        "text": "Statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc5dc0e1-8c42-4c4d-82a7-5f6a61fdc279",
+    "data": [
+      {
+        "text": "What is being stated in the Privacy Act ",
+        "userDefined": false
+      },
+      {
+        "text": "Statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      },
+      {
+        "text": " for DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46103e74-a608-4bb9-b853-ea2c332a0b34",
+    "data": [
+      {
+        "text": "Why is there a privacy ",
+        "userDefined": false
+      },
+      {
+        "text": "statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": true
+      },
+      {
+        "text": "( ",
+        "userDefined": false
+      },
+      {
+        "text": "agreement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": true
+      },
+      {
+        "text": ", Act, ",
+        "userDefined": false
+      },
+      {
+        "text": "notification",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8336589-7a73-46f0-be59-7e201bc68983",
+    "data": [
+      {
+        "text": "What is the Privacy Act ",
+        "userDefined": false
+      },
+      {
+        "text": "Statement",
+        "meta": "@Statement",
+        "alias": "statement",
+        "userDefined": false
+      },
+      {
+        "text": " for DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

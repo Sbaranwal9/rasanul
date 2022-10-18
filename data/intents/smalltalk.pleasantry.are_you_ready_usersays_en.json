@@ -1,0 +1,235 @@
+[
+  {
+    "data": [
+      {
+        "text": "Speak to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bc113b5-1be8-4967-a770-d1ad3634e28b",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e16dfb8c-6afe-4e05-a03f-c69785997bca",
+    "data": [
+      {
+        "text": "Tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f61accbc-27fa-4444-b1bf-8d44aaee9263",
+    "data": [
+      {
+        "text": "Can u now answer me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaf0ed0f-1cf4-4f30-b3b0-a2b7ffed7c06",
+    "data": [
+      {
+        "text": "I need your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "082d4b5e-7a4e-4bbf-8d27-20ad2fca0c68",
+    "data": [
+      {
+        "text": "Can you assist me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb53ff33-bcb5-4d6a-a58f-2d8a46093ed1",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22301702-7d20-4ddc-9c49-a777b8e423ba",
+    "data": [
+      {
+        "text": "Need some info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12e35b8b-30a7-4af9-87f9-582277a6eb5c",
+    "data": [
+      {
+        "text": "I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf1c3c7f-97c3-4797-b82f-6df7ffc70a1e",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ae0fc5e-d80c-43c8-b2be-41b960918d26",
+    "data": [
+      {
+        "text": "can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4eb28777-f0eb-4067-85f8-6c66f666cd32",
+    "data": [
+      {
+        "text": "Give me an answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11931d81-e47f-45a2-937a-5712748d226b",
+    "data": [
+      {
+        "text": "Talk to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4103d6b1-55fa-490e-8a32-750f484140d1",
+    "data": [
+      {
+        "text": "Answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea1e3f78-8dea-4ee2-8317-52dca0fe14a4",
+    "data": [
+      {
+        "text": "Do you have time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "759b388d-cc6e-49ac-b6ef-5496459a9d6d",
+    "data": [
+      {
+        "text": "Are you free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2208e5c9-fa5e-44de-930b-ac7227bd2867",
+    "data": [
+      {
+        "text": "Can you hurry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19ad9f00-a9ea-4a16-9d15-1a55c36141e7",
+    "data": [
+      {
+        "text": "Are you ready?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

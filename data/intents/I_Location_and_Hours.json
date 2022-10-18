@@ -1,0 +1,106 @@
+{
+  "id": "117de9b6-d221-40a0-b7fc-22059a32e4eb",
+  "name": "I_Location_and_Hours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "25f1f139-d630-4f6e-9f68-276212cd9401",
+          "name": "hours",
+          "required": false,
+          "dataType": "@Hours",
+          "value": "$hours",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce152f64-9661-4412-88da-6eba725ca177",
+          "name": "Location",
+          "required": false,
+          "dataType": "@Location",
+          "value": "$Location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a366916b-c0a8-4ad5-8052-45f0dc919461",
+          "name": "you_shortHand",
+          "required": false,
+          "dataType": "@you_shortHand",
+          "value": "$you_shortHand",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d254b839-d2a8-4f61-9f49-9a9ff47655a0",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "761f1c06-f411-4568-962d-8543b3f219ef",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Arizona Department of Public Safety Lobby is located at 2222 W Encanto Blvd Phoenix, AZ 85009 and is open Monday - Friday 8:00 AM - 5:00 PM, excluding state holidays. For more information visit our \u003clocation page\u003e."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

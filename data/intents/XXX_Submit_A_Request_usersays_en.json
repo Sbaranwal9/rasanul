@@ -1,0 +1,698 @@
+[
+  {
+    "id": "5d016cd6-d873-4b60-9af4-59bde606148a",
+    "data": [
+      {
+        "text": "I have started an application but didn\u0027t have all the necessary ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": " I need to complete the process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7f4bf31-31da-4fd2-a4dd-ce1d509cffb8",
+    "data": [
+      {
+        "text": "I am looking for the status of a application but I do not have the application number. Is there another way I can find out what the status is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dc4d756-79e0-4aa3-b836-63e206172037",
+    "data": [
+      {
+        "text": "I need a new copy of a ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93bbcba2-827d-4616-b17a-0853fb2a7eff",
+    "data": [
+      {
+        "text": "Need personnel records on an officer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3506d1c-9984-4dad-b86b-b9a62136fd1a",
+    "data": [
+      {
+        "text": "I request a new citiation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e564ef4-98d3-436e-9fc4-d9be300f1e04",
+    "data": [
+      {
+        "text": "what can I do to request a report,  but don\u0027t have ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1803de0f-001b-4a64-8d53-c5c21237c83a",
+    "data": [
+      {
+        "text": "I just want to order an accident report is all.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a49cbc4-813f-47e4-8bf2-832500fff821",
+    "data": [
+      {
+        "text": "We would like ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about the employer profile, and what capabilities the profile will afford us.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e7d5ce7-f366-46e1-b1d4-dbd3b27277f9",
+    "data": [
+      {
+        "text": "how can I request a accident report without having ",
+        "userDefined": false
+      },
+      {
+        "text": "report number",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ", or officers badge number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bce2827-4e6a-49b1-a47e-1e9d3e2b7b22",
+    "data": [
+      {
+        "text": "Hi, I need to get a copy of my ticket please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc09d655-2363-493c-9cbd-5f61a75f65f8",
+    "data": [
+      {
+        "text": "I requested a copy of police report and citation how much will it cost as I want to pay and need price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f213f11-7195-4f79-9c98-5997ec8f9d21",
+    "data": [
+      {
+        "text": "i recently was involved in an accident on Thursday the ",
+        "userDefined": false
+      },
+      {
+        "text": "27",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "th and would like to see the report how do i get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6999b3b-455d-4222-b76a-773be91fcdb7",
+    "data": [
+      {
+        "text": "I received a citation ",
+        "userDefined": false
+      },
+      {
+        "text": "last week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and I need to get a copy of it.  My dog ate it!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "147d47f2-0512-4b2f-bb1f-0e2614dca746",
+    "data": [
+      {
+        "text": "I need a video from an incident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4958cc22-18cd-4bfd-9656-47c08fe5c221",
+    "data": [
+      {
+        "text": "Where do I find the forms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ae542c5-9848-4d4a-a827-79b7f927b4dd",
+    "data": [
+      {
+        "text": "I represent the estates of ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ladies killed in a single vehicle truck accident on or about ",
+        "userDefined": false
+      },
+      {
+        "text": "April 24, 2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".  How can I obtain a copy of the accident report.  Thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27392c08-8bbe-44bf-b7d1-3e4895ae9ef2",
+    "data": [
+      {
+        "text": "I need copies of interviews done by detectives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3707e252-bad6-47ef-a296-7bb66bec6101",
+    "data": [
+      {
+        "text": "How do I  requesting copies of interviews that were done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79746bab-27e2-4ae5-baa4-96ec564ef594",
+    "data": [
+      {
+        "text": "Criminal history report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "881cd2d9-db42-45a3-aea8-ab6a0a0cd870",
+    "data": [
+      {
+        "text": "Email report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb38032b-1de1-411a-899a-46270e90b68d",
+    "data": [
+      {
+        "text": "Do you have a report request form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfb81876-011e-45df-b8e0-e686c1ec9a62",
+    "data": [
+      {
+        "text": "how can i find my fingerprint record?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9562cd2-b339-43d6-b7b1-3de143563bb0",
+    "data": [
+      {
+        "text": "Fingerprint record for Courts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e935283a-5439-4d89-90fa-d138e54c3644",
+    "data": [
+      {
+        "text": "How do I find records from car wreck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8d0f530-8b00-49e5-8415-a1491d93dbbe",
+    "data": [
+      {
+        "text": "I need to get a copy of an accident report in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maricopa county",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e65f840-0a70-45fa-8380-ab6aa51751ca",
+    "data": [
+      {
+        "text": "I need an accident report but don\u0027t have the troopers first name and it won\u0027t let me go on without it.  I have T. Kilbourne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3275c961-7ebd-4f61-8d7e-45f5cc09a569",
+    "data": [
+      {
+        "text": "Could I file an application if I don\u0027t have all the details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be85902a-2c2e-4026-9ffb-f86f00295fa4",
+    "data": [
+      {
+        "text": "Not able to get ",
+        "userDefined": false
+      },
+      {
+        "text": "officer info",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ", how can I submit a record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa5bbc58-62c6-424c-aa1f-58611a2741ea",
+    "data": [
+      {
+        "text": "May I know the necessary ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": " to submit a record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dc838b2-9c9a-4b0c-9dcf-c78be27e2e50",
+    "data": [
+      {
+        "text": "Do you accept the missing data of the request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc0690f3-f2e8-41d8-b6bf-f46130bf057e",
+    "data": [
+      {
+        "text": "Is it ok to ",
+        "userDefined": false
+      },
+      {
+        "text": "submit a request",
+        "meta": "@Submit_a_request",
+        "alias": "submit_a_request",
+        "userDefined": false
+      },
+      {
+        "text": " without ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": " of the incident?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2c5f463-dcdb-4fe2-a2fc-80761ef674d1",
+    "data": [
+      {
+        "text": "I don\u0027t have a ",
+        "userDefined": false
+      },
+      {
+        "text": "location of the incident",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ",can I ",
+        "userDefined": false
+      },
+      {
+        "text": "submit a request",
+        "meta": "@Submit_a_request",
+        "alias": "submit_a_request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6bb2dc1-3de0-4e44-9293-cc42cfcfd78d",
+    "data": [
+      {
+        "text": "submit a records request with missing info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77989a38-59bc-4173-bb23-d11757b2ac12",
+    "data": [
+      {
+        "text": "submit a request",
+        "meta": "@Submit_a_request",
+        "alias": "submit_a_request",
+        "userDefined": false
+      },
+      {
+        "text": " with limited info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "accff50f-60d5-4ed7-9026-8eb93c856e66",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "submit a request",
+        "meta": "@Submit_a_request",
+        "alias": "submit_a_request",
+        "userDefined": false
+      },
+      {
+        "text": " if I don\u0027t have all the ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "report number",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": "/time/",
+        "userDefined": false
+      },
+      {
+        "text": "location of incident",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "officer info",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": ", etc.)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37eadf45-987f-4c1c-abfe-89eeb9ed3809",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "submit a request",
+        "meta": "@Submit_a_request",
+        "alias": "submit_a_request",
+        "userDefined": false
+      },
+      {
+        "text": " if I don\u0027t have all the ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@Information",
+        "alias": "information",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

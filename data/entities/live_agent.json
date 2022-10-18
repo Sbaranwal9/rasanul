@@ -1,0 +1,9 @@
+{
+  "id": "b18a7cf3-0d70-430d-bdce-dabf949d3658",
+  "name": "live_agent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

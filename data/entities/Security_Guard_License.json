@@ -1,0 +1,9 @@
+{
+  "id": "61d26703-1594-4638-ac46-0c15925d4e97",
+  "name": "Security_Guard_License",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

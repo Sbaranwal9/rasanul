@@ -1,0 +1,36 @@
+{
+  "id": "21f29a65-54cd-4241-8105-3a4086d7a775",
+  "parentId": "df7468aa-f512-4545-b4d4-663e6320884d",
+  "rootParentId": "df7468aa-f512-4545-b4d4-663e6320884d",
+  "name": "XL_Apply_Card_Fingerprint_Clearance_card",
+  "auto": true,
+  "contexts": [
+    "apply_card-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "apply_card.apply_card-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

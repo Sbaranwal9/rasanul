@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "188dcbf5-06b9-4773-b023-bc4c27d022b9",
+    "data": [
+      {
+        "text": "My level one card number is not being located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6201f03-8ba0-47b4-8edf-bcd90259da6f",
+    "data": [
+      {
+        "text": "I don\u0027t have an application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29116a44-13cd-403b-a934-c451285a4385",
+    "data": [
+      {
+        "text": "I\u0027ve already applied, is there any way to locate the application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86d418d2-63b1-46ec-b002-d9549c89d9c9",
+    "data": [
+      {
+        "text": "Hello I lost my old expired clearance card and need the number, is there a way for me to get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44a3083-b8b6-43fc-b35e-ba702b3c02d4",
+    "data": [
+      {
+        "text": "The application number is not found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22caaf67-f5f2-49d6-ae93-ed75b65f8a8b",
+    "data": [
+      {
+        "text": "I need my fingerprint card number to verify for my job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e77bf66-27b7-430a-b889-36df5bb47d3b",
+    "data": [
+      {
+        "text": "application number not found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62b5e6cb-31b6-4dc1-8cb8-fc5e45d7f5d9",
+    "data": [
+      {
+        "text": "When asking for a number for the application, what do I enter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcb558c9-497e-47d5-a667-41c4974b0b26",
+    "data": [
+      {
+        "text": "i cannot remember my registration id for my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b8a30d-dad5-4030-8810-7bfc76d74522",
+    "data": [
+      {
+        "text": "Hi, where do i find my clearance card number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa349f35-3eb0-46b0-a561-f6ee922a4c2a",
+    "data": [
+      {
+        "text": "i need my number from my previous card how do i get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9088dd8-3b3e-4531-bf1e-72082e5c6762",
+    "data": [
+      {
+        "text": "My fingerprint clearance card has been issued what is the number I should use for employment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcf923a2-45a3-42b0-841e-e89b35d4e1b6",
+    "data": [
+      {
+        "text": "I applied for a finger print card.  I used my debit card to pay the fee.  I did not receive a fingerprint card application number.  How can I get the number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aa34092-2d8f-4f7a-b9c6-660f6d004b4d",
+    "data": [
+      {
+        "text": "i lost my card for my fingerprint so i dont know the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f96b841d-1998-4813-91f7-dfc8f1cc868f",
+    "data": [
+      {
+        "text": "how will i know my IVP no.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6be0aa93-7826-4c08-a4c5-dd739b47585e",
+    "data": [
+      {
+        "text": "Can I obtain the identification number from my fingerprint clearance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be00638b-da02-43e9-824f-8804ba1f1358",
+    "data": [
+      {
+        "text": "I already applied by mail, need to find my application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53158f69-b89a-46f8-b307-58fe5eb89444",
+    "data": [
+      {
+        "text": "I have misplaced my card can I get my number somewhere so that I might renew it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f65f0245-4ba9-4759-9d1d-b5ddc39f1f72",
+    "data": [
+      {
+        "text": "I do not know the 10 digit clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c48a5bb-2e37-4c8b-ab2d-c75fe198695f",
+    "data": [
+      {
+        "text": "How will I know my number if I lost my card. I cannot find it anymore.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67f77ecb-c350-4245-99ad-97d0422cc59d",
+    "data": [
+      {
+        "text": "Is it possible to get my fingerprint clearance card number? I\u0027ve misplaced my card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15ef6fa7-955c-4423-99ad-30c94491e24b",
+    "data": [
+      {
+        "text": "I am trying to obtain my fingerprint clearance card number. it was sent to dpt of ed electronically but I have not received. I need this to apply for teaching cert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "505d8efc-5d6f-44d5-ae64-c69644b255ba",
+    "data": [
+      {
+        "text": "Yes hi I am trying to apply for a finger clearance card but it\u0027s asking for 10 digit number that I don\u0027t have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8534aa2-02a6-4610-abf5-7ce7c27a6903",
+    "data": [
+      {
+        "text": "hi, im looking for my clearance card id number to see if i could renew online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1316a180-cf50-4539-bd90-ea1ad3cbb193",
+    "data": [
+      {
+        "text": "I applied ",
+        "userDefined": false
+      },
+      {
+        "text": "2 years ago",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " for a fingerprint card. I have lost it do not know clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f3eb812-f702-4ee3-b046-a1c5a8fb108b",
+    "data": [
+      {
+        "text": "what is my fingerprint clearance number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "199e1cf8-b900-44a5-a70a-5a0f6113f262",
+    "data": [
+      {
+        "text": "How to get application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba583161-2990-4568-88d5-8d2e9601d7fd",
+    "data": [
+      {
+        "text": "It\u0027s telling me that I\u0027ve already applied for a fingerprint clearance card and I Don\u0027t have an application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ddff69a-41b6-4880-81f2-c57de68add68",
+    "data": [
+      {
+        "text": "I don\u0027t need to apply, I just want to know what my card number is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "819881e1-38e2-4206-9127-dc9216f31d2b",
+    "data": [
+      {
+        "text": "Hi! I was wondering if I could receive my reference # so I can send it to my school.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbaacc99-d74e-40ec-afeb-1a0ee4e1ed95",
+    "data": [
+      {
+        "text": "What\u0027s my fingerprint code so I may use it as Gemalto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d937785d-9763-4427-b572-75ee9d6f4c3a",
+    "data": [
+      {
+        "text": "It\u0027s asking for an application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20afe789-db8f-4a9b-85c8-653b66b22dc2",
+    "data": [
+      {
+        "text": "I just electronically apply for my fingerprint clearance card but I need the number of the application to get my fingerprints done where can I find that information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c40e8b-4055-44b4-bad7-490299430b75",
+    "data": [
+      {
+        "text": "I lost my fingerprint clearance card. How do I find out what my fingerprint clearance card number is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "123455dc-3a93-4a2a-a58f-045875536503",
+    "data": [
+      {
+        "text": "I need a 10 digit refence number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f09cf7b-9c1d-493a-a0da-0feb0a95b66e",
+    "data": [
+      {
+        "text": "How can I locate my application number for FPCC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d63bff4f-601a-4376-809a-bfffece8d5bf",
+    "data": [
+      {
+        "text": "Pls l need my ref no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "731525db-dee3-475a-bbb8-1e6b372db53e",
+    "data": [
+      {
+        "text": "Can you request fingerprint clearance card number for future employer if you lost your card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2652cf09-06b8-4290-ace8-c4b70f8bf7b8",
+    "data": [
+      {
+        "text": "Hello, I tried refreshing the page to try and find a reference number but it is not in my messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a36fbf9f-4b61-4477-ab75-84c12b3808b9",
+    "data": [
+      {
+        "text": "Hey how to get registration number on order for me to get finger print",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79c015c2-e9d5-4976-8c62-39a9dc7c1d1a",
+    "data": [
+      {
+        "text": "forgot refernce number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bb8d8c7-d7d8-4fb6-ad22-01210431202c",
+    "data": [
+      {
+        "text": "I don\u0027t know my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b780dfa6-fde1-4c88-9c0d-44dd38880e9c",
+    "data": [
+      {
+        "text": "How can I find my application number to check my status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00d71d93-eb6d-4999-b3ab-6ba55948c863",
+    "data": [
+      {
+        "text": "I applied for a new FCC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e89fed60-d66e-45b9-8b95-c266cacdebce",
+    "data": [
+      {
+        "text": "How can I get my application number to check the status of my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e584d24-a707-4ea7-bff5-96e544b5c117",
+    "data": [
+      {
+        "text": "how can I check the status of my fingerprints if I don\u0027t have the card or applications number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e533687-86ae-445d-86ff-91f3fddca003",
+    "data": [
+      {
+        "text": "I forgot my application number but I was just checking to see if I was issued a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d384d9ed-822d-4890-aa7d-47da637cb147",
+    "data": [
+      {
+        "text": "I\u0027m trying to check the status of my fingerprints- I don\u0027t have a number? I thought I set up a login though- but it isn\u0027t giving me that option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0865c5d-68c5-4c64-91c2-b0540f16a098",
+    "data": [
+      {
+        "text": "Hello I don\u0027t remember my application number to check the status of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1daa1450-1aae-47af-b3ba-8b48daa93a1d",
+    "data": [
+      {
+        "text": "Where do i get my application #",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4968ec12-0929-4625-9f8b-38ca0fc33dc6",
+    "data": [
+      {
+        "text": "\n I apply for a finger print card . And my boss is asking me for the tracking number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b34c8bb2-60c7-48c6-99bd-7aba5eb571fb",
+    "data": [
+      {
+        "text": "where do i find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0059d64-d94f-47cc-8855-b19699ac2000",
+    "data": [
+      {
+        "text": "i need my azdps #",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7da77738-dde8-4f2e-a637-ff358f6cd878",
+    "data": [
+      {
+        "text": "where to find applacation number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdd56491-1d5e-44f8-a860-7165f7ef983d",
+    "data": [
+      {
+        "text": "i finished application for IVP clearance card.  where do i look for the application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "037b747e-cd4d-4ea3-bba6-ada3a943b5c4",
+    "data": [
+      {
+        "text": "How can i see if i have ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f78157b-f868-469e-ac94-f8a6013912ce",
+    "data": [
+      {
+        "text": "l dont have a VIP #",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97186f74-af63-4fa2-b12e-2916cec67aca",
+    "data": [
+      {
+        "text": "where is my referance #?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e696543b-6232-4acc-b8ae-4441d8c87c2d",
+    "data": [
+      {
+        "text": "how do i get my finger print clearance card now that it is approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2caf156-a462-4017-bbfc-1784464915cd",
+    "data": [
+      {
+        "text": "I am in need of my FPC #",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cb08d38-940b-427e-9984-f9e523000e7d",
+    "data": [
+      {
+        "text": "I paid for my finger print card and i was looking for a code that was suppose to come with it so that i may do my prints elsewhere. Can you help me ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f3d1ee2-8905-4e50-98b0-52c87f6af596",
+    "data": [
+      {
+        "text": "FPC#",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03f4dc4f-a353-417e-93fa-d37a3de83415",
+    "data": [
+      {
+        "text": "Dont have my id number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a69b84ff-f8f6-429d-af7e-4afff6ea602c",
+    "data": [
+      {
+        "text": "I need my finger print clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10d9e829-ef73-46dc-9bb9-25cf3c872c47",
+    "data": [
+      {
+        "text": "Where can I find the card or application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78a46202-dedc-4044-b087-1bb62ca1dbd5",
+    "data": [
+      {
+        "text": "Fingerprint Clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a864723-05e5-4f85-94ae-9bbf0a3ab252",
+    "data": [
+      {
+        "text": "would like to find out my card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "443ca32e-f007-4998-b265-0ac4898c3c87",
+    "data": [
+      {
+        "text": "I have an account and I have paid. What is my reference number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4e53b4-b7fd-4422-a286-40c97a116f18",
+    "data": [
+      {
+        "text": "i dont have my number for the application or card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d8d5313-5be8-4a9e-ac68-7a3d96e61c48",
+    "data": [
+      {
+        "text": "What if I dont know the finger print clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccac410f-117e-4840-8b77-e88671e6645e",
+    "data": [
+      {
+        "text": "I dont know my clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40d79f6f-2266-4c1d-ab5a-f286e7a42ef7",
+    "data": [
+      {
+        "text": "How do i get my card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abae6354-bcc2-4ad0-bd96-f93242320f7f",
+    "data": [
+      {
+        "text": "Send number for my clearance card status request is not working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48ca4e79-9739-4ad6-9605-2efd41a024fd",
+    "data": [
+      {
+        "text": "I need to know ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " if I have the number or not can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a450fc46-ae81-4781-969e-11b5bf3ebb36",
+    "data": [
+      {
+        "text": "I applied and received a FPC card for my student teaching at GCU. I cant find it. how do I find my number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67f56ae3-29d9-4e91-9026-ff7403e3c350",
+    "data": [
+      {
+        "text": "how can I figure out my card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a277a52-18d0-4771-a7a4-8a4b318d0a2d",
+    "data": [
+      {
+        "text": "I have applied for a card when I got my conceal carry permit but I dont know what the number would be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56355bb2-5de7-479b-9333-70e3bf192ac0",
+    "data": [
+      {
+        "text": "where can i find the clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0bcd4c1-8c61-41d5-a7ea-ff3f5e5c40f8",
+    "data": [
+      {
+        "text": "how do i know my clearance card number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c0efde5-130c-45f9-8ca0-f4835ef65d7e",
+    "data": [
+      {
+        "text": "what to do if you lost your application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfb1f682-a1b3-4061-9e3e-fb328165fce5",
+    "data": [
+      {
+        "text": "clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57ff72bf-8ecc-4dea-b022-aec52e8af496",
+    "data": [
+      {
+        "text": "how or where do I go to get my Fingerprint clearance Card Application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3c41f45-e39a-430e-94f9-29d5d7eaaf41",
+    "data": [
+      {
+        "text": "where can i find my clearance card number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ab47f32-7553-43a6-9c00-ecb5ee99743d",
+    "data": [
+      {
+        "text": "Can you give me my ivp nymber ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a18800a-3cf7-4b5b-82ab-85751bed8b4b",
+    "data": [
+      {
+        "text": "My card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27355f88-cd57-41eb-b311-1f79ce2b0c38",
+    "data": [
+      {
+        "text": "I need my application numer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbd77fb9-caac-49a6-844a-dfa3a1c44f30",
+    "data": [
+      {
+        "text": "where is the reference",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "187e7ca7-ab85-422b-9ad9-12a94f7e25ee",
+    "data": [
+      {
+        "text": "I need to find out my card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee23084-5c2f-41db-a480-75b55b579012",
+    "data": [
+      {
+        "text": "dont have my cleance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a473fbaf-492d-44f9-ae92-2337d02026fd",
+    "data": [
+      {
+        "text": "I select clearance card number and enter it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "026c07fa-e746-43e9-b4ca-af7964b32334",
+    "data": [
+      {
+        "text": "My clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9cdb24b-51bd-40c5-b9f1-83f977cf7b8f",
+    "data": [
+      {
+        "text": "no just need the serial number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1b9953e-fcd9-4e1d-9a71-32b5081c5261",
+    "data": [
+      {
+        "text": "need my fingerprint clearance\n  card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e0f83d9-412c-4aac-aab1-983ce041bc13",
+    "data": [
+      {
+        "text": "I need to have someone help me find my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c98437a5-b730-4bf5-ba8f-a55fc91f9b86",
+    "data": [
+      {
+        "text": "I can\u0027t find my finger print clearance card and have no record of the number. How can I recover it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4685daaa-5840-4d27-b4b3-d073b70c2ceb",
+    "data": [
+      {
+        "text": "card number \n ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "userDefined": false
+      },
+      {
+        "text": "01342104",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa050f3-7ecf-4021-bf03-44847e688bc2",
+    "data": [
+      {
+        "text": "i had a finger print card along time ago i do not know the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148e387b-b831-4f12-989c-264c6d176514",
+    "data": [
+      {
+        "text": "How do I find out what my old fingerprint clearance card number was",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4a045b7-8704-42da-abca-3bbcae96434a",
+    "data": [
+      {
+        "text": "how do i find the application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c85baa69-e0d5-4369-99b0-5ac270609551",
+    "data": [
+      {
+        "text": "Card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf5ac0c0-c21c-465b-af32-2d69847aaa52",
+    "data": [
+      {
+        "text": "I do not have my fingerprint clearance card number with me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0916ef53-0ec2-4cb9-9648-4d151c45842e",
+    "data": [
+      {
+        "text": "Where do I get the number for a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cd8c94c-6d25-428a-a8da-2c90fd2260b6",
+    "data": [
+      {
+        "text": "Hi.  I don\u0027t have the number to check on my card.  How do I get the number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b27bae14-762b-4372-a58b-86acd41fae0c",
+    "data": [
+      {
+        "text": "Where do I find the registration ID for fingerprinting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61d23889-7838-4159-bad0-03d9ce921a1c",
+    "data": [
+      {
+        "text": "I need my fingerprint clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5919adf-3023-4fd6-80c7-fa18b677fd5a",
+    "data": [
+      {
+        "text": "I cannot find my app number for my fingerprint clearance card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f34ec0a-4b6a-4642-beab-e85fb7d9f07b",
+    "data": [
+      {
+        "text": "where is the application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9c7d171-48d5-46cd-b9ac-5125c36e9baa",
+    "data": [
+      {
+        "text": "I am already applying but having difficulty with mailing address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c5cb107-7486-4c76-9f20-e5057612b3ca",
+    "data": [
+      {
+        "text": "can you point me to the application number in portal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f64ead2-159f-4d3d-86bd-82fbe5c4a4a7",
+    "data": [
+      {
+        "text": "I am looking for my clearance card number. I am back to AZ and need it for my new job coming up.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeaa0715-9ea4-444e-8eb9-7bcc69b14c7d",
+    "data": [
+      {
+        "text": "Where do I find the fingerprint clearance card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ee57b9-d0df-4a37-ac77-e099acdda906",
+    "data": [
+      {
+        "text": "i need help finding application number for fingerprint renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc4211b9-8326-4179-a8ef-cfb55fa343f5",
+    "data": [
+      {
+        "text": "How do I find the reference number to my IVP card application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d614dbd-0a4d-4eab-a87f-d1e0fb5b0b05",
+    "data": [
+      {
+        "text": "Retrieve the number for fingerprint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd1eb051-c996-4c2f-9f4e-30f97f9a6a82",
+    "data": [
+      {
+        "text": " I do not remember my card number. Is there a way to access the card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dbbf84a-9b7e-428a-a177-a09e7787608e",
+    "data": [
+      {
+        "text": "Don\u0027t remember my application number to look up status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0267f261-91fe-477f-a8a1-879fa8793636",
+    "data": [
+      {
+        "text": "Do I write my reference number on my fingerprint card before I mail it to the STREET_ADDRESS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6502b51c-3d2e-400d-9489-96e8627a41b6",
+    "data": [
+      {
+        "text": "Reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13c97893-5b20-460f-95a0-2daa0cece424",
+    "data": [
+      {
+        "text": "I paid for and registered to get fingerprinted but I do not have my reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdbd3b13-1ea8-4208-893c-6176d84dcb5b",
+    "data": [
+      {
+        "text": "Where can I find my reference number for fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dfd1657-97e3-48ba-a4e9-b4fa4769e27b",
+    "data": [
+      {
+        "text": "they are needing my reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "735239d8-a3b5-448f-b2ac-3d37f2a39fb2",
+    "data": [
+      {
+        "text": "I need my application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c6fa830-dbc6-46f8-bb93-20d7788a06cd",
+    "data": [
+      {
+        "text": "what is application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e950dac1-e40e-477b-855b-d4043a0c4156",
+    "data": [
+      {
+        "text": "Clearance card number lookup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8018d1-99b3-4f38-af86-457479cbc5bb",
+    "data": [
+      {
+        "text": "Application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a53e8a09-211e-4310-a72f-3b67abc9ddf1",
+    "data": [
+      {
+        "text": "I need my reference number to apply for fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5ee882f-d0dc-4076-b6d3-b1f5453052cc",
+    "data": [
+      {
+        "text": "where do I get a registration number for an electronic fingerprint submission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "499bd220-2b50-4c2d-9651-e3be6ef36102",
+    "data": [
+      {
+        "text": "Can find my fingerprint card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e561a97e-00ca-438a-ab49-d8bd6efd2d38",
+    "data": [
+      {
+        "text": "i need my application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c45c10b8-96a3-4173-87b2-22ca2b7d0a5a",
+    "data": [
+      {
+        "text": "Fingerprint card application number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2ce3400-98a3-4852-85de-88d43d5a7d8c",
+    "data": [
+      {
+        "text": "I am trying to get a reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7004e8e4-6e18-4003-a5eb-c7779dca2427",
+    "data": [
+      {
+        "text": "I\u0027m trying to find my fingerprint card number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "652c555e-58fa-4c2b-a544-109ab1fb0a1c",
+    "data": [
+      {
+        "text": "I can\u0027t remember a reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce619af9-8911-4018-a22f-235be1631a03",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae56fc7-7093-4005-a9e0-337eb74fee75",
+    "data": [
+      {
+        "text": "fingerprint reference number where to find",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2d9836a-9823-46d8-9316-ef8875061b08",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " referene number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ab7771c-b7fd-4c43-8513-dc5fa12515ea",
+    "data": [
+      {
+        "text": "sg reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5de0cdaa-c4bb-4535-9155-147ea6e65fdb",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "Finger print",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4c93c32-8390-4f19-b441-3aa7f8931d89",
+    "data": [
+      {
+        "text": "Where can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "Finger print",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed48fa64-6ba9-4866-91e9-b3b5ed2c03a6",
+    "data": [
+      {
+        "text": "what is pg reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a3fb094-7cc4-48f2-92a9-37fa060bde05",
+    "data": [
+      {
+        "text": "Reference number of my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc52d6bd-7387-44a3-8f86-19121fe21827",
+    "data": [
+      {
+        "text": "Tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de1658ed-ea2e-4306-9dae-88346144c403",
+    "data": [
+      {
+        "text": "Help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f21add9-b697-4267-ae40-9a81682dfa8c",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4358dea8-7eb2-4a84-8378-54cd58b04967",
+    "data": [
+      {
+        "text": "Where will i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467609e7-0081-4600-8042-30a8f669012c",
+    "data": [
+      {
+        "text": "How can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "174ca6c1-cff2-425b-89cd-3f9aae5d2fd7",
+    "data": [
+      {
+        "text": "Need ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e21d3001-dc00-4d6f-83b3-6d0676955b30",
+    "data": [
+      {
+        "text": "provide me the details of ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " referenace number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "252b9bb4-dd70-472f-8247-2ae79da7093c",
+    "data": [
+      {
+        "text": "I want to know about figerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "Pi",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43990d70-2f32-4023-9f9e-8049794d4bc8",
+    "data": [
+      {
+        "text": "Let me know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4fb1c79-d425-4e00-91b7-32388bcf78dd",
+    "data": [
+      {
+        "text": "Tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bd8ab05-3004-4174-853f-0ef591eb1aa7",
+    "data": [
+      {
+        "text": "What\u0027s my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "userDefined": false
+      },
+      {
+        "text": " refrence number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f912907-a2ba-4519-ab50-8961eee3065b",
+    "data": [
+      {
+        "text": "how can i know the reference number of my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "meta": "@Fingerprint_usage",
+        "alias": "fingerprint_usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04bf48d8-c36a-4512-a519-6ea6bec46de6",
+    "data": [
+      {
+        "text": "i didn\u0027t ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "sg",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " reference number, where can i see it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c2198d4-b05c-4ac8-9969-dcbbf4d6ce89",
+    "data": [
+      {
+        "text": "i need my ",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "meta": "@Private_Investigator",
+        "alias": "private_investigator",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5f8d68e-19d8-404f-8583-f32069964ed0",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3049856-26d2-43d5-89c1-d61680090906",
+    "data": [
+      {
+        "text": "Would like to know my ",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf707fea-cd04-4a79-95e1-71deb5506f4d",
+    "data": [
+      {
+        "text": "Finger print",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " reference number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98fd88d1-2899-47fa-a887-4b7eef64512a",
+    "data": [
+      {
+        "text": "Can someone help me with sg/",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b475e6e6-0450-45d1-9fa9-580f2bf7e9f2",
+    "data": [
+      {
+        "text": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c251211-39c7-42f0-9755-f5b90d93936f",
+    "data": [
+      {
+        "text": "What is reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d26e62c0-4b2b-4e29-8f5a-e73e349b5bb3",
+    "data": [
+      {
+        "text": "Please help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " sg/",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d94a802-eb6c-4792-a713-f72488703bd8",
+    "data": [
+      {
+        "text": "Where do I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43a59994-53f2-49d2-a219-6219cd237f90",
+    "data": [
+      {
+        "text": "Where can I find reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f7a6b61-7e85-49d8-92d3-d2a579960a92",
+    "data": [
+      {
+        "text": "From where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a5f5d91-189a-4ce2-8fca-98817bcc172b",
+    "data": [
+      {
+        "text": "Fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edc2f5f3-8f71-4eff-889c-779bad612d1c",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "applied",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "online",
+        "userDefined": false
+      },
+      {
+        "text": " and i need a reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfacb4f2-4c7a-45d0-a198-8fcf317c6dda",
+    "data": [
+      {
+        "text": "Finger print",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " reference number sg/",
+        "userDefined": false
+      },
+      {
+        "text": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " reference number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

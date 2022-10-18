@@ -1,0 +1,909 @@
+[
+  {
+    "id": "75a10f18-8ade-4fd9-9496-b0e4be42e3b6",
+    "data": [
+      {
+        "text": "I have level 1 clearance card  expires 2025 \u0026 I need next up Ivp  how much will I need to pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f1521bd-e620-453a-abda-fdec202b5063",
+    "data": [
+      {
+        "text": "When can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for the Identity Verified Prints (IVP) Fingerprint Clearance Card Application using a credit card??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb3f444e-25c4-4191-80c5-6fd7d23650eb",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " with credit card to receive my report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a5f508d-de20-4587-b73d-e3fb7d030f52",
+    "data": [
+      {
+        "text": "IS THERE ANY FEE ATTACHED? IF YES HOW MUCH?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dbd74f2-f5b0-460f-98d9-6ead93648e2f",
+    "data": [
+      {
+        "text": "I downloaded a PI application for renewal of a work card through my employer. How do access the application fees to send in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ada9f54b-bab1-4a42-be48-bac1b30d97e7",
+    "data": [
+      {
+        "text": "I am applying for a fingerprint card but forgot to put the payment of $67.00 in the mail.  Can I submit a payment online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f434ff78-38eb-4519-9cfa-08e68e191f32",
+    "data": [
+      {
+        "text": "can you accept debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a7aec96-5b25-4923-9a5d-314e3f3e5ac1",
+    "data": [
+      {
+        "text": "If I submit an application for a new fingerprint card is there a fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff90134d-db7d-42e0-bb9c-44151e036ffb",
+    "data": [
+      {
+        "text": "What is the fee to apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84422dca-059a-4652-8002-7ae383825bc2",
+    "data": [
+      {
+        "text": "can I pay my ACCT with credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f4c563e-9554-4408-b915-ee6957a171b4",
+    "data": [
+      {
+        "text": "Am I supposed to receive something in the mail after purchasing the finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44404bbd-d3c7-4dd6-8d08-01ad6422bc65",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to renew my Level ",
+        "userDefined": false
+      },
+      {
+        "text": "One",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprint Clearance Card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8291f783-56cc-4ac7-b264-1ed03ebfc9db",
+    "data": [
+      {
+        "text": "I apply for a clearance card I just need to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " of it but I don\u0027t have access to the ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d92962a-b3cd-4bc5-be03-ab5a65b8a767",
+    "data": [
+      {
+        "text": "Do you accept credit cards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "380678c2-49a6-4627-92cf-2625fe02a9f1",
+    "data": [
+      {
+        "text": "Do you accept cash payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97fc1dd4-7d95-450e-9b32-b768cc1af72b",
+    "data": [
+      {
+        "text": "price of fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1debaf61-56df-4f64-96fc-1f715dcda97d",
+    "data": [
+      {
+        "text": "form of payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cc4d72d-3252-47b6-9ff8-1aa93e670388",
+    "data": [
+      {
+        "text": "What are the security agency renewal fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a86ec2c-499b-41ac-b94e-5f8d8824e0da",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " for renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd617b1c-7e2f-44b6-a7db-51cd1d8e95c7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " for PI license?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a9bf12e-26a3-4b26-b49d-456605b9ff9a",
+    "data": [
+      {
+        "text": "I have to obtain a fingerprint card for work. Was wondering how much would it ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to get one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "936c5cf2-e7de-4532-be7c-c37a82219f79",
+    "data": [
+      {
+        "text": "where do I find the fees for SG instructor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6ea6a0f-a18c-42d0-9e3d-ae3ccef9d0f0",
+    "data": [
+      {
+        "text": "How much does renewal ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73d7dba2-4f0c-417f-a1f4-6bd6765d7cb3",
+    "data": [
+      {
+        "text": "where do I find your fees information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d06cdf69-7c9e-45b4-8bc0-332e3928be64",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " of an IVP Public or Subcontractor card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ab6dadd-48bf-4e8c-a98e-4abf36e91d43",
+    "data": [
+      {
+        "text": "Can you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " of the Level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprint clearance card please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67811c7f-29b7-4e72-9f07-5d2dc93ff368",
+    "data": [
+      {
+        "text": "Application ",
+        "userDefined": false
+      },
+      {
+        "text": "fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aaaf4e7-4a7a-49ac-a2b7-ad0fd6a0af9f",
+    "data": [
+      {
+        "text": "How do I pay for my report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "927c11d0-f290-4001-91b0-db2346d4011c",
+    "data": [
+      {
+        "text": "Replace card fingerprints ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88f0ecc0-da65-4847-860d-d3ba196d8d40",
+    "data": [
+      {
+        "text": "Hello!  This is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alberto",
+        "userDefined": false
+      },
+      {
+        "text": "... i am curious how much it ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " me - to get fingerprinted card?  for my new job, they need it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e8912d8-4b76-474d-825a-670111930d67",
+    "data": [
+      {
+        "text": "i am trying to apply for my finger print card but when it ask for ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " i am not paying for this my agency  is paying for it how do i adjust that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91d02626-6736-408f-b2ad-1c9ec93fe917",
+    "data": [
+      {
+        "text": "Payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " has been made for processing fingerprint clearance card application; Prints are on a card.  Where does this get sent to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdbaaeaf-abb5-41b0-97e8-346d0d729da0",
+    "data": [
+      {
+        "text": "By what mode should I be ",
+        "userDefined": false
+      },
+      {
+        "text": "paying",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " the clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fc48797-cd37-4d70-9af4-1872a88ce9c8",
+    "data": [
+      {
+        "text": "how much it will ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to apply fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d52317e4-6d47-4ca2-8f24-688f4b9c6f67",
+    "data": [
+      {
+        "text": "May I know the mode of ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777ef86d-de21-4a1b-b317-1832eb98af88",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " for fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa439063-6e74-4439-b0b4-3cf33f35d4b8",
+    "data": [
+      {
+        "text": "How much is a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e0b6727-4b3a-49e7-883a-c4d27dd7e3e7",
+    "data": [
+      {
+        "text": "I want to know the finger print clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c290e53b-a045-4d3c-a29a-98abf2e3b5fd",
+    "data": [
+      {
+        "text": "What is the price for my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43499f12-215a-460d-b20a-94ac5ea87dba",
+    "data": [
+      {
+        "text": "I want to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "amount",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to be paid for my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cfc387a-590b-43ec-a1a7-8b34b462f2dd",
+    "data": [
+      {
+        "text": "How much I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f416a549-4088-465e-ae41-05d1334f3748",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " for a clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7384d9fd-5d10-4d7e-b763-db712b229c99",
+    "data": [
+      {
+        "text": "how much is a clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "231198f0-b82a-4020-bd0d-3017d1185c39",
+    "data": [
+      {
+        "text": "What do you ",
+        "userDefined": false
+      },
+      {
+        "text": "charge",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " for a fingerprint clearance card (clearance card)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3c1add8-4c44-4707-adf1-d14233919ae5",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@Cost",
+        "alias": "cost",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "apply",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      },
+      {
+        "text": " and what forms of ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@Pay",
+        "alias": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "accepted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

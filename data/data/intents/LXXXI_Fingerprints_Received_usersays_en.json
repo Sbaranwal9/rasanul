@@ -1,0 +1,807 @@
+[
+  {
+    "id": "21dd37e4-dd2c-4415-a403-05289389f537",
+    "data": [
+      {
+        "text": "did you guys receive my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ef973cc-a243-406f-9d9d-aaa1ad30cb5b",
+    "data": [
+      {
+        "text": "I wanted to check whether you have received my fingerprints in mail today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9646406-1fed-48da-bfbc-a04b9ab57636",
+    "data": [
+      {
+        "text": "You received my fingerprint.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92b469a6-38d5-436c-b6de-72c78ed036cf",
+    "data": [
+      {
+        "text": "Have you received my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38243c3f-b333-4701-b34e-817ba1193908",
+    "data": [
+      {
+        "text": "Did you get my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e4a8c66-5967-49e2-a595-1fbf6e402308",
+    "data": [
+      {
+        "text": "Have my fingerprint cards arrived? My application #IVPP",
+        "userDefined": false
+      },
+      {
+        "text": "317424",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18ba9ebb-9dfa-4361-92c7-554fae15a28e",
+    "data": [
+      {
+        "text": "Did you receive my fingerprints in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a1004a1-2f39-460a-a3f5-d74b8e7fca52",
+    "data": [
+      {
+        "text": "It doesn\u0027t show that you received my finger prints via mail. How can I confirm that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c13f3044-20be-48e5-b58a-679f0b15fe17",
+    "data": [
+      {
+        "text": "It doesn\u0027t show that ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my finger prints via mail. How can I confirm that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5d968ed-4e60-48d4-bc7d-a6fbc74a3d20",
+    "data": [
+      {
+        "text": "Is there any way i can know my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger prints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " were ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1630f93b-a332-422f-9ed9-8cc2853f08d5",
+    "data": [
+      {
+        "text": "I would to know whether my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " have been ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3142214e-da31-46ca-82f0-7a01e16cc14a",
+    "data": [
+      {
+        "text": "Have my fingerprints been delivered to you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3901bfe-27b1-4fcc-86b1-5e39bca0fa12",
+    "data": [
+      {
+        "text": "Have you gotten my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f34920e-edea-4f1d-ab5b-a45873320184",
+    "data": [
+      {
+        "text": "I need clarity on whether my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger print",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acf74c89-9b77-4e22-905f-31e44c9d669c",
+    "data": [
+      {
+        "text": "How to know if my prints are ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cbe9871-cda4-4ef9-b11f-9588e1cffc37",
+    "data": [
+      {
+        "text": "check fingerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "receival",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99f4aad8-0bfd-4b8a-95fd-3fe52d03cd76",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " are received?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8aeff84-8365-4208-bf30-93f7ce40b32a",
+    "data": [
+      {
+        "text": "Did you get my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74811216-b715-463f-9145-d36862b1b5b7",
+    "data": [
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6d3bb3c-13a7-4cb0-a2b5-df37730b48ab",
+    "data": [
+      {
+        "text": "How to know you have ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6f9a6ce-1688-4692-bd02-b3a42ffdbef9",
+    "data": [
+      {
+        "text": "Need to know have you received my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " or not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0276060-0f31-47b9-98f7-fc7363932a8d",
+    "data": [
+      {
+        "text": "Did you receive my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4c906fe-9f2f-4583-a205-56c302e07c52",
+    "data": [
+      {
+        "text": "Status of my fingerprints, did you get it or not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01aba638-3684-499d-a350-e9150dc7e973",
+    "data": [
+      {
+        "text": "Was my ",
+        "userDefined": false
+      },
+      {
+        "text": "Fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcd726b4-7dfb-4b81-88e3-6dd357b4e830",
+    "data": [
+      {
+        "text": "Fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c4ea31-02e3-487a-9564-a01ba7a34a34",
+    "data": [
+      {
+        "text": "I had sent my paper fingerprints, did you receive it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c5bdc0c-7264-4c27-ac69-ed1e09dec759",
+    "data": [
+      {
+        "text": "How to know you have received my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " or not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb6010cf-cadb-467d-b8c1-3d37dfcea754",
+    "data": [
+      {
+        "text": "May i know have you received my fingerprint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bab8d537-c708-46ec-b7f5-dba0ef274282",
+    "data": [
+      {
+        "text": "have my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " been ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " or do i need to submit them once more?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c5d0b3e-6631-485f-a79b-bab74498f9ab",
+    "data": [
+      {
+        "text": "did you receive my prints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e436ffd-9116-4d47-8ac6-019465cb9832",
+    "data": [
+      {
+        "text": "fingerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "receival",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e17bcc49-999b-498f-a4b8-af3656513151",
+    "data": [
+      {
+        "text": "received",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51b71bbb-7236-4632-afbe-bda44be22e8d",
+    "data": [
+      {
+        "text": "How can I know that my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " have been ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "621be15c-8ecb-4d80-bd46-2ed8f08cfd7a",
+    "data": [
+      {
+        "text": "Hi I am trying to figure out if my ",
+        "userDefined": false
+      },
+      {
+        "text": "finger prints",
+        "meta": "@Fingerprinted",
+        "alias": "fingerprinted",
+        "userDefined": false
+      },
+      {
+        "text": " were ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f689771-0ece-4c90-9ce1-0fe14b8d087d",
+    "data": [
+      {
+        "text": "I had sent my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint",
+        "meta": "@Fingerprint_usage",
+        "alias": "fingerprint_usage",
+        "userDefined": false
+      },
+      {
+        "text": " over from IL on Thursday and was wondering if ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@you_shortHand",
+        "alias": "you_shorthand",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

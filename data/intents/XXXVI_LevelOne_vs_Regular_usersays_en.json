@@ -1,0 +1,663 @@
+[
+  {
+    "id": "b69e486f-5a36-477d-b0c8-39793931e708",
+    "data": [
+      {
+        "text": "Level one vs IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62f43d3d-1860-4000-8d88-f784616c43fd",
+    "data": [
+      {
+        "text": "How can I check the status of a fingerprint clearance card with out an application number? Can I use a SS#?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab2df29c-abc9-49a9-a589-45c310f9abcf",
+    "data": [
+      {
+        "text": "How do I get level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dd5e146-3732-4167-a7f8-051df53d5f9d",
+    "data": [
+      {
+        "text": "apply for a level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pringerprint ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9106f415-6514-48a9-8c2e-df00bfc9e402",
+    "data": [
+      {
+        "text": "Level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " finger print cardHow do I get level 1 clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1e06934-e6b7-4395-976b-139dbb6ddb15",
+    "data": [
+      {
+        "text": "Why didn\u0027t my daughter get it for level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d535d642-cce9-4aa6-b99a-427de70e6778",
+    "data": [
+      {
+        "text": "level one clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41c0d5e1-adcd-429f-bafd-b69b3c121c53",
+    "data": [
+      {
+        "text": "How do I know this is ",
+        "userDefined": false
+      },
+      {
+        "text": "level one clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b81a502a-8534-444b-a31f-7a0c5a847595",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75f40a55-4eed-492e-8541-312cc9c1ea26",
+    "data": [
+      {
+        "text": "level one fingerprint clearance cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f356744d-d437-4440-844c-3eab70d0c4f0",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " clearance finger card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a55bcf4-488c-4bf3-ac8a-76bcb80e9d29",
+    "data": [
+      {
+        "text": "what is a ",
+        "userDefined": false
+      },
+      {
+        "text": "level one clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff317e5-698b-44c0-9c11-29c1648927e3",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": false
+      },
+      {
+        "text": " clearance assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d6bfce0-dcb4-4b2d-80ff-31c71c3feac0",
+    "data": [
+      {
+        "text": "It is a finger print ",
+        "userDefined": false
+      },
+      {
+        "text": "level one clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "766a4272-84b2-4a5c-890e-bd5df4b3ed57",
+    "data": [
+      {
+        "text": "Level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e96be0d-3861-4954-8958-ce86774ef34f",
+    "data": [
+      {
+        "text": "Is DPS finger card the level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2650b85c-d4e2-4373-80f1-93ad5f3a6115",
+    "data": [
+      {
+        "text": "How do I change my order to a ",
+        "userDefined": false
+      },
+      {
+        "text": "Level One card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " which I just paid for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84cfa93a-7971-4197-98b8-ad39954760d3",
+    "data": [
+      {
+        "text": "Are IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance cards",
+        "userDefined": false
+      },
+      {
+        "text": " the same as a level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clearance card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df3173ed-9ccd-46d4-8a58-2465a4c2d0b7",
+    "data": [
+      {
+        "text": "mine is level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "753b96d0-c630-4126-af06-a61f23f6d5b2",
+    "data": [
+      {
+        "text": "Is there any specific distinctions between Level I and standard ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ca1af6-f727-45cd-8092-cb058ad1538d",
+    "data": [
+      {
+        "text": "how to know the differences of ",
+        "userDefined": false
+      },
+      {
+        "text": "level one clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "regular clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1505dd23-3a9e-4b22-a580-a199d7203561",
+    "data": [
+      {
+        "text": "What offences comes under level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " and non level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c0c951c-a7e3-4cc3-91d0-562b341cd5b9",
+    "data": [
+      {
+        "text": "Is level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "regular cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " are same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "010bc042-bd53-4e02-85cb-b223848a30a5",
+    "data": [
+      {
+        "text": "Explain me the difference between level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "regular fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47801a8e-9df7-45ac-87e8-ae7863ebea87",
+    "data": [
+      {
+        "text": "level one vs. ",
+        "userDefined": false
+      },
+      {
+        "text": "regular card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db48ec3b-af70-45a7-9c0a-82c01f46e786",
+    "data": [
+      {
+        "text": "if I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "regular card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " am I eligible for a level one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ee49c1-27ca-422e-8dbd-365da57000f2",
+    "data": [
+      {
+        "text": "are level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "regular cards",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd5a8200-d064-46dd-9437-691b6f43fcec",
+    "data": [
+      {
+        "text": "if I have a regular ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " what does that mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67e01853-0695-4485-bb31-2f3ba59200a8",
+    "data": [
+      {
+        "text": "What is the difference between a ",
+        "userDefined": false
+      },
+      {
+        "text": "level one fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card",
+        "userDefined": false
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "regular fingerprint clearance card",
+        "meta": "@Fingerprint_Clearance_card",
+        "alias": "fingerprint_clearance_card1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

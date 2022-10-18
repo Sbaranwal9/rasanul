@@ -1,0 +1,9 @@
+{
+  "id": "7e322f7a-3bc7-4c15-bb29-13ba81ac964c",
+  "name": "Email_Records",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

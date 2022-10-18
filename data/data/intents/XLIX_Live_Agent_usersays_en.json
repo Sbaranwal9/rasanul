@@ -1,0 +1,3311 @@
+[
+  {
+    "id": "ea7e9e28-fde4-4cba-a4bc-3ec7a057834d",
+    "data": [
+      {
+        "text": "I need a agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "260d7ef5-fc01-40a0-9f2e-630b5c406fa1",
+    "data": [
+      {
+        "text": "just wondering if you can help me with my next steps in getting my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0941a35e-83d3-46e8-9a9c-5b0c3d7f9033",
+    "data": [
+      {
+        "text": "NO ",
+        "userDefined": false
+      },
+      {
+        "text": "ONE",
+        "userDefined": false
+      },
+      {
+        "text": " ANSWERS!  HOW TO REACH THEM AT PHONE_NUMBER.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9e77960-08ee-4a3e-ae71-d00eb736ab71",
+    "data": [
+      {
+        "text": "Support contact for fingerprint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d805c85-e071-4902-8956-64e93d222913",
+    "data": [
+      {
+        "text": "Where do i find tech support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "224cac9c-570a-41fd-a531-931170acd00f",
+    "data": [
+      {
+        "text": "i need help logging in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdd2ef4f-14ed-4ec6-9925-ab6b689a7ea9",
+    "data": [
+      {
+        "text": "what is tech support number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba750e51-bdce-4731-b791-2c4efe345c67",
+    "data": [
+      {
+        "text": "I need help with my request.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6613411e-111d-4da8-9601-48064b04ec51",
+    "data": [
+      {
+        "text": "I will try contacting tech support Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "432cf576-be2e-403b-ae99-62efff4bd623",
+    "data": [
+      {
+        "text": "We need help with the fingering printing app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80101cf5-1ffb-4ac1-b591-91006cbbc6e7",
+    "data": [
+      {
+        "text": "i need assistance on an recent application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65a6f25a-dc65-4fb8-a2d6-d19181585d5e",
+    "data": [
+      {
+        "text": "Licensing complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50bf684f-b12d-4862-ad47-86ffa21c5d76",
+    "data": [
+      {
+        "text": "PHONE_NUMBER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51724ae0-123e-4e81-a893-2546c3eff111",
+    "data": [
+      {
+        "text": "File a complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59d920a2-a478-475e-840a-ad5b270d1c88",
+    "data": [
+      {
+        "text": "I need to speak to someone online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddaa4c5a-86e0-434c-94df-731a200cc7f7",
+    "data": [
+      {
+        "text": "It\u0027s say to contact you for my fingerprints clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d324dc-8b96-4bd4-b747-a6608915c829",
+    "data": [
+      {
+        "text": "Hi! I need help with getting my clearance card. I did it electronically.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "490dfe0a-b220-40da-9cd1-7b54dc7a67cb",
+    "data": [
+      {
+        "text": "can I talk to tech support or can you give me their number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f9d8c5-6712-4148-a352-7da77e3bd831",
+    "data": [
+      {
+        "text": "Need to talk to you about my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b51fc2ce-00c7-4445-9923-aebb215d76e1",
+    "data": [
+      {
+        "text": "I need to speak to someone about a legal name change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa94313-4c94-4ed1-9384-065f50739f28",
+    "data": [
+      {
+        "text": "Would like to speak to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "798154dd-7115-4d53-af28-f8f6f740b4fb",
+    "data": [
+      {
+        "text": "How do I speak to someone about fingerprint cards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644947ec-6130-481e-ad50-0984be3824f5",
+    "data": [
+      {
+        "text": "Trouble filling out the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "408132a2-30c7-421c-9b90-18318d20c4d2",
+    "data": [
+      {
+        "text": "My card should have arrived and has not, what phone number should I call to report this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "203f0fe0-678b-4b21-93de-f27a1d1bc688",
+    "data": [
+      {
+        "text": "What is dps contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8c5e16f-7ba3-4237-b18b-4c2cdb1ab5f5",
+    "data": [
+      {
+        "text": "PHONE_NUMBER why is there no information about I",
+        "userDefined": false
+      },
+      {
+        "text": "21009664",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "? Who should I contact for the report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c7e0d3f-133e-4881-a419-f4cd20b4acc9",
+    "data": [
+      {
+        "text": "can anyone help me with the form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0222385a-05cc-4c2d-84b5-e64b92495f2d",
+    "data": [
+      {
+        "text": "Hello, I am inquiring about my fingerprint application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "631dd3d6-b725-46bd-8b75-ceb99b93df14",
+    "data": [
+      {
+        "text": "Hello i just made an account and it keeps telling me i have the wrong user name or password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f118d2d6-2d16-4519-a798-f94244b63732",
+    "data": [
+      {
+        "text": "Where do I complain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "184a20c7-e80c-4b52-a607-42dc4f1fab86",
+    "data": [
+      {
+        "text": "I need to speak to someone  about my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb197474-9c66-459d-a092-474ddeae192d",
+    "data": [
+      {
+        "text": "need to talk to someone about fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44e5b284-2c25-4507-afa4-cb25cf6f3b3a",
+    "data": [
+      {
+        "text": "can i chat with a live person who can answer questions on filling out documents for fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a4d255-f36f-48a9-96fb-1cd67fb62f74",
+    "data": [
+      {
+        "text": "I am new to the state and I need your help with applying  for a new fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5593e7d-fe27-468c-9825-f9d443ce1303",
+    "data": [
+      {
+        "text": "Contact a person regarding fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36052577-55f1-42b0-9326-e533fe29afc3",
+    "data": [
+      {
+        "text": "Hello I would like to speak with a person about my fingerprinting process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68e0c533-612c-47b5-b3c8-15cff1bdb699",
+    "data": [
+      {
+        "text": "I have a question about my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dd30e48-b8a4-4aa2-a903-cf4f0f79ab68",
+    "data": [
+      {
+        "text": "I need to speak to someone regarding my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5146ef34-fc81-4b88-b592-69e2d39f5269",
+    "data": [
+      {
+        "text": "My name is Lizette Serrano I was wondering who I can call to confirm my ivp application has been received.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d719ac53-39c9-439c-a388-0598586ad725",
+    "data": [
+      {
+        "text": "Talk with fingerprint clearance team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c4449bb-f7ea-42aa-a13b-e0d69cd73f2d",
+    "data": [
+      {
+        "text": "Can you help me with my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e02d662c-47bb-44ba-a9b2-b080d00395e3",
+    "data": [
+      {
+        "text": "You are useless.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d11f790-654c-43c0-ae4b-b380b6cb8b81",
+    "data": [
+      {
+        "text": "how do I update my finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c916d28e-cb3e-4539-8718-63f07993d977",
+    "data": [
+      {
+        "text": "i need to speak to someone about an accident report number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcd1c5c1-4186-44e0-9d73-9cf69d2216d0",
+    "data": [
+      {
+        "text": "can I speak to someone about my fingerprint clearance card application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d64612-7adb-4b98-95d1-09a6879478fc",
+    "data": [
+      {
+        "text": "I need a live person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1d911f2-c61d-4e5b-9df9-3bc063207050",
+    "data": [
+      {
+        "text": "Can forms be turned into a live person today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f55e3983-0ff8-488b-952d-c91806d4acc1",
+    "data": [
+      {
+        "text": "who can I call about a Report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11120082-b9b7-4da5-87cd-14932cba6c11",
+    "data": [
+      {
+        "text": "what is the phone number to call DPS for my IVP clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7441aa73-8763-4d74-9d94-dd8911e4ab1d",
+    "data": [
+      {
+        "text": "DPS Clearance team contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42b43b25-b78f-4a78-b766-5467df2932ca",
+    "data": [
+      {
+        "text": "talk to someone about fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb3b2ead-247f-4750-9480-266ce6ad2bda",
+    "data": [
+      {
+        "text": "I need help with my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d23c68d0-1518-42b6-8041-a7a54cee5825",
+    "data": [
+      {
+        "text": "what is the point of this feature if you can\u0027t even answer questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b800eda3-9a5f-447b-9b56-1350e10005cc",
+    "data": [
+      {
+        "text": "this chat feature is trash because it does not actually provide any help!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9359d112-262f-4d34-98b9-6496abffd441",
+    "data": [
+      {
+        "text": "Can you answer my question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "398a5e2a-b380-41c2-b1b9-055f09c8b46e",
+    "data": [
+      {
+        "text": "Hi can i have a schedule for Fingerprint Clearance Card pls?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fb6b7a3-3a33-4d24-b2dc-6b8705eee489",
+    "data": [
+      {
+        "text": "Can I submit an application for card renewal for another person (my wife) from my account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31db80e9-4b67-4066-8b85-2a3d38f122d8",
+    "data": [
+      {
+        "text": "I have fingerprint clearance card from Nevada, can I use that ID #?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da6a0ff2-76a7-4f15-adbe-8694dd2f7bda",
+    "data": [
+      {
+        "text": "I need to talk to somebody I\u0027m trying to apply for a card and it\u0027s for healthcare not for public schools and it won\u0027t let me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07a7de38-147e-4082-b7f4-142464409501",
+    "data": [
+      {
+        "text": "Hi I applied for the clearance card and did not get an application number or instructions on getting my fingerprints done. Please provide me with said info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d07ba160-43e3-4660-966a-8d14c7c32da2",
+    "data": [
+      {
+        "text": "hi am running my fcc card for validity and it says there is no record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "833fa9bb-48ee-4192-b9c1-c014f4d32605",
+    "data": [
+      {
+        "text": "It keeps asking me to put in a valid driver\u0027s license number or date of birth and I have done each several times",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2921ea72-059b-4282-9a5e-86849c35fa53",
+    "data": [
+      {
+        "text": "Hi in my messeges it says I have to pay to proceed, however I already paid the ",
+        "userDefined": false
+      },
+      {
+        "text": "$65",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18fe574c-b0ea-413b-bd10-52ee23aa44c3",
+    "data": [
+      {
+        "text": "Can I use my daycare level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint clearance card for my health science student and clinical assistant job as well?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a66fc346-ce51-48e0-8bfd-c647a7e314d1",
+    "data": [
+      {
+        "text": "Hello, \n I have submitted the required paperwork that is requested per DPS and its showing that is incomplete. Can you assist me with this please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a89c64a4-9345-480b-b028-b5e355e841dc",
+    "data": [
+      {
+        "text": "I know how to sign up but when I get to the pages for security question it does not have a drop down to select a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eb9b969-3363-4826-8d28-27ab23a9d4d2",
+    "data": [
+      {
+        "text": "I am not getting through to set up the fingerprinting.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d361ac-a8c6-4da1-b79f-caa5effc6210",
+    "data": [
+      {
+        "text": "representatice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac06a984-61a9-4db7-bd43-bf50c953eef1",
+    "data": [
+      {
+        "text": "I have been mistaken for the wrong identity. I need to submit a finger print clearance card. Which selection applies to my situation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc93262-b64f-4c8e-8489-fc3a748658d6",
+    "data": [
+      {
+        "text": "I tried the site, but hen asked me if \"I had have a card befere\"  my answer was NO ,  and it kicked me out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7ad454-4091-4f0c-9f8b-424efaa926cc",
+    "data": [
+      {
+        "text": "When I enter my driver\u0027s license number on the driver\u0027s license line and my date of birth it keeps telling me that it\u0027s wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "054b25ec-ef0e-455f-b27d-b9ce66687ecc",
+    "data": [
+      {
+        "text": "Give me the phone number!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f80d579e-a91e-49a9-913b-cd4c32dd27b9",
+    "data": [
+      {
+        "text": "I don\u0027t know why the information on this screen is not being accepted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5083383b-621f-4599-ad20-8cc76bc7231d",
+    "data": [
+      {
+        "text": "Manual Assiatance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a827796-5f02-4a99-b24f-22b7ee4b8b1e",
+    "data": [
+      {
+        "text": "Put me through to a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8bb305b-74d4-472a-a5e5-3ee9f5f43ed6",
+    "data": [
+      {
+        "text": "Representatives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3c1390c-5b12-4ea2-b9dc-4f6e7df2dcc5",
+    "data": [
+      {
+        "text": "tech support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87019a70-dada-4ded-ad73-06b0fa46ae28",
+    "data": [
+      {
+        "text": "hi i just wanted to make an appoiment to get my fingerprint card ..do you guys have a phone number that i can call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5aef6c5-f3a2-4811-8976-082a4dc180a3",
+    "data": [
+      {
+        "text": "I Paid for Photos and was advised they are available - I can not find photos to download.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a438a32-d3ef-4b0f-ac82-e86e994a75b3",
+    "data": [
+      {
+        "text": "Help fill out department of education license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f70bd3fa-a2fa-49db-af40-e4fd18edadc2",
+    "data": [
+      {
+        "text": "I had my finger prints taken after my conceal carry class. I am needing a finger print clearance card, am i able ot use those prints that were previously taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a069f65-896b-400a-8235-219b5b65921c",
+    "data": [
+      {
+        "text": "It has been years so I did not complete it online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5485df01-a6d3-48e3-8462-3e1a7a91e9ac",
+    "data": [
+      {
+        "text": "You are not answer my questions that I have. So I get there after call.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ab526ea-390b-4151-ab86-ecf446825ad7",
+    "data": [
+      {
+        "text": "you are no help at all!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fb677d8-3b3e-410d-a048-935fffe919e7",
+    "data": [
+      {
+        "text": "live ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe55acdf-8f95-4347-82bb-75a57d959d6c",
+    "data": [
+      {
+        "text": "I have a notification and can\u0027t retrieve it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57edf889-3f18-4ef1-b729-a2464267f759",
+    "data": [
+      {
+        "text": "I PUT IN THE IVP CARD AND IT SAYS DOES NOT MATCH RECORDS - IVP",
+        "userDefined": false
+      },
+      {
+        "text": "0046248",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "961d2156-0642-4fc4-8f23-10f7e6a01c3a",
+    "data": [
+      {
+        "text": "I am looking for my denial letter for my fingerprinting so i can submit my exception application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a35a726-e358-4bfc-afbe-7b8fd8fdc18f",
+    "data": [
+      {
+        "text": "im trying to upload my id but its saying its too big",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f23e4842-ae79-4664-aefa-77592e3ef3e9",
+    "data": [
+      {
+        "text": "Hello, I\u0027m trying to update my finger print IVP card. I\u0027m a teacher. It won\u0027t accept my name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1290c76-1d74-4566-93a6-0a58082aab11",
+    "data": [
+      {
+        "text": "I\u0027ve paid for my accident report (",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "userDefined": false
+      },
+      {
+        "text": " days ago) and still don\u0027t know how to find or access it?  Thanks!  PHONE_NUMBER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82879e33-b34a-47f4-97f2-1bca61dac7c1",
+    "data": [
+      {
+        "text": "i have exceeded the upload limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08cda97a-cf86-4bf6-ae31-5688fff43e4a",
+    "data": [
+      {
+        "text": "I paid ",
+        "userDefined": false
+      },
+      {
+        "text": "$67",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to get a clearance card but I never actually did it and do not need it anymore, is there a way to get refunded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2974070-afa9-4124-8bad-31497cca6d83",
+    "data": [
+      {
+        "text": "How do I schedule the appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e28d13b-43aa-4f9f-8054-5e4e95db7230",
+    "data": [
+      {
+        "text": "What should I do if I have been waiting a long time and the status still says in process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e13058e0-6b59-4034-898e-cdd4e60c56c0",
+    "data": [
+      {
+        "text": "What happens if I have a fingerprint card for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arkansas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "182e1021-85e7-49e9-9f14-0185f9447f7b",
+    "data": [
+      {
+        "text": "I got a clearance card thru Dysart district is this the same or will I have to repay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6464ea96-701a-4abb-8b59-1a4cd08b165c",
+    "data": [
+      {
+        "text": "number for customer servic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91337540-9b87-423f-94f9-2696125ea964",
+    "data": [
+      {
+        "text": "I ordered a standard fingerprint clearance card and got the level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " instead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e730f241-6fd7-4a4f-9151-313f1fd0a7d0",
+    "data": [
+      {
+        "text": "How do I schedule app for fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d5a405a-139b-4ff4-bf56-2f189de0c89a",
+    "data": [
+      {
+        "text": "I am having  a difficult time setting up my account and I really need to get a paper copy of my clearance level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff46a166-ad1d-4947-ac43-8098f2eabef3",
+    "data": [
+      {
+        "text": "How do I contact DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6c15e88-5138-4fa6-9d02-bb3693b6ef8d",
+    "data": [
+      {
+        "text": "Can you please get me an ",
+        "userDefined": false
+      },
+      {
+        "text": "assistance",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a1181bc-0452-4391-871c-1086909d6c38",
+    "data": [
+      {
+        "text": "I\u0027m looking for the results of my fingerprints clearance card but the info I\u0027m providing isn\u0027t found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bc2aef8-3ebc-4e19-887e-b46c63bc68c9",
+    "data": [
+      {
+        "text": "I need to change a mistake in a police report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f032144-02c9-45aa-a61c-60553295af08",
+    "data": [
+      {
+        "text": "Customer Representativ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc29dd70-cf73-4bf9-be5f-2c6e8eda55e8",
+    "data": [
+      {
+        "text": "I would like to set up an appointment to have a finger print card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "893e078a-e6e9-4ac6-852b-cf5876055d05",
+    "data": [
+      {
+        "text": "I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "FD",
+        "userDefined": false
+      },
+      {
+        "text": "-258",
+        "userDefined": false
+      },
+      {
+        "text": " Finger print card I did on 4/",
+        "userDefined": false
+      },
+      {
+        "text": "28",
+        "userDefined": false
+      },
+      {
+        "text": "/2021. Will this work for Level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprints I need for college nurse class I am taking in the fall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8878e6a5-b437-4207-bada-83011e880c9f",
+    "data": [
+      {
+        "text": "Hi I am a foster licensing specialist and am assiting one of my families get a FP card for their son. They have a ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " digit code to schedule but your system is not allowing them to schedule appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9b084ac-cc8e-4aa5-9a7d-07b907a2a96a",
+    "data": [
+      {
+        "text": "Will a ",
+        "userDefined": false
+      },
+      {
+        "text": "FD",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "-258",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprint card work in place of Level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4e9aa96-8645-474c-9e3c-817ba1432fc5",
+    "data": [
+      {
+        "text": "I am a new hire . I was supposed to get an email to start ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fdb34ff-0314-4f0b-adbd-4044c6dcc03f",
+    "data": [
+      {
+        "text": "I did but put in for an ivpp when I don\u0027t need that, I called and she gave me another application number but it isn\u0027t working. She had to change it to a non ivpp fingerprint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02584a15-6efe-453b-9ac0-33150866f4ea",
+    "data": [
+      {
+        "text": "What could you help with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4448608-cf07-4ee0-ae48-aa32f767e83b",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " of general questions that i had wanted to ask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bead4e9-ca49-4824-a38c-2c911138d47e",
+    "data": [
+      {
+        "text": "records telephone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a22f665b-0a03-4640-a510-ea8933ebc899",
+    "data": [
+      {
+        "text": "custumer service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e60f0e1-3aca-4789-9e3c-5ec976a9eebb",
+    "data": [
+      {
+        "text": "This ",
+        "userDefined": false
+      },
+      {
+        "text": "ANTOINETTE Brooks",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " sorry I lost your call I\u0027m on now what do next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26bfbced-2603-43a3-bcd3-fefce4918376",
+    "data": [
+      {
+        "text": "I don\u0027t know the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ccd1d2a-61fd-43c2-81c6-3853d139ac53",
+    "data": [
+      {
+        "text": "I have a question about fingerprin clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "137f9b85-bfce-4f5d-9df3-3ff5a6fedb26",
+    "data": [
+      {
+        "text": "my police report is there a number i can call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5dc0f74-003f-43f5-81f8-550e645dd1e5",
+    "data": [
+      {
+        "text": "Need guidance for law enforcement agency conducting background investigation on police recruit applicant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6911bc2-57a2-4069-b374-01ab0f5c1191",
+    "data": [
+      {
+        "text": "when I type in my application number it says no resutls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7da6f8b7-d4cc-4f3a-ac81-45e30d9c9434",
+    "data": [
+      {
+        "text": "give me a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c71b022c-0cfd-46b7-8383-643f88a3f871",
+    "data": [
+      {
+        "text": "how to contact records department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f19671e-dc65-4aff-9632-8c4a87a11f75",
+    "data": [
+      {
+        "text": "No help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fffebfd6-6852-4ce6-a85b-cc3e298e42bc",
+    "data": [
+      {
+        "text": "Costumer service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8992aad-0878-4ce2-bfc6-41e4cfe479cc",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1140109a-d097-4c06-8e8e-888754c5686b",
+    "data": [
+      {
+        "text": "You are not helping me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2c7ba98-5a59-4cf5-90c2-a76d30f744b9",
+    "data": [
+      {
+        "text": "telephone for records department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cf4352f-f87c-45fd-9898-10ce653c5624",
+    "data": [
+      {
+        "text": "you didn\u0027t help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7a60fce-fd61-44e8-a73d-284dcfbeb06b",
+    "data": [
+      {
+        "text": "good morning is some one there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71fba288-84c3-48f6-af78-bf14a177b74c",
+    "data": [
+      {
+        "text": "you havent helped at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37dc352c-63b4-4b98-9ab7-b1b0a490b904",
+    "data": [
+      {
+        "text": "Totally not helpful.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99bb92d0-4587-458a-90a6-494ef5a2c818",
+    "data": [
+      {
+        "text": "can not finalize application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3be08d3f-3727-4b86-96b8-947b7d152127",
+    "data": [
+      {
+        "text": "help please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e3165f6-fee5-4032-9222-cba921e7f6e3",
+    "data": [
+      {
+        "text": "No. Can I be transferred to a live person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a29f5e70-f498-4d2a-bc23-e4763e75c81e",
+    "data": [
+      {
+        "text": "Well, then this chat option is really no help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf3bf90-b165-41e8-8990-255315e08c15",
+    "data": [
+      {
+        "text": "represenataive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17cd8a12-b4c5-4f73-871e-3a4e3b06ea2e",
+    "data": [
+      {
+        "text": "WHY ARE.YOU HERE IF YOU CANT HELP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c89d6d9-e70a-4668-ac53-8654e875af6d",
+    "data": [
+      {
+        "text": "Why have an automated chat system that can not help answer simple questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3324b018-bed5-4ccc-ad2c-bda278fe2c5c",
+    "data": [
+      {
+        "text": "Can you actually help me or is this a bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f974ece-29d6-44af-8083-583e0a2d1ac4",
+    "data": [
+      {
+        "text": "no help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d213fde1-dbf5-4db5-ae57-c318dccd8d5a",
+    "data": [
+      {
+        "text": "Not sure how to explain another way to the automated system.  Is there a person I can talk to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2974a95e-376f-4d12-9f78-bc8a166a4547",
+    "data": [
+      {
+        "text": "Issues with the answer qurstions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c68ad80-34e9-4163-9474-bd5360a2aa27",
+    "data": [
+      {
+        "text": "I was given an incident number that was incorrect and received someone else\u0027s stolen gun report . Can someone help me get the correct information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cda2e2e2-d1df-4421-86ee-a68e30c8c263",
+    "data": [
+      {
+        "text": "My email keeps saying I have an account but when I try to put in my email address it wont let me go pass to the application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "febabaa4-a4fa-40a1-b94e-742054dde8c4",
+    "data": [
+      {
+        "text": "I have a question about the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14cd0356-f1f8-47b2-aa40-249733ec05e3",
+    "data": [
+      {
+        "text": "Number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d109806c-922c-433e-9b8e-1f1ef3730e99",
+    "data": [
+      {
+        "text": "Can you please put me in touch with a live clerk to explain my situation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8344074-191b-4d94-bde3-4e935457366e",
+    "data": [
+      {
+        "text": "I need your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fb6289f-b83c-4d3b-9905-db562718f186",
+    "data": [
+      {
+        "text": "i need your number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "182f0597-df9f-46dc-9ef8-d9045860772b",
+    "data": [
+      {
+        "text": "Hi i was wondering why it is not finding my application i just submitted one and paid for it. i am trying to make an appt for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53f83c4e-c5d1-4812-924b-3087a9bbf38b",
+    "data": [
+      {
+        "text": "get me a actual person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d58db908-a970-4f76-b2dd-4ef73faa11d4",
+    "data": [
+      {
+        "text": "agnet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a4c7053-db4e-465d-90ab-3dfe8503cae5",
+    "data": [
+      {
+        "text": "The computer is not answering my questions. May I speak with a Clerk or representative?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b76b93-6dc2-4020-b201-87eddd8e4d46",
+    "data": [
+      {
+        "text": "i am locked out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b04fed8-129c-4668-8893-62920546036a",
+    "data": [
+      {
+        "text": "im locked out the entire system ,i need technical ",
+        "userDefined": false
+      },
+      {
+        "text": "assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "746ff129-e67a-4e43-9abd-ff40190e7db3",
+    "data": [
+      {
+        "text": "IS there a telephone number i can all for information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fec0c873-50aa-4048-88dd-ad72a66c4b60",
+    "data": [
+      {
+        "text": "Tech support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0305ab8-ba33-429e-94e7-03b7c9eb4105",
+    "data": [
+      {
+        "text": "you did not help me at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19ea6f82-b1d5-4fc3-abc4-8b0395d0e2a3",
+    "data": [
+      {
+        "text": "who can I speak to directly about my situation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f46b523-aecb-4812-befc-e247544dd3ef",
+    "data": [
+      {
+        "text": "is there not a human available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45b54262-11d9-4987-ac94-85314aa89d8d",
+    "data": [
+      {
+        "text": "are there any humans i can chat with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e473e94-4c9f-4d72-9b56-1e1a45885456",
+    "data": [
+      {
+        "text": "representatvie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "494724ba-bb87-4b49-a6f8-af0e4a5616a5",
+    "data": [
+      {
+        "text": "Submitting applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20eb2039-96ad-4d4b-888c-db97213a7efd",
+    "data": [
+      {
+        "text": "support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aef3151-1543-4f24-8ca9-6e5648cb444a",
+    "data": [
+      {
+        "text": "can you tranfer me with a ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea69300a-4eff-462d-8094-86fcb55ebfda",
+    "data": [
+      {
+        "text": "represenative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3341aa94-85da-483f-94a7-a2bd318d5c6d",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "real person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d4ba95e-8202-4b6a-9b01-d62daa3b4461",
+    "data": [
+      {
+        "text": "Of course you don\u0027t understand, give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "real person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e0babc1-dd53-46e6-8f2d-b9a39ab44c14",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea278d7-c296-46a0-bc33-3ddac3641b01",
+    "data": [
+      {
+        "text": "Phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5d7017c-699a-4395-b859-ee3f10242526",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "assistant",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e3fc4c3-b213-4395-9f78-7afe0ad6043b",
+    "data": [
+      {
+        "text": "Yes speak to someone in records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de9b357-aceb-47bc-a32c-94fb7fb84d26",
+    "data": [
+      {
+        "text": "anyone alive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb396405-b32f-4250-8498-2a33170c2000",
+    "data": [
+      {
+        "text": "speak with ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e3c5c6-40c7-44d7-bcbe-edbc0962f47f",
+    "data": [
+      {
+        "text": "Human requested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76d024a1-ae5b-4708-89c4-d2b369a463ff",
+    "data": [
+      {
+        "text": "do you have a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a4d475d-19ed-4aa6-a765-dd13e27112c2",
+    "data": [
+      {
+        "text": "Contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c69e4c5b-23d3-4fb3-9317-6edb897d17cb",
+    "data": [
+      {
+        "text": "What is a number I can call to communicate with someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f4319a8-6133-48cf-856b-fe5256358e50",
+    "data": [
+      {
+        "text": "Can I chat with a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6491b878-d719-4135-9b8e-a6a855184283",
+    "data": [
+      {
+        "text": "REAL PERSON",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7a1284a-f5d4-4dec-b882-ea6605c41414",
+    "data": [
+      {
+        "text": "LIVE CHAT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de4f6896-1570-4c7b-81a9-b4b8a69e8ae0",
+    "data": [
+      {
+        "text": "Contact  number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac5c3bc8-5138-408e-8094-947ee628be4b",
+    "data": [
+      {
+        "text": "customer service ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de17149-8bc9-4dcd-9812-b0a517df59f9",
+    "data": [
+      {
+        "text": "live ",
+        "userDefined": false
+      },
+      {
+        "text": "representitive",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "929f4591-d846-4c9d-aeef-b065db54f6a8",
+    "data": [
+      {
+        "text": "speak to person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89d959d4-fab3-49a5-9466-c0b71af51fd1",
+    "data": [
+      {
+        "text": "I need someone to call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d15fb59-6c38-4c52-b1af-26d5c12f228c",
+    "data": [
+      {
+        "text": "Can someone please call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f392510-203d-4238-a440-f149ef7cb2dc",
+    "data": [
+      {
+        "text": "what is the phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b480a34d-8035-499b-b5ca-23416c51ee75",
+    "data": [
+      {
+        "text": "i want human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a31449fb-5982-44c6-ac1b-05d9be0e9760",
+    "data": [
+      {
+        "text": "Please call PHONE NUMBER. Need answers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deee7661-8b76-4406-8a7a-6a2475420b97",
+    "data": [
+      {
+        "text": "agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41ff7f99-a950-411d-8367-dea5bc3d7fd3",
+    "data": [
+      {
+        "text": "chat with a ",
+        "userDefined": false
+      },
+      {
+        "text": "representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8719eb73-19c7-49ef-98eb-3503adeabdb2",
+    "data": [
+      {
+        "text": "call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da34ce9e-beae-4eab-97ec-10c9dfdace07",
+    "data": [
+      {
+        "text": "Can I speak with someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "440bbb6b-244c-45af-8782-6b6db57ac34e",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "real person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec3ea297-a8f7-408c-b6d1-4e8ea9424759",
+    "data": [
+      {
+        "text": "Phone number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7ee8327-437b-43f7-ab0d-26d2d6598617",
+    "data": [
+      {
+        "text": "Representative",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83262b87-4c35-4068-9145-ffbfb61aee2d",
+    "data": [
+      {
+        "text": "live ",
+        "userDefined": false
+      },
+      {
+        "text": "assistant",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcbdd944-fc4b-49ff-b834-13da2c1dcb4f",
+    "data": [
+      {
+        "text": "Live agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7483ba38-0491-45f2-892a-45dee4a58cac",
+    "data": [
+      {
+        "text": "You cannot understand me. Connect me with an ",
+        "userDefined": false
+      },
+      {
+        "text": "agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd5a173b-b355-4592-bb3d-51f977443503",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "talk to a person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902e13d3-c65a-4a5f-9437-8852c18fc67f",
+    "data": [
+      {
+        "text": "Connect me with an ",
+        "userDefined": false
+      },
+      {
+        "text": "agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48446d3f-65f4-414d-a53a-f6e3a02b0e5a",
+    "data": [
+      {
+        "text": "can i talk to someone who understands me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a506ae23-9951-4ad7-b75d-02962c9c6434",
+    "data": [
+      {
+        "text": "live agent please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a1fe03c-fb0d-479a-87dd-f82213ccc83f",
+    "data": [
+      {
+        "text": "Real person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      },
+      {
+        "text": " to talk to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f663c711-14ba-4478-9bfb-4b7cbee2528b",
+    "data": [
+      {
+        "text": "I would like to conerse with a live ",
+        "userDefined": false
+      },
+      {
+        "text": "agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea56fe35-57ab-40a8-8ab1-870ba9d4b4cf",
+    "data": [
+      {
+        "text": "I want to talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9270708a-d59f-46e7-aa75-5d07b71238d0",
+    "data": [
+      {
+        "text": "I don\u0027t want to talk to a chat bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a66851-174d-4e9c-aa0a-4fb062dc869a",
+    "data": [
+      {
+        "text": "Stop chatting web bot, talk to real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10819268-489a-4db5-b005-2e50f944e043",
+    "data": [
+      {
+        "text": "Talk to a person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d41216cc-36a1-402e-ab60-8ebb5ce78df0",
+    "data": [
+      {
+        "text": "Talk to rep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e56986c7-6576-471f-8922-14e5316c6142",
+    "data": [
+      {
+        "text": "Is anyone available to talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b44eac5-f94e-4f20-9ed8-faf256943667",
+    "data": [
+      {
+        "text": "I would like to speak with a live ",
+        "userDefined": false
+      },
+      {
+        "text": "agent",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71717ed1-cd59-4cb5-9462-01ceb5d35a45",
+    "data": [
+      {
+        "text": "Is it possible to talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "real person",
+        "meta": "@live_agent",
+        "alias": "live_agent",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c566769-c32d-4d09-976d-5ffe20fa56bd",
+    "data": [
+      {
+        "text": "Help me to talk to real person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d33c8b-a75e-4fb8-9c71-6ad74f9f9a61",
+    "data": [
+      {
+        "text": "I need to connect with live person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0710e488-d1bc-48ff-b1ed-ea61d7ad68e4",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3645bc8-12bc-4f76-81f3-075487fa8d9d",
+    "data": [
+      {
+        "text": "I need to talk to a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b024c5e-9e7f-4d0a-887f-1403357f9961",
+    "data": [
+      {
+        "text": "How can i talk to a live person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b353be40-d8bf-460d-b714-a45abac0b1fb",
+    "data": [
+      {
+        "text": "can i speak to a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b05ba6b-ff98-4520-bc86-c1f0332b808c",
+    "data": [
+      {
+        "text": "Speak with real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68414776-81fe-447c-b330-4be33b466c00",
+    "data": [
+      {
+        "text": "Is there someone I can talk to now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "411a6a13-49c9-4101-98f4-889dae1f4826",
+    "data": [
+      {
+        "text": "Customer service please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf0278d-15bf-47f7-ad8b-5777ea3f9ed3",
+    "data": [
+      {
+        "text": "How can I speak to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "132f3003-5020-41e2-9abd-44302151f14d",
+    "data": [
+      {
+        "text": "I have to call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0169535c-f41c-415a-a250-3e192e9a22fd",
+    "data": [
+      {
+        "text": "customer service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59750312-bfbb-421e-accd-1a3ae36478a4",
+    "data": [
+      {
+        "text": "I need to speak with a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Application",
+    "pattern": "(\\bapplication\\b|\\blicensing\\ application\\b|\\blicense\\b)"
+  },
+  {
+    "name": "Apply",
+    "pattern": "(\\bapply\\b)"
+  },
+  {
+    "name": "Card",
+    "pattern": "(\\bcard\\b|\\blicense\\b)"
+  },
+  {
+    "name": "CollisionReport",
+    "pattern": "(\\bcollision\\ report\\b|\\bincident\\ report\\b)"
+  },
+  {
+    "name": "Coronavirus",
+    "pattern": "(\\bCoronavirus\\b|\\bCOVID\\-19\\b|\\bCOVID\\b|\\bCOVID\\ 19\\b|\\bCorona\\b|\\bvirus\\b|\\bcorona\\ virus\\b|\\bhand\\ washing\\b|\\bgerms\\b|\\bsick\\b|\\bcough\\b|\\bquarantine\\b|\\bwash\\ hands\\b|\\bsymptoms\\b|\\bfever\\b|\\bcold\\b|\\bflu\\b|\\bsneeze\\b|\\bthroat\\ itch\\b|\\bcough\\b)"
+  },
+  {
+    "name": "Cost",
+    "pattern": "(\\bcost\\b|\\bfee\\b|\\bprice\\b|\\brate\\b|\\bamount\\b|\\bcharge\\b|\\bhow\\ much\\b)"
+  },
+  {
+    "name": "CrashReport_vs_PoliceReport",
+    "pattern": "(\\bcrash\\ report\\b|\\bcrash\\ record\\b|\\bpolice\\ report\\b|\\bpolice\\ record\\b)"
+  },
+  {
+    "name": "Create_account",
+    "pattern": "(\\bcreate\\b|\\bsign\\ up\\b|\\bset\\ up\\b|\\bnew\\b|\\bmake\\b)"
+  },
+  {
+    "name": "Criminal_Background_Check",
+    "pattern": "(\\bcriminal\\ background\\ check\\b|\\bbackground\\ check\\b|\\bcriminial\\ background\\b|\\btrack\\ records\\b)"
+  },
+  {
+    "name": "Different_Types_Of_Record",
+    "pattern": "(\\bDifferent\\ types\\ of\\ Record\\b|\\bType\\ of\\ Record\\b|\\bVarities\\ of\\ Records\\b|\\bGroup\\ of\\ Records\\b|\\bkind\\ of\\ records\\b)"
+  },
+  {
+    "name": "Driving_Restricted",
+    "pattern": "(\\bDriving\\ Restricted\\b|\\bDR\\b|\\bfingerprint\\ clearance\\ card\\ driving\\ restricted\\b)"
+  },
+  {
+    "name": "Email_Records",
+    "pattern": "(\\bemail\\b|\\bemailed\\b|\\bonline\\b|\\bmail\\b|\\bmailed\\b|\\bemail\\ records\\b|\\bmail\\ records\\b)"
+  },
+  {
+    "name": "Fingerprint_Clearance_card",
+    "pattern": "(\\bFingerprint\\ Clearance\\ card\\b|\\bclearance\\ card\\b|\\bfingerprint\\ card\\b|\\bfingerprint\\ clearance\\b|\\blevel\\ one\\ fingerprint\\ clearance\\ card\\b|\\blevel\\ one\\ clearance\\ card\\b|\\blevel\\ one\\ card\\b|\\bregular\\ fingerprint\\ clearance\\ card\\b|\\bregular\\ clearance\\ card\\b|\\bregular\\ card\\b)"
+  },
+  {
+    "name": "Fingerprint_usage",
+    "pattern": "(\\bfingerprint\\b|\\bbiometric\\b|\\bthumbprint\\b|\\bfinger\\ print\\b)"
+  },
+  {
+    "name": "Fingerprinted",
+    "pattern": "(\\bfingerprinted\\b|\\bfingerprinting\\b|\\bfingerprint\\ location\\b|\\bfinger\\ print\\b|\\bfinger\\ printed\\b)"
+  },
+  {
+    "name": "Good_Cause_Exception",
+    "pattern": "(\\bdenial\\b|\\bsuspension\\b|\\bexception\\b|\\boverturn\\b|\\boverride\\b|\\bdenied\\b|\\bsuspended\\b|\\boverridden\\b|\\bover\\ ride\\b)"
+  },
+  {
+    "name": "Hard_copy",
+    "pattern": "(\\bhard\\ copy\\b|\\bphysical\\ copy\\b)"
+  },
+  {
+    "name": "Homepage",
+    "pattern": "(\\bhomepage\\b|\\bhome\\ page\\b)"
+  },
+  {
+    "name": "Hours",
+    "pattern": "(\\bHours\\b|\\bOpen\\b|\\bClose\\b|\\bTime\\b|\\btime\\b)"
+  },
+  {
+    "name": "Information",
+    "pattern": "(\\breport\\ number\\b|\\bdate\\b|\\blocation\\ of\\ incident\\b|\\bofficer\\ info\\b|\\binformation\\b)"
+  },
+  {
+    "name": "Location",
+    "pattern": "(\\blocation\\b|\\baddress\\b|\\blocated\\b|\\blocate\\b)"
+  },
+  {
+    "name": "LostCitation",
+    "pattern": "(\\blost\\ citation\\b|\\bcitation\\ copy\\b|\\bcitation\\b|\\bticket\\b)"
+  },
+  {
+    "name": "Mail_Returned",
+    "pattern": "(\\bmail\\ returned\\b|\\brejected\\b|\\bmail\\ not\\ sent\\b|\\bsent\\ back\\b|\\breturned\\b)"
+  },
+  {
+    "name": "Offenses",
+    "pattern": "(\\boffenses\\b|\\barrests\\b|\\bmisdemeanor\\b|\\bcharges\\b|\\bexpunged\\b|\\bdropped\\b|\\bcrimes\\b|\\bfelonies\\b)"
+  },
+  {
+    "name": "Past_CourtDate",
+    "pattern": "(\\bpast\\ court\\ date\\b|\\bcourt\\ date\\b)"
+  },
+  {
+    "name": "Pay",
+    "pattern": "(\\bpay\\b|\\bsubmit\\ a\\ payment\\b|\\binvoice\\b|\\bmake\\ a\\ payment\\b|\\bpay\\ online\\b|\\bpayment\\b|\\bpaid\\b|\\binvoices\\b)"
+  },
+  {
+    "name": "Private_Investigator",
+    "pattern": "(\\bprivate\\ investigator\\b|\\bPI\\b)"
+  },
+  {
+    "name": "Prosessing_time",
+    "pattern": "(\\bprosessing\\ time\\b|\\bduration\\b|\\bhow\\ long\\b|\\bwaiting\\ period\\b)"
+  },
+  {
+    "name": "Qualify",
+    "pattern": "(\\bqualify\\b|\\beligible\\b)"
+  },
+  {
+    "name": "Receive",
+    "pattern": "(\\breceive\\b|\\bget\\b)"
+  },
+  {
+    "name": "Renewal",
+    "pattern": "(\\brenewal\\b|\\brenew\\b|\\bre\\-submit\\b|\\bform\\ traige\\b)"
+  },
+  {
+    "name": "Replacement",
+    "pattern": "(\\bReplacement\\b|\\bReplace\\b|\\breplace\\ Fingerprint\\ Clearance\\ card\\b|\\breplace\\ license\\b|\\blicence\\ replacement\\b)"
+  },
+  {
+    "name": "Return_to_application",
+    "pattern": "(\\bReturn\\ to\\ application\\b|\\bprevious\\ page\\b|\\bgo\\ back\\b)"
+  },
+  {
+    "name": "Security_Guard_License",
+    "pattern": "(\\bSecurity\\ Guard\\ or\\ PI\\ License\\b|\\bSecurity\\ Guard\\ License\\b|\\bPI\\ License\\b|\\bprivate\\ investigator\\ license\\b|\\bSecurity\\ Guard\\ card\\b)"
+  },
+  {
+    "name": "Statement",
+    "pattern": "(\\bstatement\\b|\\bagreement\\b|\\bnotification\\b)"
+  },
+  {
+    "name": "Status",
+    "pattern": "(\\bstatus\\b|\\bapplication\\ progress\\b|\\bapplication\\ pending\\ items\\b)"
+  },
+  {
+    "name": "Submit_a_request",
+    "pattern": "(\\bsubmit\\ a\\ request\\b|\\brequest\\ submission\\b)"
+  },
+  {
+    "name": "Suspension_Letter",
+    "pattern": "(\\bsuspension\\ letter\\b|\\bdenial\\ letter\\b|\\bletter\\ copy\\b|\\bcopy\\b|\\breprint\\b|\\bduplicate\\b)"
+  },
+  {
+    "name": "Update",
+    "pattern": "(\\bupdate\\b|\\bedit\\b|\\bfix\\b|\\bchange\\b|\\bmodify\\b|\\bprofile\\ update\\b|\\bname\\ change\\b)"
+  },
+  {
+    "name": "Valid",
+    "pattern": "(\\bvalid\\b|\\bacceptable\\b)"
+  },
+  {
+    "name": "Valid_Card",
+    "pattern": "(\\bvalid\\ card\\b|\\bphotocopy\\b|\\bphotocopies\\b|\\bactual\\ card\\b|\\bvalid\\ proof\\b|\\bproof\\b|\\bphoto\\ copy\\b)"
+  },
+  {
+    "name": "an_account",
+    "pattern": "(\\ban\\ account\\b|\\ba\\ profile\\b|\\ba\\ user\\ account\\b|\\ba\\ user\\ profile\\b)"
+  },
+  {
+    "name": "concealed_carry",
+    "pattern": "(\\bconcealed\\ carry\\b|\\blicense\\ to\\ carry\\b|\\bconceal\\ carry\\b|\\bconceal\\ weapons\\b|\\bweapons\\ permit\\b)"
+  },
+  {
+    "name": "connection_timeout",
+    "pattern": "(\\byes\\b|\\bYes\\b|\\bno\\b|\\bNo\\b)"
+  },
+  {
+    "name": "guard_card",
+    "pattern": "(\\bguard\\ card\\b|\\bguard\\ card\\ number\\b|\\bguard\\ number\\b|\\bsg\\ number\\b|\\bgaurd\\ card\\#\\b|\\bsg\\#\\b)"
+  },
+  {
+    "name": "live_agent",
+    "pattern": "(\\blive\\ agent\\b|\\breal\\ human\\b|\\btalk\\ to\\ person\\b|\\brepresentative\\b|\\breal\\ person\\b|\\bassistant\\b)"
+  },
+  {
+    "name": "mailing_address_change",
+    "pattern": "(\\bmailing\\ address\\ change\\b|\\baddress\\ change\\b)"
+  },
+  {
+    "name": "money_order",
+    "pattern": "(\\bmoney\\ order\\b|\\bmoney\\ orders\\b|\\bMoney\\ order\\b)"
+  },
+  {
+    "name": "number_shorthand",
+    "pattern": "(\\bno\\b|\\bnum\\b|\\b\\#\\b)"
+  },
+  {
+    "name": "opened_link",
+    "pattern": "(\\bOPENED_LINK \\b)"
+  },
+  {
+    "name": "otp",
+    "pattern": "(\\botp\\b|\\bone\\ time\\ password\\b|\\bOTP\\b)"
+  },
+  {
+    "name": "request_record",
+    "pattern": "(\\brecord\\b|\\bcollision\\ report\\b|\\bcollision\\ record\\b|\\bpolice\\ report\\b)"
+  },
+  {
+    "name": "thankyou",
+    "pattern": "(\\byes\\b|\\bYes\\b|\\bno\\b|\\bNo\\b)"
+  },
+  {
+    "name": "until",
+    "pattern": "(\\buntil\\b|\\btill\\b|\\bexpire\\b)"
+  },
+  {
+    "name": "you_shortHand",
+    "pattern": "(\\bu\\b|\\bur\\b|\\burs\\b)"
+  },
+  {
+    "name": "Application",
+    "pattern": "(\\bapplication\\b|\\blicensing\\ application\\b|\\blicense\\b)"
+  },
+  {
+    "name": "Apply",
+    "pattern": "(\\bapply\\b)"
+  },
+  {
+    "name": "Card",
+    "pattern": "(\\bcard\\b|\\blicense\\b)"
+  },
+  {
+    "name": "CollisionReport",
+    "pattern": "(\\bcollision\\ report\\b|\\bincident\\ report\\b)"
+  },
+  {
+    "name": "Coronavirus",
+    "pattern": "(\\bCoronavirus\\b|\\bCOVID\\-19\\b|\\bCOVID\\b|\\bCOVID\\ 19\\b|\\bCorona\\b|\\bvirus\\b|\\bcorona\\ virus\\b|\\bhand\\ washing\\b|\\bgerms\\b|\\bsick\\b|\\bcough\\b|\\bquarantine\\b|\\bwash\\ hands\\b|\\bsymptoms\\b|\\bfever\\b|\\bcold\\b|\\bflu\\b|\\bsneeze\\b|\\bthroat\\ itch\\b|\\bcough\\b)"
+  },
+  {
+    "name": "Cost",
+    "pattern": "(\\bcost\\b|\\bfee\\b|\\bprice\\b|\\brate\\b|\\bamount\\b|\\bcharge\\b|\\bhow\\ much\\b)"
+  },
+  {
+    "name": "CrashReport_vs_PoliceReport",
+    "pattern": "(\\bcrash\\ report\\b|\\bcrash\\ record\\b|\\bpolice\\ report\\b|\\bpolice\\ record\\b)"
+  },
+  {
+    "name": "Create_account",
+    "pattern": "(\\bcreate\\b|\\bsign\\ up\\b|\\bset\\ up\\b|\\bnew\\b|\\bmake\\b)"
+  },
+  {
+    "name": "Criminal_Background_Check",
+    "pattern": "(\\bcriminal\\ background\\ check\\b|\\bbackground\\ check\\b|\\bcriminial\\ background\\b|\\btrack\\ records\\b)"
+  },
+  {
+    "name": "Different_Types_Of_Record",
+    "pattern": "(\\bDifferent\\ types\\ of\\ Record\\b|\\bType\\ of\\ Record\\b|\\bVarities\\ of\\ Records\\b|\\bGroup\\ of\\ Records\\b|\\bkind\\ of\\ records\\b)"
+  },
+  {
+    "name": "Driving_Restricted",
+    "pattern": "(\\bDriving\\ Restricted\\b|\\bDR\\b|\\bfingerprint\\ clearance\\ card\\ driving\\ restricted\\b)"
+  },
+  {
+    "name": "Email_Records",
+    "pattern": "(\\bemail\\b|\\bemailed\\b|\\bonline\\b|\\bmail\\b|\\bmailed\\b|\\bemail\\ records\\b|\\bmail\\ records\\b)"
+  },
+  {
+    "name": "Fingerprint_Clearance_card",
+    "pattern": "(\\bFingerprint\\ Clearance\\ card\\b|\\bclearance\\ card\\b|\\bfingerprint\\ card\\b|\\bfingerprint\\ clearance\\b|\\blevel\\ one\\ fingerprint\\ clearance\\ card\\b|\\blevel\\ one\\ clearance\\ card\\b|\\blevel\\ one\\ card\\b|\\bregular\\ fingerprint\\ clearance\\ card\\b|\\bregular\\ clearance\\ card\\b|\\bregular\\ card\\b)"
+  },
+  {
+    "name": "Fingerprint_usage",
+    "pattern": "(\\bfingerprint\\b|\\bbiometric\\b|\\bthumbprint\\b|\\bfinger\\ print\\b)"
+  },
+  {
+    "name": "Fingerprinted",
+    "pattern": "(\\bfingerprinted\\b|\\bfingerprinting\\b|\\bfingerprint\\ location\\b|\\bfinger\\ print\\b|\\bfinger\\ printed\\b)"
+  },
+  {
+    "name": "Good_Cause_Exception",
+    "pattern": "(\\bdenial\\b|\\bsuspension\\b|\\bexception\\b|\\boverturn\\b|\\boverride\\b|\\bdenied\\b|\\bsuspended\\b|\\boverridden\\b|\\bover\\ ride\\b)"
+  },
+  {
+    "name": "Hard_copy",
+    "pattern": "(\\bhard\\ copy\\b|\\bphysical\\ copy\\b)"
+  },
+  {
+    "name": "Homepage",
+    "pattern": "(\\bhomepage\\b|\\bhome\\ page\\b)"
+  },
+  {
+    "name": "Hours",
+    "pattern": "(\\bHours\\b|\\bOpen\\b|\\bClose\\b|\\bTime\\b|\\btime\\b)"
+  },
+  {
+    "name": "Information",
+    "pattern": "(\\breport\\ number\\b|\\bdate\\b|\\blocation\\ of\\ incident\\b|\\bofficer\\ info\\b|\\binformation\\b)"
+  },
+  {
+    "name": "Location",
+    "pattern": "(\\blocation\\b|\\baddress\\b|\\blocated\\b|\\blocate\\b)"
+  },
+  {
+    "name": "LostCitation",
+    "pattern": "(\\blost\\ citation\\b|\\bcitation\\ copy\\b|\\bcitation\\b|\\bticket\\b)"
+  },
+  {
+    "name": "Mail_Returned",
+    "pattern": "(\\bmail\\ returned\\b|\\brejected\\b|\\bmail\\ not\\ sent\\b|\\bsent\\ back\\b|\\breturned\\b)"
+  },
+  {
+    "name": "Offenses",
+    "pattern": "(\\boffenses\\b|\\barrests\\b|\\bmisdemeanor\\b|\\bcharges\\b|\\bexpunged\\b|\\bdropped\\b|\\bcrimes\\b|\\bfelonies\\b)"
+  },
+  {
+    "name": "Past_CourtDate",
+    "pattern": "(\\bpast\\ court\\ date\\b|\\bcourt\\ date\\b)"
+  },
+  {
+    "name": "Pay",
+    "pattern": "(\\bpay\\b|\\bsubmit\\ a\\ payment\\b|\\binvoice\\b|\\bmake\\ a\\ payment\\b|\\bpay\\ online\\b|\\bpayment\\b|\\bpaid\\b|\\binvoices\\b)"
+  },
+  {
+    "name": "Private_Investigator",
+    "pattern": "(\\bprivate\\ investigator\\b|\\bPI\\b)"
+  },
+  {
+    "name": "Prosessing_time",
+    "pattern": "(\\bprosessing\\ time\\b|\\bduration\\b|\\bhow\\ long\\b|\\bwaiting\\ period\\b)"
+  },
+  {
+    "name": "Qualify",
+    "pattern": "(\\bqualify\\b|\\beligible\\b)"
+  },
+  {
+    "name": "Receive",
+    "pattern": "(\\breceive\\b|\\bget\\b)"
+  },
+  {
+    "name": "Renewal",
+    "pattern": "(\\brenewal\\b|\\brenew\\b|\\bre\\-submit\\b|\\bform\\ traige\\b)"
+  },
+  {
+    "name": "Replacement",
+    "pattern": "(\\bReplacement\\b|\\bReplace\\b|\\breplace\\ Fingerprint\\ Clearance\\ card\\b|\\breplace\\ license\\b|\\blicence\\ replacement\\b)"
+  },
+  {
+    "name": "Return_to_application",
+    "pattern": "(\\bReturn\\ to\\ application\\b|\\bprevious\\ page\\b|\\bgo\\ back\\b)"
+  },
+  {
+    "name": "Security_Guard_License",
+    "pattern": "(\\bSecurity\\ Guard\\ or\\ PI\\ License\\b|\\bSecurity\\ Guard\\ License\\b|\\bPI\\ License\\b|\\bprivate\\ investigator\\ license\\b|\\bSecurity\\ Guard\\ card\\b)"
+  },
+  {
+    "name": "Statement",
+    "pattern": "(\\bstatement\\b|\\bagreement\\b|\\bnotification\\b)"
+  },
+  {
+    "name": "Status",
+    "pattern": "(\\bstatus\\b|\\bapplication\\ progress\\b|\\bapplication\\ pending\\ items\\b)"
+  },
+  {
+    "name": "Submit_a_request",
+    "pattern": "(\\bsubmit\\ a\\ request\\b|\\brequest\\ submission\\b)"
+  },
+  {
+    "name": "Suspension_Letter",
+    "pattern": "(\\bsuspension\\ letter\\b|\\bdenial\\ letter\\b|\\bletter\\ copy\\b|\\bcopy\\b|\\breprint\\b|\\bduplicate\\b)"
+  },
+  {
+    "name": "Update",
+    "pattern": "(\\bupdate\\b|\\bedit\\b|\\bfix\\b|\\bchange\\b|\\bmodify\\b|\\bprofile\\ update\\b|\\bname\\ change\\b)"
+  },
+  {
+    "name": "Valid",
+    "pattern": "(\\bvalid\\b|\\bacceptable\\b)"
+  },
+  {
+    "name": "Valid_Card",
+    "pattern": "(\\bvalid\\ card\\b|\\bphotocopy\\b|\\bphotocopies\\b|\\bactual\\ card\\b|\\bvalid\\ proof\\b|\\bproof\\b|\\bphoto\\ copy\\b)"
+  },
+  {
+    "name": "an_account",
+    "pattern": "(\\ban\\ account\\b|\\ba\\ profile\\b|\\ba\\ user\\ account\\b|\\ba\\ user\\ profile\\b)"
+  },
+  {
+    "name": "concealed_carry",
+    "pattern": "(\\bconcealed\\ carry\\b|\\blicense\\ to\\ carry\\b|\\bconceal\\ carry\\b|\\bconceal\\ weapons\\b|\\bweapons\\ permit\\b)"
+  },
+  {
+    "name": "connection_timeout",
+    "pattern": "(\\byes\\b|\\bYes\\b|\\bno\\b|\\bNo\\b)"
+  },
+  {
+    "name": "guard_card",
+    "pattern": "(\\bguard\\ card\\b|\\bguard\\ card\\ number\\b|\\bguard\\ number\\b|\\bsg\\ number\\b|\\bgaurd\\ card\\#\\b|\\bsg\\#\\b)"
+  },
+  {
+    "name": "live_agent",
+    "pattern": "(\\blive\\ agent\\b|\\breal\\ human\\b|\\btalk\\ to\\ person\\b|\\brepresentative\\b|\\breal\\ person\\b|\\bassistant\\b)"
+  },
+  {
+    "name": "mailing_address_change",
+    "pattern": "(\\bmailing\\ address\\ change\\b|\\baddress\\ change\\b)"
+  },
+  {
+    "name": "money_order",
+    "pattern": "(\\bmoney\\ order\\b|\\bmoney\\ orders\\b|\\bMoney\\ order\\b)"
+  },
+  {
+    "name": "number_shorthand",
+    "pattern": "(\\bno\\b|\\bnum\\b|\\b\\#\\b)"
+  },
+  {
+    "name": "opened_link",
+    "pattern": "(\\bOPENED_LINK \\b)"
+  },
+  {
+    "name": "otp",
+    "pattern": "(\\botp\\b|\\bone\\ time\\ password\\b|\\bOTP\\b)"
+  },
+  {
+    "name": "request_record",
+    "pattern": "(\\brecord\\b|\\bcollision\\ report\\b|\\bcollision\\ record\\b|\\bpolice\\ report\\b)"
+  },
+  {
+    "name": "thankyou",
+    "pattern": "(\\byes\\b|\\bYes\\b|\\bno\\b|\\bNo\\b)"
+  },
+  {
+    "name": "until",
+    "pattern": "(\\buntil\\b|\\btill\\b|\\bexpire\\b)"
+  },
+  {
+    "name": "you_shortHand",
+    "pattern": "(\\bu\\b|\\bur\\b|\\burs\\b)"
+  }
+]

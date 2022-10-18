@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "fa7a1e52-a10b-4147-9c5f-719ea721f979",
+    "data": [
+      {
+        "text": "Will a DUI conviction that is ",
+        "userDefined": false
+      },
+      {
+        "text": "8 years old",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "deny",
+        "userDefined": false
+      },
+      {
+        "text": " you a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c0b46ad-2032-4b6b-ae83-38bd6c3afe67",
+    "data": [
+      {
+        "text": "My employer call me ",
+        "userDefined": false
+      },
+      {
+        "text": "this morning",
+        "userDefined": false
+      },
+      {
+        "text": " and say my fingerprint is suspending. why?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e3341e9-d874-48f1-8911-297a30122a79",
+    "data": [
+      {
+        "text": "if charges were expunged in CA ",
+        "userDefined": false
+      },
+      {
+        "text": "20 years ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  and it was you only charge ever , could you still get a level 1 finger print  card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c65ca8cc-a2e2-4f38-b08b-24c676b1220d",
+    "data": [
+      {
+        "text": "Hi, I was applying to get a fingerprint card and it said it could not be cleared.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a05e734a-87fc-4159-a377-6f6c771da08d",
+    "data": [
+      {
+        "text": "Fingerprint clearance has not been cleared. how do I find out why",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8350e682-f51b-4075-84ee-858edba164bd",
+    "data": [
+      {
+        "text": "How do I find out the unit that ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " my fingerprint clearance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbe18066-ea1f-48e2-b0f7-cd5d4b7aa67f",
+    "data": [
+      {
+        "text": "If I have a shoplifting charge from years ago will I get denied a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "564c6f59-c01e-4cd5-9ef3-0f2af4c84e47",
+    "data": [
+      {
+        "text": "What would get you application unapproved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "435d9527-7adf-4e19-b2cd-eb7a57f0f38a",
+    "data": [
+      {
+        "text": "how do I file a review and challenge if my fingerprint clearance card is ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f2bf642-0920-4f9d-a232-7a3de49df7cc",
+    "data": [
+      {
+        "text": "Have not received my fingerprint card. They were rejected Ted by Gemalto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fec1ff0-a6ab-489c-abc5-024852b54fa0",
+    "data": [
+      {
+        "text": "I was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " clearance with my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db60b19c-075a-4e65-8343-2cc14f8ba16c",
+    "data": [
+      {
+        "text": "I lost my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937eb33e-1086-4f7c-812b-8aacb3b20823",
+    "data": [
+      {
+        "text": "I had a card but I lost it not sure the card number and would like to know if it\u0027s ok for the real estate agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "529d5c4d-23cf-482f-aeea-00df60b45e16",
+    "data": [
+      {
+        "text": "Can criminal speeding deny my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdfeff60-bdc1-42cc-bf07-2a6486c908a6",
+    "data": [
+      {
+        "text": "I have had a fingerprint card before but it is lost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dde5a5c-95b8-4bac-9d94-609b3e9e6f85",
+    "data": [
+      {
+        "text": "I am not able to locate my finger print  cards and my guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d65df705-aca7-4018-9526-116c1b319908",
+    "data": [
+      {
+        "text": "declined",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "072e2095-7b26-4332-b2ee-990c99e0af9d",
+    "data": [
+      {
+        "text": "can you verify I have a fingerprint card on file",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "011cb461-951d-43fe-8a47-d9286929d403",
+    "data": [
+      {
+        "text": "I lost my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c86fc488-69ac-46fd-8928-2acc510c2ca9",
+    "data": [
+      {
+        "text": "How can I get a copy of my IVP record?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6c5ffeb-83ac-4595-822c-2d82d8a39d81",
+    "data": [
+      {
+        "text": "Can l  have a copy of the result of my finger print?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ffd673-1f4f-414d-bb1f-34b325311ffb",
+    "data": [
+      {
+        "text": "card was lost please advise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b142c5f-4269-4be5-aa71-d457d2eb1537",
+    "data": [
+      {
+        "text": "get a copy of card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6990899-c7c6-4b14-802b-a6d9cbca2fc6",
+    "data": [
+      {
+        "text": "Lost ID card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5120884c-699e-4fb5-8326-9e8024926d5c",
+    "data": [
+      {
+        "text": "why were my fingerprints rejected on a renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e0de901-267b-4759-ad49-ccdf9776803b",
+    "data": [
+      {
+        "text": "Request got ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18fb7942-3c22-4bf6-baa8-78d9f15210e6",
+    "data": [
+      {
+        "text": "Application ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c45ce50-ab8b-4e78-83be-1d9d9c7b300b",
+    "data": [
+      {
+        "text": "My request has been ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bfe2741-88b1-41ae-ae8b-2098384ed931",
+    "data": [
+      {
+        "text": "Why was my request ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f01fb6ce-8fa1-487a-bf0b-3ba6cd8bf5dc",
+    "data": [
+      {
+        "text": "Help me understand why my application ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f81dc089-1786-4b30-b73f-00fcfbad0d61",
+    "data": [
+      {
+        "text": "May i know why my application ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1af99e68-6358-4580-b16c-7c46773757b6",
+    "data": [
+      {
+        "text": "Need to know why my application ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f48fa38b-7dc3-45f5-881a-243966eb2788",
+    "data": [
+      {
+        "text": "application ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ifno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa709483-dc88-473f-88e9-28403addeb85",
+    "data": [
+      {
+        "text": "My application ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e71b4d03-3229-4664-ae05-a6efbb105071",
+    "data": [
+      {
+        "text": "Why am I rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a117f2b4-cc12-4b0b-a738-319c348d84d1",
+    "data": [
+      {
+        "text": "My application is being rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c911fc1-a4be-48b7-8ede-7c0b4d01e2bf",
+    "data": [
+      {
+        "text": "why my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2188a609-3deb-46c3-9292-7b237dbf87d9",
+    "data": [
+      {
+        "text": "I want to know the reason for my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1ad0145-2603-4490-a5ca-6dacefba15c2",
+    "data": [
+      {
+        "text": "why my request was ",
+        "userDefined": false
+      },
+      {
+        "text": "rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd5cd0ca-8a38-484b-b97a-aac1f07534eb",
+    "data": [
+      {
+        "text": "Why my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fee06f3-0e84-4c97-a397-ff23f630d0da",
+    "data": [
+      {
+        "text": "Why I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b5ca22e-97df-4af9-982f-cd6f4cbc60a2",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "getting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4a4709d-e225-4bec-8d52-3ff3bf25311c",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " got ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13b65bfc-cf29-4700-9a9d-8482c8f6a2df",
+    "data": [
+      {
+        "text": "My request got ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": ",What can I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "382e6758-f55d-48be-9e3a-d602359f78eb",
+    "data": [
+      {
+        "text": "What can I do if my request got ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a339289d-f429-4a4c-8d53-fe6b2a31b25a",
+    "data": [
+      {
+        "text": "why ddi you ",
+        "userDefined": false
+      },
+      {
+        "text": "deny",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " my request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a08143ac-cec4-43e4-9d74-1be8986d1878",
+    "data": [
+      {
+        "text": "tell me why my request was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fce93535-dc92-496c-b878-1f9ba4df06c7",
+    "data": [
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "deny",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": ", why",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c2c6fc-12ed-485c-8021-781f41a6d6d1",
+    "data": [
+      {
+        "text": "who ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb4bd6a-4e5b-45b5-811f-77938270b0ac",
+    "data": [
+      {
+        "text": "why was my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " not approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daeede14-fdfe-47c0-a805-8d699a0dc14f",
+    "data": [
+      {
+        "text": "What could be the reason to ",
+        "userDefined": false
+      },
+      {
+        "text": "deny",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " my request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7daf1574-7f11-4ce6-886f-d621697eb0ff",
+    "data": [
+      {
+        "text": "why my request ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acee6a61-483b-4b17-b66c-786ff890e97b",
+    "data": [
+      {
+        "text": "I need to know the reason for my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9b99fbe-3d19-4f25-a672-4a8be0f6cc87",
+    "data": [
+      {
+        "text": "For what reason my request ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3748aed-37c9-4eeb-bd68-dc0454d85a37",
+    "data": [
+      {
+        "text": "My request got ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please tell me the reason",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82c50547-2e92-45b9-9add-35a32e6e94e5",
+    "data": [
+      {
+        "text": "Reason behind the ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10859f8f-4eed-47d4-830b-a725597ca0bb",
+    "data": [
+      {
+        "text": "Why my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937d5240-7deb-43bf-bb0a-45fd38d9bbfe",
+    "data": [
+      {
+        "text": "Application",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33ec1a0-65b1-4ad5-ab96-dc8bd16663d3",
+    "data": [
+      {
+        "text": "My request ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b01597-4d0b-43c2-85d7-3f9eb5e16d3d",
+    "data": [
+      {
+        "text": "I was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afb525ac-d893-448f-9265-e52b10e6fb5d",
+    "data": [
+      {
+        "text": "I want to know why I was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8608216b-5a59-46a5-ab50-6ce9dae97a26",
+    "data": [
+      {
+        "text": "Why did I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75d31105-a036-4d72-b937-cb481a4c8094",
+    "data": [
+      {
+        "text": "I got a ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "284d71d0-ef10-46c9-80b3-a3533b05fbb0",
+    "data": [
+      {
+        "text": "why was I ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

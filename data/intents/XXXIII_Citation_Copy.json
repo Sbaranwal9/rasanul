@@ -1,0 +1,61 @@
+{
+  "id": "1173271c-ac6c-4dca-8927-f7d84989f32e",
+  "name": "XXXIII_Citation_Copy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a408a54-dac9-4dbf-a968-9171751230c2",
+          "name": "lostcitation",
+          "required": false,
+          "dataType": "@LostCitation",
+          "value": "$lostcitation",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "68a835ea-8432-486f-8428-484e59b82008",
+          "name": "past_courtdate",
+          "required": false,
+          "dataType": "@Past_CourtDate",
+          "value": "$past_courtdate",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

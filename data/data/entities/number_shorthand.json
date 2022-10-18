@@ -1,0 +1,9 @@
+{
+  "id": "6e4d5935-2f5f-44ee-bb3a-f881f9139e62",
+  "name": "number_shorthand",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

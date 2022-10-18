@@ -1,0 +1,36 @@
+{
+  "id": "3f094736-63f1-4b15-aa68-933c10d4cc67",
+  "parentId": "1eaf9e07-4671-472e-996d-be53f94c856a",
+  "rootParentId": "1eaf9e07-4671-472e-996d-be53f94c856a",
+  "name": "VIII_Status_FingerprintClearanceCard",
+  "auto": true,
+  "contexts": [
+    "VIII_Status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VIII_Status.VIII_Status-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

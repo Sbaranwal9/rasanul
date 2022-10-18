@@ -1,0 +1,9 @@
+{
+  "id": "ccd3b459-7709-40fa-ac12-20112252c52f",
+  "name": "Create_account",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

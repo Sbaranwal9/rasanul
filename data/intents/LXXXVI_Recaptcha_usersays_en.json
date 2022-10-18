@@ -1,0 +1,673 @@
+[
+  {
+    "id": "5b047a7d-ac71-4247-ab2e-d4b5658a234b",
+    "data": [
+      {
+        "text": "What is captcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b236901d-fd02-4e14-a1a4-b4bdba09abf4",
+    "data": [
+      {
+        "text": "Brief me on recaptcha.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5680b98d-d53e-43a7-86cd-6bc129c98e02",
+    "data": [
+      {
+        "text": "Explain me about recaptcha.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58f26fc2-db07-4ff4-92a9-34156dc9d1ad",
+    "data": [
+      {
+        "text": "recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db03a470-75ab-4f76-9ed5-1535ee617c13",
+    "data": [
+      {
+        "text": "How do I get rid of reCAPTCHA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39b72fb6-dcdb-46da-ae65-0fe97a09c18a",
+    "data": [
+      {
+        "text": "Is reCAPTCHA safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "352fb7e9-dd38-4bfe-a331-ff530585b7fc",
+    "data": [
+      {
+        "text": "What is reCAPTCHA and how does it work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fddacb31-71a4-4c3c-b774-2e8e363ac81c",
+    "data": [
+      {
+        "text": "What does reCAPTCHA mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4952ba66-9f83-4ace-bcd9-1f9d2d20e611",
+    "data": [
+      {
+        "text": "What is Re-Captcha system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3c7436e-6ebd-40f4-933b-9601df676bb0",
+    "data": [
+      {
+        "text": "What\u0027s recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a6ac38c-b887-4c83-906a-57dba333a8a1",
+    "data": [
+      {
+        "text": "What is re-captcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9cc2278-520a-49c5-ab4d-f8548ea5e2db",
+    "data": [
+      {
+        "text": "It\u0027s showing some kind of pictures and asking me to select cars and trucks, what\u0027s that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a157ef2-90d2-40fb-8e3e-c8667c742ea7",
+    "data": [
+      {
+        "text": "Can I use the Recaptcha here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f45557a-668e-4657-b593-8f0da9a2aaf7",
+    "data": [
+      {
+        "text": "What is the purpose of  Recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "827585b9-ccd6-43c8-b347-a3951b21c342",
+    "data": [
+      {
+        "text": "How to use Recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12911b47-3949-46ca-9451-0c1146487fdd",
+    "data": [
+      {
+        "text": "What is Recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b98b2b-c59d-4fb7-bf00-13e21b13f817",
+    "data": [
+      {
+        "text": "Need help in understanding more about recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e0faee8-b9d5-49d9-86e9-9e9f8f7d26e4",
+    "data": [
+      {
+        "text": "Please help me understand what recaptcha is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cebce434-6f9f-494a-acfb-06073191fda2",
+    "data": [
+      {
+        "text": "Help me find more about recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e9a9a78-4abe-49bd-9c09-69f0d81fe65b",
+    "data": [
+      {
+        "text": "Want to know more about recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc875d52-43b0-42f0-bc3f-8f945ac872f9",
+    "data": [
+      {
+        "text": "what is this captcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d3638a6-9f07-4fe5-861d-0deb51501142",
+    "data": [
+      {
+        "text": "tell me about captcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9031c717-d58a-40f3-a718-6f82ec9f2039",
+    "data": [
+      {
+        "text": "what is recaptcha, I need to know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df90c3e7-98c2-48b1-bc86-1afff9125d11",
+    "data": [
+      {
+        "text": "tell me more about recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1da28ef4-f3d9-4f36-9a3f-2fd2fe7848b8",
+    "data": [
+      {
+        "text": "Can I get information about recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d995d855-d146-43e4-a546-077d4c993110",
+    "data": [
+      {
+        "text": "what do you mean by recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad53b46-7cfe-4c72-93e4-d531d36110dc",
+    "data": [
+      {
+        "text": "I don\u0027t know recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8fb1204-14bf-4e7f-ae01-43fe8172e84c",
+    "data": [
+      {
+        "text": "I want to know about recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66e2f449-011b-47ae-965e-6509420823c2",
+    "data": [
+      {
+        "text": "how to i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e494d003-eb38-4775-bc76-322f96830492",
+    "data": [
+      {
+        "text": "details for captcha\n capcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f53ec7c8-9c55-48e1-bbc5-ba126866a31d",
+    "data": [
+      {
+        "text": "what is recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98b564ae-2f43-48ae-b250-6c90076faf51",
+    "data": [
+      {
+        "text": "what exactly is recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b33f9d-1d23-4d09-b16a-b5c79709e117",
+    "data": [
+      {
+        "text": "why captcha now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54d7840a-db37-4e31-8680-b5f65d1a695a",
+    "data": [
+      {
+        "text": "what is captach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "544adcf4-2492-450a-b24e-cfe4176895e3",
+    "data": [
+      {
+        "text": "Why do i need enter captcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88ea9ad6-f909-4738-9301-cda6df53ffdc",
+    "data": [
+      {
+        "text": "captcha is used for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67334632-0ce7-4ec3-adc4-4c979662a9cc",
+    "data": [
+      {
+        "text": "what is the use of recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58fb1790-15c2-442c-928c-9432b191c4a0",
+    "data": [
+      {
+        "text": "what is the use of capcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1735607d-f67e-46c1-aa8d-8de56f426267",
+    "data": [
+      {
+        "text": "capcha means?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e149039d-17e6-4dc5-8928-a8c037bbb38b",
+    "data": [
+      {
+        "text": "why capcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8931ae25-f005-4656-9772-bc2f84047ac0",
+    "data": [
+      {
+        "text": "need info on Capcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c60bce8f-7f1d-42d0-9fde-a02e6d8bb717",
+    "data": [
+      {
+        "text": "What is Capcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad07632a-4dfb-428e-9e5b-62c6c26b8ed8",
+    "data": [
+      {
+        "text": "Provide me info on Captcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5c41929-0350-4c0c-b7b3-dd91cb219be4",
+    "data": [
+      {
+        "text": "Provide me details of Capcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e12c0d15-d003-4ffb-8740-4bd824bd861f",
+    "data": [
+      {
+        "text": "Let me know about recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2abb394a-9d51-44ba-929b-08c0812877b6",
+    "data": [
+      {
+        "text": "Tell me more about Recaptcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c6b38ac-2fc7-4cef-a604-30430eeb9252",
+    "data": [
+      {
+        "text": "Not able to see Recaptcha.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a65cb67-9102-42b3-8565-ff8a2cfcd5b3",
+    "data": [
+      {
+        "text": "What will happen if I didn\u0027t enter Recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38b903b5-effd-44c1-bb97-6ab588deb4fb",
+    "data": [
+      {
+        "text": "Is Recaptcha mandatory?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ed8a5a5-9c1c-4c4c-9214-dd1d0b5a00a9",
+    "data": [
+      {
+        "text": "Why Recaptcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "078a5708-ab69-4642-a5e4-6334f657ed1f",
+    "data": [
+      {
+        "text": "Recaptcha means?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

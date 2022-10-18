@@ -1,0 +1,9 @@
+{
+  "id": "a0a28f84-57e3-4374-b466-825ff8aa3694",
+  "name": "CollisionReport",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

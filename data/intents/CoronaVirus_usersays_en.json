@@ -1,0 +1,373 @@
+[
+  {
+    "id": "8afc7692-28f3-4bc5-978d-2583f544e299",
+    "data": [
+      {
+        "text": "Where can i refer to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b8a5226-86c0-4847-8b13-b39bb37059d1",
+    "data": [
+      {
+        "text": "Update on ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3017c149-2b0e-4fde-bf64-59802e14226d",
+    "data": [
+      {
+        "text": "Where can I find more information about ",
+        "userDefined": false
+      },
+      {
+        "text": "coronaviruses",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31b462b4-4844-4f7c-9e8d-ed19920892bc",
+    "data": [
+      {
+        "text": "Can humans become infected with a ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " of animal source?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe274765-0d3f-431a-961e-5b27f547f813",
+    "data": [
+      {
+        "text": "How many people have been affected from ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aff8298c-5841-4a98-a093-705c75d952c3",
+    "data": [
+      {
+        "text": "Is MO giving out face masks to avoid ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona virus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a86db71e-83fb-4b1e-96eb-4ec74ec1b195",
+    "data": [
+      {
+        "text": "What should I do if I have recently traveled from ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "userDefined": false
+      },
+      {
+        "text": ", South Korea, Iran, Italy or Japan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcc1d24f-1391-4e57-a7b8-98a25ebcd832",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " being transmitted from one person to another?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0afb0e91-1c9d-455b-93a7-b7fe382c2eed",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid-19",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57dc8196-59db-4119-83df-9ad6c2317faa",
+    "data": [
+      {
+        "text": "What should I do if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "symptoms",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f20a9045-4eba-44e3-9d8b-ebc808caa561",
+    "data": [
+      {
+        "text": "cold",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9004cb-0955-493a-b961-51367ca28318",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "symptom",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "corona virus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f8407bc-be03-4d23-9790-071dbf67da65",
+    "data": [
+      {
+        "text": "Are there any tests performed by MO to detect ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63ed4764-a1ea-47d6-8d96-d0508c18a705",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "symptoms",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69797396-6a37-4d8f-93a2-3b051d9ec487",
+    "data": [
+      {
+        "text": "What is ​",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@Coronavirus",
+        "alias": "Coronavirus",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

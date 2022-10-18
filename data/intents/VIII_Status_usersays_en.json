@@ -1,0 +1,5560 @@
+[
+  {
+    "id": "b0635d4d-8bd5-426f-952b-a765756d00d2",
+    "data": [
+      {
+        "text": "Applied for fingerprint clearance card.  No results after",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d6da46c-2e0c-482d-873f-0eb9fb998e07",
+    "data": [
+      {
+        "text": "how can i find out if i\u0027ve applied for one in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ba7e0ae-e172-441e-939b-2cf50a39a6f5",
+    "data": [
+      {
+        "text": "who do i contact to check on my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9389f219-8e47-44a8-a083-ff40896c868e",
+    "data": [
+      {
+        "text": "what i need to do to find out if my card has mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "365ea3ba-b706-436a-8d86-8016c8280314",
+    "data": [
+      {
+        "text": "Where\u0027s my report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a953d91-36ba-4f6c-ba35-887e451b790b",
+    "data": [
+      {
+        "text": "I cannot locate a speeding/warning ticket how do I lookup the information.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f71e06c1-707b-40ac-a66a-c840aefc9a76",
+    "data": [
+      {
+        "text": "I paid for an accident report per the invoice but the actual accident report was not delivered.  The reference number is PHONE_NUMBER.  Can you help with this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f2c70a5-c26e-4714-893c-6d2ff490c0fe",
+    "data": [
+      {
+        "text": "How would I be informed that I\u0027m  cleared to get a finger clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7e11d8d-c2a0-4e1b-b88e-80eb197b27eb",
+    "data": [
+      {
+        "text": "I need to know how I can get fingerprint results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed736dbb-1961-4204-b9d1-cd63afc46ae8",
+    "data": [
+      {
+        "text": "Hello, I haven\u0027t heard any information on my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c383a9b1-0770-4b55-b1f8-2951d04b65c4",
+    "data": [
+      {
+        "text": "How to find my finger print clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b31a36cd-78b1-428c-8fbd-532206d8649f",
+    "data": [
+      {
+        "text": "I\u0027m trying to check the status of my card and I\u0027m not able to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb6f1919-c96a-4d30-bcf0-4b13857ac16d",
+    "data": [
+      {
+        "text": "How do I know if I applied for a level one fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf8a623b-7636-4418-91ca-f9b66e9c5459",
+    "data": [
+      {
+        "text": "I need to know about my fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7384f1a9-63f2-4f3f-ad33-928321593657",
+    "data": [
+      {
+        "text": "Checking on the Good Conduct exemption that I submitted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9badb1c3-e431-4717-9ec0-61abe4e0daee",
+    "data": [
+      {
+        "text": "Fingerprinting status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "560ac02f-0a0f-462e-a26d-67d9934127db",
+    "data": [
+      {
+        "text": "I cannot find my card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c6019eb-29e9-4645-a360-58b1ad8d8630",
+    "data": [
+      {
+        "text": "Why hasn\u0027t my fingerprint card arrived?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "274f017e-0f9c-4f1d-8b66-6f8021e2d0cf",
+    "data": [
+      {
+        "text": "when clearance card was mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6da8fe8-44fc-4009-9424-42e47624a750",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres Nguema",
+        "userDefined": false
+      },
+      {
+        "text": " Mba, I need to know what did happen with my Fingerprint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a635ada5-df9a-4ec1-b293-6a0fc282021e",
+    "data": [
+      {
+        "text": "How do I check on paper fingerprinting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f99cdb33-8cf2-42b4-8c13-fa0674aee423",
+    "data": [
+      {
+        "text": "I dont recall if it was renewed or not. Can you please check? Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7b40c45-d160-456d-9f7b-eb43bd9daf2c",
+    "data": [
+      {
+        "text": "I just need to go into my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c54f1cf-4bd3-4da6-b2a2-d3c5ded9e907",
+    "data": [
+      {
+        "text": "How do I know if my fingerprint is on file and can  it work with my maiden name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49598672-fbca-4ab4-8866-73ed197b6c19",
+    "data": [
+      {
+        "text": "non of the above, I need to confirm if my card has expired or if a replacement is being sent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8933f22b-5e00-40ab-8a16-c8a9d5ca605a",
+    "data": [
+      {
+        "text": "I\u0027m looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my finger clearance.  Noticed in the email my last name I spelt wrong. It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Victoria Gutierrez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a25ba78c-9737-4ffa-a92b-6ba66ee4f1f2",
+    "data": [
+      {
+        "text": "I\u0027m just waiting on the card in the mail just need information that its processing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41f31af8-c639-4ba8-84e4-d7e694099aff",
+    "data": [
+      {
+        "text": "The payment and application where June ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "th 2021. I have not heard anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "953f40fe-3648-4adf-a623-bbeb8aeb7230",
+    "data": [
+      {
+        "text": "where can i check if its active?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03734727-ca13-46fd-b1d9-854706e28651",
+    "data": [
+      {
+        "text": "I would like to know about my finger print now tho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9ec0501-f16e-4a39-8022-e865a89225c1",
+    "data": [
+      {
+        "text": "Hi, just wondering if you guys have my application is line to be checked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01067a19-62e6-453b-bac3-beee34f46607",
+    "data": [
+      {
+        "text": "I believe that i have a fingerprint clearance card already, are you able to check that for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e0c0ac3-b000-4632-978d-462f9971228c",
+    "data": [
+      {
+        "text": "Did a Guard cad get sent in the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e238eda7-4f5a-4610-84f2-eb00be940500",
+    "data": [
+      {
+        "text": "Dps can\u0027t locate my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b9b2ca7-d355-422f-859f-d605cc685b53",
+    "data": [
+      {
+        "text": "I have not heard anything since I got them taken. So what is the status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a31168fc-4247-4b3e-a396-53126099cc86",
+    "data": [
+      {
+        "text": "need to know my fingerprint card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2baffae8-bcc0-4753-827b-f6084e2ca523",
+    "data": [
+      {
+        "text": "Is my clearance card ready to be used for employment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5b53c09-e7f4-4a0e-bd41-7aabb9c5a7b5",
+    "data": [
+      {
+        "text": "status of fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73dfa862-b203-4b04-8a0b-633e363bfae5",
+    "data": [
+      {
+        "text": "Where is my fingerprint card now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32f0dac-74a5-4115-b8d9-fa930473c534",
+    "data": [
+      {
+        "text": "I applied to be able to check our employees fingerprint cards if they are valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5797d12-c78b-4d28-8af8-37dce753d68a",
+    "data": [
+      {
+        "text": "I need my finger print update or whatever is proof on my live scan  finger prints done ",
+        "userDefined": false
+      },
+      {
+        "text": "June 22 2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d6744d8-10de-44e4-8469-79b490820af3",
+    "data": [
+      {
+        "text": "I put in for a fingerprint card ",
+        "userDefined": false
+      },
+      {
+        "text": "4 month ago",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75194428-ca35-4837-9f4b-17f11c1a889b",
+    "data": [
+      {
+        "text": "how can a person find their fingerprint clearance card when the employer wont release it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e51ae4-4b07-4e07-a209-0c293acde6bd",
+    "data": [
+      {
+        "text": "Fingerprint clearance update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10a6454f-0fb1-4632-8e40-738fce9cab50",
+    "data": [
+      {
+        "text": "If I give you the registration ID, can you tell me if the person\u0027s application is in progress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed5427ed-099f-4be0-ac92-802a54cfb52a",
+    "data": [
+      {
+        "text": "Did my application go through?  I don\u0027t see a payment on my bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16cf40de-baee-476a-91f6-17e4a6ba5490",
+    "data": [
+      {
+        "text": "Check on fingerprint card don\u0027t know app number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6378d569-ba04-457f-9481-99d3ad59f655",
+    "data": [
+      {
+        "text": "I\u0027m trying to find out where my card is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e57a030-d9e1-4b18-9d28-e106a7d057c7",
+    "data": [
+      {
+        "text": "status of Police Report request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57269244-7d33-437d-89ff-792a93025ea3",
+    "data": [
+      {
+        "text": "Verify if I have a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e797bfee-95bc-411e-87e9-7ab4f858c056",
+    "data": [
+      {
+        "text": "I got my finger prints taken for my clearance card and I just want to know the progress.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a5481d-cfd7-43fe-9f67-17752e49e225",
+    "data": [
+      {
+        "text": "I need to know where my fingerprint clearance card is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb8cc600-1f24-486c-b7da-b39c5c9d5658",
+    "data": [
+      {
+        "text": "How can I find out if my background was cleared or not.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eebe8798-f3ce-4448-b255-1ba173df9bb6",
+    "data": [
+      {
+        "text": "Is there a another way to look up a finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07f11a60-ae1b-48cc-abd5-52980c34ca49",
+    "data": [
+      {
+        "text": "Trying to see if my card arrived in Arizona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be8a1a19-5d33-4b06-9d62-1226905a9798",
+    "data": [
+      {
+        "text": "i cant find my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "311bc5c3-327a-43fb-8051-0a3bae6c995b",
+    "data": [
+      {
+        "text": "I would like to get the status of my CCW application from June of 2021.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f90427b3-1651-42a5-a95b-89ff5e648306",
+    "data": [
+      {
+        "text": "how do I know if I applied for a level one fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cada063-48ef-48ac-84ee-4b6fe4c472ad",
+    "data": [
+      {
+        "text": "Can you tell me if Report No. US_SOCIAL_SECURITY_NUMBER is ready?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00a7b92a-4fb5-44e7-b2e9-887ddf77172a",
+    "data": [
+      {
+        "text": "Where is my fingerprint clearance card? I just sent in a money order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17c5e8ef-8db4-40f5-b3e8-6578518c2c02",
+    "data": [
+      {
+        "text": "My card was approved on august 13th but I still do not have it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b1c0c9e-5778-45c0-905d-c31cdec9bddd",
+    "data": [
+      {
+        "text": "on July 20th I sent in an application and paid the 65 dollar fee- I was just checking on the status of the fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "932d1ac4-83a8-47af-8808-3eba6758a08c",
+    "data": [
+      {
+        "text": "Where is the card? Don\u0027t how else to say this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "453c429a-66d4-4510-8f31-414e1488d2b3",
+    "data": [
+      {
+        "text": "Hello, I submitted a fingerprint clearance card application on 7/30/21 as new for RN school.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43d7834a-dc57-4aaf-a483-906f43c8c62b",
+    "data": [
+      {
+        "text": "I sent in all paperwork for a conceal carry permit back in June and checking the status.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5333964d-b320-4a12-8f37-246cbe138e1a",
+    "data": [
+      {
+        "text": "I need to know if my fingerprint card is still on suspension. Can I reapply? or do I need to get it of suspension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9048f807-634f-4056-bd10-0c5a07d3d7c9",
+    "data": [
+      {
+        "text": "Unable to locate clearance card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "692a02c5-ae8e-4d58-af97-6a36f91c6e17",
+    "data": [
+      {
+        "text": "Already did that.  Can you help me determine if there is a problem or delay in processing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9159f45a-34ce-4399-bcfd-e44dd59f32be",
+    "data": [
+      {
+        "text": "Can you give me an update on IVPP736386",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6e6712c-2e93-45a3-9d28-cabb407b56f7",
+    "data": [
+      {
+        "text": "Has my clearance paper been sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b702215-44d2-4f42-849a-23c7f207fd23",
+    "data": [
+      {
+        "text": "where is this card WF85346091",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1159682b-ecb1-49d5-b8d4-10a08ff28212",
+    "data": [
+      {
+        "text": "I am looking for a card under number IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "0855890",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?  It was an application I sent in ",
+        "userDefined": false
+      },
+      {
+        "text": "July",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "317a425e-73df-42ea-8372-a601c19f74f8",
+    "data": [
+      {
+        "text": "where can i access my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2b15aa4-f3f5-4b18-8eb3-d78f1fe6b9a4",
+    "data": [
+      {
+        "text": "Hello, where is my new card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43e27742-20c0-410b-b81b-b23b54a96199",
+    "data": [
+      {
+        "text": "i want to know the statues of my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bcde46a-1150-4c7a-b8f0-95a53d7c9497",
+    "data": [
+      {
+        "text": "Access application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c4d4d5c-d571-4f8e-b2f7-b64b6a48207b",
+    "data": [
+      {
+        "text": "How do I access my fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62c7194e-f36c-41c1-ab3a-c326d13725c8",
+    "data": [
+      {
+        "text": "Did I get approved for a card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79718821-035f-4d11-8dd2-15cc95cbbb64",
+    "data": [
+      {
+        "text": "Where is the report I orderded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68c932c9-4ea2-444e-8211-20780b8314e3",
+    "data": [
+      {
+        "text": "Have you sent the fingerprint card for card # 2021G",
+        "userDefined": false
+      },
+      {
+        "text": "08913",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0044a203-2f40-4a28-8ad9-6f0d927b7b88",
+    "data": [
+      {
+        "text": "how do i check my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9a67202-cc3e-4280-8a5e-955c0a795d41",
+    "data": [
+      {
+        "text": "Hello. I need to find out if I have a fingerprint clearance card. Is there anyway you can check on that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6b38543-a879-4a12-bc74-93275af512c4",
+    "data": [
+      {
+        "text": "I need to know what type of application I submitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab20f5fd-5130-4828-b909-4317a4bd3056",
+    "data": [
+      {
+        "text": "Is my card approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "545a132c-dc82-479b-8865-4e4a17ff3b2d",
+    "data": [
+      {
+        "text": "Where is my new card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6d9d1ff-1789-407c-8676-0e215f4cd195",
+    "data": [
+      {
+        "text": "Hi I\u0027d like to know if my replacement card for fingerprint card has came yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6335ee50-eee4-4077-991f-667fbb3dac98",
+    "data": [
+      {
+        "text": "Where is my security guard card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe528acc-8f9a-4558-afb4-520a58e05e4b",
+    "data": [
+      {
+        "text": "how do I find out the outcome of my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ff26c27-1d28-4fed-95f1-9a1b4cf63900",
+    "data": [
+      {
+        "text": "hi, we submitted an application by mailing the application and ink card and we need an application number and/or status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c54441b-d714-4ac5-8990-b012f8ef1c86",
+    "data": [
+      {
+        "text": "update on my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be2ef663-e16c-470d-88a3-66b5e9d1e09b",
+    "data": [
+      {
+        "text": "Hi I am trying to locate the fingerprint code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf20d3fc-596d-4347-acd8-2776ba84c20a",
+    "data": [
+      {
+        "text": "How does one check if ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " can receive a card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45352cb2-3fca-47ac-826b-cc42aa078945",
+    "data": [
+      {
+        "text": "\"I am checking on a fingerprint clearance card application  for ",
+        "userDefined": false
+      },
+      {
+        "text": "Irving",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Phifield",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " #IVP",
+        "userDefined": false
+      },
+      {
+        "text": "0806315",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      },
+      {
+        "text": ".  Can you help me with this?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc2112e3-7ad6-4504-96bf-0c8b3f211414",
+    "data": [
+      {
+        "text": "I want see look up my fingerprint card but don\u0027t have the numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0244570-60af-4a60-9638-e79443c2303a",
+    "data": [
+      {
+        "text": "check finger prints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd17f821-b627-4d5e-9fc2-494ea717aa56",
+    "data": [
+      {
+        "text": "Hi I need to know if my fingerprint clearance card is still active. I don\u0027t have the application or number. Can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19a07c65-6b38-43f3-a1b1-1665722ae004",
+    "data": [
+      {
+        "text": "I need to check the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my fingerprint clearance card but I do not have an application number.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0600d43e-352a-443a-a895-62d3fdb83bac",
+    "data": [
+      {
+        "text": "Hi, I was wondering if I could check to see if my fingerprint card is still on file",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d7a8fde-c58c-45ab-ae7b-441f8d3d5129",
+    "data": [
+      {
+        "text": "how can I make sure that me reordered fingerprint clearance card is on its way?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b895ff0-9d00-4b40-9277-a07ea0abec76",
+    "data": [
+      {
+        "text": "\"I want to see if I have had a fingerprint  clearance card\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03efa172-4261-4d43-a2ec-f204744fa711",
+    "data": [
+      {
+        "text": "Hi my ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " is in process but I want to make sure I\u0027m applying for a level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " finger print clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fd3f905-23a9-42bd-883c-f44bec58611a",
+    "data": [
+      {
+        "text": "Can you please tell me if my fingerprint card has been issued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0575532-0f0e-4412-9d91-1b3071578784",
+    "data": [
+      {
+        "text": "Hello, I sent in my finger prints via usps on ",
+        "userDefined": false
+      },
+      {
+        "text": "07/15",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and I wanted to get an updated on the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aca2fca6-05e6-4901-9340-5a183e5946e6",
+    "data": [
+      {
+        "text": "i need to confirm i have a finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fb11ede-7929-4ca5-abc9-8a5668b1ccfa",
+    "data": [
+      {
+        "text": "Hello i need to check the status on my finger print card but i dont have the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db706f1-5d48-40b5-84a7-15ae4df3d5d3",
+    "data": [
+      {
+        "text": "I\u0027m not sure if I have a current fingerprint card is there a way to check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e70507-c684-44f7-a8fe-d752564f334e",
+    "data": [
+      {
+        "text": "How do I know if I have IVP or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "002ac84c-e9e9-459f-a4dc-7830cd5ecf67",
+    "data": [
+      {
+        "text": "I\u0027m trying to check on my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6837cb59-b0b0-46fd-8e6c-7cba25771038",
+    "data": [
+      {
+        "text": "Hello, please send update on application number WF33203333",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a7cbccd-66c5-43e8-9d66-13f6319d0d7b",
+    "data": [
+      {
+        "text": "IVPP950166 Hello.  I am still waiting for my status to be revealed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43baa6b6-e826-46a9-899d-1ab41d09fe21",
+    "data": [
+      {
+        "text": "Will I get any updates about my application if I mailed it in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f14f89dc-a05c-4861-9799-a75a833db80a",
+    "data": [
+      {
+        "text": "Where can I view my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91bb935e-a79a-436a-b983-d875911542fc",
+    "data": [
+      {
+        "text": "Can you check my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bc63d00-2277-482c-9f11-98dcd54e7f06",
+    "data": [
+      {
+        "text": "I am trying to locate my finer print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e7e3e8c-4413-4c87-87e7-74f7ac8726af",
+    "data": [
+      {
+        "text": "Can you tell me if my card was mailed to me yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a952332-3081-47b6-bc37-aeb1f506734e",
+    "data": [
+      {
+        "text": "I am trying to get the status of denial letter for fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e935c28-732b-4944-ac3b-0ebb10dd181f",
+    "data": [
+      {
+        "text": "Is my fingerprint  card ready?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35f0bd49-594b-413f-9e45-55963a7d9ca0",
+    "data": [
+      {
+        "text": "It is saying that I have a clearance card but I don\u0027t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f406da7-36e6-4536-a809-20b50692a453",
+    "data": [
+      {
+        "text": "I am unable to get status of fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37f5f9a-bd93-413d-8ca3-407266178ce3",
+    "data": [
+      {
+        "text": "How do I find my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd1a6bd5-e207-4f21-a4bd-7720578279c5",
+    "data": [
+      {
+        "text": "what happened to my clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ab338cc-6dc3-40e4-ba60-4527e18e8002",
+    "data": [
+      {
+        "text": "Fingerprint Clearance card check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28fce521-65a7-44ee-b871-f9639f0d251b",
+    "data": [
+      {
+        "text": "Don\u0027t have an account number how do I check the status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d902611f-815e-4c38-b5da-75c21699e657",
+    "data": [
+      {
+        "text": "Hi, I don\u0027t have a fingerprint card, but it says that I have one.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c646d932-648c-4fd2-a97c-f0540ae5b313",
+    "data": [
+      {
+        "text": "how to check my employees fingerprint cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e79abc49-441b-43d9-91b6-998e45b57c7d",
+    "data": [
+      {
+        "text": "I want to check status of my clearance but I do not have application number.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a94bed1d-9347-40a3-bf8d-f0bf47335a4d",
+    "data": [
+      {
+        "text": "How could I check if I had clearance card with DPS in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80a1ab62-5988-4b73-b724-2bb3013d2c56",
+    "data": [
+      {
+        "text": "I submitted a fingerprint application in person and I am wondering where in the process my application is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee438b11-30b4-4982-be5f-ee26f1ce27a0",
+    "data": [
+      {
+        "text": "How do I find my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "925fc5f3-19b9-4e71-929d-98365237e5dd",
+    "data": [
+      {
+        "text": "Hi I\u0027ve been waiting for a copy of my card since March I sent for a copy a couple weeks ago and still waiting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5636341-318f-4470-9f28-45adcdddc8d1",
+    "data": [
+      {
+        "text": "Hello trying to help my son get status of his records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e90299fe-b633-42d4-bfdb-d6d129743911",
+    "data": [
+      {
+        "text": "I can\u0027t find my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b363b7b-3275-4b26-adab-413ced6a3562",
+    "data": [
+      {
+        "text": "Is it possible to get a update on my finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e276202f-b424-4ceb-b240-0457a7cfb5fa",
+    "data": [
+      {
+        "text": "Is there any way if I can see if I still have clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a923a266-20a2-443a-bcb6-bf6121d97a4a",
+    "data": [
+      {
+        "text": "I have a fingerprint clearance card can I look it up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea608589-5c12-4b35-a697-7cea925ccf2b",
+    "data": [
+      {
+        "text": "Hi, I am trying to search for results for a fingerprint clearance card that was submitted a few weeks back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b89fdfe-c7fa-4d63-a034-f6c6c0fddf4a",
+    "data": [
+      {
+        "text": "was be finger print card mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b9cfc66-63e8-45f6-89b6-e821c29c0402",
+    "data": [
+      {
+        "text": "may I know if you already send my card through mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69ea6324-ef64-45a3-b615-e21e0a4fc670",
+    "data": [
+      {
+        "text": "I don\u0027t have my fingerprint clearance card application number. Can I still check the status of my fingerprint card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "593956bb-d039-4e57-935c-57a8f627edfc",
+    "data": [
+      {
+        "text": "Hello how can I check the status for a finger print clearance card without the card number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bab725d-ca0e-4a1d-b1d4-8f768046729f",
+    "data": [
+      {
+        "text": "It\u0027s it seems as if I have misplaced my card and I just wanted to see if I still have clearance to work I\u0027m a caregiver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fb69e6d-5c1e-4e7e-8121-5fabd0ad0d29",
+    "data": [
+      {
+        "text": "I have requested a record and it wasn\u0027t found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc6b59a8-a7a5-44ae-9aca-6700a2f39e58",
+    "data": [
+      {
+        "text": "trying to find my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae8b4e06-87f0-4bd5-bbcb-395bc71f107b",
+    "data": [
+      {
+        "text": "were can I find my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89ba20aa-111f-4f3e-9b87-5ab060a30484",
+    "data": [
+      {
+        "text": "My clearence card was issued, when did it mail out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b07c97a6-5303-49f0-89e1-2563a2fa0f1b",
+    "data": [
+      {
+        "text": "check fingerptint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f016a098-6a97-4d8c-9515-5ca7da04876f",
+    "data": [
+      {
+        "text": "How do I see my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c06dcb-fdad-47af-9cc4-8c1c1c0c5c4f",
+    "data": [
+      {
+        "text": "Check status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3f0da3a-8f4e-4a90-a605-a34b6954ca95",
+    "data": [
+      {
+        "text": "Staus of finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84622ddc-89d4-4d8c-accc-9575b5e6c92c",
+    "data": [
+      {
+        "text": "I need a fingerprint clearance card, but when I apply, it says I have already applied. But I have not before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc1edc7-a7a8-4c6e-9088-bfd1447f5b0b",
+    "data": [
+      {
+        "text": "How do I know if my application got approved or is valid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7638098-50f7-4008-ac37-b6a0cdc0d432",
+    "data": [
+      {
+        "text": "Hi I need help on what\u0027s going on with my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fec8b56-2b92-4e49-a54d-a36464c0ce66",
+    "data": [
+      {
+        "text": "Curious if there is a problem with my fingerprint application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17826e59-c4a7-4401-bdee-418e9741ce9b",
+    "data": [
+      {
+        "text": "How do I check on a Clearance Card, do I create an acct. If we are a local State Agency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3956035f-8112-434d-8bb2-814783eddad8",
+    "data": [
+      {
+        "text": "Wanting to check application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "707b5eb6-d894-4edb-8787-9361469f7df0",
+    "data": [
+      {
+        "text": "Hi I wanted to know if you guys got my finger print card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98d04186-01c5-45f5-b9b1-0b1bb7fc92af",
+    "data": [
+      {
+        "text": "I can not locate my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4818acf-5792-4474-8a1d-97de7404cd09",
+    "data": [
+      {
+        "text": "looking for my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12934b6b-6ea2-48a5-9652-31ea197a7c5d",
+    "data": [
+      {
+        "text": "issue date for my license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c79898c-4319-4556-958c-4083f0d44c22",
+    "data": [
+      {
+        "text": "Did my order go through?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f0930ca-d5ff-499a-8897-644146b71a20",
+    "data": [
+      {
+        "text": "How can I check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f4da4b8-e9a1-480c-b55f-11153f9b46f4",
+    "data": [
+      {
+        "text": "How can I check for my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bcf1add-858e-4b72-92ff-15b4f7aa688e",
+    "data": [
+      {
+        "text": "where is my IVP card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab899e6b-8903-4ec9-825d-5075a80498cf",
+    "data": [
+      {
+        "text": "check fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce62d44a-5bde-473f-8447-5a414b81dbfc",
+    "data": [
+      {
+        "text": "where do I find the issue date for my license",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9869ae6-5c1f-427d-97ce-d32a383d738f",
+    "data": [
+      {
+        "text": "how do I follow up on my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be69dff-ddbc-45e9-926e-7321cc90f0d4",
+    "data": [
+      {
+        "text": "how do I check the progress of my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bda5ed2-b7de-45c6-9d1e-a1207cd0cac5",
+    "data": [
+      {
+        "text": "How do I look up my fingerprint card if I do not have any numbers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a3d843-5d0a-47bb-acd3-413399199eae",
+    "data": [
+      {
+        "text": "Hi, I might have lost my fingerprint clearance card and I am not sure when it expires. Are there any ways to find out my status without having my card number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1610fcfe-537a-4d0a-b210-4eb6e20a74f1",
+    "data": [
+      {
+        "text": "Do I already have fingerprints on file?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952c823d-726e-47e2-8c2e-aa67d39c4a0b",
+    "data": [
+      {
+        "text": "I have not received my Fingerprint why?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c966374e-d714-4ab3-8f32-43eedae16c61",
+    "data": [
+      {
+        "text": "FP card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "149f7f9a-06a6-4f0e-9fe2-4b08c55a8b94",
+    "data": [
+      {
+        "text": "check finger card for employment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "021184c7-51e1-45e3-8dc3-c3524ee21305",
+    "data": [
+      {
+        "text": "Check on my fringed print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "548ed387-5f54-4fd7-a330-6eaea247cb69",
+    "data": [
+      {
+        "text": "I am unable to see my process with finger clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef3756dd-0622-4e7b-9327-a139c96dd7bc",
+    "data": [
+      {
+        "text": "Do I have a card already?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e3eaa22-c439-4d8f-89ea-34d38f4ce1da",
+    "data": [
+      {
+        "text": "Where is my fingerprint clearance card kit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4b16495-73eb-4bc2-ac8a-8ddc643452e2",
+    "data": [
+      {
+        "text": "Trying to see if I\u0027m cleared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2dd52e5-317e-4ac1-9efd-de9c7d97e1bc",
+    "data": [
+      {
+        "text": "How can I find out if I already on file with the DPS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c2d4b5-d4d6-4eb0-83fe-ba2d67ed1aa7",
+    "data": [
+      {
+        "text": "i don\u0027t have a copy of my fingerprint application number how can i see the status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b799e603-a55d-4904-8ff1-e5de324e8b33",
+    "data": [
+      {
+        "text": "Hello I hold a CCW permit are my fingerprints on file?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "168e963f-7e40-43d6-b6db-6968a9f25c54",
+    "data": [
+      {
+        "text": "Fingerprint card was returned to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e12aece-0070-4187-a552-dc439ea4f0da",
+    "data": [
+      {
+        "text": "I have requested an IVP packet and have not received it.  How can find out if it has been sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee5e9648-49a2-4b8c-a21b-b9604499172d",
+    "data": [
+      {
+        "text": "How can I view my finger print clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "216746e0-5677-46f7-9d31-78d3241ef87b",
+    "data": [
+      {
+        "text": "where can I find the link to check the status of a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd842b80-1761-496c-949b-476806aee2bc",
+    "data": [
+      {
+        "text": "Status of finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f3b8968-d639-4fbe-9df7-410dbc0cb475",
+    "data": [
+      {
+        "text": "card has not arrived, ADHS needs to see it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab0f9ad3-be47-4ebd-915d-3e90dda220f8",
+    "data": [
+      {
+        "text": "check for fingerprint card from ccw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e5e4b7b-4964-4570-8014-c70f09f61c11",
+    "data": [
+      {
+        "text": "card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50c39ca2-85eb-414e-9d6f-f3e46256f88e",
+    "data": [
+      {
+        "text": "I need help tracing my application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3e06557-d10c-4312-9dfe-bc30778b851d",
+    "data": [
+      {
+        "text": "Hi I\u0027m looking for a status for my fingerprint clearance card, but not sure what the card number is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51e74732-7e19-4dc8-b630-0ebdb15d2578",
+    "data": [
+      {
+        "text": "have not received my renewal request . card no. PHONE_NUMBER giles b liddell 03/01/1945",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5c9bf40-3d80-4a9c-8fe3-3d4c9a7c8738",
+    "data": [
+      {
+        "text": "Thank you, how much longer until my fingerprints are cleared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5145b110-e363-4136-a9f0-812542693733",
+    "data": [
+      {
+        "text": "fingerprint card has been pending 7 months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4815bbd-1cfd-485b-91b6-9ce5b073006c",
+    "data": [
+      {
+        "text": "When do I know my fingerprints are cleared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3922467f-32f2-4ee0-bc54-24b01be09ad9",
+    "data": [
+      {
+        "text": "verify status of fingerprint clearance card and get number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf227549-2d77-4ab0-91eb-cf84d684c64f",
+    "data": [
+      {
+        "text": "I am waiting on my Fingerprint Clearance Cards.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ba9e675-fb11-4fce-8c56-6ceb82c2df2e",
+    "data": [
+      {
+        "text": "They are processing my new fingerprint card and I want to track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35844386-bffa-4317-99d8-17f43a183da0",
+    "data": [
+      {
+        "text": "I already have an account.  How do I find out if I had a card already?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "172e6b19-95d0-4a92-a806-32103f9a845e",
+    "data": [
+      {
+        "text": "I submitted request a ",
+        "userDefined": false
+      },
+      {
+        "text": "few weeks ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", but no response/no ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": ".  Should I resubmit?  How can I get a status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91ba31ef-afd5-4c7e-b6e3-a938cf043c6d",
+    "data": [
+      {
+        "text": "How do I find out if my fingerprint card was mailed to my school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0319aadc-5819-43fa-92c6-688fb6a01696",
+    "data": [
+      {
+        "text": "I did mine last month and have no criminal history and still haven\u0027t received it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20362c03-0c1f-447b-9e65-255db506547e",
+    "data": [
+      {
+        "text": "I applied for fingerprints seven years ago. I do not have my card is there a way to look it up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae6abefb-d568-4061-881c-ff2b9862766a",
+    "data": [
+      {
+        "text": "please check to see if my application is complete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "572d87bd-2881-48c3-9fdc-83110fff4273",
+    "data": [
+      {
+        "text": "Can you tell me if I already have a finger print clearance card. I received message indicating so when applying.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8986aa5-bfc4-44f5-9a20-7619b9a9cc42",
+    "data": [
+      {
+        "text": "I applied and paid for my card back in February but I never received a card in the mail so that I can go get my fingerprints done how do I go about getting this? I am needing it ASAP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d980c56-42f0-43ea-b291-57936da1ef6d",
+    "data": [
+      {
+        "text": "\"where can I find my fingerprint clearance  card\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8473dabd-6dbf-4368-823c-bcc690e7c9e2",
+    "data": [
+      {
+        "text": "Hello I submitted a request for replacement card but I have not yet received it. Any way to find out who to contact about this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60730455-e397-405f-8d97-126ae21affa1",
+    "data": [
+      {
+        "text": "They are in process, where are they?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3793e187-ef98-4059-b534-0b71325fbc7b",
+    "data": [
+      {
+        "text": "\"I requested a fingerprint card on ",
+        "userDefined": false
+      },
+      {
+        "text": "6/15/2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". When should I expect it? I am out of state. Order # CREDIT_CARD_NUMBER\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d046b1ec-641b-4d91-847e-3561c882878b",
+    "data": [
+      {
+        "text": "I sent in a request for a lost card and I want to make sure it was submitted correctly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "509d327b-7ef0-440e-8bae-01f3fbca0335",
+    "data": [
+      {
+        "text": "Hello I need to follow on a previous request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c72381ad-17c9-4a0b-9c4d-4a2fbc125648",
+    "data": [
+      {
+        "text": "Where are the photos for Req. No. PHONE_NUMBER?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17581cec-28f0-4bab-8841-d79cadf1b86a",
+    "data": [
+      {
+        "text": "Is my report available now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78e86c9-d4ac-47db-a40d-9edecab9819e",
+    "data": [
+      {
+        "text": "My finger print clearance card is not found, how can I go about finding it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5985b540-9b0c-4c7e-b43d-e12130b0d071",
+    "data": [
+      {
+        "text": "Hi my name is crystal sains and I work for TLC senior home care, I have not yet received my fingerprint card and it\u0027s been almost 2 months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32f89016-6942-4ca5-8df8-2a9be80b87c4",
+    "data": [
+      {
+        "text": "My clearance card was issued, when did it mail out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cc2683a-cf5e-4dce-9180-2cea6ce235d0",
+    "data": [
+      {
+        "text": "check fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b10d8a18-116f-4374-a8c7-42fc8ff2642c",
+    "data": [
+      {
+        "text": "how do I know if It is on its way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1db4b56b-b261-43c6-9ddc-8f90ba8619bf",
+    "data": [
+      {
+        "text": "Hello, how can I tell if I already have a fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4a12487-ca2c-4df1-8b8a-96a7ff70d686",
+    "data": [
+      {
+        "text": "I needed help finding out if I had a fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a900662-37f2-4580-9631-f83d76adb0a6",
+    "data": [
+      {
+        "text": "Is there a way u can check on mine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40a828f2-6b12-476a-a95a-42927e344c6f",
+    "data": [
+      {
+        "text": "Tracking an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84fac88c-e46f-4129-a930-c77866072a9f",
+    "data": [
+      {
+        "text": "I need to know what date my application was accepted for a ccw permit.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed278a3-7eac-48c9-975e-8ec102cf930e",
+    "data": [
+      {
+        "text": "Does the Arizona Department of Public Safety have tracking information on the cards they mail out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a080b7f-1122-4914-812a-5cf17ae73274",
+    "data": [
+      {
+        "text": "what is the issue date for when checking the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b33e73a-844b-4092-89d9-e0803cd3a29d",
+    "data": [
+      {
+        "text": "How do I look up when my original clearance card was issued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16d64045-2fd1-4f16-a923-56474326490d",
+    "data": [
+      {
+        "text": "Did you get my security license packet? My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sandra Cohoe",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2b10f4b-eb26-46a6-880a-2c4eed9f5282",
+    "data": [
+      {
+        "text": "I want to know if it\u0027s been mailed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2acdde34-8ce3-4764-a788-bf2769173f30",
+    "data": [
+      {
+        "text": "\u003cb\u003eWhat if I haven\u0027t gotten it yet? Am I missing something?\u003c/b\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0989aaf8-74ec-4901-ac53-369568854498",
+    "data": [
+      {
+        "text": "1616879",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " renewal guard card is it ready yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e27bc982-1160-4692-a9b6-5fd0b635f030",
+    "data": [
+      {
+        "text": "I am trying to find out if my armed guard card application is processing/accepted or denied.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d88da93f-966c-4ddb-94b9-21898ea987b2",
+    "data": [
+      {
+        "text": "where is my fingerprint record?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f4462df-73a0-445f-984b-e0e0f437a341",
+    "data": [
+      {
+        "text": "Tracking my APPLICATION",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c52ce9c0-e5ae-4f80-b722-b94419af8e52",
+    "data": [
+      {
+        "text": "how will i know my application was processed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "532d39db-2a49-48b2-9f25-3ffa62831990",
+    "data": [
+      {
+        "text": "I am waiting for my finger ",
+        "userDefined": false
+      },
+      {
+        "text": "clerance",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " card package for over a month, and it seems a long time for someone who does not have records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5347aa4d-3145-4946-9607-cb2344136a41",
+    "data": [
+      {
+        "text": "Can\u0027t find fingerprint card record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb0cf0c7-941c-4890-8850-445b5fd3ba42",
+    "data": [
+      {
+        "text": "Was mine approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1957f040-2293-4507-aa26-58a2675a928c",
+    "data": [
+      {
+        "text": "How do I know when my card will be ready? I did my application in a group and everyone else has gotten theirs back but me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59e5d3eb-9671-44a2-af97-17a11dbb1b9a",
+    "data": [
+      {
+        "text": "How do I know my fingerprints made it to the system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "893ff0de-19d0-4ae3-a493-82de927cfb47",
+    "data": [
+      {
+        "text": "I applied for finger print cards over ",
+        "userDefined": false
+      },
+      {
+        "text": "10 days ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and have not received them. Have they been sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c2c0b99-f205-4bcc-907b-9a4ce9516d4d",
+    "data": [
+      {
+        "text": "i ordered a fingerprint packaged to be mailed to me . I just wanted to know if it was mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f867c17c-a8e4-44a1-8a7f-5883329d6949",
+    "data": [
+      {
+        "text": "I requested one since I dont have it by replying the message",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f44358bf-fd5f-443e-a0c5-27be85a652a4",
+    "data": [
+      {
+        "text": "When can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my fingerprints taken Thursday ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ?  I was told it takes a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " of days but ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " to get card in mail.  Please verify. thank you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a2d12c1-74e0-4102-a17e-1deb6b6c7d31",
+    "data": [
+      {
+        "text": "i never got the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " that i paid for so i went and applied for another one but never got a message about it is it coming?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30bdddb6-6c6f-49f2-b1eb-6ba90ea82823",
+    "data": [
+      {
+        "text": "I requested and pay for a finger print card but I have not yet receive it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71b9a1d4-fac1-43ba-b43e-ce358714c74c",
+    "data": [
+      {
+        "text": "Hello! I mailed my fingerprint card ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks ago",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and am wanting to know if it was received.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38d0f46c-3cf4-451f-9765-88783297fdbc",
+    "data": [
+      {
+        "text": "It has been more than ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " days . Is there a way to see what is going on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ed6591-1759-47ad-99a4-6cfb3320193e",
+    "data": [
+      {
+        "text": "How do I find out which unit I submitted to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c78e233-8414-43c0-a3f7-a73232b6cb26",
+    "data": [
+      {
+        "text": "How do I see if I was approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96b7f369-ea94-4ac9-afdb-8a680ac0b3f5",
+    "data": [
+      {
+        "text": "When will I know if I\u0027ve been approved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c744cece-9648-4488-8f4a-6755144fda56",
+    "data": [
+      {
+        "text": "Check on fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148a7d15-5713-4f61-af72-4e76d32aa142",
+    "data": [
+      {
+        "text": "Hello I went in for fingerprinting and I have not received any notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b26138c9-be59-4876-a486-db51c0a43f36",
+    "data": [
+      {
+        "text": "I am trying to find out if you have gotten my fingerprints yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b400224c-568c-4285-a08b-3e84f15d702b",
+    "data": [
+      {
+        "text": "What do I do if I have not received my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "709a0f4e-bdbe-4006-93e2-f08b271596b1",
+    "data": [
+      {
+        "text": "Have I been approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "355953c9-5508-4c47-9bb3-f8db69bbd6b0",
+    "data": [
+      {
+        "text": "already applied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f034fefa-a137-4f5d-9a72-27bf4bdf2469",
+    "data": [
+      {
+        "text": "I already applied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b3213b8-6200-4378-9cfc-6c8424856919",
+    "data": [
+      {
+        "text": "I\u0027ve already applied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "011d2238-2c02-4efc-8eaf-668e92a4c139",
+    "data": [
+      {
+        "text": "How is my fingerprints card going",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b739a10-0cba-4e25-8a00-08f86e21e6ea",
+    "data": [
+      {
+        "text": "Where is my paid report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21761336-0f52-4f41-97e8-4d923538d4a2",
+    "data": [
+      {
+        "text": "Unclear whether my PI agency renewal application was submitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b69e6cb-99f4-421f-bcfc-5e1f98216d89",
+    "data": [
+      {
+        "text": "I am looking for an update on my request for fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3760fb9c-0353-4a5b-9360-5e1a736b9008",
+    "data": [
+      {
+        "text": "Did my fingerprints come into the office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db19eb52-0058-48e3-a337-3e97620938d8",
+    "data": [
+      {
+        "text": "Have the forms for my fingerprint clearance card been send to my address yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab1d3f8f-3808-4318-a6e1-f8aee51ea553",
+    "data": [
+      {
+        "text": "how do I find out if my fingerprint card has been processed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc011dcf-0a94-4b96-83b0-8755c3a740d4",
+    "data": [
+      {
+        "text": "how can i check the stats of my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b67617-d054-48a8-b28f-c3e7892dadc8",
+    "data": [
+      {
+        "text": "I sent in my renewal ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "userDefined": false
+      },
+      {
+        "text": ". When will I get my new card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66d06793-31b2-4402-932c-db934e296bc9",
+    "data": [
+      {
+        "text": "Have my fingerprints been received",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4b2606c-08bd-4644-910a-7d089c7d1141",
+    "data": [
+      {
+        "text": "I requested an accident report on 4/",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      },
+      {
+        "text": ".  I requested it to mail via the USPS and am interested knowing when I will receive it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "624ba00f-a87e-4213-99a0-111f5c86ee06",
+    "data": [
+      {
+        "text": "Did you receive my renewal application that I just submitted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16068068-bab0-4218-ad3b-4e7ae84216c3",
+    "data": [
+      {
+        "text": "my fingerprint is already stored?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "466bf0ce-9a91-4923-bd1d-a7e3b40feeda",
+    "data": [
+      {
+        "text": "I requested a blank card to fingerprint and haven\u0027t yet recieved it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b336ce2-7e35-4a39-a83d-0f659725f184",
+    "data": [
+      {
+        "text": "How can I find my paid accident/vehicle report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e495a048-5782-45e6-baea-362750f39d83",
+    "data": [
+      {
+        "text": "How do i track the proccess of my guard card application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a102823-a304-4d35-966d-3f74ffcfd008",
+    "data": [
+      {
+        "text": "Did you get my filled out ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c1876c0-fd58-4b4c-b62c-213e790b4cf3",
+    "data": [
+      {
+        "text": "Hello I applied for a Fingerprint Clearance Card on 4/",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      },
+      {
+        "text": " and have not received anything yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3573b76-6562-43d3-bdec-262a8871ef2b",
+    "data": [
+      {
+        "text": "I would like to know about this report that I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b83e02d-d8db-45d1-8277-183761deedb9",
+    "data": [
+      {
+        "text": "I would like to know about this report that I have    ",
+        "userDefined": false
+      },
+      {
+        "text": "2021",
+        "userDefined": false
+      },
+      {
+        "text": "-597669",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09468aed-59a5-411f-b7a4-505f85304899",
+    "data": [
+      {
+        "text": "i got my finger prints done mailed them off i wanted to check the stats of it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "750cae67-4c7e-4aa8-8e1e-a562261bb360",
+    "data": [
+      {
+        "text": "I submitted my fingerprints but have not received a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a2eb293-bcbc-48c2-a993-62bf2cc312ce",
+    "data": [
+      {
+        "text": "Already applied need ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3357e59-7ff1-4d83-a754-4ed2df3d4993",
+    "data": [
+      {
+        "text": "update on records",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf487b4e-5bd6-43cd-ba27-898690c45310",
+    "data": [
+      {
+        "text": "It\u0027s been more than ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " days and I have no criminal record.  Where is my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad951ee0-ea91-4e26-a973-e26a01da0301",
+    "data": [
+      {
+        "text": "update on records request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3605ff68-b65f-4617-9583-c87ab073481d",
+    "data": [
+      {
+        "text": "My request was submitted on January ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", 2021.  When can I please expect the results?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0aee6f7-a51f-4e8e-8652-907d1d23de12",
+    "data": [
+      {
+        "text": "Can i track my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20dd1dce-7bbc-47c9-a0cd-fb8dc1fd7da9",
+    "data": [
+      {
+        "text": "confirm my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e1fed68-a141-40c3-a7ed-fcadaa087c71",
+    "data": [
+      {
+        "text": "How do I look one up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ac77593-c188-49b6-bb56-d49bfba04d4e",
+    "data": [
+      {
+        "text": "need to confirm my order is placed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b3b31ea-e9c9-4719-a7c2-55bfce717f8d",
+    "data": [
+      {
+        "text": "Hi I am trying to figure out if my finger prints were received?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d392d123-a943-47f3-9cda-b3c13c107e41",
+    "data": [
+      {
+        "text": "contact number for status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b3d2e2-957b-4460-a89c-77669b684c22",
+    "data": [
+      {
+        "text": "I am trying to get ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cards so that I can have my fingerprints done and submitted with my permit application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da8bad3-35ec-440d-bc76-c861c3e3125f",
+    "data": [
+      {
+        "text": "Hi! I\u0027m trying to figure out the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my Fingerprint Card. I opted to do the fingerprints electronically and I was given a TCN number. What am I supposed to do next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "895c4304-f98b-4e4b-803b-8d7a983cf5e2",
+    "data": [
+      {
+        "text": "Have my fingerprints been received?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30b43bb8-e48c-4f97-ac98-21032db7e9a0",
+    "data": [
+      {
+        "text": "ACTION NEEDED: Application pending fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d53363a-84cf-4701-ba34-519795ad1f4d",
+    "data": [
+      {
+        "text": "Hi.  How do I find out if my finger print card is the process of being completed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5954454-63de-41ff-810a-00006ac028bc",
+    "data": [
+      {
+        "text": "Can you look into my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a85fb65-7de0-419f-8f90-40764314ab3e",
+    "data": [
+      {
+        "text": "Is the finger print card mailed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e468814-e8cb-4ac5-af3c-6264aff7f492",
+    "data": [
+      {
+        "text": "completed my application online how will I know its been processed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9546275-692c-4886-a931-8bedcc576094",
+    "data": [
+      {
+        "text": "How do I know if my card has been approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da6f59b6-043a-40fe-9c60-7dd212782b79",
+    "data": [
+      {
+        "text": "My fingerprint clearance says valid as of 4/",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " but I have not received the card yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4fbf6fd-ac38-4fdb-9172-c05419d281f9",
+    "data": [
+      {
+        "text": "Have I completed my fingerprints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d2f4a06-63b8-4415-91f3-53ad056dfdac",
+    "data": [
+      {
+        "text": "I\u0027m trying to find my traffic ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa0d27e9-4bcb-48d4-8030-3e1398d8bc91",
+    "data": [
+      {
+        "text": "I am looking for the status on my clearance card I sent in.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb601ee-4c87-4b79-b9ca-e4f80c6258d7",
+    "data": [
+      {
+        "text": "Can you check progress on renewal of IVP",
+        "userDefined": false
+      },
+      {
+        "text": "0078503",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e880692-2e0a-43c5-9512-982e849d672b",
+    "data": [
+      {
+        "text": "Can you look mine up please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d420870f-21fa-4a20-98d1-39a222fbc86a",
+    "data": [
+      {
+        "text": "Have not received finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce18c9a-1400-409f-864d-4d098a1f4d26",
+    "data": [
+      {
+        "text": "How to track it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97a4382d-ec64-4901-85a1-57218b02e325",
+    "data": [
+      {
+        "text": "Will I be notified if my card was approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dee5802-4a76-488c-9de7-cf4d4238c501",
+    "data": [
+      {
+        "text": "HI I am wondering if my fingerprints are being processed yet, i sent them in and have heard nothing since",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2c84fd3-4ee4-404a-b809-01896c14ec3d",
+    "data": [
+      {
+        "text": "question about my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7878f9cc-8847-4bb9-9c2c-0be2c29121a3",
+    "data": [
+      {
+        "text": "how do I check my CCW permit renewal application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bce992d5-3d9e-41e0-b969-5513beb382a0",
+    "data": [
+      {
+        "text": "fingerprint card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82d133e8-e597-4298-b77c-edca4b6130dd",
+    "data": [
+      {
+        "text": "Status of fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74be22a8-645a-4025-8837-eb4e8098af85",
+    "data": [
+      {
+        "text": "can you track my clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31d7e84a-4b3b-4e35-a62f-f2c76f92c313",
+    "data": [
+      {
+        "text": "I am not able to track my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7087c0f8-2f20-4bd0-82e9-8da878c324c1",
+    "data": [
+      {
+        "text": "can i search for my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c840f93-1a34-4147-b1bb-d844364c1ee0",
+    "data": [
+      {
+        "text": "I am having trouble finding the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my application for a fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e542757-74e6-41e0-ba3c-0b39dcf91846",
+    "data": [
+      {
+        "text": "Checking on fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3234d5f-1e3d-44df-bc1e-3fe2b8eebf66",
+    "data": [
+      {
+        "text": "Can you tell us the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e340f92-0c91-4cc5-ac2a-89a688a45e3e",
+    "data": [
+      {
+        "text": "I am trying to find the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "426a8658-bc8e-4666-a10b-707ddcc2bbda",
+    "data": [
+      {
+        "text": "where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9791312b-cf83-4969-ad78-848787d9ab1a",
+    "data": [
+      {
+        "text": "I have submitted a request for a fingerprint clearance and I\u0027m wondering the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4b36be1-494e-4c17-be6c-ce07cb0cd4a3",
+    "data": [
+      {
+        "text": "I haven\u0027t reviewed my fingerprint clearance card yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff9391e6-1d1f-4cb7-847e-03e6068e3e15",
+    "data": [
+      {
+        "text": "How to find status fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a0f1b6e-790e-4fa8-86c8-da7d92ee33fb",
+    "data": [
+      {
+        "text": "I apply for fingerprints clearance card what\u0027s next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75ed0fa4-e9c4-42f5-a56d-e9ad2e4506f7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa03f57e-1d7e-4793-b1a4-976e0386a2eb",
+    "data": [
+      {
+        "text": "I am requesting the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my fingerprint clearance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daeafc52-a7df-4f36-9e2f-015e05ce5f45",
+    "data": [
+      {
+        "text": "where is my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c30c37c8-cbd2-4543-8402-052cd3d91197",
+    "data": [
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of finger print card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "734361b2-ad1e-4f80-8f27-ecf2910b4dee",
+    "data": [
+      {
+        "text": "where would i see if my fingerprint  has been processed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2683497f-81a5-4a28-ae79-4b8b6f071600",
+    "data": [
+      {
+        "text": "Im trying to find my fingerprint clearance card and i have no idea where to look",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2584b2a9-9fa0-4351-9912-2ddbbee4dd9c",
+    "data": [
+      {
+        "text": "I filed my prints and no update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "205c04f7-3010-487c-9ac5-6ed9d5127558",
+    "data": [
+      {
+        "text": "Where is my finger print clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4429f8ee-bb80-4fd0-bc13-b5ce159f7b65",
+    "data": [
+      {
+        "text": "How do I get results for the Fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b3020d0-ecfb-407e-bde0-9d5794bb6263",
+    "data": [
+      {
+        "text": "Status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "764588c3-bdbd-4677-8c85-39cdab7d2265",
+    "data": [
+      {
+        "text": "update on clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0cb5719-9675-459d-9357-452eb15032ee",
+    "data": [
+      {
+        "text": "I want to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my finger print clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab96d96f-5655-4dc8-996c-1084ac576a47",
+    "data": [
+      {
+        "text": "I can\u0027t find my finger print clearance card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9598af5d-4c32-4e37-84a7-a904059b243e",
+    "data": [
+      {
+        "text": "How to track where my clearance card is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ba1cda5-4350-480d-8c54-29d322f5d4f8",
+    "data": [
+      {
+        "text": "I would like to check my fingerprint clearance information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e14a552-70ce-4b5a-a724-af21a71c7fb3",
+    "data": [
+      {
+        "text": "Can you tell us the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e096e4bb-aab9-4b88-a7c9-154e576def90",
+    "data": [
+      {
+        "text": "Status",
+        "userDefined": false
+      },
+      {
+        "text": " of Fingerprint Clearance Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a212ccf1-0c9e-4f7e-be8e-fb3736e34561",
+    "data": [
+      {
+        "text": "STATUS",
+        "userDefined": false
+      },
+      {
+        "text": " OF A FINGERPRINT CLEARANCE APPLICATION",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46cb3680-e146-40b9-843d-37c07f6372bc",
+    "data": [
+      {
+        "text": "I have submitted a request for a fingerprint clearance and I\u0027m wondering the status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70657375-3b0b-4953-9586-af50d4c9138d",
+    "data": [
+      {
+        "text": "How to find ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint clearance card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2775b820-5ac0-4875-8d41-967b69570889",
+    "data": [
+      {
+        "text": "I need help with IVP ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a3932ad-87be-4e86-8011-3709a3bb473e",
+    "data": [
+      {
+        "text": "Checking on my order ",
+        "userDefined": false
+      },
+      {
+        "text": "2948926",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d53b71-964c-4dc6-ae2d-fbfe7ad7b672",
+    "data": [
+      {
+        "text": "is there any tracking information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78b81eb-b301-49ec-bbec-2635e53db82b",
+    "data": [
+      {
+        "text": "What does pending state or fbi reprint mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1e5368f-b0eb-4879-b266-60a1ddab50c9",
+    "data": [
+      {
+        "text": "Checking to make sure my application made it to AZ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0f82cc3-4da0-49f7-9c6c-77a9f5bd906f",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my Request No. PHONE_NUMBER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad497b67-6703-451c-b9c1-1b4642e25ee3",
+    "data": [
+      {
+        "text": "I would like to check to see if my application I just submitted went through, how do I do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be1e148b-d2e0-4d42-bca8-ef901c6b693c",
+    "data": [
+      {
+        "text": "Hello my is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alex Coby",
+        "userDefined": false
+      },
+      {
+        "text": " Gravel I was when I would know if my good cause has accepted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c16219d0-f0e5-444d-8da9-aa3efc9892c2",
+    "data": [
+      {
+        "text": "check the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of a License",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "746a2690-bc6f-4592-ba0a-7a7f3b781e4a",
+    "data": [
+      {
+        "text": "I haven\u0027t gotten my fingerprint clearance card in the mail yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "289f14fc-b22c-48fc-8879-0ae3fffde3c9",
+    "data": [
+      {
+        "text": "where is the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1c86a58-3201-4faa-886e-62ad63cc4fb9",
+    "data": [
+      {
+        "text": "How can I look to see if I already have applied for fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be1b140b-1e68-4a1f-b184-19892d12d907",
+    "data": [
+      {
+        "text": "I need to know why my account was setup through your site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97012227-8a15-4010-9a4e-3271b4cfdbcd",
+    "data": [
+      {
+        "text": "how do i know if my fingerprint app went through",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cced84cf-8711-4500-9ac3-6c2a7afb7a91",
+    "data": [
+      {
+        "text": "I need an update on my report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98d73b7e-8208-44f5-b577-b2dfe40fd01c",
+    "data": [
+      {
+        "text": "May I know my ",
+        "userDefined": false
+      },
+      {
+        "text": "application progress",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f1c34b-0d4e-4948-bd7a-9dfe7004271b",
+    "data": [
+      {
+        "text": "need to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b771f4a9-65db-43dc-ae71-f721c9b20021",
+    "data": [
+      {
+        "text": "Status",
+        "userDefined": false
+      },
+      {
+        "text": ". Need to send email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21ed11b0-d98c-4c24-8c51-f1f67523e1a6",
+    "data": [
+      {
+        "text": "what are the application pending items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3d5eadd-275e-401b-8867-c1080b4da913",
+    "data": [
+      {
+        "text": "how to find out my ",
+        "userDefined": false
+      },
+      {
+        "text": "application progress",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eef289a9-f689-477c-a02a-f5a366da24a4",
+    "data": [
+      {
+        "text": "What is my ",
+        "userDefined": false
+      },
+      {
+        "text": "application progress",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2cf03e5-972a-4742-ad8b-a5ab76a03ebb",
+    "data": [
+      {
+        "text": "Where can I check my application ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96bfe4d5-ef98-4e84-b221-c915dac58df1",
+    "data": [
+      {
+        "text": "I want to check my fingerprint application ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60966f86-0c55-4270-98df-8f446948a55c",
+    "data": [
+      {
+        "text": "Last week",
+        "userDefined": false
+      },
+      {
+        "text": " I have applied for clearance certificate.what is its ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abf1c8cf-2558-4f96-87ab-c90deba5ae93",
+    "data": [
+      {
+        "text": "How do I check the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": " of my employee\u0027s card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a09cdfa3-2d73-48a4-a912-fdf719dfddc7",
+    "data": [
+      {
+        "text": "where can I see my ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c57235-5743-463f-b9ce-6bf32bba9875",
+    "data": [
+      {
+        "text": "How do I check the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@Status",
+        "alias": "status",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

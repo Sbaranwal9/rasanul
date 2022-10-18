@@ -1,0 +1,36 @@
+{
+  "id": "701712b9-a2fb-4bae-bd6f-085c32bebee3",
+  "parentId": "ce4b5057-623d-425d-8a75-8e0efc1a10e5",
+  "rootParentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "name": "LI_Arrested_Notify_DPS_Clearance_Card",
+  "auto": true,
+  "contexts": [
+    "LI_Arrested-Notify_DPS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LI_Arrested.LI_Arrested-custom.LI_Arrested-Notify_DPS-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

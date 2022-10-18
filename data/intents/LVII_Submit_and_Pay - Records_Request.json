@@ -1,0 +1,36 @@
+{
+  "id": "214412e9-8867-48d6-ac34-636ff768866d",
+  "parentId": "f413221c-263d-44ab-af7c-9cdf3c830a8f",
+  "rootParentId": "f413221c-263d-44ab-af7c-9cdf3c830a8f",
+  "name": "LVII_Submit_and_Pay - Records_Request",
+  "auto": true,
+  "contexts": [
+    "LVII_Submit_and_Pay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LVII_Submit_and_Pay.LVII_Submit_and_Pay-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

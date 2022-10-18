@@ -1,0 +1,619 @@
+[
+  {
+    "id": "e05e71f9-b74d-4daa-9810-5645dbfcce42",
+    "data": [
+      {
+        "text": "I had a felony charge for possession of paraphernalia. It was terminated when my probation Was over. Can I still get a level 1 card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4285d222-8be2-4975-ba94-849e29302ebb",
+    "data": [
+      {
+        "text": "Hey how can I get card through good cause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d82b457b-3f93-4dc4-a77c-6566d414873f",
+    "data": [
+      {
+        "text": "how do I get an exception after a denial for fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87d8bb5e-a43a-4d24-a8f3-0c2413e80ae2",
+    "data": [
+      {
+        "text": "Oh I applied for fingerprint level ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " fingerprint card and was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "userDefined": false
+      },
+      {
+        "text": " back in ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "userDefined": false
+      },
+      {
+        "text": " I am trying to get a good cause but I have been told I need to re-file",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f000181a-f15a-4ccb-839b-bcf84ec55a1c",
+    "data": [
+      {
+        "text": "How long do I have to file for an appeal for my fingerprint clearance card once ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fc892c4-26d2-491a-b50c-46e04dcc5cc1",
+    "data": [
+      {
+        "text": "Hi my fingerprint clearance card says it was denied. I need the goodwill packet to start the appeal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6b30af9-c500-4793-9534-d88bc74c039a",
+    "data": [
+      {
+        "text": "I submitted a good cause exemption and am waiting for a response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ebd5d5-c4d2-4d32-92b6-32870e0bee2f",
+    "data": [
+      {
+        "text": "I would like to apply for a good cause exemption due to a theft on my record dating back to ",
+        "userDefined": false
+      },
+      {
+        "text": "1981",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0cfe4ad-d4fe-4a74-a662-1f5bb4d3a77e",
+    "data": [
+      {
+        "text": "I want to order a good cause exemption packet.  How do I do this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "894284df-f42c-4ea0-b126-e1d117b3caa5",
+    "data": [
+      {
+        "text": "Good cause exemption",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53c66437-9b02-4b78-99f7-cf486cedfe15",
+    "data": [
+      {
+        "text": "Good cause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d60d1945-18d0-4e20-885c-5a6ea6a4955d",
+    "data": [
+      {
+        "text": "I need to get an exception for denial...I never got any communication regarding my denial.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3668bc7-e712-411c-88f7-8a779e34f6aa",
+    "data": [
+      {
+        "text": "Who do I talk to, to get this denial overturned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e9b2a7-8d41-40e8-a4ac-06e76a3ca978",
+    "data": [
+      {
+        "text": "Check for denial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc66e6d5-a115-4c9a-90da-8cda7a66a290",
+    "data": [
+      {
+        "text": "Hello, I never received my Denial letter through the mail.  How can I get this to complete good clause exemption process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "798ee39a-7547-4365-b218-042c90693668",
+    "data": [
+      {
+        "text": "Can I get fingerprint card with a criminal speed on my record?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f7bccc1-6e2b-4a2d-bf1f-1329ebe41c10",
+    "data": [
+      {
+        "text": "I was arrested for felonies but wasn\u0027t formally charged  and now my card is suspended  what do I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9144214-0c7c-4092-9401-0b8ee02f6fa9",
+    "data": [
+      {
+        "text": "I created an account and was sent an email saying that I was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": ". I don\u0027t understand why.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06eb8021-610b-4f81-9ce9-daee6481815d",
+    "data": [
+      {
+        "text": "How can I go about getting a good-cause-exemption?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "501ba441-bc3b-4b62-8d06-103c7f962f44",
+    "data": [
+      {
+        "text": "How long after I apply for a good cause ",
+        "userDefined": false
+      },
+      {
+        "text": "exception",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " will I receive a response?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b4d546f-41ec-4a23-924f-6ccece39ef47",
+    "data": [
+      {
+        "text": "I would like to appeal the revoking of my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bd6f7b6-c717-4a84-90f5-28b1457899ca",
+    "data": [
+      {
+        "text": "can I override if I received a notice of ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " Is there any chance of ",
+        "userDefined": false
+      },
+      {
+        "text": "override",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": " if I got ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e238db57-6d14-4f30-bd2b-3cd09891e81c",
+    "data": [
+      {
+        "text": "Once my fingerprint card got ",
+        "userDefined": false
+      },
+      {
+        "text": "suspended",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": ", procedure to get a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfa6e720-be77-4a54-a3df-f909fd1fd933",
+    "data": [
+      {
+        "text": "My fingerprint card got ",
+        "userDefined": false
+      },
+      {
+        "text": "suspended",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": ", how can I get it now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22ef0159-1d28-4f31-9b60-9d7bf5ea28f5",
+    "data": [
+      {
+        "text": "I received a notice from DPS ,can I request for a ",
+        "userDefined": false
+      },
+      {
+        "text": "overturn",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d60a9ba8-a770-4aba-8504-348f0d22ada7",
+    "data": [
+      {
+        "text": "Can I get a clearance card,If I was ",
+        "userDefined": false
+      },
+      {
+        "text": "suspended",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38effd0b-59a2-4b8e-8c03-43c92222bb95",
+    "data": [
+      {
+        "text": "Is it possible to ",
+        "userDefined": false
+      },
+      {
+        "text": "over ride",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "suspension",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": " to get my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "111430fe-f224-40dd-a6da-86d9d3cdf112",
+    "data": [
+      {
+        "text": "I received a denial recently,will I get my clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41538992-8936-4b21-8e1a-27c14141ccb9",
+    "data": [
+      {
+        "text": "can I appeal (",
+        "userDefined": false
+      },
+      {
+        "text": "overturn",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": ") a denial (suspension) for a clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b6e557d-b849-45fe-be7a-1553fbfb3911",
+    "data": [
+      {
+        "text": "can I still get a clearance card if I was ",
+        "userDefined": false
+      },
+      {
+        "text": "denied",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "suspended",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a13bb396-0d71-46b1-8efb-ac5e3bd83a52",
+    "data": [
+      {
+        "text": "If I ",
+        "userDefined": false
+      },
+      {
+        "text": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " a notice of ",
+        "userDefined": false
+      },
+      {
+        "text": "denial",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception",
+        "userDefined": false
+      },
+      {
+        "text": " from DPS or my ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "suspended",
+        "meta": "@Good_Cause_Exception",
+        "alias": "good_cause_exception1",
+        "userDefined": false
+      },
+      {
+        "text": ", is there any way I can be issued a ",
+        "userDefined": false
+      },
+      {
+        "text": "fingerprint clearance card",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

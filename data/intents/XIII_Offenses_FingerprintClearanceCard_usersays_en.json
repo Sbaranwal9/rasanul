@@ -1,0 +1,67 @@
+[
+  {
+    "id": "503c31b1-e9a2-4e62-919c-130b2ea54387",
+    "data": [
+      {
+        "text": "_Offenses_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40628da5-5040-4152-a6e3-27241bb1a06e",
+    "data": [
+      {
+        "text": "_Offenses_FingerprintClearanceCard.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7ddf51a-b82f-4e52-9591-bfb6994b8207",
+    "data": [
+      {
+        "text": "III_Offenses_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbb72ba4-14d4-4986-aba9-5fca27370674",
+    "data": [
+      {
+        "text": "XIII_Offenses_FingerprintClearanceCard.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe02b691-e9ba-4060-9b62-bc5c5a47ddbd",
+    "data": [
+      {
+        "text": "XIII_Offenses_FingerprintClearanceCard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

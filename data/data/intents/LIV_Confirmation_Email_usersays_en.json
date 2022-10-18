@@ -1,0 +1,785 @@
+[
+  {
+    "id": "e77348be-22c0-46cf-aef3-d3d4f423bc7b",
+    "data": [
+      {
+        "text": "i created one but they didnt send me an email to verify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12c525e7-604f-4b2c-8efa-48aa6229aca2",
+    "data": [
+      {
+        "text": "are you able to email me my confirmation #",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3692cda-955c-4484-bbb2-d9485ae0e751",
+    "data": [
+      {
+        "text": "How long does it take to get the verification email when creating an account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cb15fcb-e66f-4ace-b6ea-57fc387e1b51",
+    "data": [
+      {
+        "text": "I SUBMITTED A APPLICATION AND HAVENT RECEIVED AN EMAIL YET",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41ea5c42-f32f-4f05-81ea-1e8baae8b0e5",
+    "data": [
+      {
+        "text": "I have not received the email where I have to verify my email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32774c58-3aa4-4673-b4ec-919899ab6224",
+    "data": [
+      {
+        "text": "Will I receive an email once it has been processed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d03c5252-d334-487b-8737-e708c7b5c113",
+    "data": [
+      {
+        "text": "Good afternoon, I am waiting on the verification email and have not received it. It has been 48 hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9773f9dc-7808-4791-994d-bf5722173e1d",
+    "data": [
+      {
+        "text": "It says that my acvount has been created but hasn\u0027t been verified yet. Do I have to have my account verified before I can renew my present Finger print Clearance Card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e36427-723a-41a3-b72a-7f8f87c9358d",
+    "data": [
+      {
+        "text": "How does DPS verify my newly created account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53b511b0-1833-403c-867f-967ba23bf579",
+    "data": [
+      {
+        "text": "do i get a confirmation once you receive my electronic fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9867717-dfb5-4f2a-aa02-693e8de5174e",
+    "data": [
+      {
+        "text": "how long does it take for dps to verify my account as an employer?  I need to sign up a staff member to get their fingerprints done as soon as possible.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef4ec40-5f37-4ee7-b894-175ce4124b4c",
+    "data": [
+      {
+        "text": "how long to confirm my account to my email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0603b912-2f27-4596-b122-f7ab749b71e2",
+    "data": [
+      {
+        "text": "I sent in a request and didnt recive conformation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6d05876-ec4b-422d-9a7d-0f1275e9865f",
+    "data": [
+      {
+        "text": "i have been waiting a week for an email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc2c9e52-9d03-4971-b487-ed6d321038ff",
+    "data": [
+      {
+        "text": "Your account has been created, but it needs to be verified by DPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55ed17ff-2a4f-4493-bb4b-053d70692102",
+    "data": [
+      {
+        "text": "If I already applied for my clearance card how do I get my confirmation number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa94c912-3ba5-482e-a564-f0b41ac046a7",
+    "data": [
+      {
+        "text": "I already registered and paid for my fingerprint, but I haven\u0027t received a fingerprint kit in the mail yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd8e52d5-20b2-4404-adfc-347c615ff46c",
+    "data": [
+      {
+        "text": "I have never received verification of my email so I can pay for my fingerprint clearance. What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aae5e523-b152-4eb3-9239-d5b78e6b152f",
+    "data": [
+      {
+        "text": "how can i get a verifcation for clearance card status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a497e320-282b-4e05-a735-0a16e1f227be",
+    "data": [
+      {
+        "text": "I need verification",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77456650-3ed4-44cc-bd30-51a06e84e62c",
+    "data": [
+      {
+        "text": "I paid for my application but did NOT receive and email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6caef355-4199-412e-96d4-c147a9806400",
+    "data": [
+      {
+        "text": "filled out paper but haven\u0027t gotten verification email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89e6369a-387f-42e8-a052-5f4e97e77e95",
+    "data": [
+      {
+        "text": "can not confirm my email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "809822ec-28c8-4e68-ae46-e4d314fdfd5d",
+    "data": [
+      {
+        "text": "Again, your system is not working.  I am trying to check the status of the fingerprint card.  When I press that box, nothing happens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6a9a683-76dd-46bd-a65d-8a5d0f8cca01",
+    "data": [
+      {
+        "text": "trying to complete transaction and button not responding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9efd7a-1871-411c-b3a5-cf620dc20110",
+    "data": [
+      {
+        "text": "I have not received any confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f5dcf7e-0a8a-49cd-836d-1c0401da72b1",
+    "data": [
+      {
+        "text": "Unable to get my confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "541f6df3-1b0e-4210-b809-48c1d52beaf3",
+    "data": [
+      {
+        "text": "My confirmationmail is not working. Please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ecdd689-a967-4d8e-9782-7e899bcc8c21",
+    "data": [
+      {
+        "text": "Please help me in finding my confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec4244b2-0e51-4f23-841d-762926fab50f",
+    "data": [
+      {
+        "text": "Unable to find confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba56fa0e-462d-4cb4-a15d-35d8fd92cc24",
+    "data": [
+      {
+        "text": "Hey did you really send any confirmaton email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17119602-6c38-4ddd-9897-ac67e3016488",
+    "data": [
+      {
+        "text": "When did you send me the confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d09eccdf-bda4-4ca8-900c-73185e449d44",
+    "data": [
+      {
+        "text": "Where else should i find my confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b619c07e-93f3-4b06-88de-525b42131bfd",
+    "data": [
+      {
+        "text": "Unable to locate my confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "014cf498-726b-4af2-ac72-f3349d0cf71f",
+    "data": [
+      {
+        "text": "No confirmation emails in spam/trash/junk folders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38025cc9-c1b3-46d4-9ddf-e5d3ead9306c",
+    "data": [
+      {
+        "text": "I checked all my folders no confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d49dee8b-97d4-43af-945e-b726d8e93a55",
+    "data": [
+      {
+        "text": "Where is the confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30eb97b0-8962-406b-99b7-325297da19ca",
+    "data": [
+      {
+        "text": "I didn\u0027t get a confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed48e0be-90c0-4273-97b0-9ba6fde0a3d0",
+    "data": [
+      {
+        "text": "What to do not yet received confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9d0f26a-6c01-4387-9d36-7e69699abe0c",
+    "data": [
+      {
+        "text": "Confirmation email not received",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dc26e10-375d-401e-a3c4-7130eff0854d",
+    "data": [
+      {
+        "text": "Not received confirmation email yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "235661c3-0299-408c-b308-4ec00db3124a",
+    "data": [
+      {
+        "text": "Where can i find confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08cb8ba9-98d1-4bfe-bc58-6af248e20a57",
+    "data": [
+      {
+        "text": "i didn\u0027t receive the confirmation mail, please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "257223a2-c203-427b-a900-cbc871e08fe1",
+    "data": [
+      {
+        "text": "where did i find my confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f30ee391-4b63-4057-81f5-c2eed4303af0",
+    "data": [
+      {
+        "text": "what is confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "896dd2d2-dba3-4fd8-9a28-757ba5d59b31",
+    "data": [
+      {
+        "text": "how do i get confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ee8e2f-2b3e-41b8-8ee3-f899a469bf4c",
+    "data": [
+      {
+        "text": "Why I have  not received confimation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "991a2663-566c-4b94-94ce-c22be141cd4e",
+    "data": [
+      {
+        "text": "Why my cofirmation mail is not apearing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46818f8a-95df-4930-9be2-eab431a1111c",
+    "data": [
+      {
+        "text": "How to get confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b31df89-22fa-4234-928c-be12ad8f6120",
+    "data": [
+      {
+        "text": "Not reciving a confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8973c7ae-49e8-413e-b216-6d157981284a",
+    "data": [
+      {
+        "text": "Confirmation email is not received, is it working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "717fed89-a86d-4c03-95f1-584ad84f0c96",
+    "data": [
+      {
+        "text": "Why did i get the confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7577ff57-75ff-415c-9ecd-16f15ee4bf39",
+    "data": [
+      {
+        "text": "Didnt receive the confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "933e6341-0a95-4095-b5f1-6abb8d59d573",
+    "data": [
+      {
+        "text": "I dont see the confirmation mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d995f993-1a76-4e60-acea-d1ecf4b31411",
+    "data": [
+      {
+        "text": "I did not receive confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab3b615-2efb-41e8-97f3-2730e1a2eed6",
+    "data": [
+      {
+        "text": "How long does it take to get a confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "574e329b-9b78-4d9f-b8dc-08a386cfe4f6",
+    "data": [
+      {
+        "text": "How do you get a confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6e50e5e-68fa-4bf5-a552-b5445d00dc38",
+    "data": [
+      {
+        "text": "Why am I not receiving a confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6ff4334-cd6d-458e-a57c-95f7263e3199",
+    "data": [
+      {
+        "text": "I cant find my confirmation ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": false
+      },
+      {
+        "text": ".Confirmation ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": false
+      },
+      {
+        "text": " did not work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

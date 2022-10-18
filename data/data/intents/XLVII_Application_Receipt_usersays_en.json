@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "19a353c1-75bd-4e7a-b71c-986ef686ddd1",
+    "data": [
+      {
+        "text": "Hello I wanted to know if there was a way to find a purchase receipt, with the info on the applicant name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d042d664-f668-42af-85cf-adb5dd1c8721",
+    "data": [
+      {
+        "text": "Hello, there was an error when downloading my receipt and I don\u0027t have it in my email either. How can I get it? Thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5234506a-4ec8-4046-82bc-6bb94aad90fe",
+    "data": [
+      {
+        "text": "I have paid for fingerprinting but don\u0027t have the barcode to take with me as proof of payment, etc.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbaa78f1-a260-4661-bfcd-cfd7d4d2099f",
+    "data": [
+      {
+        "text": "As a facilitator of the IVF fingerprint cards, how do we document the payment has occurred online when completing the fingerprint cards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e5dde8d-091d-4eb6-9002-1b4e3f5ad6b3",
+    "data": [
+      {
+        "text": "How do I obtain a copy of my Paid Invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "539712d6-b18a-4e95-b578-45b946d1c8f4",
+    "data": [
+      {
+        "text": "i need to download receipt for a recent purchase for ",
+        "userDefined": false
+      },
+      {
+        "text": "$67",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " for a new fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e3fe1e-92da-46cc-9f2e-137a52c7811f",
+    "data": [
+      {
+        "text": "How do I get to my application for which I have not paid for yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a6edced-865e-4dc4-a509-347a23ab5b23",
+    "data": [
+      {
+        "text": "where can I get my receipt for my finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b8ab8a-5d46-458c-9342-8e74463809c4",
+    "data": [
+      {
+        "text": "How do I get a receipt if no account was created?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a28ea35d-c43e-46a7-9615-dea878f1c06e",
+    "data": [
+      {
+        "text": "I wanted to get a receipt for the amount I paid for my clearance card!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a01e2588-905e-45e2-996d-8c7f2f22de01",
+    "data": [
+      {
+        "text": "How can I print a receipt for fee payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f78a04b-47c8-44da-a458-0c34bbc5fc9c",
+    "data": [
+      {
+        "text": "How can I download the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ba083d6-16ee-46d1-9846-b314c0766e61",
+    "data": [
+      {
+        "text": "How can I get a copy of my receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9990154-1fa4-4232-8dd8-6a9ddae5795c",
+    "data": [
+      {
+        "text": "How can I get a recipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e33948cd-6b4f-45de-92e4-7dd57336eea8",
+    "data": [
+      {
+        "text": "I am looking at my receipt and see no such number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "938f51f3-fe07-42c6-942f-ae4e524e300a",
+    "data": [
+      {
+        "text": "I paid for a record invoice and haven\u0027t received the record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4fe4ab7-b0e9-41db-ad2d-be03d2f6c29d",
+    "data": [
+      {
+        "text": "My security answers are correct but does not let me in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "150714b9-2954-47f7-8259-d5c09054a33b",
+    "data": [
+      {
+        "text": "I need a receipt I already have the card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9668d718-c0a9-4aef-9fbf-576e8075a1b9",
+    "data": [
+      {
+        "text": "Where can i get a receipt of my payment for the cleara\nnce card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "598e5b12-e6f8-4152-ae80-8ab08c327fd5",
+    "data": [
+      {
+        "text": "But I have already paid for it through here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79667d9c-d312-4118-85a8-ac9bc0137b6a",
+    "data": [
+      {
+        "text": "Can I get a copy of receipt of payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da1355e8-96dc-4b25-a56b-7aa370e0265c",
+    "data": [
+      {
+        "text": "I need a copy of my receipt that I paid prior to getting my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "949748da-b4aa-426f-ac94-f7d4fc9e8ca1",
+    "data": [
+      {
+        "text": "I paid for a finger print card ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " but it is not in my order history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9940b326-3a94-4ffe-b4e9-9a39f01d5adf",
+    "data": [
+      {
+        "text": "i never got an emailed receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9df694c1-6b25-4d1e-95df-cbf4154cf0b9",
+    "data": [
+      {
+        "text": "Can I get a receipt I paid for finger print card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ba3e9cc-af3c-46df-8bdf-40d8dcc650bb",
+    "data": [
+      {
+        "text": "Unable to download request already paid for - request date ",
+        "userDefined": false
+      },
+      {
+        "text": "3/10/2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8287819-1403-4a7e-935a-6f3de62a5bb3",
+    "data": [
+      {
+        "text": "Hi may I have purchased a fingerprint card and see that there\u0027s an invioce. Can someone email me the receipt emailed over to me at EMAIL_ADDRESS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b59bd82-a222-43da-8d82-4cb7d4f404d4",
+    "data": [
+      {
+        "text": "where do i find my reciept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8330834c-850b-4398-835f-9c41d38df890",
+    "data": [
+      {
+        "text": "I need a receipt for the ",
+        "userDefined": false
+      },
+      {
+        "text": "$67.00",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " I paid ref# ",
+        "userDefined": false
+      },
+      {
+        "text": "P786541691",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15c76e97-edf3-4342-9fc7-19d99437656c",
+    "data": [
+      {
+        "text": "i need a receipt of the money I paid to your company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cc3b046-e4d0-4fe6-ba0a-03a9111fa73d",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " Id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f48c19c2-55e5-42cb-9f05-fa578115527c",
+    "data": [
+      {
+        "text": "I cannot locate my ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "userDefined": false
+      },
+      {
+        "text": " digit number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17f32ad5-8a6b-41b9-80a8-1b4431c3fccb",
+    "data": [
+      {
+        "text": "I do not know what my card ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number is.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e768a3c6-9a49-4425-9165-63bf447c74a3",
+    "data": [
+      {
+        "text": "Where I can find my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "332f0c38-8879-4d79-9412-d3cf5560bb7a",
+    "data": [
+      {
+        "text": "My question is what happens with my payments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de4bbf78-c2a3-4111-8ebd-18a0162a2eb6",
+    "data": [
+      {
+        "text": "I don\u0027t know my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "385cb90a-803f-452b-9b1a-26a4078fc959",
+    "data": [
+      {
+        "text": "My receipt for the fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "660e7daf-2d81-4b90-9678-5a21cf3330b0",
+    "data": [
+      {
+        "text": "where do i find the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ae35b3-f62e-4323-ac20-8ed1c0833326",
+    "data": [
+      {
+        "text": "How can I receive a referance nuber for my fingerprints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d0da7f2-db2a-4df2-b77b-7487a12b7019",
+    "data": [
+      {
+        "text": "Forgot ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43fb3446-2149-4346-ae40-f080d9462bf9",
+    "data": [
+      {
+        "text": "Where do I find my fingerprint clearance card ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19654e61-ae8f-4696-9cdd-df8d06d94686",
+    "data": [
+      {
+        "text": "I dont lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "453ed69f-803f-46e2-b02b-84894f9fd3fb",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt is lost.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba0e772c-4e13-476d-b128-fc8b7fe7ce72",
+    "data": [
+      {
+        "text": "Unable to find my applciation receipt.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15c931a9-6554-47db-b840-6f0b0e4b8dd8",
+    "data": [
+      {
+        "text": "Receipt to my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " is lost. How can I find it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a8c0e64-43b9-4b77-b833-a9af726a8552",
+    "data": [
+      {
+        "text": "I have misplaced my receipt to my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": ". Can\u0027t find it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24ef9789-457a-485e-abd1-e4a91a954f32",
+    "data": [
+      {
+        "text": "Where can i find the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "505ba013-16a8-4abb-b7f9-296eaa98e53a",
+    "data": [
+      {
+        "text": "Not able to find the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5bcc694-8030-4bc5-9426-b7051f9a30f9",
+    "data": [
+      {
+        "text": "Want receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76bf5767-53e7-462d-aeed-a27da8bbf600",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af9faff1-c132-4866-8d67-b6b37e0c6d6d",
+    "data": [
+      {
+        "text": "Need receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f995451b-3cf9-4030-923e-a9f64c60ebcc",
+    "data": [
+      {
+        "text": "Where to find a receipt of ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f358fd54-23a6-4f63-b737-7f346ad77d8b",
+    "data": [
+      {
+        "text": "Where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " a receipt of ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "877fbf4b-8305-4917-9be8-ae812db5a847",
+    "data": [
+      {
+        "text": "I lost the receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "388fe673-1dbd-4e99-b5db-e8d7c85c14c8",
+    "data": [
+      {
+        "text": "What to do if i cant find my receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c23b7c2-8b43-4bde-8653-06cc5638f9dd",
+    "data": [
+      {
+        "text": "Receipt please as i am unable to find it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c450b3b-7969-466b-9111-ad8adee88584",
+    "data": [
+      {
+        "text": "May i know where is the receipt ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3814df8-f2c1-4cf4-b779-64de03b15ab9",
+    "data": [
+      {
+        "text": "What is the way to find the receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae2830a3-fc06-42de-8166-ba920776297c",
+    "data": [
+      {
+        "text": "Where can  i find the receipt of my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67061853-3844-4676-902a-5631fb3eb4f3",
+    "data": [
+      {
+        "text": "I lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dbb127a-bf93-45c7-ac1f-9040ea3e39ba",
+    "data": [
+      {
+        "text": "I can\u0027t find my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2925f29b-efa5-4c64-8add-25fd0c1d6b3e",
+    "data": [
+      {
+        "text": "Facing issue in finding the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e599efa-3548-46a6-94df-906bed959ba4",
+    "data": [
+      {
+        "text": "By any chance, can i ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce1a37ac-8f1a-4cc2-8ec6-efcbe6baac99",
+    "data": [
+      {
+        "text": "I would like to take my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f904837-42e8-4fdc-8c40-0e7be9ad1adc",
+    "data": [
+      {
+        "text": "Is there any way to ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "userDefined": false
+      },
+      {
+        "text": " my receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de52f408-902a-4556-85e7-ce8fbedc8fa3",
+    "data": [
+      {
+        "text": "Guide me to find my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      },
+      {
+        "text": " receipt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "717f529f-f1ac-4362-87c8-f3c0bb81edc0",
+    "data": [
+      {
+        "text": "Can\u0027t find the receipt to my ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "meta": "@Application",
+        "alias": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

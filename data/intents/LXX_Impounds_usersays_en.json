@@ -1,0 +1,522 @@
+[
+  {
+    "id": "0b96f529-eaaf-42a2-9bf0-e63a29d177a1",
+    "data": [
+      {
+        "text": "This is Det. Anderson #8452 Phx PD.  I am trying to get some information about a towed vehicle.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9e20580-c1d9-49ef-b6f5-772c4569a8de",
+    "data": [
+      {
+        "text": "I\u0027m trying to figure out where my car was towed to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5bdcc5f-f280-4c90-994a-5ec6f2c15788",
+    "data": [
+      {
+        "text": "I am trying to locate my vehicle that was impounded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164221b4-3049-4fb2-aead-bc5e7453b371",
+    "data": [
+      {
+        "text": "Where are impounded vehicles kept?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b426a0e4-868e-486c-a099-e2e1f6d94d4f",
+    "data": [
+      {
+        "text": "I think my motorcycle was impounded yesterday or ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b75028b8-cdb1-46b4-bc0c-c939d74d1dbd",
+    "data": [
+      {
+        "text": "abandon vehicle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc889991-9a27-4a9d-85a7-73a09cf75835",
+    "data": [
+      {
+        "text": "Verification about car being taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9cb10dd-2a99-4079-8d17-5ea5c5503591",
+    "data": [
+      {
+        "text": "verify regarding impounded car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56d8b4e2-4433-42b8-b03f-c6ab9d811821",
+    "data": [
+      {
+        "text": "I would like to verify if car is taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfeee6ec-972f-4be0-880d-ccd7dca7855c",
+    "data": [
+      {
+        "text": "How can i verify if car is taken or not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a854fea5-5a9f-49f4-ae70-b91892a078d6",
+    "data": [
+      {
+        "text": "How do i verify if my car is impound",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dbd86dd-3e17-40a2-8b58-5fa34ab50dc8",
+    "data": [
+      {
+        "text": "Can you please help me in verifying the impounds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9822a81a-29a1-47c1-9778-d6436c3d0a87",
+    "data": [
+      {
+        "text": "Let me know why was my car impound?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11dc29ba-b24c-4638-8e0c-f31f28662807",
+    "data": [
+      {
+        "text": "Tell me why did you take my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17fad275-9dff-4aad-b301-9ca360ce998a",
+    "data": [
+      {
+        "text": "Having question related to impound?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f8eb216-6047-4a2b-b1c6-adbaf582ee5b",
+    "data": [
+      {
+        "text": "why did you take my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af5503dd-ead5-4714-b7fc-3d218df6a581",
+    "data": [
+      {
+        "text": "why did you impound my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7937d3e9-aa06-42df-af96-98fd6f5222ee",
+    "data": [
+      {
+        "text": "where has my car been taken to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf8f039-4b19-4223-83da-31c65b2c5ae4",
+    "data": [
+      {
+        "text": "when was my car impounded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c23fef3-0238-423c-8cca-8caf5f902d82",
+    "data": [
+      {
+        "text": "Where can i check impounds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25147f22-d728-442a-83a5-cdbd2b355db7",
+    "data": [
+      {
+        "text": "Need to check impounds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24ce5d04-1956-4048-b86a-50a9e2e4a8f9",
+    "data": [
+      {
+        "text": "help me to verify the impounds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc5b2567-17ac-44d0-b998-66004786f650",
+    "data": [
+      {
+        "text": "How to verify if car was taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c949a4c6-d3dc-4d85-8e46-ec03ef6fbec2",
+    "data": [
+      {
+        "text": "Need to verify the impounds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10a55f4f-53cf-4c58-9f89-d22f46217096",
+    "data": [
+      {
+        "text": "Please help me to verify of my car which is taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64112ccd-7b81-41b9-9b8e-bf690c7d22f9",
+    "data": [
+      {
+        "text": "How to do the verification of my car which is taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34377dd8-508b-4734-b4a6-5b956b0aa4fa",
+    "data": [
+      {
+        "text": "Queries regarding impounds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "845b1c69-41ff-40ec-928a-45d23b83f4b6",
+    "data": [
+      {
+        "text": "My car has been taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ec1170b-3f66-40da-9edd-bd2410817461",
+    "data": [
+      {
+        "text": "Whom to report about the impound?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ff31816-b24e-4fa3-ac3b-bff914f6eb3c",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@Receive",
+        "alias": "receive",
+        "userDefined": false
+      },
+      {
+        "text": " my car out of impounds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "553cbd93-8b89-4051-8899-273950460e7d",
+    "data": [
+      {
+        "text": "Where do I contact for impound?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb44281b-daf2-4f9b-9dd2-c485bcb98e86",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " query regarding impound. Please help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cb414f3-640b-40d9-8d7c-ea28f8ccfedc",
+    "data": [
+      {
+        "text": "Car got seized, whom to contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2543d036-2763-4377-a99c-89b8db1283e7",
+    "data": [
+      {
+        "text": "Contact impound unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6aa1691-b278-43f5-81b1-16e2b3155095",
+    "data": [
+      {
+        "text": "My Car was taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e53a4f02-e90e-4cb7-b170-6e03370b2c91",
+    "data": [
+      {
+        "text": "I have a question related to impoud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5f28f1f-465f-45e7-9b5e-d3c55410012c",
+    "data": [
+      {
+        "text": "Car seized",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52b9b816-1cb7-4e2d-bd5b-ddf56ad53fa9",
+    "data": [
+      {
+        "text": "impounds, how can I verify if car was taken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "74f3580f-4810-4ad4-a596-72013e10d4a8",
+  "name": "guard_card",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

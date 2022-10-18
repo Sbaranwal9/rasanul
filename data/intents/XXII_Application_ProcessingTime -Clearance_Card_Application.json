@@ -1,0 +1,36 @@
+{
+  "id": "dc16a66f-3187-48e2-a94d-a390ee5effaf",
+  "parentId": "efa343c2-d920-499f-8f9f-7ea2e39e0d53",
+  "rootParentId": "efa343c2-d920-499f-8f9f-7ea2e39e0d53",
+  "name": "XXII_Application_ProcessingTime -Clearance_Card_Application",
+  "auto": true,
+  "contexts": [
+    "XXII_Application_ProcessingTime-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "XXII_Application_ProcessingTime.XXII_Application_ProcessingTime-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

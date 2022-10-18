@@ -1,0 +1,333 @@
+[
+  {
+    "id": "be1aac6d-8e9c-4219-99b5-4c2947a3c9bc",
+    "data": [
+      {
+        "text": "it says it was ",
+        "userDefined": false
+      },
+      {
+        "text": "sent back",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b95065d-d8d3-4862-ab43-b39525c0723e",
+    "data": [
+      {
+        "text": "I have moved to different place now. How can I update my address in DPS records?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e607008-9f84-4439-81c0-1936b097a442",
+    "data": [
+      {
+        "text": "required help my ",
+        "userDefined": false
+      },
+      {
+        "text": "mail not sent",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e91924-7f61-4cf2-a4a5-6acc9c36a65e",
+    "data": [
+      {
+        "text": "What action should be taken, when my mail ",
+        "userDefined": false
+      },
+      {
+        "text": "sent back",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cdac4b5-cc7b-4da6-a2cd-a553269f7ce6",
+    "data": [
+      {
+        "text": "Received a rejected mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5443bb1-2629-4dcd-a083-7f6cde218b8a",
+    "data": [
+      {
+        "text": "what can be done, when mail ",
+        "userDefined": false
+      },
+      {
+        "text": "returns",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04cd1669-7767-44a0-aaee-d7bd5e2443ea",
+    "data": [
+      {
+        "text": "My mail was ",
+        "userDefined": false
+      },
+      {
+        "text": "sent back",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " to AZDP,what should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f20cfe4d-6599-48d1-8024-4221bc77d1c1",
+    "data": [
+      {
+        "text": "My mail was ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": ", what do I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "007955cb-1a9a-482d-8398-64ae2c8e6067",
+    "data": [
+      {
+        "text": "I never got my letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c71a7f4c-0c01-41cb-a705-8ce09a38310f",
+    "data": [
+      {
+        "text": "I never got notice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cad83c07-15e8-4db8-b0e2-ce6cb94974ba",
+    "data": [
+      {
+        "text": "I got an email saying my card was ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1100d42-b0cf-4aa9-90d9-295255d8391b",
+    "data": [
+      {
+        "text": "I never received my letter.What should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4bbf388-b1cf-4fc8-94ac-5e348979e197",
+    "data": [
+      {
+        "text": "I was not at home and my mail was ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " ,how to get them back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f815647-bdc6-4a22-a5b7-d35d53e497c6",
+    "data": [
+      {
+        "text": "My letters were ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " what should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ff3b07e-bbaf-4e88-899e-5a3d6fdb661f",
+    "data": [
+      {
+        "text": "I receive a notice saying my letters were ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " to AZDPS what should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f528fe6f-802b-431d-8c40-476aa698edcc",
+    "data": [
+      {
+        "text": "Do I need to call DPS if I have not received my letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a05c21e-8676-4d1e-a29e-2d8c8d4d6c2c",
+    "data": [
+      {
+        "text": "What do I do if I ",
+        "userDefined": false
+      },
+      {
+        "text": "received",
+        "userDefined": false
+      },
+      {
+        "text": " a notice that the ",
+        "userDefined": false
+      },
+      {
+        "text": "mail",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "returned",
+        "meta": "@Mail_Returned",
+        "alias": "mail_returned",
+        "userDefined": false
+      },
+      {
+        "text": " to AZDPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

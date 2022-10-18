@@ -1,0 +1,75 @@
+{
+  "id": "02372deb-7fd6-4eee-a8f3-bfbf12e9a3ac",
+  "name": "XVIII_Qualification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f743e0df-bbc6-4056-a586-05e250733890",
+          "name": "qualify",
+          "required": false,
+          "dataType": "@Qualify",
+          "value": "$qualify",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "174ed281-575c-48f5-9c72-8d4a9e28fc27",
+          "name": "apply",
+          "required": false,
+          "dataType": "@Apply",
+          "value": "$apply",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4cc2660b-33ff-4195-b44b-e664bf86f005",
+          "name": "Private_Investigator",
+          "required": false,
+          "dataType": "@Private_Investigator",
+          "value": "$Private_Investigator",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

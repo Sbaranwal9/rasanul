@@ -1,0 +1,669 @@
+[
+  {
+    "id": "2fea7ba9-d823-4724-b8a4-874aad3cb636",
+    "data": [
+      {
+        "text": "I have an old mailing address in your system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72fa2ce2-0a50-443e-a562-69afb5a87c4d",
+    "data": [
+      {
+        "text": "I need to correct my address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0db89002-8d12-4242-9f91-44e995ede208",
+    "data": [
+      {
+        "text": "I am a teacher and I need to update my fingerprint card??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e2898f-5a26-4a60-b085-f429729db48f",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my personal contact information associated with my Fingerprint Clearance Card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b422303c-f2de-4643-bf31-3642488d21e0",
+    "data": [
+      {
+        "text": "changing",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " the mailing address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a24dc578-0562-4e24-b4f8-68275804c44d",
+    "data": [
+      {
+        "text": "My phone number is wrong you ask for the text recall how do I change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d43f4aa-2f0f-4278-8761-e6d26b5db46b",
+    "data": [
+      {
+        "text": "My fingerprint card application was returned for incorrect address. Can you advise as to the correct address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "237d8870-9f65-44a4-a758-7e48fbbaddf9",
+    "data": [
+      {
+        "text": "Since I received my fingerprint card, I have changed my address. So, when I requested a replacement, my data was not found. How do I change my address in your system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "923bf06c-0db9-4f2a-b538-9fd276afe67e",
+    "data": [
+      {
+        "text": "I need to update the phone number on a fingerprint clearance card I submitted.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40307ff9-55d1-4bb0-afd3-99f3421e492e",
+    "data": [
+      {
+        "text": "How do I update my address for my fingerprint clearance card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d34da95a-0ec9-4cb3-8e85-98817ebb2c05",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " birthstate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42cd039c-0adf-4259-9329-149adff6e5ab",
+    "data": [
+      {
+        "text": "I already have a fingerprint clearance card so I am trying to gain information on how to add it to the portal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fde199bd-477f-4e1e-8cf7-cf2f8589698c",
+    "data": [
+      {
+        "text": "Change state of birth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ddba641-272b-450d-9a8d-9b9b042aab00",
+    "data": [
+      {
+        "text": "how do i add my fingerprint clearance card on my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb0443c-ba57-43dd-ac6b-02c2b17a274f",
+    "data": [
+      {
+        "text": "Wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1e72254-6de3-4ce0-8517-51f390522e86",
+    "data": [
+      {
+        "text": "I need to add my social security number to my profile.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d2ea610-dbf7-422b-85db-ad874e1e5261",
+    "data": [
+      {
+        "text": "change birth state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe00486-5d83-46af-bc27-71f39983b1af",
+    "data": [
+      {
+        "text": "I accidentally put that I was born in Arizona when I was born in California when applying for my fingerprint card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "296e2135-44c2-47e9-8fa4-723598a2fc7c",
+    "data": [
+      {
+        "text": "error on DOB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf75ce03-c557-4539-9980-1d0f80a8f9a9",
+    "data": [
+      {
+        "text": "I am trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "Update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my address as I received a email that my card was sent back from the post office. I am trying to send the email with the information  and the email Address that i got is not valid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d983583-64d9-49d2-98c5-23f9eb62ffa9",
+    "data": [
+      {
+        "text": "I received my ccw and the spelling on my middle name is incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "226094ab-c4dc-4d59-a20b-0350b8ccf4d1",
+    "data": [
+      {
+        "text": "there is a mistake on my fingerprint clearance card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d1b7afa-208e-4a08-9d51-053d7c59e5ad",
+    "data": [
+      {
+        "text": "update",
+        "userDefined": false
+      },
+      {
+        "text": " profile and application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70f86c22-0244-4215-ba3d-550842b2afab",
+    "data": [
+      {
+        "text": "I currently have an IVP Fingerprint clearance card, allowing me to work in schools. I ",
+        "userDefined": false
+      },
+      {
+        "text": "changed",
+        "userDefined": false
+      },
+      {
+        "text": " my last name because I got married. Do I need to apply for a new card or can I get a replacement one with my new name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "133e180c-726d-49bf-8872-e201101a2814",
+    "data": [
+      {
+        "text": "How do I correct place of birth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c0e9f4-3a48-460d-bc82-fc7ad7bbf042",
+    "data": [
+      {
+        "text": "I have a finger print card already but not sure if its up to date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "496061b4-37e1-4ea8-bd68-0c411171a925",
+    "data": [
+      {
+        "text": "How can i ",
+        "userDefined": false
+      },
+      {
+        "text": "modify",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": true
+      },
+      {
+        "text": " mailing address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac739941-7db0-46b8-b0db-fb3f9d5eda30",
+    "data": [
+      {
+        "text": "My number got ",
+        "userDefined": false
+      },
+      {
+        "text": "changed",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": ", need to update it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a540e72-9d01-46ac-b415-54a13cf35c25",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7a983fc-0d76-42ac-ab37-21a34fc24c9a",
+    "data": [
+      {
+        "text": "I have entered wrong email how can i ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdbe8ee1-27e1-4398-9931-679a9c0438bb",
+    "data": [
+      {
+        "text": "Can you please help me to ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " the information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "705005df-e8e5-4220-b93c-0f3307d58b19",
+    "data": [
+      {
+        "text": "Procedure to ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " the profile information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8db6b8e-e272-48a0-9edb-b17f6ecf71a3",
+    "data": [
+      {
+        "text": "How can i ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "profile",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc2c1bc2-e761-4ee4-aa0b-c9bbc8c742a3",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "edit",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "profile",
+        "userDefined": false
+      },
+      {
+        "text": " i made mistake?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c9c7357-58fc-47bb-94ab-106f47349d0e",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my company name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e848c94-b637-4124-9a36-6312d47e030c",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9420f8c8-2de7-4c88-af25-ba30c544e86a",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "profile",
+        "userDefined": false
+      },
+      {
+        "text": " needs to be ",
+        "userDefined": false
+      },
+      {
+        "text": "updated",
+        "meta": "@Update",
+        "alias": "update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "76f35511-73a6-4a55-9d1c-16d337cb0cae",
+  "name": "AZDPS_Clearance_Card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "LVII_Submit_and_Pay_Clearance_Card",
+          "lifespan": 5
+        },
+        {
+          "name": "LI_Arrested_Notify_DPS_Clearance_Card",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

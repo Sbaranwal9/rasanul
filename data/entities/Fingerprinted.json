@@ -1,0 +1,9 @@
+{
+  "id": "a26ee78d-22c3-4521-85fe-78fd4e0d1620",
+  "name": "Fingerprinted",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

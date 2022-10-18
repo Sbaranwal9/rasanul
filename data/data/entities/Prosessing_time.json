@@ -1,0 +1,9 @@
+{
+  "id": "95cccd30-2d40-4bfe-bb78-fd182edf99b2",
+  "name": "Prosessing_time",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

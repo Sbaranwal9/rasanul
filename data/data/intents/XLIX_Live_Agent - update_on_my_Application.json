@@ -1,0 +1,41 @@
+{
+  "id": "12632d87-d24c-487a-8840-4372f898ef9c",
+  "parentId": "b25ef488-9444-4e6e-9a75-af8ffb158cf9",
+  "rootParentId": "b25ef488-9444-4e6e-9a75-af8ffb158cf9",
+  "name": "XLIX_Live_Agent - update_on_my_Application",
+  "auto": true,
+  "contexts": [
+    "XLIX_Live_Agent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "XLIX_Live_Agent.XLIX_Live_Agent-custom-2",
+      "affectedContexts": [
+        {
+          "name": "XLIX_Live_Agent-update_on_my_Application-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

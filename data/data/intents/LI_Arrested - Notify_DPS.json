@@ -1,0 +1,41 @@
+{
+  "id": "ce4b5057-623d-425d-8a75-8e0efc1a10e5",
+  "parentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "rootParentId": "4c34bc32-60ae-4d23-8d68-f7b3659ea24d",
+  "name": "LI_Arrested - Notify_DPS",
+  "auto": true,
+  "contexts": [
+    "LI_Arrested-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LI_Arrested.LI_Arrested-custom",
+      "affectedContexts": [
+        {
+          "name": "LI_Arrested-Notify_DPS-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

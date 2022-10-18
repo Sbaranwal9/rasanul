@@ -1,0 +1,9 @@
+{
+  "id": "bcba26b7-523c-4171-bdbb-b46d7406c8bd",
+  "name": "Submit_a_request",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
